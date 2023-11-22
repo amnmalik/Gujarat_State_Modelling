@@ -1,0 +1,15 @@
+"# A mapping of GCAM ""Refined liquids production by technology"" query results to fuel types",
+technology,Fuel
+biodiesel,Biomass w/o CCS
+cellulosic ethanol,Biomass w/o CCS
+cellulosic ethanol CCS level 1,Biomass w/ CCS
+cellulosic ethanol CCS level 2,Biomass w/ CCS
+coal to liquids,Coal w/o CCS
+coal to liquids CCS level 1,Coal w/ CCS
+coal to liquids CCS level 2,Coal w/ CCS
+corn ethanol,Biomass w/o CCS
+FT biofuels,Biomass w/o CCS
+FT biofuels CCS level 1,Biomass w/ CCS
+FT biofuels CCS level 2,Biomass w/ CCS
+gas to liquids,Gas w/o CCS
+oil refining,Oil w/o CCS

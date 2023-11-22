@@ -1,0 +1,54 @@
+"# A mapping of GCAM ""CO2 emissions by technology"" query results to aggregate sector",
+sector,agg_sector
+backup_electricity,Electricity
+base load generation,Electricity
+biomass liquids,Industry
+cement,Industry
+coal to liquids,Industry
+comm cooking,Building
+comm cooling,Building
+comm heating,Building
+comm hot water,Building
+comm other,Building
+comm others,Building
+csp_backup,Electricity
+delivered biomass,Industry
+delivered gas,Industry
+electricity,Electricity
+gas pipeline,Industry
+gas processing,Industry
+gas to liquids,Industry
+H2 central production,Industry
+H2 forecourt production,Industry
+industrial energy use,Industry
+industrial feedstocks,Industry
+intermediate generation,Electricity
+N fertilizer,Industry
+oil refining,Industry
+peak generation,Electricity
+process heat cement,Industry
+refined liquids enduse,Industry
+refined liquids industrial,Industry
+refining,Industry
+regional biomass,Industry
+regional biomassOil,Industry
+regional corn for ethanol,Industry
+resid appliances,Building
+resid clothes dryers,Building
+resid cooking,Building
+resid heating,Building
+resid hot water,Building
+resid other,Building
+resid others,Building
+subpeak generation,Electricity
+trn_aviation_intl,Transport
+trn_freight,Transport
+trn_freight_road,Transport
+trn_pass,Transport
+trn_pass_road,Transport
+trn_pass_road_LDV,Transport
+trn_pass_road_LDV_2W,Transport
+trn_pass_road_LDV_4W,Transport
+trn_shipping_intl,Transport
+unconventional oil production,Industry
+wholesale gas,Industry

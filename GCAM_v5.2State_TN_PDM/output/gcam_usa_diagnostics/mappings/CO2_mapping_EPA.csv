@@ -1,0 +1,8 @@
+"# A mapping of GCAM ""CO2 emissions by technology"" query results to aggregate sector",
+Sector,agg_sector
+Total,Total
+Commercial,Building
+Industrial,Industry
+Residential,Building
+Transportation,Transport
+Electric Power,Electricity

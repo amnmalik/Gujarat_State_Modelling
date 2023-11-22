@@ -1,0 +1,27 @@
+# A mapping of GCAM transportation sector / subsector to aggregate vehicle types,,
+sector,subsector,agg_sector
+trn_aviation_intl,International Aviation,
+trn_freight,Domestic Ship,
+trn_freight,Freight Rail,
+trn_freight_road,Truck (0-2.7t),Freight Truck
+trn_freight_road,Truck (2.7-4.5t),Freight Truck
+trn_freight_road,Truck (4.5-12t),Freight Truck
+trn_freight_road,Truck (>12t),Freight Truck
+trn_pass,Cycle,
+trn_pass,Domestic Aviation,
+trn_pass,HSR,
+trn_pass,Passenger Rail,
+trn_pass,Walk,
+trn_pass_road,Bus,
+trn_pass_road_LDV_2W,Motorcycle (>250cc),
+trn_pass_road_LDV_4W,Compact Car,LDV
+trn_pass_road_LDV_4W,Large Car,LDV
+trn_pass_road_LDV_4W,Light Truck and SUV,LDV
+trn_pass_road_LDV_4W,Midsize Car,LDV
+trn_shipping_intl,International Ship,
+trn_pass_road_LDV_4W,Car,LDV
+trn_pass_road_LDV_4W,Large Car and Truck,LDV
+trn_freight_road,Light truck,Freight Truck
+trn_freight_road,Medium truck,Freight Truck
+trn_freight_road,Heavy truck,Freight Truck
+trn_pass_road_LDV,2W and 3W,

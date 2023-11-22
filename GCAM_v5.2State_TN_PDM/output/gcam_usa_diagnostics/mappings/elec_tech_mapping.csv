@@ -1,0 +1,173 @@
+# A mapping of GCAM EPSA MLS electricity generation technologies to aggregate technologies,
+technology,aggregate_tech
+battery,Battery
+biomass (conv CCS),Biomass w/ CCS
+biomass (IGCC CCS),Biomass w/ CCS
+biomass_base_conv_CCS,Biomass w/ CCS
+biomass_base_IGCC_CCS,Biomass w/ CCS
+biomass_int_conv_CCS,Biomass w/ CCS
+biomass_int_IGCC_CCS,Biomass w/ CCS
+biomass (conv),Biomass w/o CCS
+biomass (IGCC),Biomass w/o CCS
+biomass_base_conv,Biomass w/o CCS
+biomass_base_IGCC,Biomass w/o CCS
+biomass_int_conv,Biomass w/o CCS
+biomass_int_IGCC,Biomass w/o CCS
+biomass_subpeak_conv,Biomass w/o CCS
+biomass cogen,CHP
+coal cogen,CHP
+electricity,CHP
+gas cogen,CHP
+hydrogen cogen,CHP
+refined liquids cogen,CHP
+coal (conv pul CCS),Coal w/ CCS
+coal (IGCC CCS),Coal w/ CCS
+coal_base_conv pul_CCS,Coal w/ CCS
+coal_base_IGCC_CCS,Coal w/ CCS
+coal_int_conv pul_CCS,Coal w/ CCS
+coal_int_IGCC_CCS,Coal w/ CCS
+coal (conv pul),Coal w/o CCS
+coal (conv pul)_fast_retire,Coal w/o CCS
+coal (conv pul)_slow_retire,Coal w/o CCS
+coal (IGCC),Coal w/o CCS
+coal_base_conv pul,Coal w/o CCS
+coal_base_conv pul 1951-1955,Coal w/o CCS
+coal_base_conv pul 1956-1960,Coal w/o CCS
+coal_base_conv pul 1961-1965,Coal w/o CCS
+coal_base_conv pul 1966-1970,Coal w/o CCS
+coal_base_conv pul 1971-1975,Coal w/o CCS
+coal_base_conv pul 1976-1980,Coal w/o CCS
+coal_base_conv pul 1981-1985,Coal w/o CCS
+coal_base_conv pul 1986-1990,Coal w/o CCS
+coal_base_conv pul 1991-1995,Coal w/o CCS
+coal_base_conv pul 1996-2000,Coal w/o CCS
+coal_base_conv pul 2001-2005,Coal w/o CCS
+coal_base_conv pul 2006-2010,Coal w/o CCS
+coal_base_conv pul 2011-2015,Coal w/o CCS
+coal_base_conv pul before 1950,Coal w/o CCS
+coal_base_conv pul_fast_retire,Coal w/o CCS
+coal_base_conv pul_retire_2020,Coal w/o CCS
+coal_base_conv pul_slow_retire,Coal w/o CCS
+coal_base_conv pul_slow_retire 1951-1955,Coal w/o CCS
+coal_base_conv pul_slow_retire 1956-1960,Coal w/o CCS
+coal_base_conv pul_slow_retire 1961-1965,Coal w/o CCS
+coal_base_conv pul_slow_retire 1966-1970,Coal w/o CCS
+coal_base_conv pul_slow_retire 1971-1975,Coal w/o CCS
+coal_base_conv pul_slow_retire 1976-1980,Coal w/o CCS
+coal_base_conv pul_slow_retire 1981-1985,Coal w/o CCS
+coal_base_conv pul_slow_retire 1986-1990,Coal w/o CCS
+coal_base_conv pul_slow_retire 1991-1995,Coal w/o CCS
+coal_base_conv pul_slow_retire 1996-2000,Coal w/o CCS
+coal_base_conv pul_slow_retire 2001-2005,Coal w/o CCS
+coal_base_conv pul_slow_retire 2006-2010,Coal w/o CCS
+coal_base_conv pul_slow_retire 2011-2015,Coal w/o CCS
+coal_base_conv pul_slow_retire before 1950,Coal w/o CCS
+coal_base_IGCC,Coal w/o CCS
+coal_int_conv pul,Coal w/o CCS
+coal_int_conv pul 1951-1955,Coal w/o CCS
+coal_int_conv pul 1956-1960,Coal w/o CCS
+coal_int_conv pul 1961-1965,Coal w/o CCS
+coal_int_conv pul 1966-1970,Coal w/o CCS
+coal_int_conv pul 1971-1975,Coal w/o CCS
+coal_int_conv pul 1976-1980,Coal w/o CCS
+coal_int_conv pul 1981-1985,Coal w/o CCS
+coal_int_conv pul 1986-1990,Coal w/o CCS
+coal_int_conv pul 1991-1995,Coal w/o CCS
+coal_int_conv pul 1996-2000,Coal w/o CCS
+coal_int_conv pul 2001-2005,Coal w/o CCS
+coal_int_conv pul 2006-2010,Coal w/o CCS
+coal_int_conv pul 2011-2015,Coal w/o CCS
+coal_int_conv pul before 1950,Coal w/o CCS
+coal_int_conv pul_fast_retire,Coal w/o CCS
+coal_int_conv pul_retire_2020,Coal w/o CCS
+coal_int_conv pul_slow_retire,Coal w/o CCS
+coal_int_conv pul_slow_retire 1951-1955,Coal w/o CCS
+coal_int_conv pul_slow_retire 1956-1960,Coal w/o CCS
+coal_int_conv pul_slow_retire 1961-1965,Coal w/o CCS
+coal_int_conv pul_slow_retire 1966-1970,Coal w/o CCS
+coal_int_conv pul_slow_retire 1971-1975,Coal w/o CCS
+coal_int_conv pul_slow_retire 1976-1980,Coal w/o CCS
+coal_int_conv pul_slow_retire 1981-1985,Coal w/o CCS
+coal_int_conv pul_slow_retire 1986-1990,Coal w/o CCS
+coal_int_conv pul_slow_retire 1991-1995,Coal w/o CCS
+coal_int_conv pul_slow_retire 1996-2000,Coal w/o CCS
+coal_int_conv pul_slow_retire 2001-2005,Coal w/o CCS
+coal_int_conv pul_slow_retire 2006-2010,Coal w/o CCS
+coal_int_conv pul_slow_retire 2011-2015,Coal w/o CCS
+coal_int_conv pul_slow_retire before 1950,Coal w/o CCS
+coal_int_IGCC,Coal w/o CCS
+coal_peak_conv pul,Coal w/o CCS
+coal_peak_conv pul_fast_retire,Coal w/o CCS
+coal_peak_conv pul_slow_retire,Coal w/o CCS
+coal_subpeak_conv pul,Coal w/o CCS
+coal_subpeak_conv pul_fast_retire,Coal w/o CCS
+coal_subpeak_conv pul_slow_retire,Coal w/o CCS
+gas (CC CCS),Gas w/ CCS
+gas_base_CC_CCS,Gas w/ CCS
+gas_int_CC_CCS,Gas w/ CCS
+gas_peak_CC_CCS,Gas w/ CCS
+gas_subpeak_CC_CCS,Gas w/ CCS
+gas (CC),Gas w/o CCS
+gas (steam/CT),Gas w/o CCS
+gas_base_CC,Gas w/o CCS
+gas_base_steam/CT,Gas w/o CCS
+gas_int_CC,Gas w/o CCS
+gas_int_steam/CT,Gas w/o CCS
+gas_peak_CC,Gas w/o CCS
+gas_peak_steam/CT,Gas w/o CCS
+gas_subpeak_CC,Gas w/o CCS
+gas_subpeak_steam/CT,Gas w/o CCS
+geo_base,Geothermal
+geothermal,Geothermal
+hydro,Hydro
+hydro_base,Hydro
+hydro_int,Hydro
+hydro_peak,Hydro
+hydro_subpeak,Hydro
+Gen_II_LWR,Nuclear
+Gen_III,Nuclear
+nuc_base_Gen II,Nuclear
+nuc_base_Gen III,Nuclear
+wind_base_offshore,Offshore Wind
+wind_int_offshore,Offshore Wind
+wind_offshore,Offshore Wind
+wind_peak_offshore,Offshore Wind
+wind_subpeak_offshore,Offshore Wind
+refined liquids (CC CCS),Oil w/ CCS
+refined liquids_base_CC_CCS,Oil w/ CCS
+refined liquids_int_CC_CCS,Oil w/ CCS
+refined liquids_peak_CC_CCS,Oil w/ CCS
+refined liquids_subpeak_CC_CCS,Oil w/ CCS
+refined liquids (CC),Oil w/o CCS
+refined liquids (steam/CT),Oil w/o CCS
+refined liquids_base_CC,Oil w/o CCS
+refined liquids_base_steam/CT,Oil w/o CCS
+refined liquids_int_CC,Oil w/o CCS
+refined liquids_int_steam/CT,Oil w/o CCS
+refined liquids_peak_CC,Oil w/o CCS
+refined liquids_peak_steam/CT,Oil w/o CCS
+refined liquids_subpeak_CC,Oil w/o CCS
+refined liquids_subpeak_steam/CT,Oil w/o CCS
+wind,Onshore Wind
+wind_base,Onshore Wind
+wind_base_storage,Onshore Wind
+wind_base2015,Onshore Wind
+wind_int,Onshore Wind
+wind_storage,Onshore Wind
+wind_subpeak,Onshore Wind
+CSP,Solar
+CSP_base_storage,Solar
+CSP_int,Solar
+CSP_peak,Solar
+CSP_peak2015,Solar
+CSP_storage,Solar
+CSP_subpeak,Solar
+PV,Solar
+PV_base_storage,Solar
+PV_int,Solar
+PV_peak,Solar
+PV_peak2015,Solar
+PV_storage,Solar
+PV_subpeak,Solar
+rooftop_pv,Solar
+rooftop_pv2015,Solar
