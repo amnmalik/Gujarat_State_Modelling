@@ -1,6 +1,0 @@
-# A mapping file to rename scenarios for figures,,,
-OG_scenario,scenario,model,case
-GCAM-USA_Ref,Core_Ref,Core,Ref
-GCAM-USA_Ctax_25_5,Core_Tax,Core,Tax
-GCAM-USA_BYU_Ref,BYU_Ref,Base Year Update,Ref
-GCAM-USA_BYU_Ctax_25_5,BYU_Tax,Base Year Update,Tax
