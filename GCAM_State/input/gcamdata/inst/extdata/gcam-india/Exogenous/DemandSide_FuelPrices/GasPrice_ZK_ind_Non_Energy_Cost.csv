@@ -1,0 +1,264 @@
+INPUT_TABLE,,,,,,
+Variable ID,,,,,,
+RegionGasPriceAdder,,,,,,
+,,,,,,
+region,supplysector,subsector,technology,year,minicam-non-energy-input,input-cost
+AN,Chem_Fert_enuse,gas,gas,2015,non-energy,0.467902373
+AN,Food Processing_enuse,gas,gas,2015,non-energy,0.467902373
+AN,Iron and Steel_enuse,gas,gas,2015,non-energy,0.467902373
+AN,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,0.467902373
+AN,Other Industries_enuse,gas,gas,2015,non-energy,0.467902373
+AN,Paper and Pulp_enuse,gas,gas,2015,non-energy,0.467902373
+AN,process heat cement,gas,gas,2015,non-energy,0.467902373
+AP,Chem_Fert_enuse,gas,gas,2015,non-energy,0.467902373
+AP,Food Processing_enuse,gas,gas,2015,non-energy,0.467902373
+AP,Iron and Steel_enuse,gas,gas,2015,non-energy,0.467902373
+AP,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,0.467902373
+AP,Other Industries_enuse,gas,gas,2015,non-energy,0.467902373
+AP,Paper and Pulp_enuse,gas,gas,2015,non-energy,0.467902373
+AP,process heat cement,gas,gas,2015,non-energy,0.467902373
+AR,Chem_Fert_enuse,gas,gas,2015,non-energy,0.467902373
+AR,Food Processing_enuse,gas,gas,2015,non-energy,0.467902373
+AR,Iron and Steel_enuse,gas,gas,2015,non-energy,0.467902373
+AR,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,0.467902373
+AR,Other Industries_enuse,gas,gas,2015,non-energy,0.467902373
+AR,Paper and Pulp_enuse,gas,gas,2015,non-energy,0.467902373
+AR,process heat cement,gas,gas,2015,non-energy,0.467902373
+AS,Chem_Fert_enuse,gas,gas,2015,non-energy,0.467902373
+AS,Food Processing_enuse,gas,gas,2015,non-energy,0.467902373
+AS,Iron and Steel_enuse,gas,gas,2015,non-energy,0.467902373
+AS,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,0.467902373
+AS,Other Industries_enuse,gas,gas,2015,non-energy,0.467902373
+AS,Paper and Pulp_enuse,gas,gas,2015,non-energy,0.467902373
+AS,process heat cement,gas,gas,2015,non-energy,0.467902373
+BR,Chem_Fert_enuse,gas,gas,2015,non-energy,0.467902373
+BR,Food Processing_enuse,gas,gas,2015,non-energy,0.467902373
+BR,Iron and Steel_enuse,gas,gas,2015,non-energy,0.467902373
+BR,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,0.467902373
+BR,Other Industries_enuse,gas,gas,2015,non-energy,0.467902373
+BR,Paper and Pulp_enuse,gas,gas,2015,non-energy,0.467902373
+BR,process heat cement,gas,gas,2015,non-energy,0.467902373
+CG,Chem_Fert_enuse,gas,gas,2015,non-energy,0.467902373
+CG,Food Processing_enuse,gas,gas,2015,non-energy,0.467902373
+CG,Iron and Steel_enuse,gas,gas,2015,non-energy,0.467902373
+CG,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,0.467902373
+CG,Other Industries_enuse,gas,gas,2015,non-energy,0.467902373
+CG,Paper and Pulp_enuse,gas,gas,2015,non-energy,0.467902373
+CG,process heat cement,gas,gas,2015,non-energy,0.467902373
+CH,Chem_Fert_enuse,gas,gas,2015,non-energy,0.467902373
+CH,Food Processing_enuse,gas,gas,2015,non-energy,0.467902373
+CH,Iron and Steel_enuse,gas,gas,2015,non-energy,0.467902373
+CH,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,0.467902373
+CH,Other Industries_enuse,gas,gas,2015,non-energy,0.467902373
+CH,Paper and Pulp_enuse,gas,gas,2015,non-energy,0.467902373
+CH,process heat cement,gas,gas,2015,non-energy,0.467902373
+DD,Chem_Fert_enuse,gas,gas,2015,non-energy,0.467902373
+DD,Food Processing_enuse,gas,gas,2015,non-energy,0.467902373
+DD,Iron and Steel_enuse,gas,gas,2015,non-energy,0.467902373
+DD,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,0.467902373
+DD,Other Industries_enuse,gas,gas,2015,non-energy,0.467902373
+DD,Paper and Pulp_enuse,gas,gas,2015,non-energy,0.467902373
+DD,process heat cement,gas,gas,2015,non-energy,0.467902373
+DL,Chem_Fert_enuse,gas,gas,2015,non-energy,0.467902373
+DL,Food Processing_enuse,gas,gas,2015,non-energy,0.467902373
+DL,Iron and Steel_enuse,gas,gas,2015,non-energy,0.467902373
+DL,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,0.467902373
+DL,Other Industries_enuse,gas,gas,2015,non-energy,0.467902373
+DL,Paper and Pulp_enuse,gas,gas,2015,non-energy,0.467902373
+DL,process heat cement,gas,gas,2015,non-energy,0.467902373
+DN,Chem_Fert_enuse,gas,gas,2015,non-energy,0.467902373
+DN,Food Processing_enuse,gas,gas,2015,non-energy,0.467902373
+DN,Iron and Steel_enuse,gas,gas,2015,non-energy,0.467902373
+DN,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,0.467902373
+DN,Other Industries_enuse,gas,gas,2015,non-energy,0.467902373
+DN,Paper and Pulp_enuse,gas,gas,2015,non-energy,0.467902373
+DN,process heat cement,gas,gas,2015,non-energy,0.467902373
+GA,Chem_Fert_enuse,gas,gas,2015,non-energy,0.467902373
+GA,Food Processing_enuse,gas,gas,2015,non-energy,0.467902373
+GA,Iron and Steel_enuse,gas,gas,2015,non-energy,0.467902373
+GA,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,0.467902373
+GA,Other Industries_enuse,gas,gas,2015,non-energy,0.467902373
+GA,Paper and Pulp_enuse,gas,gas,2015,non-energy,0.467902373
+GA,process heat cement,gas,gas,2015,non-energy,0.467902373
+GJ,Chem_Fert_enuse,gas,gas,2015,non-energy,0.467902373
+GJ,Food Processing_enuse,gas,gas,2015,non-energy,0.467902373
+GJ,Iron and Steel_enuse,gas,gas,2015,non-energy,0.467902373
+GJ,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,0.467902373
+GJ,Other Industries_enuse,gas,gas,2015,non-energy,0.467902373
+GJ,Paper and Pulp_enuse,gas,gas,2015,non-energy,0.467902373
+GJ,process heat cement,gas,gas,2015,non-energy,0.467902373
+HP,Chem_Fert_enuse,gas,gas,2015,non-energy,0.467902373
+HP,Food Processing_enuse,gas,gas,2015,non-energy,0.467902373
+HP,Iron and Steel_enuse,gas,gas,2015,non-energy,0.467902373
+HP,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,0.467902373
+HP,Other Industries_enuse,gas,gas,2015,non-energy,0.467902373
+HP,Paper and Pulp_enuse,gas,gas,2015,non-energy,0.467902373
+HP,process heat cement,gas,gas,2015,non-energy,0.467902373
+HR,Chem_Fert_enuse,gas,gas,2015,non-energy,0.467902373
+HR,Food Processing_enuse,gas,gas,2015,non-energy,0.467902373
+HR,Iron and Steel_enuse,gas,gas,2015,non-energy,0.467902373
+HR,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,0.467902373
+HR,Other Industries_enuse,gas,gas,2015,non-energy,0.467902373
+HR,Paper and Pulp_enuse,gas,gas,2015,non-energy,0.467902373
+HR,process heat cement,gas,gas,2015,non-energy,0.467902373
+JH,Chem_Fert_enuse,gas,gas,2015,non-energy,0.467902373
+JH,Food Processing_enuse,gas,gas,2015,non-energy,0.467902373
+JH,Iron and Steel_enuse,gas,gas,2015,non-energy,0.467902373
+JH,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,0.467902373
+JH,Other Industries_enuse,gas,gas,2015,non-energy,0.467902373
+JH,Paper and Pulp_enuse,gas,gas,2015,non-energy,0.467902373
+JH,process heat cement,gas,gas,2015,non-energy,0.467902373
+JK,Chem_Fert_enuse,gas,gas,2015,non-energy,0.467902373
+JK,Food Processing_enuse,gas,gas,2015,non-energy,0.467902373
+JK,Iron and Steel_enuse,gas,gas,2015,non-energy,0.467902373
+JK,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,0.467902373
+JK,Other Industries_enuse,gas,gas,2015,non-energy,0.467902373
+JK,Paper and Pulp_enuse,gas,gas,2015,non-energy,0.467902373
+JK,process heat cement,gas,gas,2015,non-energy,0.467902373
+KA,Chem_Fert_enuse,gas,gas,2015,non-energy,0.467902373
+KA,Food Processing_enuse,gas,gas,2015,non-energy,0.467902373
+KA,Iron and Steel_enuse,gas,gas,2015,non-energy,0.467902373
+KA,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,0.467902373
+KA,Other Industries_enuse,gas,gas,2015,non-energy,0.467902373
+KA,Paper and Pulp_enuse,gas,gas,2015,non-energy,0.467902373
+KA,process heat cement,gas,gas,2015,non-energy,0.467902373
+KL,Chem_Fert_enuse,gas,gas,2015,non-energy,0.467902373
+KL,Food Processing_enuse,gas,gas,2015,non-energy,0.467902373
+KL,Iron and Steel_enuse,gas,gas,2015,non-energy,0.467902373
+KL,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,0.467902373
+KL,Other Industries_enuse,gas,gas,2015,non-energy,0.467902373
+KL,Paper and Pulp_enuse,gas,gas,2015,non-energy,0.467902373
+KL,process heat cement,gas,gas,2015,non-energy,0.467902373
+LA,Chem_Fert_enuse,gas,gas,2015,non-energy,0.467902373
+LA,Food Processing_enuse,gas,gas,2015,non-energy,0.467902373
+LA,Iron and Steel_enuse,gas,gas,2015,non-energy,0.467902373
+LA,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,0.467902373
+LA,Other Industries_enuse,gas,gas,2015,non-energy,0.467902373
+LA,Paper and Pulp_enuse,gas,gas,2015,non-energy,0.467902373
+LA,process heat cement,gas,gas,2015,non-energy,0.467902373
+LD,Chem_Fert_enuse,gas,gas,2015,non-energy,0.467902373
+LD,Food Processing_enuse,gas,gas,2015,non-energy,0.467902373
+LD,Iron and Steel_enuse,gas,gas,2015,non-energy,0.467902373
+LD,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,0.467902373
+LD,Other Industries_enuse,gas,gas,2015,non-energy,0.467902373
+LD,Paper and Pulp_enuse,gas,gas,2015,non-energy,0.467902373
+LD,process heat cement,gas,gas,2015,non-energy,0.467902373
+MH,Chem_Fert_enuse,gas,gas,2015,non-energy,0.467902373
+MH,Food Processing_enuse,gas,gas,2015,non-energy,0.467902373
+MH,Iron and Steel_enuse,gas,gas,2015,non-energy,0.467902373
+MH,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,0.467902373
+MH,Other Industries_enuse,gas,gas,2015,non-energy,0.467902373
+MH,Paper and Pulp_enuse,gas,gas,2015,non-energy,0.467902373
+MH,process heat cement,gas,gas,2015,non-energy,0.467902373
+ML,Chem_Fert_enuse,gas,gas,2015,non-energy,0.467902373
+ML,Food Processing_enuse,gas,gas,2015,non-energy,0.467902373
+ML,Iron and Steel_enuse,gas,gas,2015,non-energy,0.467902373
+ML,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,0.467902373
+ML,Other Industries_enuse,gas,gas,2015,non-energy,0.467902373
+ML,Paper and Pulp_enuse,gas,gas,2015,non-energy,0.467902373
+ML,process heat cement,gas,gas,2015,non-energy,0.467902373
+MN,Chem_Fert_enuse,gas,gas,2015,non-energy,0.467902373
+MN,Food Processing_enuse,gas,gas,2015,non-energy,0.467902373
+MN,Iron and Steel_enuse,gas,gas,2015,non-energy,0.467902373
+MN,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,0.467902373
+MN,Other Industries_enuse,gas,gas,2015,non-energy,0.467902373
+MN,Paper and Pulp_enuse,gas,gas,2015,non-energy,0.467902373
+MN,process heat cement,gas,gas,2015,non-energy,0.467902373
+MP,Chem_Fert_enuse,gas,gas,2015,non-energy,0.467902373
+MP,Food Processing_enuse,gas,gas,2015,non-energy,0.467902373
+MP,Iron and Steel_enuse,gas,gas,2015,non-energy,0.467902373
+MP,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,0.467902373
+MP,Other Industries_enuse,gas,gas,2015,non-energy,0.467902373
+MP,Paper and Pulp_enuse,gas,gas,2015,non-energy,0.467902373
+MP,process heat cement,gas,gas,2015,non-energy,0.467902373
+MZ,Chem_Fert_enuse,gas,gas,2015,non-energy,0.467902373
+MZ,Food Processing_enuse,gas,gas,2015,non-energy,0.467902373
+MZ,Iron and Steel_enuse,gas,gas,2015,non-energy,0.467902373
+MZ,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,0.467902373
+MZ,Other Industries_enuse,gas,gas,2015,non-energy,0.467902373
+MZ,Paper and Pulp_enuse,gas,gas,2015,non-energy,0.467902373
+MZ,process heat cement,gas,gas,2015,non-energy,0.467902373
+NL,Chem_Fert_enuse,gas,gas,2015,non-energy,0.467902373
+NL,Food Processing_enuse,gas,gas,2015,non-energy,0.467902373
+NL,Iron and Steel_enuse,gas,gas,2015,non-energy,0.467902373
+NL,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,0.467902373
+NL,Other Industries_enuse,gas,gas,2015,non-energy,0.467902373
+NL,Paper and Pulp_enuse,gas,gas,2015,non-energy,0.467902373
+NL,process heat cement,gas,gas,2015,non-energy,0.467902373
+OD,Chem_Fert_enuse,gas,gas,2015,non-energy,0.467902373
+OD,Food Processing_enuse,gas,gas,2015,non-energy,0.467902373
+OD,Iron and Steel_enuse,gas,gas,2015,non-energy,0.467902373
+OD,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,0.467902373
+OD,Other Industries_enuse,gas,gas,2015,non-energy,0.467902373
+OD,Paper and Pulp_enuse,gas,gas,2015,non-energy,0.467902373
+OD,process heat cement,gas,gas,2015,non-energy,0.467902373
+PB,Chem_Fert_enuse,gas,gas,2015,non-energy,0.467902373
+PB,Food Processing_enuse,gas,gas,2015,non-energy,0.467902373
+PB,Iron and Steel_enuse,gas,gas,2015,non-energy,0.467902373
+PB,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,0.467902373
+PB,Other Industries_enuse,gas,gas,2015,non-energy,0.467902373
+PB,Paper and Pulp_enuse,gas,gas,2015,non-energy,0.467902373
+PB,process heat cement,gas,gas,2015,non-energy,0.467902373
+PC,Chem_Fert_enuse,gas,gas,2015,non-energy,0.467902373
+PC,Food Processing_enuse,gas,gas,2015,non-energy,0.467902373
+PC,Iron and Steel_enuse,gas,gas,2015,non-energy,0.467902373
+PC,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,0.467902373
+PC,Other Industries_enuse,gas,gas,2015,non-energy,0.467902373
+PC,Paper and Pulp_enuse,gas,gas,2015,non-energy,0.467902373
+PC,process heat cement,gas,gas,2015,non-energy,0.467902373
+RJ,Chem_Fert_enuse,gas,gas,2015,non-energy,0.467902373
+RJ,Food Processing_enuse,gas,gas,2015,non-energy,0.467902373
+RJ,Iron and Steel_enuse,gas,gas,2015,non-energy,0.467902373
+RJ,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,0.467902373
+RJ,Other Industries_enuse,gas,gas,2015,non-energy,0.467902373
+RJ,Paper and Pulp_enuse,gas,gas,2015,non-energy,0.467902373
+RJ,process heat cement,gas,gas,2015,non-energy,0.467902373
+SK,Chem_Fert_enuse,gas,gas,2015,non-energy,0.467902373
+SK,Food Processing_enuse,gas,gas,2015,non-energy,0.467902373
+SK,Iron and Steel_enuse,gas,gas,2015,non-energy,0.467902373
+SK,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,0.467902373
+SK,Other Industries_enuse,gas,gas,2015,non-energy,0.467902373
+SK,Paper and Pulp_enuse,gas,gas,2015,non-energy,0.467902373
+SK,process heat cement,gas,gas,2015,non-energy,0.467902373
+TN,Chem_Fert_enuse,gas,gas,2015,non-energy,0.467902373
+TN,Food Processing_enuse,gas,gas,2015,non-energy,0.467902373
+TN,Iron and Steel_enuse,gas,gas,2015,non-energy,0.467902373
+TN,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,0.467902373
+TN,Other Industries_enuse,gas,gas,2015,non-energy,0.467902373
+TN,Paper and Pulp_enuse,gas,gas,2015,non-energy,0.467902373
+TN,process heat cement,gas,gas,2015,non-energy,0.467902373
+TR,Chem_Fert_enuse,gas,gas,2015,non-energy,0.467902373
+TR,Food Processing_enuse,gas,gas,2015,non-energy,0.467902373
+TR,Iron and Steel_enuse,gas,gas,2015,non-energy,0.467902373
+TR,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,0.467902373
+TR,Other Industries_enuse,gas,gas,2015,non-energy,0.467902373
+TR,Paper and Pulp_enuse,gas,gas,2015,non-energy,0.467902373
+TR,process heat cement,gas,gas,2015,non-energy,0.467902373
+TS,Chem_Fert_enuse,gas,gas,2015,non-energy,0.467902373
+TS,Food Processing_enuse,gas,gas,2015,non-energy,0.467902373
+TS,Iron and Steel_enuse,gas,gas,2015,non-energy,0.467902373
+TS,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,0.467902373
+TS,Other Industries_enuse,gas,gas,2015,non-energy,0.467902373
+TS,Paper and Pulp_enuse,gas,gas,2015,non-energy,0.467902373
+TS,process heat cement,gas,gas,2015,non-energy,0.467902373
+UK,Chem_Fert_enuse,gas,gas,2015,non-energy,0.467902373
+UK,Food Processing_enuse,gas,gas,2015,non-energy,0.467902373
+UK,Iron and Steel_enuse,gas,gas,2015,non-energy,0.467902373
+UK,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,0.467902373
+UK,Other Industries_enuse,gas,gas,2015,non-energy,0.467902373
+UK,Paper and Pulp_enuse,gas,gas,2015,non-energy,0.467902373
+UK,process heat cement,gas,gas,2015,non-energy,0.467902373
+UP,Chem_Fert_enuse,gas,gas,2015,non-energy,0.467902373
+UP,Food Processing_enuse,gas,gas,2015,non-energy,0.467902373
+UP,Iron and Steel_enuse,gas,gas,2015,non-energy,0.467902373
+UP,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,0.467902373
+UP,Other Industries_enuse,gas,gas,2015,non-energy,0.467902373
+UP,Paper and Pulp_enuse,gas,gas,2015,non-energy,0.467902373
+UP,process heat cement,gas,gas,2015,non-energy,0.467902373
+WB,Chem_Fert_enuse,gas,gas,2015,non-energy,0.467902373
+WB,Food Processing_enuse,gas,gas,2015,non-energy,0.467902373
+WB,Iron and Steel_enuse,gas,gas,2015,non-energy,0.467902373
+WB,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,0.467902373
+WB,Other Industries_enuse,gas,gas,2015,non-energy,0.467902373
+WB,Paper and Pulp_enuse,gas,gas,2015,non-energy,0.467902373
+WB,process heat cement,gas,gas,2015,non-energy,0.467902373

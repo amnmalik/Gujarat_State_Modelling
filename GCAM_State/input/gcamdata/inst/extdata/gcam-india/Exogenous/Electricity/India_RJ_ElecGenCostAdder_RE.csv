@@ -1,0 +1,26 @@
+INPUT_TABLE,,,,,,
+Variable ID,,,,,,
+ElecgenCostAdder,,,,,,
+,,,,,,
+region,sector,subsector,technology,year,minicam-non-energy-input,input-cost
+RJ,electricity,solar,PV,2025,tax,0.171689035
+RJ,electricity,solar,PV,2030,tax,-0.315579583
+RJ,electricity,solar,PV,2035,tax,-0.474331095
+RJ,electricity,solar,PV,2040,tax,-0.676265813
+RJ,electricity,solar,PV,2045,tax,-0.971073071
+RJ,electricity,solar,PV,2050,tax,-0.812142021
+RJ,electricity,solar,PV,2055,tax,-1.115291643
+RJ,electricity,solar,PV,2060,tax,-1.434240741
+RJ,electricity,solar,PV,2065,tax,-1.543897954
+RJ,electricity,solar,PV,2070,tax,-1.653021752
+RJ,electricity,wind,wind,2020,tax,-0.365255398
+RJ,electricity,wind,wind,2025,tax,-1.44899272
+RJ,electricity,wind,wind,2030,tax,-1.568029435
+RJ,electricity,wind,wind,2035,tax,-1.6667013
+RJ,electricity,wind,wind,2040,tax,-1.888561346
+RJ,electricity,wind,wind,2045,tax,-1.894866479
+RJ,electricity,wind,wind,2050,tax,-2.351695438
+RJ,electricity,wind,wind,2055,tax,-2.451344401
+RJ,electricity,wind,wind,2060,tax,-2.552438312
+RJ,electricity,wind,wind,2065,tax,-2.608850432
+RJ,electricity,wind,wind,2070,tax,-2.610466833

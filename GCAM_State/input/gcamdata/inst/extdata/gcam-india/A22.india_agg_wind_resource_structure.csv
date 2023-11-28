@@ -1,0 +1,8 @@
+# File: A22.india_agg_wind_resource_structure.csv
+# Title: Structure file for onshore wind resource at the India level aggregation
+# Units: NA
+# Description: Structure created for agg. Wind resource
+# Column types: ccccccnnncn
+# ----------
+region,renewresource,output.unit,price.unit,market,smooth.renewable.subresource,maxSubResource,mid.price,curve.exponent,technology,share.weight
+India,onshore wind resource,EJ,1975$/GJ,India,onshore wind resource,68.5,0.096,3.96,onshore wind resource,1

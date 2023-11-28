@@ -1,0 +1,2 @@
+
+RegionGasPriceAdder,world/+{name}region, region/+{name}supplysector, supplysector/+{name}subsector, subsector/+{name}technology, technology/+{year}period, period/+{name}minicam-non-energy-input, minicam-non-energy-input/+input-cost, scenario, scenario/world
