@@ -17,7 +17,8 @@ module_gcamindia_LA114.wind <- function(command, ...) {
     return(c( FILE = "gcam-india/A23.india_state_wind",
               FILE = "gcam-india/A23.globaltech_capital_India",
               FILE = "gcam-india/A23.globaltech_OMfixed_India",
-              FILE = "gcam-india/A23.globaltech_OMvar_India"))
+              FILE = "gcam-india/A23.globaltech_OMvar_India",
+              FILE = "gcam-india/L114.india_state_CapacityFactor_windoffshore"))
   } else if(command == driver.DECLARE_OUTPUTS) {
     return(c("L114.india_state_CapacityFactor_wind"))
   } else if(command == driver.MAKE) {
@@ -33,7 +34,7 @@ module_gcamindia_LA114.wind <- function(command, ...) {
     A23.globaltech_capital_India <- get_data(all_data, "gcam-india/A23.globaltech_capital_India")
     A23.globaltech_OMfixed_India <- get_data(all_data, "gcam-india/A23.globaltech_OMfixed_India")
     A23.globaltech_OMvar_India <- get_data(all_data, "gcam-india/A23.globaltech_OMvar_India")
-
+    L114.india_state_CapacityFactor_windoffshore <- get_data(all_data, "gcam-india/L114.india_state_CapacityFactor_windoffshore")
     # ===================================================
     # Calculations and Estimations
 
@@ -42,7 +43,7 @@ module_gcamindia_LA114.wind <- function(command, ...) {
     # ... interpolated from 2010 and 2015 by the approx fun () function.
     filter_gather_interp_get_cost <- function(x) {
       . <- NULL  # silence package check notes
-      x %>% filter(technology == "wind") %>%
+      x %>% filter(technology == "onshore") %>%
         gather_years %>%
         select(year, value) %>%
         complete(year = c(year, gcamindia.WIND_BASE_COST_YEAR)) %>%
@@ -58,13 +59,13 @@ module_gcamindia_LA114.wind <- function(command, ...) {
     # ^^ all above rates are in $1975
 
     # Get fixed charge rate of capital for wind
-    filter(A23.globaltech_capital_India, technology == "wind")$fixed.charge.rate -> L114.FixedChargeRate_India
+    filter(A23.globaltech_capital_India, technology == "onshore")$fixed.charge.rate -> L114.FixedChargeRate_India
 
     #Computing the capacity factor for the base wind turbine in each state
     # Convert state level wind base cost data to 1975$/GJ.
     A23.india_state_wind %>%
       mutate(sector = "electricity generation",
-             fuel = "wind",
+             fuel = "wind onshore",
              base_cost = base_cost * Price_2019INR_1975USD / CONV_KWH_GJ,
              capacity.factor = (L114.CapCost_India * L114.FixedChargeRate_India + L114.OMFixedCost_India) /
                (CONV_KWH_GJ * CONV_YEAR_HOURS) / (base_cost - (L114.OMVarCost_India / CONV_MWH_GJ))) %>%
@@ -73,7 +74,7 @@ module_gcamindia_LA114.wind <- function(command, ...) {
       mutate(capacity.factor = if_else(capacity.factor != "Inf", capacity.factor, 0.0)) %>%
       select(state, sector, fuel, capacity.factor) ->
       L114.india_state_CapacityFactor_wind
-
+    L114.india_state_CapacityFactor_wind <- bind_rows(L114.india_state_CapacityFactor_wind,L114.india_state_CapacityFactor_windoffshore)
     # ===================================================
     #Produce Outputs
     L114.india_state_CapacityFactor_wind %>%

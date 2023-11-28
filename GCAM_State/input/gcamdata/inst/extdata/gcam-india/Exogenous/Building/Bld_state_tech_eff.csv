@@ -1,7 +1,7 @@
-INPUT_TABLE,,,,,,
-Variable ID,,,,,,
-RegionTechEff,,,,,,
-,,,,,,
+INPUT_TABLE
+Variable ID
+RegionTechEff
+
 Region,supplysector,subsector,technology,year,minicam.energy.input,efficiency
 AN,comm cooking,electricity,electric cooking,2015,elect_td_com,0.74
 AN,comm cooking,electricity,electric cooking,2020,elect_td_com,0.74
@@ -15213,24 +15213,24 @@ SK,resid rural cooling,electricity,air conditioner (hi-eff),2085,elect_td_res,6.
 SK,resid rural cooling,electricity,air conditioner (hi-eff),2090,elect_td_res,6.303619496
 SK,resid rural cooling,electricity,air conditioner (hi-eff),2095,elect_td_res,6.484557762
 SK,resid rural cooling,electricity,air conditioner (hi-eff),2100,elect_td_res,6.670689655
-TN,resid rural cooling,electricity,air conditioner (hi-eff),2015,elect_td_res,4.241551724
-TN,resid rural cooling,electricity,air conditioner (hi-eff),2020,elect_td_res,4.241551724
-TN,resid rural cooling,electricity,air conditioner (hi-eff),2025,elect_td_res,4.363300667
-TN,resid rural cooling,electricity,air conditioner (hi-eff),2030,elect_td_res,4.488544276
-TN,resid rural cooling,electricity,air conditioner (hi-eff),2035,elect_td_res,4.617382861
-TN,resid rural cooling,electricity,air conditioner (hi-eff),2040,elect_td_res,4.749919612
-TN,resid rural cooling,electricity,air conditioner (hi-eff),2045,elect_td_res,4.88626068
-TN,resid rural cooling,electricity,air conditioner (hi-eff),2050,elect_td_res,5.026515264
-TN,resid rural cooling,electricity,air conditioner (hi-eff),2055,elect_td_res,5.170795697
-TN,resid rural cooling,electricity,air conditioner (hi-eff),2060,elect_td_res,5.319217537
-TN,resid rural cooling,electricity,air conditioner (hi-eff),2065,elect_td_res,5.471899658
-TN,resid rural cooling,electricity,air conditioner (hi-eff),2070,elect_td_res,5.628964347
-TN,resid rural cooling,electricity,air conditioner (hi-eff),2075,elect_td_res,5.790537399
-TN,resid rural cooling,electricity,air conditioner (hi-eff),2080,elect_td_res,5.956748224
-TN,resid rural cooling,electricity,air conditioner (hi-eff),2085,elect_td_res,6.127729942
-TN,resid rural cooling,electricity,air conditioner (hi-eff),2090,elect_td_res,6.303619496
-TN,resid rural cooling,electricity,air conditioner (hi-eff),2095,elect_td_res,6.484557762
-TN,resid rural cooling,electricity,air conditioner (hi-eff),2100,elect_td_res,6.670689655
+TN,resid rural cooling,electricity,air conditioner (hi-eff),2015,elect_td_res,3.393241379
+TN,resid rural cooling,electricity,air conditioner (hi-eff),2020,elect_td_res,3.393241379
+TN,resid rural cooling,electricity,air conditioner (hi-eff),2025,elect_td_res,3.490640534
+TN,resid rural cooling,electricity,air conditioner (hi-eff),2030,elect_td_res,3.590835421
+TN,resid rural cooling,electricity,air conditioner (hi-eff),2035,elect_td_res,3.693906289
+TN,resid rural cooling,electricity,air conditioner (hi-eff),2040,elect_td_res,3.79993569
+TN,resid rural cooling,electricity,air conditioner (hi-eff),2045,elect_td_res,3.909008544
+TN,resid rural cooling,electricity,air conditioner (hi-eff),2050,elect_td_res,4.021212211
+TN,resid rural cooling,electricity,air conditioner (hi-eff),2055,elect_td_res,4.136636558
+TN,resid rural cooling,electricity,air conditioner (hi-eff),2060,elect_td_res,4.25537403
+TN,resid rural cooling,electricity,air conditioner (hi-eff),2065,elect_td_res,4.377519726
+TN,resid rural cooling,electricity,air conditioner (hi-eff),2070,elect_td_res,4.503171478
+TN,resid rural cooling,electricity,air conditioner (hi-eff),2075,elect_td_res,4.632429919
+TN,resid rural cooling,electricity,air conditioner (hi-eff),2080,elect_td_res,4.765398579
+TN,resid rural cooling,electricity,air conditioner (hi-eff),2085,elect_td_res,4.902183954
+TN,resid rural cooling,electricity,air conditioner (hi-eff),2090,elect_td_res,5.042895597
+TN,resid rural cooling,electricity,air conditioner (hi-eff),2095,elect_td_res,5.18764621
+TN,resid rural cooling,electricity,air conditioner (hi-eff),2100,elect_td_res,5.336551724
 TR,resid rural cooling,electricity,air conditioner (hi-eff),2015,elect_td_res,4.241551724
 TR,resid rural cooling,electricity,air conditioner (hi-eff),2020,elect_td_res,4.241551724
 TR,resid rural cooling,electricity,air conditioner (hi-eff),2025,elect_td_res,4.363300667
@@ -15879,24 +15879,24 @@ SK,resid rural cooling,electricity,air conditioner (lo-eff),2085,elect_td_res,4.
 SK,resid rural cooling,electricity,air conditioner (lo-eff),2090,elect_td_res,5.106442895
 SK,resid rural cooling,electricity,air conditioner (lo-eff),2095,elect_td_res,5.25867073
 SK,resid rural cooling,electricity,air conditioner (lo-eff),2100,elect_td_res,5.41543662
-TN,resid rural cooling,electricity,air conditioner (lo-eff),2015,elect_td_res,3.384647887
-TN,resid rural cooling,electricity,air conditioner (lo-eff),2020,elect_td_res,3.384647887
-TN,resid rural cooling,electricity,air conditioner (lo-eff),2025,elect_td_res,3.485547404
-TN,resid rural cooling,electricity,air conditioner (lo-eff),2030,elect_td_res,3.58945483
-TN,resid rural cooling,electricity,air conditioner (lo-eff),2035,elect_td_res,3.696459834
-TN,resid rural cooling,electricity,air conditioner (lo-eff),2040,elect_td_res,3.806654757
-TN,resid rural cooling,electricity,air conditioner (lo-eff),2045,elect_td_res,3.920134693
-TN,resid rural cooling,electricity,air conditioner (lo-eff),2050,elect_td_res,4.036997572
-TN,resid rural cooling,electricity,air conditioner (lo-eff),2055,elect_td_res,4.157344243
-TN,resid rural cooling,electricity,air conditioner (lo-eff),2060,elect_td_res,4.281278561
-TN,resid rural cooling,electricity,air conditioner (lo-eff),2065,elect_td_res,4.408907476
-TN,resid rural cooling,electricity,air conditioner (lo-eff),2070,elect_td_res,4.540341129
-TN,resid rural cooling,electricity,air conditioner (lo-eff),2075,elect_td_res,4.675692942
-TN,resid rural cooling,electricity,air conditioner (lo-eff),2080,elect_td_res,4.815079719
-TN,resid rural cooling,electricity,air conditioner (lo-eff),2085,elect_td_res,4.958621746
-TN,resid rural cooling,electricity,air conditioner (lo-eff),2090,elect_td_res,5.106442895
-TN,resid rural cooling,electricity,air conditioner (lo-eff),2095,elect_td_res,5.25867073
-TN,resid rural cooling,electricity,air conditioner (lo-eff),2100,elect_td_res,5.41543662
+TN,resid rural cooling,electricity,air conditioner (lo-eff),2015,elect_td_res,2.70771831
+TN,resid rural cooling,electricity,air conditioner (lo-eff),2020,elect_td_res,2.70771831
+TN,resid rural cooling,electricity,air conditioner (lo-eff),2025,elect_td_res,2.788437923
+TN,resid rural cooling,electricity,air conditioner (lo-eff),2030,elect_td_res,2.871563864
+TN,resid rural cooling,electricity,air conditioner (lo-eff),2035,elect_td_res,2.957167867
+TN,resid rural cooling,electricity,air conditioner (lo-eff),2040,elect_td_res,3.045323806
+TN,resid rural cooling,electricity,air conditioner (lo-eff),2045,elect_td_res,3.136107754
+TN,resid rural cooling,electricity,air conditioner (lo-eff),2050,elect_td_res,3.229598058
+TN,resid rural cooling,electricity,air conditioner (lo-eff),2055,elect_td_res,3.325875394
+TN,resid rural cooling,electricity,air conditioner (lo-eff),2060,elect_td_res,3.425022849
+TN,resid rural cooling,electricity,air conditioner (lo-eff),2065,elect_td_res,3.527125981
+TN,resid rural cooling,electricity,air conditioner (lo-eff),2070,elect_td_res,3.632272903
+TN,resid rural cooling,electricity,air conditioner (lo-eff),2075,elect_td_res,3.740554354
+TN,resid rural cooling,electricity,air conditioner (lo-eff),2080,elect_td_res,3.852063775
+TN,resid rural cooling,electricity,air conditioner (lo-eff),2085,elect_td_res,3.966897397
+TN,resid rural cooling,electricity,air conditioner (lo-eff),2090,elect_td_res,4.085154316
+TN,resid rural cooling,electricity,air conditioner (lo-eff),2095,elect_td_res,4.206936584
+TN,resid rural cooling,electricity,air conditioner (lo-eff),2100,elect_td_res,4.332349296
 TR,resid rural cooling,electricity,air conditioner (lo-eff),2015,elect_td_res,3.384647887
 TR,resid rural cooling,electricity,air conditioner (lo-eff),2020,elect_td_res,3.384647887
 TR,resid rural cooling,electricity,air conditioner (lo-eff),2025,elect_td_res,3.485547404

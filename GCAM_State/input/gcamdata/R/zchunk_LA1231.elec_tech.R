@@ -184,16 +184,16 @@ module_energy_LA1231.elec_tech<- function(command, ...) {
 
     # Combine outputs with technologies modeled by output only (e.g. nuclear, hydro, renewables)
     # and combined all outpues for all fuels and technologies to create final tibble in long format
-    L123.out_EJ_R_elec_F_Yh %>%
+    L1231.out_EJ_R_elec_F_tech_Yh <- L123.out_EJ_R_elec_F_Yh %>%
     # Use anti_join to drop all fuels that are not modeled by output only and keep nuclear, hydro, and renewables
      anti_join(L1231.out_EJ_R_elec_Fin_tech_Yh, by = c("GCAM_region_ID", "sector", "fuel", "year")) %>%
       arrange(fuel, GCAM_region_ID,year) %>%
-      left_join_error_no_match(select(calibrated_techs, sector, fuel, technology), by = c("sector", "fuel")) %>%
+      left_join_error_no_match(select(calibrated_techs,sector, fuel, technology), by = c("sector", "fuel")) %>%
       rename(output = value) %>%
       bind_rows(L1231.out_EJ_R_elec_Fin_tech_Yh) %>%
       rename(value = output) %>%
       select(GCAM_region_ID, sector, fuel, technology, year, value) %>%
-      ungroup -> L1231.out_EJ_R_elec_F_tech_Yh
+      ungroup
 
     # add final details to tibbles and save them
     L1231.in_EJ_R_elec_F_tech_Yh%>%

@@ -1,7 +1,7 @@
-# File: A23.globaltech_keyword.csv,
-# Title: Electricity technology shareweights,
-# Units: Unitless; average fossil efficiency is a boolean indicating whether the technology isused in the model's calculation of the average fossil-electric efficiency,
-# Source: None,
+# File: A23.globaltech_keyword.csv
+# Title: Electricity technology shareweights
+# Units: Unitless; average fossil efficiency is a boolean indicating whether the technology isused in the model's calculation of the average fossil-electric efficiency
+# Source: None
 # Column types: cccci 
 # ----------
 supplysector,subsector,technology,primary.renewable,average.fossil.efficiency
@@ -22,8 +22,10 @@ electricity,biomass,biomass (IGCC CCS),,1
 electricity,nuclear,Gen_II_LWR,nuclear-elect,
 electricity,nuclear,Gen_III,nuclear-elect,
 electricity,hydro,hydro,hydro-elect,
-electricity,wind,wind,wind-elect,
-electricity,wind,wind_storage,wind-elect,
+electricity,wind,onshore,wind-elect,
+electricity,wind,onshore_storage,wind-elect,
+electricity,wind,offshore,wind-elect,
+electricity,wind,offshore_storage,wind-elect,
 electricity,solar,PV,solar-elect,
 electricity,solar,PV_storage,solar-elect,
 electricity,solar,CSP,solar-elect,

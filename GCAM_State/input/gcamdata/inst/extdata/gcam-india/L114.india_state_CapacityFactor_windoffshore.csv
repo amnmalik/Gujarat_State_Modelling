@@ -1,0 +1,43 @@
+# File: L114.india_state_CapacityFactor_windoffshore.csv
+# Title: Capacity Factor for offshore
+# Units: NA
+# Column types: cccn
+# ----------
+state,sector,fuel,capacity.factor
+AP,electricity generation,wind offshore,20.00501013
+AR,electricity generation,wind offshore,20.00501013
+AS,electricity generation,wind offshore,20.00501013
+BR,electricity generation,wind offshore,20.00501013
+CG,electricity generation,wind offshore,20.00501013
+DL,electricity generation,wind offshore,20.00501013
+GA,electricity generation,wind offshore,20.00501013
+GJ,electricity generation,wind offshore,20.00501013
+HR,electricity generation,wind offshore,20.00501013
+HP,electricity generation,wind offshore,20.00501013
+JK,electricity generation,wind offshore,20.00501013
+JH,electricity generation,wind offshore,20.00501013
+KA,electricity generation,wind offshore,20.00501013
+KL,electricity generation,wind offshore,20.00501013
+MP,electricity generation,wind offshore,20.00501013
+MH,electricity generation,wind offshore,20.00501013
+MN,electricity generation,wind offshore,20.00501013
+ML,electricity generation,wind offshore,20.00501013
+MZ,electricity generation,wind offshore,20.00501013
+NL,electricity generation,wind offshore,20.00501013
+OD,electricity generation,wind offshore,20.00501013
+PB,electricity generation,wind offshore,20.00501013
+RJ,electricity generation,wind offshore,20.00501013
+SK,electricity generation,wind offshore,20.00501013
+TN,electricity generation,wind offshore,20.00501013
+TS,electricity generation,wind offshore,20.00501013
+TR,electricity generation,wind offshore,20.00501013
+UP,electricity generation,wind offshore,20.00501013
+UK,electricity generation,wind offshore,20.00501013
+WB,electricity generation,wind offshore,20.00501013
+AN,electricity generation,wind offshore,20.00501013
+CH,electricity generation,wind offshore,20.00501013
+DD,electricity generation,wind offshore,20.00501013
+DN,electricity generation,wind offshore,20.00501013
+LA,electricity generation,wind offshore,20.00501013
+LD,electricity generation,wind offshore,20.00501013
+PC,electricity generation,wind offshore,20.00501013

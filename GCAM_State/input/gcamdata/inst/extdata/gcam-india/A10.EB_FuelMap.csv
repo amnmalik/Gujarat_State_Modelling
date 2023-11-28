@@ -37,7 +37,8 @@ Other Oils,refined liquids,other refined liquids  Motor spirit Kerosene Oil FO
 Purchased Electricity,electricity,Electricity purchased
 Solar for Power,solar,Solar_P
 Trad biomass_resid,traditional biomass,In resid sector
-Wind for Power,wind,Wind_P
+Wind for Power,wind onshore,Wind_P
+Wind for Power,wind offshore,Wind_P
 Wood and waste,biomass,in comm sector and resid sector
 FuelWood,biomass,
 Ind_enuse Hydrogen,hydrogen,

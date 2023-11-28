@@ -86,7 +86,8 @@ electricity generation,refined liquids,electricity,refined liquids,refined liqui
 electricity generation,biomass,electricity,biomass,biomass (conv),regional biomass,input,heat
 electricity generation,nuclear,electricity,nuclear,Gen_II_LWR,nuclearFuelGenII,output,
 electricity generation,hydro,electricity,hydro,hydro,,fixed output,
-electricity generation,wind,electricity,wind,wind,onshore wind resource,output,
+electricity generation,wind onshore,electricity,wind,onshore,onshore wind resource,output,
+electricity generation,wind offshore,electricity,wind,offshore,onshore wind resource,output,
 electricity generation,solar PV,electricity,solar,PV,global solar resource,output,
 electricity generation,solar CSP,electricity,solar,CSP,global solar resource,output,
 electricity generation,geothermal,electricity,geothermal,geothermal,geothermal,output,

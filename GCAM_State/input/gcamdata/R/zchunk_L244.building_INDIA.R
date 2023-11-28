@@ -123,7 +123,7 @@ module_gcamindia_L244.building_INDIA <- function(command, ...) {
     L144.india_state_in_EJ_res_F_U_Y <- get_data(all_data, "L144.india_state_in_EJ_res_F_U_Y")
     A44.india_state_HDDCDD_scen <- get_data(all_data, "gcam-india/A44.india_state_HDDCDD_scen")
     A44.india_state_subregional_pop_share <- get_data(all_data, "gcam-india/A44.india_state_subregional_pop_share") %>% gather_years()
-    A44.india_state_subregional_income_share <- get_data(all_data, "gcam-india/A44.india_state_subregional_income_share")
+    A44.india_state_subregional_income_share <- get_data(all_data, "gcam-india/A44.india_state_subregional_income_share") %>% gather_years()
     L100.india_state_pop_ruralurban <- get_data(all_data, "L100.india_state_pop_ruralurban")
     L100.india_state_pcGDP_thous90usd_ruralurban <- get_data(all_data, "L100.india_state_pcGDP_thous90usd_ruralurban")
 
@@ -145,13 +145,13 @@ module_gcamindia_L244.building_INDIA <- function(command, ...) {
     L244.india_state_DeleteConsumer_bld <- tibble(region = gcam.india_REGION, gcam.consumer = A44.gcam_consumer_en$gcam.consumer)
     L244.india_state_DeleteSupplysector_bld <- tibble(region = gcam.india_REGION, supplysector = A44.sector_en$supplysector)
 
-    # L244.SubregionalShares_gcamindia: subregional population and income shares (not currently used)
-   A44.india_state_subregional_pop_share <- A44.india_state_subregional_pop_share %>%
-    select (region, gcam.consumer, pop.year.fillout = year, subregional.population.share = value)
+    # L244.SubregionalShares_gcamindia: subregional population and income shares
 
     L244.SubregionalShares_gcamindia <- A44.india_state_subregional_pop_share %>%
-      bind_cols(A44.india_state_subregional_income_share) %>%  select(-region1, -gcam.consumer1) %>%
-      mutate(region = region)
+      left_join(A44.india_state_subregional_income_share, by = c("region", "gcam.consumer", "year")) %>%
+      mutate (inc.year.fillout = year) %>%
+      select (region, gcam.consumer, pop.year.fillout = year, subregional.population.share = value.x, subregional.income.share = value.y, inc.year.fillout)
+
 
     # L244.PriceExp_IntGains_gcamindia: price exponent on floorspace and naming of internal gains trial markets
     L244.PriceExp_IntGains_gcamindia <- write_to_all_india_states(A44.india_state_gcam_consumer, LEVEL2_DATA_NAMES[["PriceExp_IntGains"]])
