@@ -22,8 +22,10 @@ electricity,biomass,biomass (IGCC),regional biomass,0.416,0.416,0.416,0.3195,0.3
 electricity,biomass,biomass (IGCC CCS),regional biomass,0.356852457,0.356852457,0.356852457,0.262153846,0.262153846,,-0.1907277,0.05,biomass (IGCC)
 electricity,nuclear,Gen_II_LWR,nuclearFuelGenII,0.333,0.333,0.333,0.333,0.333,0.333,,,
 electricity,nuclear,Gen_III,nuclearFuelGenIII,0.333,0.333,0.333,0.333,0.333,0.333,,,
-electricity,wind,wind,onshore wind resource,1,1,1,1,1,1,,,
-electricity,wind,wind_storage,onshore wind resource,0.96,0.96,0.96,0.96,0.96,0.96,,,
+electricity,wind,onshore,onshore wind resource,1,1,1,1,1,1,,,
+electricity,wind,onshore_storage,onshore wind resource,0.96,0.96,0.96,0.96,0.96,0.96,,,
+electricity,wind,offshore,onshore wind resource,0.96,0.96,0.96,0.96,0.96,0.96,,,
+electricity,wind,offshore_storage,onshore wind resource,0.96,0.96,0.96,0.96,0.96,0.96,,,
 electricity,solar,PV,global solar resource,1,1,1,1,1,1,,,
 electricity,solar,PV_storage,global solar resource,0.96,0.96,0.96,0.96,0.96,0.96,,,
 electricity,solar,CSP,global solar resource,1,1,1,1,1,1,,,
