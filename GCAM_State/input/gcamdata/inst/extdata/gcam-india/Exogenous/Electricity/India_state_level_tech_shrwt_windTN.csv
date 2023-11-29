@@ -1,0 +1,9 @@
+INPUT_TABLE
+Variable ID
+IndiaIndustechSharewt
+,,,,,,,,,
+region,supplysector,subsector,technology,apply.to,from.year,to.year,from.value,to-value,interpolation.function
+TN ,electricity,wind,offshore,share-weight,2010,2025,0,0,fixed
+TN ,electricity,wind,offshore,share-weight,2020,2100,0,1,linear
+TN ,electricity,wind,onshore,share-weight,2035,2100,1,3,linear
+TN ,electricity,wind,onshore,share-weight,2095,2100,3,3,fixed

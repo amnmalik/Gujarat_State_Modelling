@@ -21,7 +21,7 @@ India,electricity,solar,PV_storage,2015,25
 India,electricity,refined liquids,refined liquids (CC CCS),2015,50
 India,electricity,refined liquids,refined liquids (CC),2015,50
 India,electricity,refined liquids,refined liquids (steam/CT),2015,50
-India,electricity,wind,wind_storage,2015,25
+India,electricity,wind,onshore_storage,2015,25
 India,electricity,biomass,biomass (conv CCS),2020,50
 India,electricity,biomass,biomass (conv),2020,50
 India,electricity,biomass,biomass (IGCC CCS),2020,50
@@ -39,7 +39,7 @@ India,electricity,solar,PV_storage,2020,25
 India,electricity,refined liquids,refined liquids (CC CCS),2020,50
 India,electricity,refined liquids,refined liquids (CC),2020,50
 India,electricity,refined liquids,refined liquids (steam/CT),2020,50
-India,electricity,wind,wind_storage,2020,25
+India,electricity,wind,onshore_storage,2020,25
 India,electricity,biomass,biomass (conv CCS),2025,50
 India,electricity,biomass,biomass (conv),2025,50
 India,electricity,biomass,biomass (IGCC CCS),2025,50
@@ -57,7 +57,7 @@ India,electricity,solar,PV_storage,2025,25
 India,electricity,refined liquids,refined liquids (CC CCS),2025,50
 India,electricity,refined liquids,refined liquids (CC),2025,50
 India,electricity,refined liquids,refined liquids (steam/CT),2025,50
-India,electricity,wind,wind_storage,2025,25
+India,electricity,wind,onshore_storage,2025,25
 India,electricity,biomass,biomass (conv CCS),2030,50
 India,electricity,biomass,biomass (conv),2030,50
 India,electricity,biomass,biomass (IGCC CCS),2030,50
@@ -75,7 +75,7 @@ India,electricity,solar,PV_storage,2030,25
 India,electricity,refined liquids,refined liquids (CC CCS),2030,50
 India,electricity,refined liquids,refined liquids (CC),2030,50
 India,electricity,refined liquids,refined liquids (steam/CT),2030,50
-India,electricity,wind,wind_storage,2030,25
+India,electricity,wind,onshore_storage,2030,25
 India,electricity,biomass,biomass (conv CCS),2035,50
 India,electricity,biomass,biomass (conv),2035,50
 India,electricity,biomass,biomass (IGCC CCS),2035,50
@@ -93,7 +93,7 @@ India,electricity,solar,PV_storage,2035,25
 India,electricity,refined liquids,refined liquids (CC CCS),2035,50
 India,electricity,refined liquids,refined liquids (CC),2035,50
 India,electricity,refined liquids,refined liquids (steam/CT),2035,50
-India,electricity,wind,wind_storage,2035,25
+India,electricity,wind,onshore_storage,2035,25
 India,electricity,biomass,biomass (conv CCS),2040,50
 India,electricity,biomass,biomass (conv),2040,50
 India,electricity,biomass,biomass (IGCC CCS),2040,50
@@ -111,7 +111,7 @@ India,electricity,solar,PV_storage,2040,25
 India,electricity,refined liquids,refined liquids (CC CCS),2040,50
 India,electricity,refined liquids,refined liquids (CC),2040,50
 India,electricity,refined liquids,refined liquids (steam/CT),2040,50
-India,electricity,wind,wind_storage,2040,25
+India,electricity,wind,onshore_storage,2040,25
 India,electricity,biomass,biomass (conv CCS),2045,50
 India,electricity,biomass,biomass (conv),2045,50
 India,electricity,biomass,biomass (IGCC CCS),2045,50
@@ -129,7 +129,7 @@ India,electricity,solar,PV_storage,2045,25
 India,electricity,refined liquids,refined liquids (CC CCS),2045,50
 India,electricity,refined liquids,refined liquids (CC),2045,50
 India,electricity,refined liquids,refined liquids (steam/CT),2045,50
-India,electricity,wind,wind_storage,2045,25
+India,electricity,wind,onshore_storage,2045,25
 India,electricity,biomass,biomass (conv CCS),2050,50
 India,electricity,biomass,biomass (conv),2050,50
 India,electricity,biomass,biomass (IGCC CCS),2050,50
@@ -147,7 +147,7 @@ India,electricity,solar,PV_storage,2050,25
 India,electricity,refined liquids,refined liquids (CC CCS),2050,50
 India,electricity,refined liquids,refined liquids (CC),2050,50
 India,electricity,refined liquids,refined liquids (steam/CT),2050,50
-India,electricity,wind,wind_storage,2050,25
+India,electricity,wind,onshore_storage,2050,25
 India,electricity,biomass,biomass (conv CCS),2055,50
 India,electricity,biomass,biomass (conv),2055,50
 India,electricity,biomass,biomass (IGCC CCS),2055,50
@@ -165,7 +165,7 @@ India,electricity,solar,PV_storage,2055,25
 India,electricity,refined liquids,refined liquids (CC CCS),2055,50
 India,electricity,refined liquids,refined liquids (CC),2055,50
 India,electricity,refined liquids,refined liquids (steam/CT),2055,50
-India,electricity,wind,wind_storage,2055,25
+India,electricity,wind,onshore_storage,2055,25
 India,electricity,biomass,biomass (conv CCS),2060,50
 India,electricity,biomass,biomass (conv),2060,50
 India,electricity,biomass,biomass (IGCC CCS),2060,50
@@ -183,7 +183,7 @@ India,electricity,solar,PV_storage,2060,25
 India,electricity,refined liquids,refined liquids (CC CCS),2060,50
 India,electricity,refined liquids,refined liquids (CC),2060,50
 India,electricity,refined liquids,refined liquids (steam/CT),2060,50
-India,electricity,wind,wind_storage,2060,25
+India,electricity,wind,onshore_storage,2060,25
 India,electricity,biomass,biomass (conv CCS),2065,50
 India,electricity,biomass,biomass (conv),2065,50
 India,electricity,biomass,biomass (IGCC CCS),2065,50
@@ -201,7 +201,7 @@ India,electricity,solar,PV_storage,2065,25
 India,electricity,refined liquids,refined liquids (CC CCS),2065,50
 India,electricity,refined liquids,refined liquids (CC),2065,50
 India,electricity,refined liquids,refined liquids (steam/CT),2065,50
-India,electricity,wind,wind_storage,2065,25
+India,electricity,wind,onshore_storage,2065,25
 India,electricity,biomass,biomass (conv CCS),2070,50
 India,electricity,biomass,biomass (conv),2070,50
 India,electricity,biomass,biomass (IGCC CCS),2070,50
@@ -219,7 +219,7 @@ India,electricity,solar,PV_storage,2070,25
 India,electricity,refined liquids,refined liquids (CC CCS),2070,50
 India,electricity,refined liquids,refined liquids (CC),2070,50
 India,electricity,refined liquids,refined liquids (steam/CT),2070,50
-India,electricity,wind,wind_storage,2070,25
+India,electricity,wind,onshore_storage,2070,25
 India,electricity,biomass,biomass (conv CCS),2075,50
 India,electricity,biomass,biomass (conv),2075,50
 India,electricity,biomass,biomass (IGCC CCS),2075,50
@@ -237,7 +237,7 @@ India,electricity,solar,PV_storage,2075,25
 India,electricity,refined liquids,refined liquids (CC CCS),2075,50
 India,electricity,refined liquids,refined liquids (CC),2075,50
 India,electricity,refined liquids,refined liquids (steam/CT),2075,50
-India,electricity,wind,wind_storage,2075,25
+India,electricity,wind,onshore_storage,2075,25
 India,electricity,biomass,biomass (conv CCS),2080,50
 India,electricity,biomass,biomass (conv),2080,50
 India,electricity,biomass,biomass (IGCC CCS),2080,50
@@ -255,7 +255,7 @@ India,electricity,solar,PV_storage,2080,25
 India,electricity,refined liquids,refined liquids (CC CCS),2080,50
 India,electricity,refined liquids,refined liquids (CC),2080,50
 India,electricity,refined liquids,refined liquids (steam/CT),2080,50
-India,electricity,wind,wind_storage,2080,25
+India,electricity,wind,onshore_storage,2080,25
 India,electricity,biomass,biomass (conv CCS),2085,50
 India,electricity,biomass,biomass (conv),2085,50
 India,electricity,biomass,biomass (IGCC CCS),2085,50
@@ -273,7 +273,7 @@ India,electricity,solar,PV_storage,2085,25
 India,electricity,refined liquids,refined liquids (CC CCS),2085,50
 India,electricity,refined liquids,refined liquids (CC),2085,50
 India,electricity,refined liquids,refined liquids (steam/CT),2085,50
-India,electricity,wind,wind_storage,2085,25
+India,electricity,wind,onshore_storage,2085,25
 India,electricity,biomass,biomass (conv CCS),2090,50
 India,electricity,biomass,biomass (conv),2090,50
 India,electricity,biomass,biomass (IGCC CCS),2090,50
@@ -291,7 +291,7 @@ India,electricity,solar,PV_storage,2090,25
 India,electricity,refined liquids,refined liquids (CC CCS),2090,50
 India,electricity,refined liquids,refined liquids (CC),2090,50
 India,electricity,refined liquids,refined liquids (steam/CT),2090,50
-India,electricity,wind,wind_storage,2090,25
+India,electricity,wind,onshore_storage,2090,25
 India,electricity,biomass,biomass (conv CCS),2095,50
 India,electricity,biomass,biomass (conv),2095,50
 India,electricity,biomass,biomass (IGCC CCS),2095,50
@@ -309,7 +309,7 @@ India,electricity,solar,PV_storage,2095,25
 India,electricity,refined liquids,refined liquids (CC CCS),2095,50
 India,electricity,refined liquids,refined liquids (CC),2095,50
 India,electricity,refined liquids,refined liquids (steam/CT),2095,50
-India,electricity,wind,wind_storage,2095,25
+India,electricity,wind,onshore_storage,2095,25
 India,electricity,biomass,biomass (conv CCS),2100,50
 India,electricity,biomass,biomass (conv),2100,50
 India,electricity,biomass,biomass (IGCC CCS),2100,50
@@ -327,4 +327,22 @@ India,electricity,solar,PV_storage,2100,25
 India,electricity,refined liquids,refined liquids (CC CCS),2100,50
 India,electricity,refined liquids,refined liquids (CC),2100,50
 India,electricity,refined liquids,refined liquids (steam/CT),2100,50
-India,electricity,wind,wind_storage,2100,25
+India,electricity,wind,onshore_storage,2100,25
+India,electricity,wind,offshore_storage,2015,25
+India,electricity,wind,offshore_storage,2020,25
+India,electricity,wind,offshore_storage,2025,25
+India,electricity,wind,offshore_storage,2030,25
+India,electricity,wind,offshore_storage,2035,25
+India,electricity,wind,offshore_storage,2040,25
+India,electricity,wind,offshore_storage,2045,25
+India,electricity,wind,offshore_storage,2050,25
+India,electricity,wind,offshore_storage,2055,25
+India,electricity,wind,offshore_storage,2060,25
+India,electricity,wind,offshore_storage,2065,25
+India,electricity,wind,offshore_storage,2070,25
+India,electricity,wind,offshore_storage,2075,25
+India,electricity,wind,offshore_storage,2080,25
+India,electricity,wind,offshore_storage,2085,25
+India,electricity,wind,offshore_storage,2090,25
+India,electricity,wind,offshore_storage,2095,25
+India,electricity,wind,offshore_storage,2100,25

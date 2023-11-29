@@ -1,7 +1,7 @@
-INPUT_TABLE
-Variable ID
-IndiaIndTechInterp_new
-
+INPUT_TABLE,,,,,,,,
+Variable ID,,,,,,,,
+IndiaIndTechInterp_new,,,,,,,,
+,,,,,,,,
 region,supplysector,subsector,apply.to,from.year,to.year,from.value,to-value,interpolation.function
 AN,Chem_Fert_enuse,hydrogen,share-weight,2010,2100,0,0.0001,linear
 AP,Chem_Fert_enuse,hydrogen,share-weight,2010,2100,0,0.0001,linear
@@ -1176,114 +1176,7 @@ UP,process heat cement,biomass,share-weight,2010,2100,0.00903185,0.00903185,fixe
 UP,process heat cement,coal,share-weight,2010,2100,0.5,0.5,fixed
 UP,process heat cement,gas,share-weight,2010,2100,1,1,fixed
 UP,process heat cement,refined liquids,share-weight,2010,2100,0.01,0.01,fixed
-AN,Agriculture_enuse,refined liquids,share-weight,2010,2020,0.01,0.01,fixed
-AP,Agriculture_enuse,refined liquids,share-weight,2010,2020,0.01,0.01,fixed
-AR,Agriculture_enuse,refined liquids,share-weight,2010,2020,0.01,0.01,fixed
-AS,Agriculture_enuse,refined liquids,share-weight,2010,2020,0.01,0.01,fixed
-BR,Agriculture_enuse,refined liquids,share-weight,2010,2020,0.01,0.01,fixed
-CG,Agriculture_enuse,refined liquids,share-weight,2010,2020,0.01,0.01,fixed
-CH,Agriculture_enuse,refined liquids,share-weight,2010,2020,0.01,0.01,fixed
-DD,Agriculture_enuse,refined liquids,share-weight,2010,2020,0.01,0.01,fixed
-DL,Agriculture_enuse,refined liquids,share-weight,2010,2020,0.01,0.01,fixed
-DN,Agriculture_enuse,refined liquids,share-weight,2010,2020,0.01,0.01,fixed
-GA,Agriculture_enuse,refined liquids,share-weight,2010,2020,0.01,0.01,fixed
-GJ,Agriculture_enuse,refined liquids,share-weight,2010,2020,0.01,0.01,fixed
-HP,Agriculture_enuse,refined liquids,share-weight,2010,2020,0.01,0.01,fixed
-HR,Agriculture_enuse,refined liquids,share-weight,2010,2020,0.01,0.01,fixed
-JH,Agriculture_enuse,refined liquids,share-weight,2010,2020,0.01,0.01,fixed
-JK,Agriculture_enuse,refined liquids,share-weight,2010,2020,0.01,0.01,fixed
-KA,Agriculture_enuse,refined liquids,share-weight,2010,2020,0.01,0.01,fixed
-KL,Agriculture_enuse,refined liquids,share-weight,2010,2020,0.01,0.01,fixed
-LA,Agriculture_enuse,refined liquids,share-weight,2010,2020,0.01,0.01,fixed
-LD,Agriculture_enuse,refined liquids,share-weight,2010,2020,0.01,0.01,fixed
-MH,Agriculture_enuse,refined liquids,share-weight,2010,2020,0.01,0.01,fixed
-ML,Agriculture_enuse,refined liquids,share-weight,2010,2020,0.01,0.01,fixed
-MN,Agriculture_enuse,refined liquids,share-weight,2010,2020,0.01,0.01,fixed
-MP,Agriculture_enuse,refined liquids,share-weight,2010,2020,0.01,0.01,fixed
-MZ,Agriculture_enuse,refined liquids,share-weight,2010,2020,0.01,0.01,fixed
-NL,Agriculture_enuse,refined liquids,share-weight,2010,2020,0.01,0.01,fixed
-OD,Agriculture_enuse,refined liquids,share-weight,2010,2020,0.01,0.01,fixed
-PB,Agriculture_enuse,refined liquids,share-weight,2010,2020,0.01,0.01,fixed
-PC,Agriculture_enuse,refined liquids,share-weight,2010,2020,0.01,0.01,fixed
-RJ,Agriculture_enuse,refined liquids,share-weight,2010,2020,0.01,0.01,fixed
-SK,Agriculture_enuse,refined liquids,share-weight,2010,2020,0.01,0.01,fixed
-TN,Agriculture_enuse,refined liquids,share-weight,2010,2020,0.01,0.01,fixed
-TR,Agriculture_enuse,refined liquids,share-weight,2010,2020,0.01,0.01,fixed
-TS,Agriculture_enuse,refined liquids,share-weight,2010,2020,0.01,0.01,fixed
-UK,Agriculture_enuse,refined liquids,share-weight,2010,2020,0.01,0.01,fixed
-UP,Agriculture_enuse,refined liquids,share-weight,2010,2020,0.01,0.01,fixed
-WB,Agriculture_enuse,refined liquids,share-weight,2010,2020,0.01,0.01,fixed
-AN,Agriculture_enuse,refined liquids,share-weight,2015,2100,0.01,0.01,fixed
-AP,Agriculture_enuse,refined liquids,share-weight,2015,2100,0.01,0.01,fixed
-AR,Agriculture_enuse,refined liquids,share-weight,2015,2100,0.01,0.01,fixed
-AS,Agriculture_enuse,refined liquids,share-weight,2015,2100,0.01,0.01,fixed
-BR,Agriculture_enuse,refined liquids,share-weight,2015,2100,0.01,0.01,fixed
-CG,Agriculture_enuse,refined liquids,share-weight,2015,2100,0.01,0.01,fixed
-CH,Agriculture_enuse,refined liquids,share-weight,2015,2100,0.01,0.01,fixed
-DD,Agriculture_enuse,refined liquids,share-weight,2015,2100,0.01,0.01,fixed
-DL,Agriculture_enuse,refined liquids,share-weight,2015,2100,0.01,0.01,fixed
-DN,Agriculture_enuse,refined liquids,share-weight,2015,2100,0.01,0.01,fixed
-GA,Agriculture_enuse,refined liquids,share-weight,2015,2100,0.01,0.01,fixed
-GJ,Agriculture_enuse,refined liquids,share-weight,2015,2100,0.01,0.01,fixed
-HP,Agriculture_enuse,refined liquids,share-weight,2015,2100,0.01,0.01,fixed
-HR,Agriculture_enuse,refined liquids,share-weight,2015,2100,0.01,0.01,fixed
-JH,Agriculture_enuse,refined liquids,share-weight,2015,2100,0.01,0.01,fixed
-JK,Agriculture_enuse,refined liquids,share-weight,2015,2100,0.01,0.01,fixed
-KA,Agriculture_enuse,refined liquids,share-weight,2015,2100,0.01,0.01,fixed
-KL,Agriculture_enuse,refined liquids,share-weight,2015,2100,0.01,0.01,fixed
-LA,Agriculture_enuse,refined liquids,share-weight,2015,2100,0.01,0.01,fixed
-LD,Agriculture_enuse,refined liquids,share-weight,2015,2100,0.01,0.01,fixed
-MH,Agriculture_enuse,refined liquids,share-weight,2015,2100,0.01,0.01,fixed
-ML,Agriculture_enuse,refined liquids,share-weight,2015,2100,0.01,0.01,fixed
-MN,Agriculture_enuse,refined liquids,share-weight,2015,2100,0.01,0.01,fixed
-MP,Agriculture_enuse,refined liquids,share-weight,2015,2100,0.01,0.01,fixed
-MZ,Agriculture_enuse,refined liquids,share-weight,2015,2100,0.01,0.01,fixed
-NL,Agriculture_enuse,refined liquids,share-weight,2015,2100,0.01,0.01,fixed
-OD,Agriculture_enuse,refined liquids,share-weight,2015,2100,0.01,0.01,fixed
-PB,Agriculture_enuse,refined liquids,share-weight,2015,2100,0.01,0.01,fixed
-PC,Agriculture_enuse,refined liquids,share-weight,2015,2100,0.01,0.01,fixed
-RJ,Agriculture_enuse,refined liquids,share-weight,2015,2100,0.01,0.01,fixed
-SK,Agriculture_enuse,refined liquids,share-weight,2015,2100,0.01,0.01,fixed
-TN,Agriculture_enuse,refined liquids,share-weight,2015,2100,0.01,0.01,fixed
-TR,Agriculture_enuse,refined liquids,share-weight,2015,2100,0.01,0.01,fixed
-TS,Agriculture_enuse,refined liquids,share-weight,2015,2100,0.01,0.01,fixed
-UK,Agriculture_enuse,refined liquids,share-weight,2015,2100,0.01,0.01,fixed
-UP,Agriculture_enuse,refined liquids,share-weight,2015,2100,0.01,0.01,fixed
-WB,Agriculture_enuse,refined liquids,share-weight,2015,2100,0.01,0.01,fixed
-AN,Agriculture_enuse,refined liquids,share-weight,2095,2100,0.01,0.01,fixed
-AP,Agriculture_enuse,refined liquids,share-weight,2095,2100,0.01,0.01,fixed
-AR,Agriculture_enuse,refined liquids,share-weight,2095,2100,0.01,0.01,fixed
-AS,Agriculture_enuse,refined liquids,share-weight,2095,2100,0.01,0.01,fixed
-BR,Agriculture_enuse,refined liquids,share-weight,2095,2100,0.01,0.01,fixed
-CG,Agriculture_enuse,refined liquids,share-weight,2095,2100,0.01,0.01,fixed
-CH,Agriculture_enuse,refined liquids,share-weight,2095,2100,0.01,0.01,fixed
-DD,Agriculture_enuse,refined liquids,share-weight,2095,2100,0.01,0.01,fixed
-DL,Agriculture_enuse,refined liquids,share-weight,2095,2100,0.01,0.01,fixed
-DN,Agriculture_enuse,refined liquids,share-weight,2095,2100,0.01,0.01,fixed
-GA,Agriculture_enuse,refined liquids,share-weight,2095,2100,0.01,0.01,fixed
-GJ,Agriculture_enuse,refined liquids,share-weight,2095,2100,0.01,0.01,fixed
-HP,Agriculture_enuse,refined liquids,share-weight,2095,2100,0.01,0.01,fixed
-HR,Agriculture_enuse,refined liquids,share-weight,2095,2100,0.01,0.01,fixed
-JH,Agriculture_enuse,refined liquids,share-weight,2095,2100,0.01,0.01,fixed
-JK,Agriculture_enuse,refined liquids,share-weight,2095,2100,0.01,0.01,fixed
-KA,Agriculture_enuse,refined liquids,share-weight,2095,2100,0.01,0.01,fixed
-KL,Agriculture_enuse,refined liquids,share-weight,2095,2100,0.01,0.01,fixed
-LA,Agriculture_enuse,refined liquids,share-weight,2095,2100,0.01,0.01,fixed
-LD,Agriculture_enuse,refined liquids,share-weight,2095,2100,0.01,0.01,fixed
-MH,Agriculture_enuse,refined liquids,share-weight,2095,2100,0.01,0.01,fixed
-ML,Agriculture_enuse,refined liquids,share-weight,2095,2100,0.01,0.01,fixed
-MN,Agriculture_enuse,refined liquids,share-weight,2095,2100,0.01,0.01,fixed
-MP,Agriculture_enuse,refined liquids,share-weight,2095,2100,0.01,0.01,fixed
-MZ,Agriculture_enuse,refined liquids,share-weight,2095,2100,0.01,0.01,fixed
-NL,Agriculture_enuse,refined liquids,share-weight,2095,2100,0.01,0.01,fixed
-OD,Agriculture_enuse,refined liquids,share-weight,2095,2100,0.01,0.01,fixed
-PB,Agriculture_enuse,refined liquids,share-weight,2095,2100,0.01,0.01,fixed
-PC,Agriculture_enuse,refined liquids,share-weight,2095,2100,0.01,0.01,fixed
-RJ,Agriculture_enuse,refined liquids,share-weight,2095,2100,0.01,0.01,fixed
-SK,Agriculture_enuse,refined liquids,share-weight,2095,2100,0.01,0.01,fixed
-TN,Agriculture_enuse,refined liquids,share-weight,2095,2100,0.01,0.01,fixed
-TR,Agriculture_enuse,refined liquids,share-weight,2095,2100,0.01,0.01,fixed
-TS,Agriculture_enuse,refined liquids,share-weight,2095,2100,0.01,0.01,fixed
-UK,Agriculture_enuse,refined liquids,share-weight,2095,2100,0.01,0.01,fixed
-UP,Agriculture_enuse,refined liquids,share-weight,2095,2100,0.01,0.01,fixed
-WB,Agriculture_enuse,refined liquids,share-weight,2095,2100,0.01,0.01,fixed
+TN,Agriculture_enuse,electricity ,share-weight,2010,2020,0.9,0.9,fixed
+TN,Agriculture_enuse,refined liquids,share-weight,2010,2020,120,120,fixed
+TN,Agriculture_enuse,refined liquids,share-weight,2015,2100,120,120,fixed
+TN,Agriculture_enuse,refined liquids,share-weight,2095,2100,120,120,fixed
