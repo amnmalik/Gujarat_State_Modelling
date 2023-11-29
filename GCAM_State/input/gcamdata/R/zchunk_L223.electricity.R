@@ -901,7 +901,8 @@ module_energy_L223.electricity <- function(command, ...) {
 
     # filter to the base cost year and match the base capital, fixed OM, and variable OM costs to the base price that year for wind technology.
     L223.GlobalIntTechCapital_elec %>%
-      filter(intermittent.technology == "wind" & year == energy.WIND.BASE.COST.YEAR) %>%
+      #filter(intermittent.technology == "wind" & year == energy.WIND.BASE.COST.YEAR) %>%
+      filter((intermittent.technology == "onshore" | intermittent.technology == "offshore") & year == energy.WIND.BASE.COST.YEAR) %>%
       select(LEVEL2_DATA_NAMES[["GlobalIntTechCapital"]]) %>%
       left_join(L223.StubTechCapFactor_elec_base, by = "year") %>%
       left_join(L223.GlobalIntTechOMvar_elec, by = c("year", "sector.name", "subsector.name", "intermittent.technology")) %>%
@@ -918,7 +919,7 @@ module_energy_L223.electricity <- function(command, ...) {
 
     # duplicates rows and appends wind.storage as a stub technology to itself, so capacity factors apply also to wind technology with storage
     L223.StubTechCapFactor_elec_nostor %>%
-      mutate(stub.technology = "wind_storage") %>%
+      mutate(stub.technology %in% c("onshore_storage","offshore_storage")) %>%
       bind_rows(L223.StubTechCapFactor_elec_nostor) ->
       L223.StubTechCapFactor_elec
     L223.StubTechCapFactor_elec <- L223.StubTechCapFactor_elec[LEVEL2_DATA_NAMES[["StubTechCapFactor"]]]
