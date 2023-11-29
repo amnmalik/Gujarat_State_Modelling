@@ -2,7 +2,7 @@
 # Title: Capacity factors by state by renewable technology
 # Units: Unitless
 # Comments: The data as been collected from various sources. For utility scale solar PV  Performance of solar power plants report by Central Electricty Regulartory Commision has been refered to
-# The CUF for all the north-eastern states has been assumed same due to lack of data points. Literature states that the diff. between CUF of rooftop and utility scale solar is approx. 2% for the generation of a particular capacity and thus  applied to each state
+# The CUF for all the north-eastern states has been assumed same due to lack of data points. Literature states that the diff. between CUF of rooftop and utility scale solar is approx. 2% for the generation of a particualr capacity and thus  applied to each state
 # The data from CEEW's report on Wind Energy available at https://www.ceew.in/sites/default/files/CEEW-A-Second-Wind-for-India-Wind-Energy-Sector-17July19.pdf
 # There is only a few CSP plants in the state of UP,  RJ,  AP and GJ. The factors are calcualted from the information provided for capacity and generation at NREL website
 # Column types: cnnn

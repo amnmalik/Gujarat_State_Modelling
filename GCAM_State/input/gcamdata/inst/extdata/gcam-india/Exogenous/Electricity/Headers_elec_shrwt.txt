@@ -800,5 +800,9 @@ IndiaIndusSharewt, world/+{name}region, region/+{name}supplysector, supplysector
 
 IndiaIndustechSharewt, world/+{name}region, region/+{name}supplysector, supplysector/+{name}subsector, subsector/+{name}technology, technology/+{apply-to}interpolation-rule, technology/+{from-year}interpolation-rule, technology/+{to-year}interpolation-rule, interpolation-rule/+from-value, interpolation-rule/+to-value, interpolation-rule/+{name}interpolation-function, scenario, scenario/world
 
+StateCCUSShareweight, world/+{name}region, region/+{name}supplysector, supplysector/+{name}subsector, subsector/+{name}technology, technology/+{apply-to}interpolation-rule, technology/+{from-year}interpolation-rule, technology/+{to-year}interpolation-rule, interpolation-rule/+from-value, interpolation-rule/+to-value, interpolation-rule/+{name}interpolation-function, scenario, scenario/world
+
+
+
 
 EQUIV_TABLE,NODE_EQUIVALENCE

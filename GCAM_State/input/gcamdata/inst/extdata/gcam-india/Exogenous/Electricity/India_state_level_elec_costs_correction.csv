@@ -1,7 +1,7 @@
-INPUT_TABLE
-Variable ID
-RegionFuelAdder
-
+INPUT_TABLE,,,,,,
+Variable ID,,,,,,
+RegionFuelAdder,,,,,,
+,,,,,,
 region,supplysector,subsector,technology,year,minicam-non-energy-input,input-cost
 AN,electricity,coal,coal (conv pul),2010,tax,-0.84487858
 AP,electricity,coal,coal (conv pul),2010,tax,-0.84488691
@@ -706,22 +706,3 @@ TS,electricity,coal,coal (conv pul),2100,tax,0
 UK,electricity,coal,coal (conv pul),2100,tax,0
 UP,electricity,coal,coal (conv pul),2100,tax,0
 WB,electricity,coal,coal (conv pul),2100,tax,0
-TN,electricity,wind,onshore,2010,tax,0
-TN,electricity,wind,onshore,2015,tax,0
-TN,electricity,wind,onshore,2020,tax,0
-TN,electricity,wind,onshore,2025,tax,-2
-TN,electricity,wind,onshore,2030,tax,-2
-TN,electricity,wind,onshore,2035,tax,-2
-TN,electricity,wind,onshore,2040,tax,-2
-TN,electricity,wind,onshore,2045,tax,-2
-TN,electricity,wind,onshore,2050,tax,-1.7
-TN,electricity,wind,onshore,2055,tax,-1.5
-TN,electricity,wind,onshore,2060,tax,-1.5
-TN,electricity,wind,onshore,2065,tax,-1.3
-TN,electricity,wind,onshore,2070,tax,-1.2
-TN,electricity,wind,onshore,2075,tax,-1.2
-TN,electricity,wind,onshore,2080,tax,-1.2
-TN,electricity,wind,onshore,2085,tax,-1.2
-TN,electricity,wind,onshore,2090,tax,-1.2
-TN,electricity,wind,onshore,2095,tax,-1.2
-TN,electricity,wind,onshore,2100,tax,-1.2

@@ -34,6 +34,7 @@ PB,comm others,biomass,share-weight,2010,2015,0.05,0.05,fixed
 PC,comm others,biomass,share-weight,2010,2015,0.00767785,0.00767785,fixed
 RJ,comm others,biomass,share-weight,2010,2015,0.05,0.05,fixed
 SK,comm others,biomass,share-weight,2010,2015,0.000622475,0.000622475,fixed
+TN,comm others,biomass,share-weight,2010,2015,0.05,0.05,fixed
 TR,comm others,biomass,share-weight,2010,2015,0.05,0.05,fixed
 TS,comm others,biomass,share-weight,2010,2015,0,0,fixed
 UK,comm others,biomass,share-weight,2010,2015,0.05,0.05,fixed
@@ -70,6 +71,7 @@ PB,comm others,biomass,share-weight,2010,2050,0.005,0,linear
 PC,comm others,biomass,share-weight,2010,2050,0.000767785,0,linear
 RJ,comm others,biomass,share-weight,2010,2050,0.005,0,linear
 SK,comm others,biomass,share-weight,2010,2050,6.22E-05,0,linear
+TN,comm others,biomass,share-weight,2010,2050,0.005,0,linear
 TR,comm others,biomass,share-weight,2010,2050,0.005,0,linear
 TS,comm others,biomass,share-weight,2010,2050,0,0,linear
 UK,comm others,biomass,share-weight,2010,2050,0.005,0,linear
@@ -106,6 +108,7 @@ PB,comm others,biomass,share-weight,2045,2100,0,0,fixed
 PC,comm others,biomass,share-weight,2045,2100,0,0,fixed
 RJ,comm others,biomass,share-weight,2045,2100,0,0,fixed
 SK,comm others,biomass,share-weight,2045,2100,0,0,fixed
+TN,comm others,biomass,share-weight,2045,2100,0,0,fixed
 TR,comm others,biomass,share-weight,2045,2100,0,0,fixed
 TS,comm others,biomass,share-weight,2045,2100,0,0,fixed
 UK,comm others,biomass,share-weight,2045,2100,0,0,fixed
@@ -142,6 +145,7 @@ PB,resid rural apploth,biomass,share-weight,2010,2015,0,0,fixed
 PC,resid rural apploth,biomass,share-weight,2010,2015,0,0,fixed
 RJ,resid rural apploth,biomass,share-weight,2010,2015,0,0,fixed
 SK,resid rural apploth,biomass,share-weight,2010,2015,0,0,fixed
+TN,resid rural apploth,biomass,share-weight,2010,2015,0,0,fixed
 TR,resid rural apploth,biomass,share-weight,2010,2015,0,0,fixed
 TS,resid rural apploth,biomass,share-weight,2010,2015,0,0,fixed
 UK,resid rural apploth,biomass,share-weight,2010,2015,0,0,fixed
@@ -178,6 +182,7 @@ PB,resid rural apploth,biomass,share-weight,2010,2050,0,0,linear
 PC,resid rural apploth,biomass,share-weight,2010,2050,0,0,linear
 RJ,resid rural apploth,biomass,share-weight,2010,2050,0,0,linear
 SK,resid rural apploth,biomass,share-weight,2010,2050,0,0,linear
+TN,resid rural apploth,biomass,share-weight,2010,2050,0,0,linear
 TR,resid rural apploth,biomass,share-weight,2010,2050,0,0,linear
 TS,resid rural apploth,biomass,share-weight,2010,2050,0,0,linear
 UK,resid rural apploth,biomass,share-weight,2010,2050,0,0,linear
@@ -214,6 +219,7 @@ PB,resid rural apploth,biomass,share-weight,2045,2100,0,0,fixed
 PC,resid rural apploth,biomass,share-weight,2045,2100,0,0,fixed
 RJ,resid rural apploth,biomass,share-weight,2045,2100,0,0,fixed
 SK,resid rural apploth,biomass,share-weight,2045,2100,0,0,fixed
+TN,resid rural apploth,biomass,share-weight,2045,2100,0,0,fixed
 TR,resid rural apploth,biomass,share-weight,2045,2100,0,0,fixed
 TS,resid rural apploth,biomass,share-weight,2045,2100,0,0,fixed
 UK,resid rural apploth,biomass,share-weight,2045,2100,0,0,fixed
@@ -250,6 +256,7 @@ PB,resid rural cooking,biomass,share-weight,2010,2015,0,0,fixed
 PC,resid rural cooking,biomass,share-weight,2010,2015,0,0,fixed
 RJ,resid rural cooking,biomass,share-weight,2010,2015,0,0,fixed
 SK,resid rural cooking,biomass,share-weight,2010,2015,0,0,fixed
+TN,resid rural cooking,biomass,share-weight,2010,2015,0,0,fixed
 TR,resid rural cooking,biomass,share-weight,2010,2015,0,0,fixed
 TS,resid rural cooking,biomass,share-weight,2010,2015,0,0,fixed
 UK,resid rural cooking,biomass,share-weight,2010,2015,0,0,fixed
@@ -286,6 +293,7 @@ PB,resid rural cooking,biomass,share-weight,2010,2050,0,0,linear
 PC,resid rural cooking,biomass,share-weight,2010,2050,0,0,linear
 RJ,resid rural cooking,biomass,share-weight,2010,2050,0,0,linear
 SK,resid rural cooking,biomass,share-weight,2010,2050,0,0,linear
+TN,resid rural cooking,biomass,share-weight,2010,2050,0,0,linear
 TR,resid rural cooking,biomass,share-weight,2010,2050,0,0,linear
 TS,resid rural cooking,biomass,share-weight,2010,2050,0,0,linear
 UK,resid rural cooking,biomass,share-weight,2010,2050,0,0,linear
@@ -322,6 +330,7 @@ PB,resid rural cooking,biomass,share-weight,2045,2100,0,0,fixed
 PC,resid rural cooking,biomass,share-weight,2045,2100,0,0,fixed
 RJ,resid rural cooking,biomass,share-weight,2045,2100,0,0,fixed
 SK,resid rural cooking,biomass,share-weight,2045,2100,0,0,fixed
+TN,resid rural cooking,biomass,share-weight,2045,2100,0,0,fixed
 TR,resid rural cooking,biomass,share-weight,2045,2100,0,0,fixed
 TS,resid rural cooking,biomass,share-weight,2045,2100,0,0,fixed
 UK,resid rural cooking,biomass,share-weight,2045,2100,0,0,fixed
@@ -358,6 +367,7 @@ PB,resid rural space heating,biomass,share-weight,2010,2015,0,0,fixed
 PC,resid rural space heating,biomass,share-weight,2010,2015,0,0,fixed
 RJ,resid rural space heating,biomass,share-weight,2010,2015,0,0,fixed
 SK,resid rural space heating,biomass,share-weight,2010,2015,0,0,fixed
+TN,resid rural space heating,biomass,share-weight,2010,2015,0,0,fixed
 TR,resid rural space heating,biomass,share-weight,2010,2015,0,0,fixed
 TS,resid rural space heating,biomass,share-weight,2010,2015,0,0,fixed
 UK,resid rural space heating,biomass,share-weight,2010,2015,0,0,fixed
@@ -394,6 +404,7 @@ PB,resid rural space heating,biomass,share-weight,2010,2050,0,0,linear
 PC,resid rural space heating,biomass,share-weight,2010,2050,0,0,linear
 RJ,resid rural space heating,biomass,share-weight,2010,2050,0,0,linear
 SK,resid rural space heating,biomass,share-weight,2010,2050,0,0,linear
+TN,resid rural space heating,biomass,share-weight,2010,2050,0,0,linear
 TR,resid rural space heating,biomass,share-weight,2010,2050,0,0,linear
 TS,resid rural space heating,biomass,share-weight,2010,2050,0,0,linear
 UK,resid rural space heating,biomass,share-weight,2010,2050,0,0,linear
@@ -430,6 +441,7 @@ PB,resid rural space heating,biomass,share-weight,2045,2100,0,0,fixed
 PC,resid rural space heating,biomass,share-weight,2045,2100,0,0,fixed
 RJ,resid rural space heating,biomass,share-weight,2045,2100,0,0,fixed
 SK,resid rural space heating,biomass,share-weight,2045,2100,0,0,fixed
+TN,resid rural space heating,biomass,share-weight,2045,2100,0,0,fixed
 TR,resid rural space heating,biomass,share-weight,2045,2100,0,0,fixed
 TS,resid rural space heating,biomass,share-weight,2045,2100,0,0,fixed
 UK,resid rural space heating,biomass,share-weight,2045,2100,0,0,fixed
@@ -466,6 +478,7 @@ PB,resid urban apploth,biomass,share-weight,2010,2015,0,0,fixed
 PC,resid urban apploth,biomass,share-weight,2010,2015,0,0,fixed
 RJ,resid urban apploth,biomass,share-weight,2010,2015,0,0,fixed
 SK,resid urban apploth,biomass,share-weight,2010,2015,0,0,fixed
+TN,resid urban apploth,biomass,share-weight,2010,2015,0,0,fixed
 TR,resid urban apploth,biomass,share-weight,2010,2015,0,0,fixed
 TS,resid urban apploth,biomass,share-weight,2010,2015,0,0,fixed
 UK,resid urban apploth,biomass,share-weight,2010,2015,0,0,fixed
@@ -502,6 +515,7 @@ PB,resid urban apploth,biomass,share-weight,2010,2050,0,0,linear
 PC,resid urban apploth,biomass,share-weight,2010,2050,0,0,linear
 RJ,resid urban apploth,biomass,share-weight,2010,2050,0,0,linear
 SK,resid urban apploth,biomass,share-weight,2010,2050,0,0,linear
+TN,resid urban apploth,biomass,share-weight,2010,2050,0,0,linear
 TR,resid urban apploth,biomass,share-weight,2010,2050,0,0,linear
 TS,resid urban apploth,biomass,share-weight,2010,2050,0,0,linear
 UK,resid urban apploth,biomass,share-weight,2010,2050,0,0,linear
@@ -538,6 +552,7 @@ PB,resid urban apploth,biomass,share-weight,2045,2100,0,0,fixed
 PC,resid urban apploth,biomass,share-weight,2045,2100,0,0,fixed
 RJ,resid urban apploth,biomass,share-weight,2045,2100,0,0,fixed
 SK,resid urban apploth,biomass,share-weight,2045,2100,0,0,fixed
+TN,resid urban apploth,biomass,share-weight,2045,2100,0,0,fixed
 TR,resid urban apploth,biomass,share-weight,2045,2100,0,0,fixed
 TS,resid urban apploth,biomass,share-weight,2045,2100,0,0,fixed
 UK,resid urban apploth,biomass,share-weight,2045,2100,0,0,fixed
@@ -574,6 +589,7 @@ PB,resid urban cooking,biomass,share-weight,2010,2015,0,0,fixed
 PC,resid urban cooking,biomass,share-weight,2010,2015,0,0,fixed
 RJ,resid urban cooking,biomass,share-weight,2010,2015,0,0,fixed
 SK,resid urban cooking,biomass,share-weight,2010,2015,0,0,fixed
+TN,resid urban cooking,biomass,share-weight,2010,2015,0,0,fixed
 TR,resid urban cooking,biomass,share-weight,2010,2015,0,0,fixed
 TS,resid urban cooking,biomass,share-weight,2010,2015,0,0,fixed
 UK,resid urban cooking,biomass,share-weight,2010,2015,0,0,fixed
@@ -610,6 +626,7 @@ PB,resid urban cooking,biomass,share-weight,2010,2050,0,0,linear
 PC,resid urban cooking,biomass,share-weight,2010,2050,0,0,linear
 RJ,resid urban cooking,biomass,share-weight,2010,2050,0,0,linear
 SK,resid urban cooking,biomass,share-weight,2010,2050,0,0,linear
+TN,resid urban cooking,biomass,share-weight,2010,2050,0,0,linear
 TR,resid urban cooking,biomass,share-weight,2010,2050,0,0,linear
 TS,resid urban cooking,biomass,share-weight,2010,2050,0,0,linear
 UK,resid urban cooking,biomass,share-weight,2010,2050,0,0,linear
@@ -646,6 +663,7 @@ PB,resid urban cooking,biomass,share-weight,2045,2100,0,0,fixed
 PC,resid urban cooking,biomass,share-weight,2045,2100,0,0,fixed
 RJ,resid urban cooking,biomass,share-weight,2045,2100,0,0,fixed
 SK,resid urban cooking,biomass,share-weight,2045,2100,0,0,fixed
+TN,resid urban cooking,biomass,share-weight,2045,2100,0,0,fixed
 TR,resid urban cooking,biomass,share-weight,2045,2100,0,0,fixed
 TS,resid urban cooking,biomass,share-weight,2045,2100,0,0,fixed
 UK,resid urban cooking,biomass,share-weight,2045,2100,0,0,fixed
@@ -682,6 +700,7 @@ PB,resid urban space heating,biomass,share-weight,2010,2015,0,0,fixed
 PC,resid urban space heating,biomass,share-weight,2010,2015,0,0,fixed
 RJ,resid urban space heating,biomass,share-weight,2010,2015,0,0,fixed
 SK,resid urban space heating,biomass,share-weight,2010,2015,0,0,fixed
+TN,resid urban space heating,biomass,share-weight,2010,2015,0,0,fixed
 TR,resid urban space heating,biomass,share-weight,2010,2015,0,0,fixed
 TS,resid urban space heating,biomass,share-weight,2010,2015,0,0,fixed
 UK,resid urban space heating,biomass,share-weight,2010,2015,0,0,fixed
@@ -718,6 +737,7 @@ PB,resid urban space heating,biomass,share-weight,2010,2050,0,0,linear
 PC,resid urban space heating,biomass,share-weight,2010,2050,0,0,linear
 RJ,resid urban space heating,biomass,share-weight,2010,2050,0,0,linear
 SK,resid urban space heating,biomass,share-weight,2010,2050,0,0,linear
+TN,resid urban space heating,biomass,share-weight,2010,2050,0,0,linear
 TR,resid urban space heating,biomass,share-weight,2010,2050,0,0,linear
 TS,resid urban space heating,biomass,share-weight,2010,2050,0,0,linear
 UK,resid urban space heating,biomass,share-weight,2010,2050,0,0,linear
@@ -754,6 +774,7 @@ PB,resid urban space heating,biomass,share-weight,2045,2100,0,0,fixed
 PC,resid urban space heating,biomass,share-weight,2045,2100,0,0,fixed
 RJ,resid urban space heating,biomass,share-weight,2045,2100,0,0,fixed
 SK,resid urban space heating,biomass,share-weight,2045,2100,0,0,fixed
+TN,resid urban space heating,biomass,share-weight,2045,2100,0,0,fixed
 TR,resid urban space heating,biomass,share-weight,2045,2100,0,0,fixed
 TS,resid urban space heating,biomass,share-weight,2045,2100,0,0,fixed
 UK,resid urban space heating,biomass,share-weight,2045,2100,0,0,fixed
@@ -790,6 +811,7 @@ PB,comm others,coal,share-weight,2010,2015,0.02309328,0.02309328,fixed
 PC,comm others,coal,share-weight,2010,2015,0.001670326,0.001670326,fixed
 RJ,comm others,coal,share-weight,2010,2015,0.04290405,0.04290405,fixed
 SK,comm others,coal,share-weight,2010,2015,1.24E-04,1.24E-04,fixed
+TN,comm others,coal,share-weight,2010,2015,0.005812275,0.005812275,fixed
 TR,comm others,coal,share-weight,2010,2015,0.0727874,0.0727874,fixed
 TS,comm others,coal,share-weight,2010,2015,0,0,fixed
 UK,comm others,coal,share-weight,2010,2015,0.018451265,0.018451265,fixed
@@ -826,6 +848,7 @@ PB,comm others,coal,share-weight,2010,2020,0.016165296,0.00E+00,linear
 PC,comm others,coal,share-weight,2010,2020,0.001169228,0.00E+00,linear
 RJ,comm others,coal,share-weight,2010,2020,0.030032835,0.00E+00,linear
 SK,comm others,coal,share-weight,2010,2020,8.67E-05,0.00E+00,linear
+TN,comm others,coal,share-weight,2010,2020,0.004068593,0.00E+00,linear
 TR,comm others,coal,share-weight,2010,2020,0.05095118,0.00E+00,linear
 TS,comm others,coal,share-weight,2010,2020,0,0.00E+00,linear
 UK,comm others,coal,share-weight,2010,2020,0.012915886,0.00E+00,linear
@@ -862,6 +885,7 @@ PB,comm others,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
 PC,comm others,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
 RJ,comm others,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
 SK,comm others,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
+TN,comm others,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
 TR,comm others,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
 TS,comm others,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
 UK,comm others,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
@@ -898,6 +922,7 @@ PB,resid rural apploth,coal,share-weight,2010,2015,0,0,fixed
 PC,resid rural apploth,coal,share-weight,2010,2015,0,0,fixed
 RJ,resid rural apploth,coal,share-weight,2010,2015,5.53E-07,5.53E-07,fixed
 SK,resid rural apploth,coal,share-weight,2010,2015,0,0,fixed
+TN,resid rural apploth,coal,share-weight,2010,2015,0,0,fixed
 TR,resid rural apploth,coal,share-weight,2010,2015,0,0,fixed
 TS,resid rural apploth,coal,share-weight,2010,2015,4.38E-09,4.38E-09,fixed
 UK,resid rural apploth,coal,share-weight,2010,2015,0,0,fixed
@@ -934,6 +959,7 @@ PB,resid rural apploth,coal,share-weight,2010,2020,0,0.00E+00,linear
 PC,resid rural apploth,coal,share-weight,2010,2020,0,0.00E+00,linear
 RJ,resid rural apploth,coal,share-weight,2010,2020,3.87E-07,0.00E+00,linear
 SK,resid rural apploth,coal,share-weight,2010,2020,0,0.00E+00,linear
+TN,resid rural apploth,coal,share-weight,2010,2020,0,0.00E+00,linear
 TR,resid rural apploth,coal,share-weight,2010,2020,0,0.00E+00,linear
 TS,resid rural apploth,coal,share-weight,2010,2020,3.06E-09,0.00E+00,linear
 UK,resid rural apploth,coal,share-weight,2010,2020,0,0.00E+00,linear
@@ -970,6 +996,7 @@ PB,resid rural apploth,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
 PC,resid rural apploth,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
 RJ,resid rural apploth,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
 SK,resid rural apploth,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
+TN,resid rural apploth,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
 TR,resid rural apploth,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
 TS,resid rural apploth,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
 UK,resid rural apploth,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
@@ -1006,6 +1033,7 @@ PB,resid rural cooking,coal,share-weight,2010,2015,0,0,fixed
 PC,resid rural cooking,coal,share-weight,2010,2015,0,0,fixed
 RJ,resid rural cooking,coal,share-weight,2010,2015,0.030078055,0.030078055,fixed
 SK,resid rural cooking,coal,share-weight,2010,2015,0,0,fixed
+TN,resid rural cooking,coal,share-weight,2010,2015,0,0,fixed
 TR,resid rural cooking,coal,share-weight,2010,2015,0,0,fixed
 TS,resid rural cooking,coal,share-weight,2010,2015,1.61E-04,1.61E-04,fixed
 UK,resid rural cooking,coal,share-weight,2010,2015,0,0,fixed
@@ -1042,6 +1070,7 @@ PB,resid rural cooking,coal,share-weight,2010,2020,0,0.00E+00,linear
 PC,resid rural cooking,coal,share-weight,2010,2020,0,0.00E+00,linear
 RJ,resid rural cooking,coal,share-weight,2010,2020,0.021054639,0.00E+00,linear
 SK,resid rural cooking,coal,share-weight,2010,2020,0,0.00E+00,linear
+TN,resid rural cooking,coal,share-weight,2010,2020,0,0.00E+00,linear
 TR,resid rural cooking,coal,share-weight,2010,2020,0,0.00E+00,linear
 TS,resid rural cooking,coal,share-weight,2010,2020,1.13E-04,0.00E+00,linear
 UK,resid rural cooking,coal,share-weight,2010,2020,0,0.00E+00,linear
@@ -1078,6 +1107,7 @@ PB,resid rural cooking,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
 PC,resid rural cooking,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
 RJ,resid rural cooking,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
 SK,resid rural cooking,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
+TN,resid rural cooking,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
 TR,resid rural cooking,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
 TS,resid rural cooking,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
 UK,resid rural cooking,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
@@ -1114,6 +1144,7 @@ PB,resid rural space heating,coal,share-weight,2010,2015,0,0,fixed
 PC,resid rural space heating,coal,share-weight,2010,2015,0,0,fixed
 RJ,resid rural space heating,coal,share-weight,2010,2015,0.35,0.35,fixed
 SK,resid rural space heating,coal,share-weight,2010,2015,0,0,fixed
+TN,resid rural space heating,coal,share-weight,2010,2015,0,0,fixed
 TR,resid rural space heating,coal,share-weight,2010,2015,0,0,fixed
 TS,resid rural space heating,coal,share-weight,2010,2015,2.23E-04,2.23E-04,fixed
 UK,resid rural space heating,coal,share-weight,2010,2015,0,0,fixed
@@ -1150,6 +1181,7 @@ PB,resid rural space heating,coal,share-weight,2010,2020,0,0.00E+00,linear
 PC,resid rural space heating,coal,share-weight,2010,2020,0,0.00E+00,linear
 RJ,resid rural space heating,coal,share-weight,2010,2020,0.245,0.00E+00,linear
 SK,resid rural space heating,coal,share-weight,2010,2020,0,0.00E+00,linear
+TN,resid rural space heating,coal,share-weight,2010,2020,0,0.00E+00,linear
 TR,resid rural space heating,coal,share-weight,2010,2020,0,0.00E+00,linear
 TS,resid rural space heating,coal,share-weight,2010,2020,1.56E-04,0.00E+00,linear
 UK,resid rural space heating,coal,share-weight,2010,2020,0,0.00E+00,linear
@@ -1186,6 +1218,7 @@ PB,resid rural space heating,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
 PC,resid rural space heating,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
 RJ,resid rural space heating,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
 SK,resid rural space heating,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
+TN,resid rural space heating,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
 TR,resid rural space heating,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
 TS,resid rural space heating,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
 UK,resid rural space heating,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
@@ -1222,6 +1255,7 @@ PB,resid urban apploth,coal,share-weight,2010,2015,0,0,fixed
 PC,resid urban apploth,coal,share-weight,2010,2015,0,0,fixed
 RJ,resid urban apploth,coal,share-weight,2010,2015,0,0,fixed
 SK,resid urban apploth,coal,share-weight,2010,2015,0,0,fixed
+TN,resid urban apploth,coal,share-weight,2010,2015,0,0,fixed
 TR,resid urban apploth,coal,share-weight,2010,2015,0,0,fixed
 TS,resid urban apploth,coal,share-weight,2010,2015,0,0,fixed
 UK,resid urban apploth,coal,share-weight,2010,2015,0,0,fixed
@@ -1258,6 +1292,7 @@ PB,resid urban apploth,coal,share-weight,2010,2020,0,0.00E+00,linear
 PC,resid urban apploth,coal,share-weight,2010,2020,0,0.00E+00,linear
 RJ,resid urban apploth,coal,share-weight,2010,2020,0,0.00E+00,linear
 SK,resid urban apploth,coal,share-weight,2010,2020,0,0.00E+00,linear
+TN,resid urban apploth,coal,share-weight,2010,2020,0,0.00E+00,linear
 TR,resid urban apploth,coal,share-weight,2010,2020,0,0.00E+00,linear
 TS,resid urban apploth,coal,share-weight,2010,2020,0,0.00E+00,linear
 UK,resid urban apploth,coal,share-weight,2010,2020,0,0.00E+00,linear
@@ -1294,6 +1329,7 @@ PB,resid urban apploth,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
 PC,resid urban apploth,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
 RJ,resid urban apploth,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
 SK,resid urban apploth,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
+TN,resid urban apploth,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
 TR,resid urban apploth,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
 TS,resid urban apploth,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
 UK,resid urban apploth,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
@@ -1330,6 +1366,7 @@ PB,resid urban cooking,coal,share-weight,2010,2015,0,0,fixed
 PC,resid urban cooking,coal,share-weight,2010,2015,0,0,fixed
 RJ,resid urban cooking,coal,share-weight,2010,2015,0,0,fixed
 SK,resid urban cooking,coal,share-weight,2010,2015,0,0,fixed
+TN,resid urban cooking,coal,share-weight,2010,2015,0,0,fixed
 TR,resid urban cooking,coal,share-weight,2010,2015,0,0,fixed
 TS,resid urban cooking,coal,share-weight,2010,2015,0,0,fixed
 UK,resid urban cooking,coal,share-weight,2010,2015,0,0,fixed
@@ -1366,6 +1403,7 @@ PB,resid urban cooking,coal,share-weight,2010,2020,0,0.00E+00,linear
 PC,resid urban cooking,coal,share-weight,2010,2020,0,0.00E+00,linear
 RJ,resid urban cooking,coal,share-weight,2010,2020,0,0.00E+00,linear
 SK,resid urban cooking,coal,share-weight,2010,2020,0,0.00E+00,linear
+TN,resid urban cooking,coal,share-weight,2010,2020,0,0.00E+00,linear
 TR,resid urban cooking,coal,share-weight,2010,2020,0,0.00E+00,linear
 TS,resid urban cooking,coal,share-weight,2010,2020,0,0.00E+00,linear
 UK,resid urban cooking,coal,share-weight,2010,2020,0,0.00E+00,linear
@@ -1402,6 +1440,7 @@ PB,resid urban cooking,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
 PC,resid urban cooking,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
 RJ,resid urban cooking,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
 SK,resid urban cooking,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
+TN,resid urban cooking,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
 TR,resid urban cooking,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
 TS,resid urban cooking,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
 UK,resid urban cooking,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
@@ -1438,6 +1477,7 @@ PB,resid urban space heating,coal,share-weight,2010,2015,0,0,fixed
 PC,resid urban space heating,coal,share-weight,2010,2015,0,0,fixed
 RJ,resid urban space heating,coal,share-weight,2010,2015,0,0,fixed
 SK,resid urban space heating,coal,share-weight,2010,2015,0,0,fixed
+TN,resid urban space heating,coal,share-weight,2010,2015,0,0,fixed
 TR,resid urban space heating,coal,share-weight,2010,2015,0,0,fixed
 TS,resid urban space heating,coal,share-weight,2010,2015,0,0,fixed
 UK,resid urban space heating,coal,share-weight,2010,2015,0,0,fixed
@@ -1474,6 +1514,7 @@ PB,resid urban space heating,coal,share-weight,2010,2020,0,0.00E+00,linear
 PC,resid urban space heating,coal,share-weight,2010,2020,0,0.00E+00,linear
 RJ,resid urban space heating,coal,share-weight,2010,2020,0,0.00E+00,linear
 SK,resid urban space heating,coal,share-weight,2010,2020,0,0.00E+00,linear
+TN,resid urban space heating,coal,share-weight,2010,2020,0,0.00E+00,linear
 TR,resid urban space heating,coal,share-weight,2010,2020,0,0.00E+00,linear
 TS,resid urban space heating,coal,share-weight,2010,2020,0,0.00E+00,linear
 UK,resid urban space heating,coal,share-weight,2010,2020,0,0.00E+00,linear
@@ -1510,6 +1551,7 @@ PB,resid urban space heating,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
 PC,resid urban space heating,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
 RJ,resid urban space heating,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
 SK,resid urban space heating,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
+TN,resid urban space heating,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
 TR,resid urban space heating,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
 TS,resid urban space heating,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
 UK,resid urban space heating,coal,share-weight,2015,2100,0.00E+00,0.00E+00,fixed
@@ -1546,6 +1588,7 @@ PB,comm cooking,electricity,share-weight,2010,2100,0.295025,0.295025,fixed
 PC,comm cooking,electricity,share-weight,2010,2100,1.06125,1.06125,fixed
 RJ,comm cooking,electricity,share-weight,2010,2100,0.24463,0.24463,fixed
 SK,comm cooking,electricity,share-weight,2010,2100,1,1,fixed
+TN,comm cooking,electricity,share-weight,2010,2100,0.0935639,0.0935639,fixed
 TR,comm cooking,electricity,share-weight,2010,2100,1,1,fixed
 TS,comm cooking,electricity,share-weight,2010,2100,0.518962,0.518962,fixed
 UK,comm cooking,electricity,share-weight,2010,2100,0.362345,0.362345,fixed
@@ -1582,6 +1625,7 @@ PB,comm hvac,electricity,share-weight,2010,2100,1,1,fixed
 PC,comm hvac,electricity,share-weight,2010,2100,1,1,fixed
 RJ,comm hvac,electricity,share-weight,2010,2100,1,1,fixed
 SK,comm hvac,electricity,share-weight,2010,2100,1,1,fixed
+TN,comm hvac,electricity,share-weight,2010,2100,1,1,fixed
 TR,comm hvac,electricity,share-weight,2010,2100,1,1,fixed
 TS,comm hvac,electricity,share-weight,2010,2100,1,1,fixed
 UK,comm hvac,electricity,share-weight,2010,2100,1,1,fixed
@@ -1618,6 +1662,7 @@ PB,comm lighting,electricity,share-weight,2010,2100,1,1,fixed
 PC,comm lighting,electricity,share-weight,2010,2100,1,1,fixed
 RJ,comm lighting,electricity,share-weight,2010,2100,1,1,fixed
 SK,comm lighting,electricity,share-weight,2010,2100,1,1,fixed
+TN,comm lighting,electricity,share-weight,2010,2100,1,1,fixed
 TR,comm lighting,electricity,share-weight,2010,2100,1,1,fixed
 TS,comm lighting,electricity,share-weight,2010,2100,1,1,fixed
 UK,comm lighting,electricity,share-weight,2010,2100,1,1,fixed
@@ -1654,6 +1699,7 @@ PB,comm others,electricity,share-weight,2010,2100,52.6022,52.6022,fixed
 PC,comm others,electricity,share-weight,2010,2100,5.46646,5.46646,fixed
 RJ,comm others,electricity,share-weight,2010,2100,17.375,17.375,fixed
 SK,comm others,electricity,share-weight,2010,2100,1,1,fixed
+TN,comm others,electricity,share-weight,2010,2100,82.8949,82.8949,fixed
 TR,comm others,electricity,share-weight,2010,2100,3.0641,3.0641,fixed
 TS,comm others,electricity,share-weight,2010,2100,1,1,fixed
 UK,comm others,electricity,share-weight,2010,2100,21.7702,21.7702,fixed
@@ -1690,6 +1736,7 @@ PB,comm ref,electricity,share-weight,2010,2100,1,1,fixed
 PC,comm ref,electricity,share-weight,2010,2100,1,1,fixed
 RJ,comm ref,electricity,share-weight,2010,2100,1,1,fixed
 SK,comm ref,electricity,share-weight,2010,2100,1,1,fixed
+TN,comm ref,electricity,share-weight,2010,2100,1,1,fixed
 TR,comm ref,electricity,share-weight,2010,2100,1,1,fixed
 TS,comm ref,electricity,share-weight,2010,2100,1,1,fixed
 UK,comm ref,electricity,share-weight,2010,2100,1,1,fixed
@@ -1726,6 +1773,7 @@ PB,resid rural apploth,electricity,share-weight,2010,2100,1,1,fixed
 PC,resid rural apploth,electricity,share-weight,2010,2100,1,1,fixed
 RJ,resid rural apploth,electricity,share-weight,2010,2100,1,1,fixed
 SK,resid rural apploth,electricity,share-weight,2010,2100,116.308,116.308,fixed
+TN,resid rural apploth,electricity,share-weight,2010,2100,1,1,fixed
 TR,resid rural apploth,electricity,share-weight,2010,2100,1,1,fixed
 TS,resid rural apploth,electricity,share-weight,2010,2100,1,1,fixed
 UK,resid rural apploth,electricity,share-weight,2010,2100,1,1,fixed
@@ -1762,6 +1810,7 @@ PB,resid rural cooking,electricity,share-weight,2010,2100,1.97773,1.97773,fixed
 PC,resid rural cooking,electricity,share-weight,2010,2100,0.926689,0.926689,fixed
 RJ,resid rural cooking,electricity,share-weight,2010,2100,5.66577,5.66577,fixed
 SK,resid rural cooking,electricity,share-weight,2010,2100,0.16956,0.16956,fixed
+TN,resid rural cooking,electricity,share-weight,2010,2100,0.0317544,0.0317544,fixed
 TR,resid rural cooking,electricity,share-weight,2010,2100,5.89637,5.89637,fixed
 TS,resid rural cooking,electricity,share-weight,2010,2100,2.94579,2.94579,fixed
 UK,resid rural cooking,electricity,share-weight,2010,2100,10.0118,10.0118,fixed
@@ -1798,6 +1847,7 @@ PB,resid rural coolers,electricity,share-weight,2010,2100,1,1,fixed
 PC,resid rural coolers,electricity,share-weight,2010,2100,1,1,fixed
 RJ,resid rural coolers,electricity,share-weight,2010,2100,1,1,fixed
 SK,resid rural coolers,electricity,share-weight,2010,2100,1,1,fixed
+TN,resid rural coolers,electricity,share-weight,2010,2100,1,1,fixed
 TR,resid rural coolers,electricity,share-weight,2010,2100,1,1,fixed
 TS,resid rural coolers,electricity,share-weight,2010,2100,1,1,fixed
 UK,resid rural coolers,electricity,share-weight,2010,2100,1,1,fixed
@@ -1834,6 +1884,7 @@ PB,resid rural cooling,electricity,share-weight,2010,2100,1,1,fixed
 PC,resid rural cooling,electricity,share-weight,2010,2100,1,1,fixed
 RJ,resid rural cooling,electricity,share-weight,2010,2100,1,1,fixed
 SK,resid rural cooling,electricity,share-weight,2010,2100,1,1,fixed
+TN,resid rural cooling,electricity,share-weight,2010,2100,1,1,fixed
 TR,resid rural cooling,electricity,share-weight,2010,2100,1,1,fixed
 TS,resid rural cooling,electricity,share-weight,2010,2100,1,1,fixed
 UK,resid rural cooling,electricity,share-weight,2010,2100,1,1,fixed
@@ -1870,6 +1921,7 @@ PB,resid rural lighting,electricity,share-weight,2010,2100,1,1,fixed
 PC,resid rural lighting,electricity,share-weight,2010,2100,1,1,fixed
 RJ,resid rural lighting,electricity,share-weight,2010,2100,1,1,fixed
 SK,resid rural lighting,electricity,share-weight,2010,2100,1,1,fixed
+TN,resid rural lighting,electricity,share-weight,2010,2100,1,1,fixed
 TR,resid rural lighting,electricity,share-weight,2010,2100,1,1,fixed
 TS,resid rural lighting,electricity,share-weight,2010,2100,1,1,fixed
 UK,resid rural lighting,electricity,share-weight,2010,2100,1,1,fixed
@@ -1906,6 +1958,7 @@ PB,resid rural space heating,electricity,share-weight,2010,2100,1,1,fixed
 PC,resid rural space heating,electricity,share-weight,2010,2100,1,1,fixed
 RJ,resid rural space heating,electricity,share-weight,2010,2100,0.164823,0.164823,fixed
 SK,resid rural space heating,electricity,share-weight,2010,2100,1,1,fixed
+TN,resid rural space heating,electricity,share-weight,2010,2100,1,1,fixed
 TR,resid rural space heating,electricity,share-weight,2010,2100,1,1,fixed
 TS,resid rural space heating,electricity,share-weight,2010,2100,1,1,fixed
 UK,resid rural space heating,electricity,share-weight,2010,2100,1,1,fixed
@@ -1942,6 +1995,7 @@ PB,resid urban apploth,electricity,share-weight,2010,2100,1,1,fixed
 PC,resid urban apploth,electricity,share-weight,2010,2100,1,1,fixed
 RJ,resid urban apploth,electricity,share-weight,2010,2100,1,1,fixed
 SK,resid urban apploth,electricity,share-weight,2010,2100,24.3826,24.3826,fixed
+TN,resid urban apploth,electricity,share-weight,2010,2100,1,1,fixed
 TR,resid urban apploth,electricity,share-weight,2010,2100,1,1,fixed
 TS,resid urban apploth,electricity,share-weight,2010,2100,1,1,fixed
 UK,resid urban apploth,electricity,share-weight,2010,2100,1,1,fixed
@@ -1978,6 +2032,7 @@ PB,resid urban cooking,electricity,share-weight,2010,2100,0.0281648,0.0281648,fi
 PC,resid urban cooking,electricity,share-weight,2010,2100,0.0778801,0.0778801,fixed
 RJ,resid urban cooking,electricity,share-weight,2010,2100,0.0283117,0.0283117,fixed
 SK,resid urban cooking,electricity,share-weight,2010,2100,0.120323,0.120323,fixed
+TN,resid urban cooking,electricity,share-weight,2010,2100,0.00393893,0.00393893,fixed
 TR,resid urban cooking,electricity,share-weight,2010,2100,0.347206,0.347206,fixed
 TS,resid urban cooking,electricity,share-weight,2010,2100,0.355361,0.355361,fixed
 UK,resid urban cooking,electricity,share-weight,2010,2100,0.278809,0.278809,fixed
@@ -2014,6 +2069,7 @@ PB,resid urban coolers,electricity,share-weight,2010,2100,1,1,fixed
 PC,resid urban coolers,electricity,share-weight,2010,2100,1,1,fixed
 RJ,resid urban coolers,electricity,share-weight,2010,2100,1,1,fixed
 SK,resid urban coolers,electricity,share-weight,2010,2100,1,1,fixed
+TN,resid urban coolers,electricity,share-weight,2010,2100,1,1,fixed
 TR,resid urban coolers,electricity,share-weight,2010,2100,1,1,fixed
 TS,resid urban coolers,electricity,share-weight,2010,2100,1,1,fixed
 UK,resid urban coolers,electricity,share-weight,2010,2100,1,1,fixed
@@ -2050,6 +2106,7 @@ PB,resid urban cooling,electricity,share-weight,2010,2100,1,1,fixed
 PC,resid urban cooling,electricity,share-weight,2010,2100,1,1,fixed
 RJ,resid urban cooling,electricity,share-weight,2010,2100,1,1,fixed
 SK,resid urban cooling,electricity,share-weight,2010,2100,1,1,fixed
+TN,resid urban cooling,electricity,share-weight,2010,2100,1,1,fixed
 TR,resid urban cooling,electricity,share-weight,2010,2100,1,1,fixed
 TS,resid urban cooling,electricity,share-weight,2010,2100,1,1,fixed
 UK,resid urban cooling,electricity,share-weight,2010,2100,1,1,fixed
@@ -2086,6 +2143,7 @@ PB,resid urban lighting,electricity,share-weight,2010,2100,1,1,fixed
 PC,resid urban lighting,electricity,share-weight,2010,2100,1,1,fixed
 RJ,resid urban lighting,electricity,share-weight,2010,2100,1,1,fixed
 SK,resid urban lighting,electricity,share-weight,2010,2100,1,1,fixed
+TN,resid urban lighting,electricity,share-weight,2010,2100,1,1,fixed
 TR,resid urban lighting,electricity,share-weight,2010,2100,1,1,fixed
 TS,resid urban lighting,electricity,share-weight,2010,2100,1,1,fixed
 UK,resid urban lighting,electricity,share-weight,2010,2100,1,1,fixed
@@ -2122,6 +2180,7 @@ PB,resid urban space heating,electricity,share-weight,2010,2100,1,1,fixed
 PC,resid urban space heating,electricity,share-weight,2010,2100,1,1,fixed
 RJ,resid urban space heating,electricity,share-weight,2010,2100,1,1,fixed
 SK,resid urban space heating,electricity,share-weight,2010,2100,1,1,fixed
+TN,resid urban space heating,electricity,share-weight,2010,2100,1,1,fixed
 TR,resid urban space heating,electricity,share-weight,2010,2100,1,1,fixed
 TS,resid urban space heating,electricity,share-weight,2010,2100,1,1,fixed
 UK,resid urban space heating,electricity,share-weight,2010,2100,1,1,fixed
@@ -2158,6 +2217,7 @@ PB,comm cooking,gas,share-weight,2010,2020,0,0,fixed
 PC,comm cooking,gas,share-weight,2010,2020,0,0,fixed
 RJ,comm cooking,gas,share-weight,2010,2020,0,0,fixed
 SK,comm cooking,gas,share-weight,2010,2020,0.1,0.1,fixed
+TN,comm cooking,gas,share-weight,2010,2020,0,0,fixed
 TR,comm cooking,gas,share-weight,2010,2020,0,0,fixed
 TS,comm cooking,gas,share-weight,2010,2020,0,0,fixed
 UK,comm cooking,gas,share-weight,2010,2020,0,0,fixed
@@ -2194,6 +2254,7 @@ PB,comm cooking,gas,share-weight,2015,2100,0,0.5,linear
 PC,comm cooking,gas,share-weight,2015,2100,0,0.5,linear
 RJ,comm cooking,gas,share-weight,2015,2100,0,0.5,linear
 SK,comm cooking,gas,share-weight,2015,2100,0.1,1,linear
+TN,comm cooking,gas,share-weight,2015,2100,0,0.5,linear
 TR,comm cooking,gas,share-weight,2015,2100,0,0.5,linear
 TS,comm cooking,gas,share-weight,2015,2100,0,1,linear
 UK,comm cooking,gas,share-weight,2015,2100,0,0.5,linear
@@ -2230,6 +2291,7 @@ PB,comm cooking,gas,share-weight,2095,2100,0.5,0.5,fixed
 PC,comm cooking,gas,share-weight,2095,2100,0.5,0.5,fixed
 RJ,comm cooking,gas,share-weight,2095,2100,0.5,0.5,fixed
 SK,comm cooking,gas,share-weight,2095,2100,1,1,fixed
+TN,comm cooking,gas,share-weight,2095,2100,0.5,0.5,fixed
 TR,comm cooking,gas,share-weight,2095,2100,0.5,0.5,fixed
 TS,comm cooking,gas,share-weight,2095,2100,1,1,fixed
 UK,comm cooking,gas,share-weight,2095,2100,0.5,0.5,fixed
@@ -2266,6 +2328,7 @@ PB,resid rural apploth,gas,share-weight,2010,2100,0,0,fixed
 PC,resid rural apploth,gas,share-weight,2010,2100,0,0,fixed
 RJ,resid rural apploth,gas,share-weight,2010,2100,0,0,fixed
 SK,resid rural apploth,gas,share-weight,2010,2100,0,0,fixed
+TN,resid rural apploth,gas,share-weight,2010,2100,0,0,fixed
 TR,resid rural apploth,gas,share-weight,2010,2100,0,0,fixed
 TS,resid rural apploth,gas,share-weight,2010,2100,0,0,fixed
 UK,resid rural apploth,gas,share-weight,2010,2100,0,0,fixed
@@ -2302,6 +2365,7 @@ PB,resid rural cooking,gas,share-weight,2010,2100,0,0,fixed
 PC,resid rural cooking,gas,share-weight,2010,2100,0,0,fixed
 RJ,resid rural cooking,gas,share-weight,2010,2100,0,0,fixed
 SK,resid rural cooking,gas,share-weight,2010,2100,0,0,fixed
+TN,resid rural cooking,gas,share-weight,2010,2100,0,0,fixed
 TR,resid rural cooking,gas,share-weight,2010,2100,0,0,fixed
 TS,resid rural cooking,gas,share-weight,2010,2100,0,0,fixed
 UK,resid rural cooking,gas,share-weight,2010,2100,0,0,fixed
@@ -2338,6 +2402,7 @@ PB,resid urban apploth,gas,share-weight,2010,2100,0,0,fixed
 PC,resid urban apploth,gas,share-weight,2010,2100,0,0,fixed
 RJ,resid urban apploth,gas,share-weight,2010,2100,0,0,fixed
 SK,resid urban apploth,gas,share-weight,2010,2100,0.0142619,0.0142619,fixed
+TN,resid urban apploth,gas,share-weight,2010,2100,0,0,fixed
 TR,resid urban apploth,gas,share-weight,2010,2100,0,0,fixed
 TS,resid urban apploth,gas,share-weight,2010,2100,9.93E-08,9.93E-08,fixed
 UK,resid urban apploth,gas,share-weight,2010,2100,0,0,fixed
@@ -2374,6 +2439,7 @@ PB,resid urban cooking,gas,share-weight,2010,2020,0,0,fixed
 PC,resid urban cooking,gas,share-weight,2010,2020,0,0,fixed
 RJ,resid urban cooking,gas,share-weight,2010,2020,0,0,fixed
 SK,resid urban cooking,gas,share-weight,2010,2020,0.1,0.1,fixed
+TN,resid urban cooking,gas,share-weight,2010,2020,0,0,fixed
 TR,resid urban cooking,gas,share-weight,2010,2020,0,0,fixed
 TS,resid urban cooking,gas,share-weight,2010,2020,0.02,0.02,fixed
 UK,resid urban cooking,gas,share-weight,2010,2020,0,0,fixed
@@ -2410,6 +2476,7 @@ PB,resid urban cooking,gas,share-weight,2015,2100,0,0.5,fixed
 PC,resid urban cooking,gas,share-weight,2015,2100,0,0.5,fixed
 RJ,resid urban cooking,gas,share-weight,2015,2100,0,0.5,fixed
 SK,resid urban cooking,gas,share-weight,2015,2100,0.1,0.5,fixed
+TN,resid urban cooking,gas,share-weight,2015,2100,0,1,fixed
 TR,resid urban cooking,gas,share-weight,2015,2100,0,0.1,fixed
 TS,resid urban cooking,gas,share-weight,2015,2100,0.02,1,fixed
 UK,resid urban cooking,gas,share-weight,2015,2100,0,0.1,fixed
@@ -2446,6 +2513,7 @@ PB,resid urban cooking,gas,share-weight,2095,2100,0.5,0.5,fixed
 PC,resid urban cooking,gas,share-weight,2095,2100,0.5,0.5,fixed
 RJ,resid urban cooking,gas,share-weight,2095,2100,0.5,0.5,fixed
 SK,resid urban cooking,gas,share-weight,2095,2100,0.5,0.5,fixed
+TN,resid urban cooking,gas,share-weight,2095,2100,1,1,fixed
 TR,resid urban cooking,gas,share-weight,2095,2100,0.1,0.1,fixed
 TS,resid urban cooking,gas,share-weight,2095,2100,1,1,fixed
 UK,resid urban cooking,gas,share-weight,2095,2100,0.1,0.1,fixed
@@ -2482,6 +2550,7 @@ PB,comm cooking,refined liquids,share-weight,2010,2020,0.8,0.8,fixed
 PC,comm cooking,refined liquids,share-weight,2010,2020,0.8,0.8,fixed
 RJ,comm cooking,refined liquids,share-weight,2010,2020,0.8,0.8,fixed
 SK,comm cooking,refined liquids,share-weight,2010,2020,0.1455944,0.1455944,fixed
+TN,comm cooking,refined liquids,share-weight,2010,2020,0.8,0.8,fixed
 TR,comm cooking,refined liquids,share-weight,2010,2020,0.01206872,0.01206872,fixed
 TS,comm cooking,refined liquids,share-weight,2010,2020,0.8,0.8,fixed
 UK,comm cooking,refined liquids,share-weight,2010,2020,0.8,0.8,fixed
@@ -2518,6 +2587,7 @@ PB,comm cooking,refined liquids,share-weight,2015,2100,0.8,1,linear
 PC,comm cooking,refined liquids,share-weight,2015,2100,0.8,1,linear
 RJ,comm cooking,refined liquids,share-weight,2015,2100,0.8,1,linear
 SK,comm cooking,refined liquids,share-weight,2015,2100,0.1455944,1,linear
+TN,comm cooking,refined liquids,share-weight,2015,2100,0.8,1,linear
 TR,comm cooking,refined liquids,share-weight,2015,2100,0.01206872,1,linear
 TS,comm cooking,refined liquids,share-weight,2015,2100,0.8,1,linear
 UK,comm cooking,refined liquids,share-weight,2015,2100,0.8,1,linear
@@ -2554,6 +2624,7 @@ PB,comm cooking,refined liquids,share-weight,2095,2100,1,1,fixed
 PC,comm cooking,refined liquids,share-weight,2095,2100,1,1,fixed
 RJ,comm cooking,refined liquids,share-weight,2095,2100,1,1,fixed
 SK,comm cooking,refined liquids,share-weight,2095,2100,0.181993,1,fixed
+TN,comm cooking,refined liquids,share-weight,2095,2100,1,1,fixed
 TR,comm cooking,refined liquids,share-weight,2095,2100,0.0150859,1,fixed
 TS,comm cooking,refined liquids,share-weight,2095,2100,1,1,fixed
 UK,comm cooking,refined liquids,share-weight,2095,2100,1,1,fixed
@@ -2590,6 +2661,7 @@ PB,comm others,refined liquids,share-weight,2010,2100,0.1353448,0.1353448,fixed
 PC,comm others,refined liquids,share-weight,2010,2100,0.8,0.8,fixed
 RJ,comm others,refined liquids,share-weight,2010,2100,0.03300896,0.03300896,fixed
 SK,comm others,refined liquids,share-weight,2010,2100,0.0376536,0.0376536,fixed
+TN,comm others,refined liquids,share-weight,2010,2100,0.07409016,0.07409016,fixed
 TR,comm others,refined liquids,share-weight,2010,2100,0.03751952,0.03751952,fixed
 TS,comm others,refined liquids,share-weight,2010,2100,0.005388744,0.005388744,fixed
 UK,comm others,refined liquids,share-weight,2010,2100,0.1876232,0.1876232,fixed
@@ -2626,6 +2698,7 @@ PB,resid rural apploth,refined liquids,share-weight,2010,2100,1.06E-05,1.06E-05,
 PC,resid rural apploth,refined liquids,share-weight,2010,2100,7.10E-04,7.10E-04,fixed
 RJ,resid rural apploth,refined liquids,share-weight,2010,2100,3.39E-06,3.39E-06,fixed
 SK,resid rural apploth,refined liquids,share-weight,2010,2100,0.8,0.8,fixed
+TN,resid rural apploth,refined liquids,share-weight,2010,2100,3.66E-06,3.66E-06,fixed
 TR,resid rural apploth,refined liquids,share-weight,2010,2100,9.12E-05,9.12E-05,fixed
 TS,resid rural apploth,refined liquids,share-weight,2010,2100,4.22E-06,4.22E-06,fixed
 UK,resid rural apploth,refined liquids,share-weight,2010,2100,6.10E-05,6.10E-05,fixed
@@ -2662,7 +2735,7 @@ PB,resid rural cooking,refined liquids,share-weight,2010,2020,0.27848744,0.27848
 PC,resid rural cooking,refined liquids,share-weight,2010,2020,0.028,0.028,fixed
 RJ,resid rural cooking,refined liquids,share-weight,2010,2020,0.431242,0.431242,fixed
 SK,resid rural cooking,refined liquids,share-weight,2010,2020,0.028,0.028,fixed
-TN,resid rural cooking,refined liquids,share-weight,2010,2015,0,0,fixed
+TN,resid rural cooking,refined liquids,share-weight,2010,2020,0.028,0.028,fixed
 TR,resid rural cooking,refined liquids,share-weight,2010,2020,0.028,0.028,fixed
 TS,resid rural cooking,refined liquids,share-weight,2010,2020,0.028,0.028,fixed
 UK,resid rural cooking,refined liquids,share-weight,2010,2020,0.14768068,0.14768068,fixed
@@ -2773,6 +2846,7 @@ PB,resid urban apploth,refined liquids,share-weight,2010,2100,0.0254,0.0254,fixe
 PC,resid urban apploth,refined liquids,share-weight,2010,2100,0.0026,0.0026,fixed
 RJ,resid urban apploth,refined liquids,share-weight,2010,2100,0.0394,0.0394,fixed
 SK,resid urban apploth,refined liquids,share-weight,2010,2100,0.0026,0.0026,fixed
+TN,resid urban apploth,refined liquids,share-weight,2010,2100,0.0026,0.0026,fixed
 TR,resid urban apploth,refined liquids,share-weight,2010,2100,0.0026,0.0026,fixed
 TS,resid urban apploth,refined liquids,share-weight,2010,2100,0.0026,0.0026,fixed
 UK,resid urban apploth,refined liquids,share-weight,2010,2100,0.0136,0.0136,fixed
@@ -2809,6 +2883,7 @@ PB,resid urban cooking,refined liquids,share-weight,2010,2020,0.16,0.16,fixed
 PC,resid urban cooking,refined liquids,share-weight,2010,2020,0.16,0.16,fixed
 RJ,resid urban cooking,refined liquids,share-weight,2010,2020,0.16,0.16,fixed
 SK,resid urban cooking,refined liquids,share-weight,2010,2020,0.16,0.16,fixed
+TN,resid urban cooking,refined liquids,share-weight,2010,2020,0.16,0.16,fixed
 TR,resid urban cooking,refined liquids,share-weight,2010,2020,0.16,0.16,fixed
 TS,resid urban cooking,refined liquids,share-weight,2010,2020,0.16,0.16,fixed
 UK,resid urban cooking,refined liquids,share-weight,2010,2020,0.16,0.16,fixed
@@ -2845,6 +2920,7 @@ PB,resid urban cooking,refined liquids,share-weight,2015,2100,0.16,1,linear
 PC,resid urban cooking,refined liquids,share-weight,2015,2100,0.16,1,linear
 RJ,resid urban cooking,refined liquids,share-weight,2015,2100,0.16,1,linear
 SK,resid urban cooking,refined liquids,share-weight,2015,2100,0.16,1,linear
+TN,resid urban cooking,refined liquids,share-weight,2015,2100,0.16,1,linear
 TR,resid urban cooking,refined liquids,share-weight,2015,2100,0.16,1,linear
 TS,resid urban cooking,refined liquids,share-weight,2015,2100,0.16,1,linear
 UK,resid urban cooking,refined liquids,share-weight,2015,2100,0.16,1,linear
@@ -2881,6 +2957,7 @@ PB,resid urban cooking,refined liquids,share-weight,2095,2100,1,1,fixed
 PC,resid urban cooking,refined liquids,share-weight,2095,2100,1,1,fixed
 RJ,resid urban cooking,refined liquids,share-weight,2095,2100,1,1,fixed
 SK,resid urban cooking,refined liquids,share-weight,2095,2100,1,1,fixed
+TN,resid urban cooking,refined liquids,share-weight,2095,2100,1,1,fixed
 TR,resid urban cooking,refined liquids,share-weight,2095,2100,1,1,fixed
 TS,resid urban cooking,refined liquids,share-weight,2095,2100,1,1,fixed
 UK,resid urban cooking,refined liquids,share-weight,2095,2100,1,1,fixed
@@ -2917,6 +2994,7 @@ PB,resid rural cooking,traditional biomass,share-weight,2010,2020,0.005,0.005,fi
 PC,resid rural cooking,traditional biomass,share-weight,2010,2020,0,0,fixed
 RJ,resid rural cooking,traditional biomass,share-weight,2010,2020,0.005,0.005,fixed
 SK,resid rural cooking,traditional biomass,share-weight,2010,2020,0,0,fixed
+TN,resid rural cooking,traditional biomass,share-weight,2010,2020,0,0,fixed
 TR,resid rural cooking,traditional biomass,share-weight,2010,2020,0,0,fixed
 TS,resid rural cooking,traditional biomass,share-weight,2010,2020,0,0,fixed
 UK,resid rural cooking,traditional biomass,share-weight,2010,2020,0.005,0.005,fixed
@@ -2953,6 +3031,7 @@ PB,resid rural cooking,traditional biomass,share-weight,2015,2050,0.005,0,linear
 PC,resid rural cooking,traditional biomass,share-weight,2015,2050,0,0,linear
 RJ,resid rural cooking,traditional biomass,share-weight,2015,2050,0.005,0,linear
 SK,resid rural cooking,traditional biomass,share-weight,2015,2050,0,0,linear
+TN,resid rural cooking,traditional biomass,share-weight,2015,2050,0,0,linear
 TR,resid rural cooking,traditional biomass,share-weight,2015,2050,0,0,linear
 TS,resid rural cooking,traditional biomass,share-weight,2015,2050,0,0,linear
 UK,resid rural cooking,traditional biomass,share-weight,2015,2050,0.005,0,linear
@@ -2989,6 +3068,7 @@ PB,resid rural cooking,traditional biomass,share-weight,2045,2100,0,0,fixed
 PC,resid rural cooking,traditional biomass,share-weight,2045,2100,0,0,fixed
 RJ,resid rural cooking,traditional biomass,share-weight,2045,2100,0,0,fixed
 SK,resid rural cooking,traditional biomass,share-weight,2045,2100,0,0,fixed
+TN,resid rural cooking,traditional biomass,share-weight,2045,2100,0,0,fixed
 TR,resid rural cooking,traditional biomass,share-weight,2045,2100,0,0,fixed
 TS,resid rural cooking,traditional biomass,share-weight,2045,2100,0,0,fixed
 UK,resid rural cooking,traditional biomass,share-weight,2045,2100,0,0,fixed
@@ -3025,6 +3105,7 @@ PB,resid urban cooking,traditional biomass,share-weight,2010,2100,0,0,fixed
 PC,resid urban cooking,traditional biomass,share-weight,2010,2100,0,0,fixed
 RJ,resid urban cooking,traditional biomass,share-weight,2010,2100,0,0,fixed
 SK,resid urban cooking,traditional biomass,share-weight,2010,2100,0,0,fixed
+TN,resid urban cooking,traditional biomass,share-weight,2010,2100,0,0,fixed
 TR,resid urban cooking,traditional biomass,share-weight,2010,2100,0,0,fixed
 TS,resid urban cooking,traditional biomass,share-weight,2010,2100,0,0,fixed
 UK,resid urban cooking,traditional biomass,share-weight,2010,2100,0,0,fixed
