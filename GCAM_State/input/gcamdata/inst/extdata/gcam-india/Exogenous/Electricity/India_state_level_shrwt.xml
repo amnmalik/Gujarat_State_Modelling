@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenario>
+    <world>
+        <region name="GJ">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <technology name="Gen_III">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2020">
+                            <from-value>0.001</from-value>
+                            <to-value>0.001</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2015" to-year="2055">
+                            <from-value>0.001</from-value>
+                            <to-value>0.05</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2050" to-year="2100">
+                            <from-value>0.05</from-value>
+                            <to-value>0.1</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2095" to-year="2100">
+                            <from-value>0.1</from-value>
+                            <to-value>0.1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+            <supplysector name="elect_td_com">
+                <subsector name="rooftop_pv">
+                    <technology name="rooftop_pv">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2020">
+                            <from-value>0.001</from-value>
+                            <to-value>0.001</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2015" to-year="2055">
+                            <from-value>0.001</from-value>
+                            <to-value>0.05</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2050" to-year="2100">
+                            <from-value>0.05</from-value>
+                            <to-value>0.1</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2095" to-year="2100">
+                            <from-value>0.1</from-value>
+                            <to-value>0.1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+            <supplysector name="elect_td_res">
+                <subsector name="rooftop_pv">
+                    <technology name="rooftop_pv">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2020">
+                            <from-value>0.001</from-value>
+                            <to-value>0.001</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2015" to-year="2055">
+                            <from-value>0.001</from-value>
+                            <to-value>0.05</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2050" to-year="2100">
+                            <from-value>0.05</from-value>
+                            <to-value>0.1</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2095" to-year="2100">
+                            <from-value>0.1</from-value>
+                            <to-value>0.1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="TN">
+            <supplysector name="elect_td_com">
+                <subsector name="rooftop_pv">
+                    <technology name="rooftop_pv">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2020">
+                            <from-value>0.001</from-value>
+                            <to-value>0.001</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2015" to-year="2055">
+                            <from-value>0.001</from-value>
+                            <to-value>0.05</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2050" to-year="2100">
+                            <from-value>0.05</from-value>
+                            <to-value>0.1</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2095" to-year="2100">
+                            <from-value>0.1</from-value>
+                            <to-value>0.1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+            <supplysector name="elect_td_res">
+                <subsector name="rooftop_pv">
+                    <technology name="rooftop_pv">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2020">
+                            <from-value>0.001</from-value>
+                            <to-value>0.001</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2015" to-year="2055">
+                            <from-value>0.001</from-value>
+                            <to-value>0.05</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2050" to-year="2100">
+                            <from-value>0.05</from-value>
+                            <to-value>0.1</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2095" to-year="2100">
+                            <from-value>0.1</from-value>
+                            <to-value>0.1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="UK">
+            <supplysector name="elect_td_com">
+                <subsector name="rooftop_pv">
+                    <technology name="rooftop_pv">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2020">
+                            <from-value>0.001</from-value>
+                            <to-value>0.001</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2015" to-year="2055">
+                            <from-value>0.001</from-value>
+                            <to-value>0.05</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2050" to-year="2100">
+                            <from-value>0.05</from-value>
+                            <to-value>0.1</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2095" to-year="2100">
+                            <from-value>0.1</from-value>
+                            <to-value>0.1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+            <supplysector name="elect_td_res">
+                <subsector name="rooftop_pv">
+                    <technology name="rooftop_pv">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2020">
+                            <from-value>0.001</from-value>
+                            <to-value>0.001</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2015" to-year="2055">
+                            <from-value>0.001</from-value>
+                            <to-value>0.05</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2050" to-year="2100">
+                            <from-value>0.05</from-value>
+                            <to-value>0.1</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2095" to-year="2100">
+                            <from-value>0.1</from-value>
+                            <to-value>0.1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="OD">
+            <supplysector name="elect_td_com">
+                <subsector name="rooftop_pv">
+                    <technology name="rooftop_pv">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2020">
+                            <from-value>0.001</from-value>
+                            <to-value>0.001</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2015" to-year="2055">
+                            <from-value>0.001</from-value>
+                            <to-value>0.05</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2050" to-year="2100">
+                            <from-value>0.05</from-value>
+                            <to-value>0.1</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2095" to-year="2100">
+                            <from-value>0.1</from-value>
+                            <to-value>0.1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+            <supplysector name="elect_td_res">
+                <subsector name="rooftop_pv">
+                    <technology name="rooftop_pv">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2020">
+                            <from-value>0.001</from-value>
+                            <to-value>0.001</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2015" to-year="2055">
+                            <from-value>0.001</from-value>
+                            <to-value>0.05</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2050" to-year="2100">
+                            <from-value>0.05</from-value>
+                            <to-value>0.1</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2095" to-year="2100">
+                            <from-value>0.1</from-value>
+                            <to-value>0.1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="UP">
+            <supplysector name="elect_td_com">
+                <subsector name="rooftop_pv">
+                    <technology name="rooftop_pv">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2020">
+                            <from-value>0.001</from-value>
+                            <to-value>0.001</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2015" to-year="2055">
+                            <from-value>0.001</from-value>
+                            <to-value>0.05</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2050" to-year="2100">
+                            <from-value>0.05</from-value>
+                            <to-value>0.1</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2095" to-year="2100">
+                            <from-value>0.1</from-value>
+                            <to-value>0.1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+            <supplysector name="elect_td_res">
+                <subsector name="rooftop_pv">
+                    <technology name="rooftop_pv">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2020">
+                            <from-value>0.001</from-value>
+                            <to-value>0.001</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2015" to-year="2055">
+                            <from-value>0.001</from-value>
+                            <to-value>0.05</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2050" to-year="2100">
+                            <from-value>0.05</from-value>
+                            <to-value>0.1</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2095" to-year="2100">
+                            <from-value>0.1</from-value>
+                            <to-value>0.1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+    </world>
+</scenario>

@@ -1,0 +1,44 @@
+# File: A32.india_state_cement_GVA.csv
+# Title: Cement production GVA shares by states
+# Units: NA (Shares)
+# Source: ASI (ISC)
+# Column types: cccin
+# ----------
+state_name,state,industry,year,Value
+Andaman and Nicobar Island,AN,Cement,2015,0.000909091
+Andhra Pradesh,AP,Cement,2015,0.095440216
+Arunachal Pradesh,AR,Cement,2015,0.000909091
+Assam,AS,Cement,2015,0.000909091
+Bihar,BR,Cement,2015,0.000909091
+Chhattisgarh,CG,Cement,2015,0.042193091
+Chandigarh,CH,Cement,2015,0.000909091
+Daman and Diu,DD,Cement,2015,0.000909091
+Delhi,DL,Cement,2015,0.000909091
+Dadra and Nagar Haveli,DN,Cement,2015,0.000909091
+Goa,GA,Cement,2015,0.000909091
+Gujarat,GJ,Cement,2015,0.14963593
+Himachal Pradesh,HP,Cement,2015,0.000909091
+Haryana,HR,Cement,2015,0.142815724
+Jharkhand,JH,Cement,2015,0.02928136
+Jammu and Kashmir,JK,Cement,2015,0.000909091
+Karnataka,KA,Cement,2015,0.061388463
+Kerala,KL,Cement,2015,0.000909091
+Ladakh,LA,Cement,2015,0.000909091
+Lakshadweep,LD,Cement,2015,0.000909091
+Maharashtra,MH,Cement,2015,0.058
+Meghalaya,ML,Cement,2015,0.000909091
+Manipur,MN,Cement,2015,0.000909091
+Madhya Pradesh,MP,Cement,2015,0.072052028
+Mizoram,MZ,Cement,2015,0.000909091
+Nagaland,NL,Cement,2015,0.000909091
+Odisha,OD,Cement,2015,0.025966885
+Punjab,PB,Cement,2015,0.023781236
+Puducherry,PC,Cement,2015,0.000909091
+Rajasthan,RJ,Cement,2015,0.028067988
+Sikkim,SK,Cement,2015,0.000909091
+Tamil Nadu,TN,Cement,2015,0.110743263
+Tripura,TR,Cement,2015,0.063396076
+Telangana,TS,Cement,2015,0.000909091
+Uttarakhand,UK,Cement,2015,0.000909091
+Uttar Pradesh,UP,Cement,2015,0.04488449
+West Bengal,WB,Cement,2015,0.03235325

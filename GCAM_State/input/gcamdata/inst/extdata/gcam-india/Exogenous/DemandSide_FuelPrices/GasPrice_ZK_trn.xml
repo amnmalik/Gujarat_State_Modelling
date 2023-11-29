@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenario>
+    <world>
+        <region name="RJ">
+            <supplysector name="trn_freight_road">
+                <subsector name="Truck">
+                    <technology name="NG">
+                        <period year="2015">
+                            <minicam-non-energy-input name="non-energy">
+                                <input-cost>1</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </technology>
+                </subsector>
+            </supplysector>
+            <supplysector name="trn_pass_road">
+                <subsector name="Bus">
+                    <technology name="NG">
+                        <period year="2015">
+                            <minicam-non-energy-input name="non-energy">
+                                <input-cost>1</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </technology>
+                </subsector>
+            </supplysector>
+            <supplysector name="trn_pass_road_LDV">
+                <subsector name="LDV_3W">
+                    <technology name="NG">
+                        <period year="2015">
+                            <minicam-non-energy-input name="non-energy">
+                                <input-cost>1</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </technology>
+                </subsector>
+            </supplysector>
+            <supplysector name="trn_pass_road_LDV_4W">
+                <subsector name="LDV_4W">
+                    <technology name="NG">
+                        <period year="2015">
+                            <minicam-non-energy-input name="non-energy">
+                                <input-cost>1</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+    </world>
+</scenario>

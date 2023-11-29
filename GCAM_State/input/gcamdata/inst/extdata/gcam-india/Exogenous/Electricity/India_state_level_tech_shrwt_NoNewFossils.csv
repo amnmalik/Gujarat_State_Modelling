@@ -1,0 +1,449 @@
+INPUT_TABLE,,,,,,,,,
+Variable ID,,,,,,,,,
+IndiaIndustechSharewt,,,,,,,,,
+,,,,,,,,,
+region,supplysector,subsector,technology,apply.to,from.year,to.year,from.value,to-value,interpolation.function
+AN,electricity,nuclear,Gen_II_LWR,share-weight,2010,2025,0,0,fixed
+AP,electricity,nuclear,Gen_II_LWR,share-weight,2010,2025,0,0,fixed
+AR,electricity,nuclear,Gen_II_LWR,share-weight,2010,2025,0,0,fixed
+AS,electricity,nuclear,Gen_II_LWR,share-weight,2010,2025,0,0,fixed
+BR,electricity,nuclear,Gen_II_LWR,share-weight,2010,2025,0,0,fixed
+CG,electricity,nuclear,Gen_II_LWR,share-weight,2010,2025,0,0,fixed
+CH,electricity,nuclear,Gen_II_LWR,share-weight,2010,2025,0,0,fixed
+DD,electricity,nuclear,Gen_II_LWR,share-weight,2010,2025,0,0,fixed
+DL,electricity,nuclear,Gen_II_LWR,share-weight,2010,2025,0,0,fixed
+DN,electricity,nuclear,Gen_II_LWR,share-weight,2010,2025,0,0,fixed
+GA,electricity,nuclear,Gen_II_LWR,share-weight,2010,2025,0,0,fixed
+GJ,electricity,nuclear,Gen_II_LWR,share-weight,2010,2025,0,0,fixed
+HP,electricity,nuclear,Gen_II_LWR,share-weight,2010,2025,0,0,fixed
+HR,electricity,nuclear,Gen_II_LWR,share-weight,2010,2025,0,0,fixed
+JH,electricity,nuclear,Gen_II_LWR,share-weight,2010,2025,0,0,fixed
+JK,electricity,nuclear,Gen_II_LWR,share-weight,2010,2025,0,0,fixed
+KA,electricity,nuclear,Gen_II_LWR,share-weight,2010,2025,0,0,fixed
+KL,electricity,nuclear,Gen_II_LWR,share-weight,2010,2025,0,0,fixed
+LA,electricity,nuclear,Gen_II_LWR,share-weight,2010,2025,0,0,fixed
+LD,electricity,nuclear,Gen_II_LWR,share-weight,2010,2025,0,0,fixed
+MH,electricity,nuclear,Gen_II_LWR,share-weight,2010,2025,0,0,fixed
+ML,electricity,nuclear,Gen_II_LWR,share-weight,2010,2025,0,0,fixed
+MN,electricity,nuclear,Gen_II_LWR,share-weight,2010,2025,0,0,fixed
+MP,electricity,nuclear,Gen_II_LWR,share-weight,2010,2025,0,0,fixed
+MZ,electricity,nuclear,Gen_II_LWR,share-weight,2010,2025,0,0,fixed
+NL,electricity,nuclear,Gen_II_LWR,share-weight,2010,2025,0,0,fixed
+OD,electricity,nuclear,Gen_II_LWR,share-weight,2010,2025,0,0,fixed
+PB,electricity,nuclear,Gen_II_LWR,share-weight,2010,2025,0,0,fixed
+PC,electricity,nuclear,Gen_II_LWR,share-weight,2010,2025,0,0,fixed
+RJ,electricity,nuclear,Gen_II_LWR,share-weight,2010,2025,0,0,fixed
+SK,electricity,nuclear,Gen_II_LWR,share-weight,2010,2025,0,0,fixed
+TN,electricity,nuclear,Gen_II_LWR,share-weight,2010,2025,0,0,fixed
+TR,electricity,nuclear,Gen_II_LWR,share-weight,2010,2025,0,0,fixed
+TS,electricity,nuclear,Gen_II_LWR,share-weight,2010,2025,0,0,fixed
+UK,electricity,nuclear,Gen_II_LWR,share-weight,2010,2025,0,0,fixed
+UP,electricity,nuclear,Gen_II_LWR,share-weight,2010,2025,0,0,fixed
+WB,electricity,nuclear,Gen_II_LWR,share-weight,2010,2025,0,0,fixed
+AN,electricity,nuclear,Gen_II_LWR,share-weight,2020,2050,0,0.5,linear
+AP,electricity,nuclear,Gen_II_LWR,share-weight,2020,2050,0,0.5,linear
+AR,electricity,nuclear,Gen_II_LWR,share-weight,2020,2050,0,0.5,linear
+AS,electricity,nuclear,Gen_II_LWR,share-weight,2020,2050,0,0.5,linear
+BR,electricity,nuclear,Gen_II_LWR,share-weight,2020,2050,0,0.5,linear
+CG,electricity,nuclear,Gen_II_LWR,share-weight,2020,2050,0,0.5,linear
+CH,electricity,nuclear,Gen_II_LWR,share-weight,2020,2050,0,0.5,linear
+DD,electricity,nuclear,Gen_II_LWR,share-weight,2020,2050,0,0.5,linear
+DL,electricity,nuclear,Gen_II_LWR,share-weight,2020,2050,0,0.5,linear
+DN,electricity,nuclear,Gen_II_LWR,share-weight,2020,2050,0,0.5,linear
+GA,electricity,nuclear,Gen_II_LWR,share-weight,2020,2050,0,0.5,linear
+GJ,electricity,nuclear,Gen_II_LWR,share-weight,2020,2050,0,0.5,linear
+HP,electricity,nuclear,Gen_II_LWR,share-weight,2020,2050,0,0.5,linear
+HR,electricity,nuclear,Gen_II_LWR,share-weight,2020,2050,0,0.5,linear
+JH,electricity,nuclear,Gen_II_LWR,share-weight,2020,2050,0,0.5,linear
+JK,electricity,nuclear,Gen_II_LWR,share-weight,2020,2050,0,0.5,linear
+KA,electricity,nuclear,Gen_II_LWR,share-weight,2020,2050,0,0.5,linear
+KL,electricity,nuclear,Gen_II_LWR,share-weight,2020,2050,0,0.5,linear
+LA,electricity,nuclear,Gen_II_LWR,share-weight,2020,2050,0,0.5,linear
+LD,electricity,nuclear,Gen_II_LWR,share-weight,2020,2050,0,0.5,linear
+MH,electricity,nuclear,Gen_II_LWR,share-weight,2020,2050,0,0.5,linear
+ML,electricity,nuclear,Gen_II_LWR,share-weight,2020,2050,0,0.5,linear
+MN,electricity,nuclear,Gen_II_LWR,share-weight,2020,2050,0,0.5,linear
+MP,electricity,nuclear,Gen_II_LWR,share-weight,2020,2050,0,0.5,linear
+MZ,electricity,nuclear,Gen_II_LWR,share-weight,2020,2050,0,0.5,linear
+NL,electricity,nuclear,Gen_II_LWR,share-weight,2020,2050,0,0.5,linear
+OD,electricity,nuclear,Gen_II_LWR,share-weight,2020,2050,0,0.5,linear
+PB,electricity,nuclear,Gen_II_LWR,share-weight,2020,2050,0,0.5,linear
+PC,electricity,nuclear,Gen_II_LWR,share-weight,2020,2050,0,0.5,linear
+RJ,electricity,nuclear,Gen_II_LWR,share-weight,2020,2050,0,0.5,linear
+SK,electricity,nuclear,Gen_II_LWR,share-weight,2020,2050,0,0.5,linear
+TN,electricity,nuclear,Gen_II_LWR,share-weight,2020,2050,0,0.5,linear
+TR,electricity,nuclear,Gen_II_LWR,share-weight,2020,2050,0,0.5,linear
+TS,electricity,nuclear,Gen_II_LWR,share-weight,2020,2050,0,0.5,linear
+UK,electricity,nuclear,Gen_II_LWR,share-weight,2020,2050,0,0.5,linear
+UP,electricity,nuclear,Gen_II_LWR,share-weight,2020,2050,0,0.5,linear
+WB,electricity,nuclear,Gen_II_LWR,share-weight,2020,2050,0,0.5,linear
+AN,electricity,nuclear,Gen_II_LWR,share-weight,2045,2100,0.5,0.5,fixed
+AP,electricity,nuclear,Gen_II_LWR,share-weight,2045,2100,0.5,0.5,fixed
+AR,electricity,nuclear,Gen_II_LWR,share-weight,2045,2100,0.5,0.5,fixed
+AS,electricity,nuclear,Gen_II_LWR,share-weight,2045,2100,0.5,0.5,fixed
+BR,electricity,nuclear,Gen_II_LWR,share-weight,2045,2100,0.5,0.5,fixed
+CG,electricity,nuclear,Gen_II_LWR,share-weight,2045,2100,0.5,0.5,fixed
+CH,electricity,nuclear,Gen_II_LWR,share-weight,2045,2100,0.5,0.5,fixed
+DD,electricity,nuclear,Gen_II_LWR,share-weight,2045,2100,0.5,0.5,fixed
+DL,electricity,nuclear,Gen_II_LWR,share-weight,2045,2100,0.5,0.5,fixed
+DN,electricity,nuclear,Gen_II_LWR,share-weight,2045,2100,0.5,0.5,fixed
+GA,electricity,nuclear,Gen_II_LWR,share-weight,2045,2100,0.5,0.5,fixed
+GJ,electricity,nuclear,Gen_II_LWR,share-weight,2045,2100,0.5,0.5,fixed
+HP,electricity,nuclear,Gen_II_LWR,share-weight,2045,2100,0.5,0.5,fixed
+HR,electricity,nuclear,Gen_II_LWR,share-weight,2045,2100,0.5,0.5,fixed
+JH,electricity,nuclear,Gen_II_LWR,share-weight,2045,2100,0.5,0.5,fixed
+JK,electricity,nuclear,Gen_II_LWR,share-weight,2045,2100,0.5,0.5,fixed
+KA,electricity,nuclear,Gen_II_LWR,share-weight,2045,2100,0.5,0.5,fixed
+KL,electricity,nuclear,Gen_II_LWR,share-weight,2045,2100,0.5,0.5,fixed
+LA,electricity,nuclear,Gen_II_LWR,share-weight,2045,2100,0.5,0.5,fixed
+LD,electricity,nuclear,Gen_II_LWR,share-weight,2045,2100,0.5,0.5,fixed
+MH,electricity,nuclear,Gen_II_LWR,share-weight,2045,2100,0.5,0.5,fixed
+ML,electricity,nuclear,Gen_II_LWR,share-weight,2045,2100,0.5,0.5,fixed
+MN,electricity,nuclear,Gen_II_LWR,share-weight,2045,2100,0.5,0.5,fixed
+MP,electricity,nuclear,Gen_II_LWR,share-weight,2045,2100,0.5,0.5,fixed
+MZ,electricity,nuclear,Gen_II_LWR,share-weight,2045,2100,0.5,0.5,fixed
+NL,electricity,nuclear,Gen_II_LWR,share-weight,2045,2100,0.5,0.5,fixed
+OD,electricity,nuclear,Gen_II_LWR,share-weight,2045,2100,0.5,0.5,fixed
+PB,electricity,nuclear,Gen_II_LWR,share-weight,2045,2100,0.5,0.5,fixed
+PC,electricity,nuclear,Gen_II_LWR,share-weight,2045,2100,0.5,0.5,fixed
+RJ,electricity,nuclear,Gen_II_LWR,share-weight,2045,2100,0.5,0.5,fixed
+SK,electricity,nuclear,Gen_II_LWR,share-weight,2045,2100,0.5,0.5,fixed
+TN,electricity,nuclear,Gen_II_LWR,share-weight,2045,2100,0.5,0.5,fixed
+TR,electricity,nuclear,Gen_II_LWR,share-weight,2045,2100,0.5,0.5,fixed
+TS,electricity,nuclear,Gen_II_LWR,share-weight,2045,2100,0.5,0.5,fixed
+UK,electricity,nuclear,Gen_II_LWR,share-weight,2045,2100,0.5,0.5,fixed
+UP,electricity,nuclear,Gen_II_LWR,share-weight,2045,2100,0.5,0.5,fixed
+WB,electricity,nuclear,Gen_II_LWR,share-weight,2045,2100,0.5,0.5,fixed
+AN,electricity,nuclear,Gen_II_LWR,share-weight,2095,2100,0.5,0.5,fixed
+AP,electricity,nuclear,Gen_II_LWR,share-weight,2095,2100,0.5,0.5,fixed
+AR,electricity,nuclear,Gen_II_LWR,share-weight,2095,2100,0.5,0.5,fixed
+AS,electricity,nuclear,Gen_II_LWR,share-weight,2095,2100,0.5,0.5,fixed
+BR,electricity,nuclear,Gen_II_LWR,share-weight,2095,2100,0.5,0.5,fixed
+CG,electricity,nuclear,Gen_II_LWR,share-weight,2095,2100,0.5,0.5,fixed
+CH,electricity,nuclear,Gen_II_LWR,share-weight,2095,2100,0.5,0.5,fixed
+DD,electricity,nuclear,Gen_II_LWR,share-weight,2095,2100,0.5,0.5,fixed
+DL,electricity,nuclear,Gen_II_LWR,share-weight,2095,2100,0.5,0.5,fixed
+DN,electricity,nuclear,Gen_II_LWR,share-weight,2095,2100,0.5,0.5,fixed
+GA,electricity,nuclear,Gen_II_LWR,share-weight,2095,2100,0.5,0.5,fixed
+GJ,electricity,nuclear,Gen_II_LWR,share-weight,2095,2100,0.5,0.5,fixed
+HP,electricity,nuclear,Gen_II_LWR,share-weight,2095,2100,0.5,0.5,fixed
+HR,electricity,nuclear,Gen_II_LWR,share-weight,2095,2100,0.5,0.5,fixed
+JH,electricity,nuclear,Gen_II_LWR,share-weight,2095,2100,0.5,0.5,fixed
+JK,electricity,nuclear,Gen_II_LWR,share-weight,2095,2100,0.5,0.5,fixed
+KA,electricity,nuclear,Gen_II_LWR,share-weight,2095,2100,0.5,0.5,fixed
+KL,electricity,nuclear,Gen_II_LWR,share-weight,2095,2100,0.5,0.5,fixed
+LA,electricity,nuclear,Gen_II_LWR,share-weight,2095,2100,0.5,0.5,fixed
+LD,electricity,nuclear,Gen_II_LWR,share-weight,2095,2100,0.5,0.5,fixed
+MH,electricity,nuclear,Gen_II_LWR,share-weight,2095,2100,0.5,0.5,fixed
+ML,electricity,nuclear,Gen_II_LWR,share-weight,2095,2100,0.5,0.5,fixed
+MN,electricity,nuclear,Gen_II_LWR,share-weight,2095,2100,0.5,0.5,fixed
+MP,electricity,nuclear,Gen_II_LWR,share-weight,2095,2100,0.5,0.5,fixed
+MZ,electricity,nuclear,Gen_II_LWR,share-weight,2095,2100,0.5,0.5,fixed
+NL,electricity,nuclear,Gen_II_LWR,share-weight,2095,2100,0.5,0.5,fixed
+OD,electricity,nuclear,Gen_II_LWR,share-weight,2095,2100,0.5,0.5,fixed
+PB,electricity,nuclear,Gen_II_LWR,share-weight,2095,2100,0.5,0.5,fixed
+PC,electricity,nuclear,Gen_II_LWR,share-weight,2095,2100,0.5,0.5,fixed
+RJ,electricity,nuclear,Gen_II_LWR,share-weight,2095,2100,0.5,0.5,fixed
+SK,electricity,nuclear,Gen_II_LWR,share-weight,2095,2100,0.5,0.5,fixed
+TN,electricity,nuclear,Gen_II_LWR,share-weight,2095,2100,0.5,0.5,fixed
+TR,electricity,nuclear,Gen_II_LWR,share-weight,2095,2100,0.5,0.5,fixed
+TS,electricity,nuclear,Gen_II_LWR,share-weight,2095,2100,0.5,0.5,fixed
+UK,electricity,nuclear,Gen_II_LWR,share-weight,2095,2100,0.5,0.5,fixed
+UP,electricity,nuclear,Gen_II_LWR,share-weight,2095,2100,0.5,0.5,fixed
+WB,electricity,nuclear,Gen_II_LWR,share-weight,2095,2100,0.5,0.5,fixed
+AN,electricity,gas,gas (CC),share-weight,2010,2030,1,1,fixed
+AP,electricity,gas,gas (CC),share-weight,2010,2030,1,1,fixed
+AR,electricity,gas,gas (CC),share-weight,2010,2030,1,1,fixed
+AS,electricity,gas,gas (CC),share-weight,2010,2030,1,1,fixed
+BR,electricity,gas,gas (CC),share-weight,2010,2030,1,1,fixed
+CG,electricity,gas,gas (CC),share-weight,2010,2030,1,1,fixed
+CH,electricity,gas,gas (CC),share-weight,2010,2030,1,1,fixed
+DD,electricity,gas,gas (CC),share-weight,2010,2030,1,1,fixed
+DL,electricity,gas,gas (CC),share-weight,2010,2030,1,1,fixed
+DN,electricity,gas,gas (CC),share-weight,2010,2030,1,1,fixed
+GA,electricity,gas,gas (CC),share-weight,2010,2030,1,1,fixed
+GJ,electricity,gas,gas (CC),share-weight,2010,2030,1,1,fixed
+HP,electricity,gas,gas (CC),share-weight,2010,2030,1,1,fixed
+HR,electricity,gas,gas (CC),share-weight,2010,2030,1,1,fixed
+JH,electricity,gas,gas (CC),share-weight,2010,2030,1,1,fixed
+JK,electricity,gas,gas (CC),share-weight,2010,2030,1,1,fixed
+KA,electricity,gas,gas (CC),share-weight,2010,2030,1,1,fixed
+KL,electricity,gas,gas (CC),share-weight,2010,2030,1,1,fixed
+LA,electricity,gas,gas (CC),share-weight,2010,2030,1,1,fixed
+LD,electricity,gas,gas (CC),share-weight,2010,2030,1,1,fixed
+MH,electricity,gas,gas (CC),share-weight,2010,2030,1,1,fixed
+ML,electricity,gas,gas (CC),share-weight,2010,2030,1,1,fixed
+MN,electricity,gas,gas (CC),share-weight,2010,2030,1,1,fixed
+MP,electricity,gas,gas (CC),share-weight,2010,2030,1,1,fixed
+MZ,electricity,gas,gas (CC),share-weight,2010,2030,1,1,fixed
+NL,electricity,gas,gas (CC),share-weight,2010,2030,1,1,fixed
+OD,electricity,gas,gas (CC),share-weight,2010,2030,1,1,fixed
+PB,electricity,gas,gas (CC),share-weight,2010,2030,1,1,fixed
+PC,electricity,gas,gas (CC),share-weight,2010,2030,1,1,fixed
+RJ,electricity,gas,gas (CC),share-weight,2010,2030,1,1,fixed
+SK,electricity,gas,gas (CC),share-weight,2010,2030,1,1,fixed
+TN,electricity,gas,gas (CC),share-weight,2010,2030,1,1,fixed
+TR,electricity,gas,gas (CC),share-weight,2010,2030,1,1,fixed
+TS,electricity,gas,gas (CC),share-weight,2010,2030,1,1,fixed
+UK,electricity,gas,gas (CC),share-weight,2010,2030,1,1,fixed
+UP,electricity,gas,gas (CC),share-weight,2010,2030,1,1,fixed
+WB,electricity,gas,gas (CC),share-weight,2010,2030,1,1,fixed
+AN,electricity,gas,gas (CC),share-weight,2025,2100,0,0,fixed
+AP,electricity,gas,gas (CC),share-weight,2025,2100,0,0,fixed
+AR,electricity,gas,gas (CC),share-weight,2025,2100,0,0,fixed
+AS,electricity,gas,gas (CC),share-weight,2025,2100,0,0,fixed
+BR,electricity,gas,gas (CC),share-weight,2025,2100,0,0,fixed
+CG,electricity,gas,gas (CC),share-weight,2025,2100,0,0,fixed
+CH,electricity,gas,gas (CC),share-weight,2025,2100,0,0,fixed
+DD,electricity,gas,gas (CC),share-weight,2025,2100,0,0,fixed
+DL,electricity,gas,gas (CC),share-weight,2025,2100,0,0,fixed
+DN,electricity,gas,gas (CC),share-weight,2025,2100,0,0,fixed
+GA,electricity,gas,gas (CC),share-weight,2025,2100,0,0,fixed
+GJ,electricity,gas,gas (CC),share-weight,2025,2100,0,0,fixed
+HP,electricity,gas,gas (CC),share-weight,2025,2100,0,0,fixed
+HR,electricity,gas,gas (CC),share-weight,2025,2100,0,0,fixed
+JH,electricity,gas,gas (CC),share-weight,2025,2100,0,0,fixed
+JK,electricity,gas,gas (CC),share-weight,2025,2100,0,0,fixed
+KA,electricity,gas,gas (CC),share-weight,2025,2100,0,0,fixed
+KL,electricity,gas,gas (CC),share-weight,2025,2100,0,0,fixed
+LA,electricity,gas,gas (CC),share-weight,2025,2100,0,0,fixed
+LD,electricity,gas,gas (CC),share-weight,2025,2100,0,0,fixed
+MH,electricity,gas,gas (CC),share-weight,2025,2100,0,0,fixed
+ML,electricity,gas,gas (CC),share-weight,2025,2100,0,0,fixed
+MN,electricity,gas,gas (CC),share-weight,2025,2100,0,0,fixed
+MP,electricity,gas,gas (CC),share-weight,2025,2100,0,0,fixed
+MZ,electricity,gas,gas (CC),share-weight,2025,2100,0,0,fixed
+NL,electricity,gas,gas (CC),share-weight,2025,2100,0,0,fixed
+OD,electricity,gas,gas (CC),share-weight,2025,2100,0,0,fixed
+PB,electricity,gas,gas (CC),share-weight,2025,2100,0,0,fixed
+PC,electricity,gas,gas (CC),share-weight,2025,2100,0,0,fixed
+RJ,electricity,gas,gas (CC),share-weight,2025,2100,0,0,fixed
+SK,electricity,gas,gas (CC),share-weight,2025,2100,0,0,fixed
+TN,electricity,gas,gas (CC),share-weight,2025,2100,0,0,fixed
+TR,electricity,gas,gas (CC),share-weight,2025,2100,0,0,fixed
+TS,electricity,gas,gas (CC),share-weight,2025,2100,0,0,fixed
+UK,electricity,gas,gas (CC),share-weight,2025,2100,0,0,fixed
+UP,electricity,gas,gas (CC),share-weight,2025,2100,0,0,fixed
+WB,electricity,gas,gas (CC),share-weight,2025,2100,0,0,fixed
+AN,electricity,gas,gas (steam/CT),share-weight,2025,2100,0,0,fixed
+AP,electricity,gas,gas (steam/CT),share-weight,2025,2100,0,0,fixed
+AR,electricity,gas,gas (steam/CT),share-weight,2025,2100,0,0,fixed
+AS,electricity,gas,gas (steam/CT),share-weight,2025,2100,0,0,fixed
+BR,electricity,gas,gas (steam/CT),share-weight,2025,2100,0,0,fixed
+CG,electricity,gas,gas (steam/CT),share-weight,2025,2100,0,0,fixed
+CH,electricity,gas,gas (steam/CT),share-weight,2025,2100,0,0,fixed
+DD,electricity,gas,gas (steam/CT),share-weight,2025,2100,0,0,fixed
+DL,electricity,gas,gas (steam/CT),share-weight,2025,2100,0,0,fixed
+DN,electricity,gas,gas (steam/CT),share-weight,2025,2100,0,0,fixed
+GA,electricity,gas,gas (steam/CT),share-weight,2025,2100,0,0,fixed
+GJ,electricity,gas,gas (steam/CT),share-weight,2025,2100,0,0,fixed
+HP,electricity,gas,gas (steam/CT),share-weight,2025,2100,0,0,fixed
+HR,electricity,gas,gas (steam/CT),share-weight,2025,2100,0,0,fixed
+JH,electricity,gas,gas (steam/CT),share-weight,2025,2100,0,0,fixed
+JK,electricity,gas,gas (steam/CT),share-weight,2025,2100,0,0,fixed
+KA,electricity,gas,gas (steam/CT),share-weight,2025,2100,0,0,fixed
+KL,electricity,gas,gas (steam/CT),share-weight,2025,2100,0,0,fixed
+LA,electricity,gas,gas (steam/CT),share-weight,2025,2100,0,0,fixed
+LD,electricity,gas,gas (steam/CT),share-weight,2025,2100,0,0,fixed
+MH,electricity,gas,gas (steam/CT),share-weight,2025,2100,0,0,fixed
+ML,electricity,gas,gas (steam/CT),share-weight,2025,2100,0,0,fixed
+MN,electricity,gas,gas (steam/CT),share-weight,2025,2100,0,0,fixed
+MP,electricity,gas,gas (steam/CT),share-weight,2025,2100,0,0,fixed
+MZ,electricity,gas,gas (steam/CT),share-weight,2025,2100,0,0,fixed
+NL,electricity,gas,gas (steam/CT),share-weight,2025,2100,0,0,fixed
+OD,electricity,gas,gas (steam/CT),share-weight,2025,2100,0,0,fixed
+PB,electricity,gas,gas (steam/CT),share-weight,2025,2100,0,0,fixed
+PC,electricity,gas,gas (steam/CT),share-weight,2025,2100,0,0,fixed
+RJ,electricity,gas,gas (steam/CT),share-weight,2025,2100,0,0,fixed
+SK,electricity,gas,gas (steam/CT),share-weight,2025,2100,0,0,fixed
+TN,electricity,gas,gas (steam/CT),share-weight,2025,2100,0,0,fixed
+TR,electricity,gas,gas (steam/CT),share-weight,2025,2100,0,0,fixed
+TS,electricity,gas,gas (steam/CT),share-weight,2025,2100,0,0,fixed
+UK,electricity,gas,gas (steam/CT),share-weight,2025,2100,0,0,fixed
+UP,electricity,gas,gas (steam/CT),share-weight,2025,2100,0,0,fixed
+WB,electricity,gas,gas (steam/CT),share-weight,2025,2100,0,0,fixed
+AN,electricity,coal,coal (IGCC),share-weight,2010,2100,0,0,fixed
+AP,electricity,coal,coal (IGCC),share-weight,2010,2100,0,0,fixed
+AR,electricity,coal,coal (IGCC),share-weight,2010,2100,0,0,fixed
+AS,electricity,coal,coal (IGCC),share-weight,2010,2100,0,0,fixed
+BR,electricity,coal,coal (IGCC),share-weight,2010,2100,0,0,fixed
+CG,electricity,coal,coal (IGCC),share-weight,2010,2100,0,0,fixed
+CH,electricity,coal,coal (IGCC),share-weight,2010,2100,0,0,fixed
+DD,electricity,coal,coal (IGCC),share-weight,2010,2100,0,0,fixed
+DL,electricity,coal,coal (IGCC),share-weight,2010,2100,0,0,fixed
+DN,electricity,coal,coal (IGCC),share-weight,2010,2100,0,0,fixed
+GA,electricity,coal,coal (IGCC),share-weight,2010,2100,0,0,fixed
+GJ,electricity,coal,coal (IGCC),share-weight,2010,2100,0,0,fixed
+HP,electricity,coal,coal (IGCC),share-weight,2010,2100,0,0,fixed
+HR,electricity,coal,coal (IGCC),share-weight,2010,2100,0,0,fixed
+JH,electricity,coal,coal (IGCC),share-weight,2010,2100,0,0,fixed
+JK,electricity,coal,coal (IGCC),share-weight,2010,2100,0,0,fixed
+KA,electricity,coal,coal (IGCC),share-weight,2010,2100,0,0,fixed
+KL,electricity,coal,coal (IGCC),share-weight,2010,2100,0,0,fixed
+LA,electricity,coal,coal (IGCC),share-weight,2010,2100,0,0,fixed
+LD,electricity,coal,coal (IGCC),share-weight,2010,2100,0,0,fixed
+MH,electricity,coal,coal (IGCC),share-weight,2010,2100,0,0,fixed
+ML,electricity,coal,coal (IGCC),share-weight,2010,2100,0,0,fixed
+MN,electricity,coal,coal (IGCC),share-weight,2010,2100,0,0,fixed
+MP,electricity,coal,coal (IGCC),share-weight,2010,2100,0,0,fixed
+MZ,electricity,coal,coal (IGCC),share-weight,2010,2100,0,0,fixed
+NL,electricity,coal,coal (IGCC),share-weight,2010,2100,0,0,fixed
+OD,electricity,coal,coal (IGCC),share-weight,2010,2100,0,0,fixed
+PB,electricity,coal,coal (IGCC),share-weight,2010,2100,0,0,fixed
+PC,electricity,coal,coal (IGCC),share-weight,2010,2100,0,0,fixed
+RJ,electricity,coal,coal (IGCC),share-weight,2010,2100,0,0,fixed
+SK,electricity,coal,coal (IGCC),share-weight,2010,2100,0,0,fixed
+TN,electricity,coal,coal (IGCC),share-weight,2010,2100,0,0,fixed
+TR,electricity,coal,coal (IGCC),share-weight,2010,2100,0,0,fixed
+TS,electricity,coal,coal (IGCC),share-weight,2010,2100,0,0,fixed
+UK,electricity,coal,coal (IGCC),share-weight,2010,2100,0,0,fixed
+UP,electricity,coal,coal (IGCC),share-weight,2010,2100,0,0,fixed
+WB,electricity,coal,coal (IGCC),share-weight,2010,2100,0,0,fixed
+AN,electricity,coal,coal (conv pul),share-weight,2025,2100,0,0,fixed
+AP,electricity,coal,coal (conv pul),share-weight,2025,2100,0,0,fixed
+AR,electricity,coal,coal (conv pul),share-weight,2025,2100,0,0,fixed
+AS,electricity,coal,coal (conv pul),share-weight,2025,2100,0,0,fixed
+BR,electricity,coal,coal (conv pul),share-weight,2025,2100,0,0,fixed
+CG,electricity,coal,coal (conv pul),share-weight,2025,2100,0,0,fixed
+CH,electricity,coal,coal (conv pul),share-weight,2025,2100,0,0,fixed
+DD,electricity,coal,coal (conv pul),share-weight,2025,2100,0,0,fixed
+DL,electricity,coal,coal (conv pul),share-weight,2025,2100,0,0,fixed
+DN,electricity,coal,coal (conv pul),share-weight,2025,2100,0,0,fixed
+GA,electricity,coal,coal (conv pul),share-weight,2025,2100,0,0,fixed
+GJ,electricity,coal,coal (conv pul),share-weight,2025,2100,0,0,fixed
+HP,electricity,coal,coal (conv pul),share-weight,2025,2100,0,0,fixed
+HR,electricity,coal,coal (conv pul),share-weight,2025,2100,0,0,fixed
+JH,electricity,coal,coal (conv pul),share-weight,2025,2100,0,0,fixed
+JK,electricity,coal,coal (conv pul),share-weight,2025,2100,0,0,fixed
+KA,electricity,coal,coal (conv pul),share-weight,2025,2100,0,0,fixed
+KL,electricity,coal,coal (conv pul),share-weight,2025,2100,0,0,fixed
+LA,electricity,coal,coal (conv pul),share-weight,2025,2100,0,0,fixed
+LD,electricity,coal,coal (conv pul),share-weight,2025,2100,0,0,fixed
+MH,electricity,coal,coal (conv pul),share-weight,2025,2100,0,0,fixed
+ML,electricity,coal,coal (conv pul),share-weight,2025,2100,0,0,fixed
+MN,electricity,coal,coal (conv pul),share-weight,2025,2100,0,0,fixed
+MP,electricity,coal,coal (conv pul),share-weight,2025,2100,0,0,fixed
+MZ,electricity,coal,coal (conv pul),share-weight,2025,2100,0,0,fixed
+NL,electricity,coal,coal (conv pul),share-weight,2025,2100,0,0,fixed
+OD,electricity,coal,coal (conv pul),share-weight,2025,2100,0,0,fixed
+PB,electricity,coal,coal (conv pul),share-weight,2025,2100,0,0,fixed
+PC,electricity,coal,coal (conv pul),share-weight,2025,2100,0,0,fixed
+RJ,electricity,coal,coal (conv pul),share-weight,2025,2100,0,0,fixed
+SK,electricity,coal,coal (conv pul),share-weight,2025,2100,0,0,fixed
+TN,electricity,coal,coal (conv pul),share-weight,2025,2100,0,0,fixed
+TR,electricity,coal,coal (conv pul),share-weight,2025,2100,0,0,fixed
+TS,electricity,coal,coal (conv pul),share-weight,2025,2100,0,0,fixed
+UK,electricity,coal,coal (conv pul),share-weight,2025,2100,0,0,fixed
+UP,electricity,coal,coal (conv pul),share-weight,2025,2100,0,0,fixed
+WB,electricity,coal,coal (conv pul),share-weight,2025,2100,0,0,fixed
+AN,electricity,refined liquids,refined liquids (CC),share-weight,2025,2100,0,0,fixed
+AP,electricity,refined liquids,refined liquids (CC),share-weight,2025,2100,0,0,fixed
+AR,electricity,refined liquids,refined liquids (CC),share-weight,2025,2100,0,0,fixed
+AS,electricity,refined liquids,refined liquids (CC),share-weight,2025,2100,0,0,fixed
+BR,electricity,refined liquids,refined liquids (CC),share-weight,2025,2100,0,0,fixed
+CG,electricity,refined liquids,refined liquids (CC),share-weight,2025,2100,0,0,fixed
+CH,electricity,refined liquids,refined liquids (CC),share-weight,2025,2100,0,0,fixed
+DD,electricity,refined liquids,refined liquids (CC),share-weight,2025,2100,0,0,fixed
+DL,electricity,refined liquids,refined liquids (CC),share-weight,2025,2100,0,0,fixed
+DN,electricity,refined liquids,refined liquids (CC),share-weight,2025,2100,0,0,fixed
+GA,electricity,refined liquids,refined liquids (CC),share-weight,2025,2100,0,0,fixed
+GJ,electricity,refined liquids,refined liquids (CC),share-weight,2025,2100,0,0,fixed
+HP,electricity,refined liquids,refined liquids (CC),share-weight,2025,2100,0,0,fixed
+HR,electricity,refined liquids,refined liquids (CC),share-weight,2025,2100,0,0,fixed
+JH,electricity,refined liquids,refined liquids (CC),share-weight,2025,2100,0,0,fixed
+JK,electricity,refined liquids,refined liquids (CC),share-weight,2025,2100,0,0,fixed
+KA,electricity,refined liquids,refined liquids (CC),share-weight,2025,2100,0,0,fixed
+KL,electricity,refined liquids,refined liquids (CC),share-weight,2025,2100,0,0,fixed
+LA,electricity,refined liquids,refined liquids (CC),share-weight,2025,2100,0,0,fixed
+LD,electricity,refined liquids,refined liquids (CC),share-weight,2025,2100,0,0,fixed
+MH,electricity,refined liquids,refined liquids (CC),share-weight,2025,2100,0,0,fixed
+ML,electricity,refined liquids,refined liquids (CC),share-weight,2025,2100,0,0,fixed
+MN,electricity,refined liquids,refined liquids (CC),share-weight,2025,2100,0,0,fixed
+MP,electricity,refined liquids,refined liquids (CC),share-weight,2025,2100,0,0,fixed
+MZ,electricity,refined liquids,refined liquids (CC),share-weight,2025,2100,0,0,fixed
+NL,electricity,refined liquids,refined liquids (CC),share-weight,2025,2100,0,0,fixed
+OD,electricity,refined liquids,refined liquids (CC),share-weight,2025,2100,0,0,fixed
+PB,electricity,refined liquids,refined liquids (CC),share-weight,2025,2100,0,0,fixed
+PC,electricity,refined liquids,refined liquids (CC),share-weight,2025,2100,0,0,fixed
+RJ,electricity,refined liquids,refined liquids (CC),share-weight,2025,2100,0,0,fixed
+SK,electricity,refined liquids,refined liquids (CC),share-weight,2025,2100,0,0,fixed
+TN,electricity,refined liquids,refined liquids (CC),share-weight,2025,2100,0,0,fixed
+TR,electricity,refined liquids,refined liquids (CC),share-weight,2025,2100,0,0,fixed
+TS,electricity,refined liquids,refined liquids (CC),share-weight,2025,2100,0,0,fixed
+UK,electricity,refined liquids,refined liquids (CC),share-weight,2025,2100,0,0,fixed
+UP,electricity,refined liquids,refined liquids (CC),share-weight,2025,2100,0,0,fixed
+WB,electricity,refined liquids,refined liquids (CC),share-weight,2025,2100,0,0,fixed
+AN,electricity,refined liquids,refined liquids (steam/CT),share-weight,2025,2100,0,0,fixed
+AP,electricity,refined liquids,refined liquids (steam/CT),share-weight,2025,2100,0,0,fixed
+AR,electricity,refined liquids,refined liquids (steam/CT),share-weight,2025,2100,0,0,fixed
+AS,electricity,refined liquids,refined liquids (steam/CT),share-weight,2025,2100,0,0,fixed
+BR,electricity,refined liquids,refined liquids (steam/CT),share-weight,2025,2100,0,0,fixed
+CG,electricity,refined liquids,refined liquids (steam/CT),share-weight,2025,2100,0,0,fixed
+CH,electricity,refined liquids,refined liquids (steam/CT),share-weight,2025,2100,0,0,fixed
+DD,electricity,refined liquids,refined liquids (steam/CT),share-weight,2025,2100,0,0,fixed
+DL,electricity,refined liquids,refined liquids (steam/CT),share-weight,2025,2100,0,0,fixed
+DN,electricity,refined liquids,refined liquids (steam/CT),share-weight,2025,2100,0,0,fixed
+GA,electricity,refined liquids,refined liquids (steam/CT),share-weight,2025,2100,0,0,fixed
+GJ,electricity,refined liquids,refined liquids (steam/CT),share-weight,2025,2100,0,0,fixed
+HP,electricity,refined liquids,refined liquids (steam/CT),share-weight,2025,2100,0,0,fixed
+HR,electricity,refined liquids,refined liquids (steam/CT),share-weight,2025,2100,0,0,fixed
+JH,electricity,refined liquids,refined liquids (steam/CT),share-weight,2025,2100,0,0,fixed
+JK,electricity,refined liquids,refined liquids (steam/CT),share-weight,2025,2100,0,0,fixed
+KA,electricity,refined liquids,refined liquids (steam/CT),share-weight,2025,2100,0,0,fixed
+KL,electricity,refined liquids,refined liquids (steam/CT),share-weight,2025,2100,0,0,fixed
+LA,electricity,refined liquids,refined liquids (steam/CT),share-weight,2025,2100,0,0,fixed
+LD,electricity,refined liquids,refined liquids (steam/CT),share-weight,2025,2100,0,0,fixed
+MH,electricity,refined liquids,refined liquids (steam/CT),share-weight,2025,2100,0,0,fixed
+ML,electricity,refined liquids,refined liquids (steam/CT),share-weight,2025,2100,0,0,fixed
+MN,electricity,refined liquids,refined liquids (steam/CT),share-weight,2025,2100,0,0,fixed
+MP,electricity,refined liquids,refined liquids (steam/CT),share-weight,2025,2100,0,0,fixed
+MZ,electricity,refined liquids,refined liquids (steam/CT),share-weight,2025,2100,0,0,fixed
+NL,electricity,refined liquids,refined liquids (steam/CT),share-weight,2025,2100,0,0,fixed
+OD,electricity,refined liquids,refined liquids (steam/CT),share-weight,2025,2100,0,0,fixed
+PB,electricity,refined liquids,refined liquids (steam/CT),share-weight,2025,2100,0,0,fixed
+PC,electricity,refined liquids,refined liquids (steam/CT),share-weight,2025,2100,0,0,fixed
+RJ,electricity,refined liquids,refined liquids (steam/CT),share-weight,2025,2100,0,0,fixed
+SK,electricity,refined liquids,refined liquids (steam/CT),share-weight,2025,2100,0,0,fixed
+TN,electricity,refined liquids,refined liquids (steam/CT),share-weight,2025,2100,0,0,fixed
+TR,electricity,refined liquids,refined liquids (steam/CT),share-weight,2025,2100,0,0,fixed
+TS,electricity,refined liquids,refined liquids (steam/CT),share-weight,2025,2100,0,0,fixed
+UK,electricity,refined liquids,refined liquids (steam/CT),share-weight,2025,2100,0,0,fixed
+UP,electricity,refined liquids,refined liquids (steam/CT),share-weight,2025,2100,0,0,fixed
+WB,electricity,refined liquids,refined liquids (steam/CT),share-weight,2025,2100,0,0,fixed
+AN,electricity,nuclear,Gen_III,share-weight,2010,2100,0.5,0.5,fixed
+AP,electricity,nuclear,Gen_III,share-weight,2010,2100,0.5,0.5,fixed
+AR,electricity,nuclear,Gen_III,share-weight,2010,2100,0.5,0.5,fixed
+AS,electricity,nuclear,Gen_III,share-weight,2010,2100,0.5,0.5,fixed
+BR,electricity,nuclear,Gen_III,share-weight,2010,2100,0.5,0.5,fixed
+CG,electricity,nuclear,Gen_III,share-weight,2010,2100,0.5,0.5,fixed
+CH,electricity,nuclear,Gen_III,share-weight,2010,2100,0.5,0.5,fixed
+DD,electricity,nuclear,Gen_III,share-weight,2010,2100,0.5,0.5,fixed
+DL,electricity,nuclear,Gen_III,share-weight,2010,2100,0.5,0.5,fixed
+DN,electricity,nuclear,Gen_III,share-weight,2010,2100,0.5,0.5,fixed
+GA,electricity,nuclear,Gen_III,share-weight,2010,2100,0.5,0.5,fixed
+GJ,electricity,nuclear,Gen_III,share-weight,2010,2100,0.5,0.5,fixed
+HP,electricity,nuclear,Gen_III,share-weight,2010,2100,0.5,0.5,fixed
+HR,electricity,nuclear,Gen_III,share-weight,2010,2100,0.5,0.5,fixed
+JH,electricity,nuclear,Gen_III,share-weight,2010,2100,0.5,0.5,fixed
+JK,electricity,nuclear,Gen_III,share-weight,2010,2100,0.5,0.5,fixed
+KA,electricity,nuclear,Gen_III,share-weight,2010,2100,0.5,0.5,fixed
+KL,electricity,nuclear,Gen_III,share-weight,2010,2100,0.5,0.5,fixed
+LA,electricity,nuclear,Gen_III,share-weight,2010,2100,0.5,0.5,fixed
+LD,electricity,nuclear,Gen_III,share-weight,2010,2100,0.5,0.5,fixed
+MH,electricity,nuclear,Gen_III,share-weight,2010,2100,0.5,0.5,fixed
+ML,electricity,nuclear,Gen_III,share-weight,2010,2100,0.5,0.5,fixed
+MN,electricity,nuclear,Gen_III,share-weight,2010,2100,0.5,0.5,fixed
+MP,electricity,nuclear,Gen_III,share-weight,2010,2100,0.5,0.5,fixed
+MZ,electricity,nuclear,Gen_III,share-weight,2010,2100,0.5,0.5,fixed
+NL,electricity,nuclear,Gen_III,share-weight,2010,2100,0.5,0.5,fixed
+OD,electricity,nuclear,Gen_III,share-weight,2010,2100,0.5,0.5,fixed
+PB,electricity,nuclear,Gen_III,share-weight,2010,2100,0.5,0.5,fixed
+PC,electricity,nuclear,Gen_III,share-weight,2010,2100,0.5,0.5,fixed
+RJ,electricity,nuclear,Gen_III,share-weight,2010,2100,0.5,0.5,fixed
+SK,electricity,nuclear,Gen_III,share-weight,2010,2100,0.5,0.5,fixed
+TN,electricity,nuclear,Gen_III,share-weight,2010,2100,0.5,0.5,fixed
+TR,electricity,nuclear,Gen_III,share-weight,2010,2100,0.5,0.5,fixed
+TS,electricity,nuclear,Gen_III,share-weight,2010,2100,0.5,0.5,fixed
+UK,electricity,nuclear,Gen_III,share-weight,2010,2100,0.5,0.5,fixed
+UP,electricity,nuclear,Gen_III,share-weight,2010,2100,0.5,0.5,fixed
+WB,electricity,nuclear,Gen_III,share-weight,2010,2100,0.5,0.5,fixed

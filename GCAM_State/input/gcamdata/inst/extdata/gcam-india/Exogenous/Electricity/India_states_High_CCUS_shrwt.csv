@@ -1,0 +1,671 @@
+INPUT_TABLE,,,,,,,,,
+Variable ID,,,,,,,,,
+StateCCUSShareweight,,,,,,,,,
+,,,,,,,,,
+region,supplysector,subsector,technology,apply.to,from.year,to.year,from.value,to-value,interpolation.function
+AN,electricity,biomass,biomass (IGCC CCS),share-weight,2010,2050,0,1,linear
+AN,electricity,biomass,biomass (IGCC CCS),share-weight,2045,2100,1,1,fixed
+AN,electricity,biomass,biomass (IGCC CCS),share-weight,2095,2100,1,1,fixed
+AP,electricity,biomass,biomass (IGCC CCS),share-weight,2010,2050,0,1,linear
+AP,electricity,biomass,biomass (IGCC CCS),share-weight,2045,2100,1,1,fixed
+AP,electricity,biomass,biomass (IGCC CCS),share-weight,2095,2100,1,1,fixed
+AR,electricity,biomass,biomass (IGCC CCS),share-weight,2010,2050,0,1,linear
+AR,electricity,biomass,biomass (IGCC CCS),share-weight,2045,2100,1,1,fixed
+AR,electricity,biomass,biomass (IGCC CCS),share-weight,2095,2100,1,1,fixed
+AS,electricity,biomass,biomass (IGCC CCS),share-weight,2010,2050,0,1,linear
+AS,electricity,biomass,biomass (IGCC CCS),share-weight,2045,2100,1,1,fixed
+AS,electricity,biomass,biomass (IGCC CCS),share-weight,2095,2100,1,1,fixed
+BR,electricity,biomass,biomass (IGCC CCS),share-weight,2010,2050,0,1,linear
+BR,electricity,biomass,biomass (IGCC CCS),share-weight,2045,2100,1,1,fixed
+BR,electricity,biomass,biomass (IGCC CCS),share-weight,2095,2100,1,1,fixed
+CG,electricity,biomass,biomass (IGCC CCS),share-weight,2010,2050,0,1,linear
+CG,electricity,biomass,biomass (IGCC CCS),share-weight,2045,2100,1,1,fixed
+CG,electricity,biomass,biomass (IGCC CCS),share-weight,2095,2100,1,1,fixed
+CH,electricity,biomass,biomass (IGCC CCS),share-weight,2010,2050,0,1,linear
+CH,electricity,biomass,biomass (IGCC CCS),share-weight,2045,2100,1,1,fixed
+CH,electricity,biomass,biomass (IGCC CCS),share-weight,2095,2100,1,1,fixed
+DD,electricity,biomass,biomass (IGCC CCS),share-weight,2010,2050,0,1,linear
+DD,electricity,biomass,biomass (IGCC CCS),share-weight,2045,2100,1,1,fixed
+DD,electricity,biomass,biomass (IGCC CCS),share-weight,2095,2100,1,1,fixed
+DL,electricity,biomass,biomass (IGCC CCS),share-weight,2010,2050,0,1,linear
+DL,electricity,biomass,biomass (IGCC CCS),share-weight,2045,2100,1,1,fixed
+DL,electricity,biomass,biomass (IGCC CCS),share-weight,2095,2100,1,1,fixed
+DN,electricity,biomass,biomass (IGCC CCS),share-weight,2010,2050,0,1,linear
+DN,electricity,biomass,biomass (IGCC CCS),share-weight,2045,2100,1,1,fixed
+DN,electricity,biomass,biomass (IGCC CCS),share-weight,2095,2100,1,1,fixed
+GA,electricity,biomass,biomass (IGCC CCS),share-weight,2010,2050,0,1,linear
+GA,electricity,biomass,biomass (IGCC CCS),share-weight,2045,2100,1,1,fixed
+GA,electricity,biomass,biomass (IGCC CCS),share-weight,2095,2100,1,1,fixed
+GJ,electricity,biomass,biomass (IGCC CCS),share-weight,2010,2050,0,1,linear
+GJ,electricity,biomass,biomass (IGCC CCS),share-weight,2045,2100,1,1,fixed
+GJ,electricity,biomass,biomass (IGCC CCS),share-weight,2095,2100,1,1,fixed
+HP,electricity,biomass,biomass (IGCC CCS),share-weight,2010,2050,0,1,linear
+HP,electricity,biomass,biomass (IGCC CCS),share-weight,2045,2100,1,1,fixed
+HP,electricity,biomass,biomass (IGCC CCS),share-weight,2095,2100,1,1,fixed
+HR,electricity,biomass,biomass (IGCC CCS),share-weight,2010,2050,0,1,linear
+HR,electricity,biomass,biomass (IGCC CCS),share-weight,2045,2100,1,1,fixed
+HR,electricity,biomass,biomass (IGCC CCS),share-weight,2095,2100,1,1,fixed
+JH,electricity,biomass,biomass (IGCC CCS),share-weight,2010,2050,0,1,linear
+JH,electricity,biomass,biomass (IGCC CCS),share-weight,2045,2100,1,1,fixed
+JH,electricity,biomass,biomass (IGCC CCS),share-weight,2095,2100,1,1,fixed
+JK,electricity,biomass,biomass (IGCC CCS),share-weight,2010,2050,0,1,linear
+JK,electricity,biomass,biomass (IGCC CCS),share-weight,2045,2100,1,1,fixed
+JK,electricity,biomass,biomass (IGCC CCS),share-weight,2095,2100,1,1,fixed
+KA,electricity,biomass,biomass (IGCC CCS),share-weight,2010,2050,0,1,linear
+KA,electricity,biomass,biomass (IGCC CCS),share-weight,2045,2100,1,1,fixed
+KA,electricity,biomass,biomass (IGCC CCS),share-weight,2095,2100,1,1,fixed
+KL,electricity,biomass,biomass (IGCC CCS),share-weight,2010,2050,0,1,linear
+KL,electricity,biomass,biomass (IGCC CCS),share-weight,2045,2100,1,1,fixed
+KL,electricity,biomass,biomass (IGCC CCS),share-weight,2095,2100,1,1,fixed
+LA,electricity,biomass,biomass (IGCC CCS),share-weight,2010,2050,0,1,linear
+LA,electricity,biomass,biomass (IGCC CCS),share-weight,2045,2100,1,1,fixed
+LA,electricity,biomass,biomass (IGCC CCS),share-weight,2095,2100,1,1,fixed
+LD,electricity,biomass,biomass (IGCC CCS),share-weight,2010,2050,0,1,linear
+LD,electricity,biomass,biomass (IGCC CCS),share-weight,2045,2100,1,1,fixed
+LD,electricity,biomass,biomass (IGCC CCS),share-weight,2095,2100,1,1,fixed
+MH,electricity,biomass,biomass (IGCC CCS),share-weight,2010,2050,0,1,linear
+MH,electricity,biomass,biomass (IGCC CCS),share-weight,2045,2100,1,1,fixed
+MH,electricity,biomass,biomass (IGCC CCS),share-weight,2095,2100,1,1,fixed
+ML,electricity,biomass,biomass (IGCC CCS),share-weight,2010,2050,0,1,linear
+ML,electricity,biomass,biomass (IGCC CCS),share-weight,2045,2100,1,1,fixed
+ML,electricity,biomass,biomass (IGCC CCS),share-weight,2095,2100,1,1,fixed
+MN,electricity,biomass,biomass (IGCC CCS),share-weight,2010,2050,0,1,linear
+MN,electricity,biomass,biomass (IGCC CCS),share-weight,2045,2100,1,1,fixed
+MN,electricity,biomass,biomass (IGCC CCS),share-weight,2095,2100,1,1,fixed
+MP,electricity,biomass,biomass (IGCC CCS),share-weight,2010,2050,0,1,linear
+MP,electricity,biomass,biomass (IGCC CCS),share-weight,2045,2100,1,1,fixed
+MP,electricity,biomass,biomass (IGCC CCS),share-weight,2095,2100,1,1,fixed
+MZ,electricity,biomass,biomass (IGCC CCS),share-weight,2010,2050,0,1,linear
+MZ,electricity,biomass,biomass (IGCC CCS),share-weight,2045,2100,1,1,fixed
+MZ,electricity,biomass,biomass (IGCC CCS),share-weight,2095,2100,1,1,fixed
+NL,electricity,biomass,biomass (IGCC CCS),share-weight,2010,2050,0,1,linear
+NL,electricity,biomass,biomass (IGCC CCS),share-weight,2045,2100,1,1,fixed
+NL,electricity,biomass,biomass (IGCC CCS),share-weight,2095,2100,1,1,fixed
+OD,electricity,biomass,biomass (IGCC CCS),share-weight,2010,2050,0,1,linear
+OD,electricity,biomass,biomass (IGCC CCS),share-weight,2045,2100,1,1,fixed
+OD,electricity,biomass,biomass (IGCC CCS),share-weight,2095,2100,1,1,fixed
+PB,electricity,biomass,biomass (IGCC CCS),share-weight,2010,2050,0,1,linear
+PB,electricity,biomass,biomass (IGCC CCS),share-weight,2045,2100,1,1,fixed
+PB,electricity,biomass,biomass (IGCC CCS),share-weight,2095,2100,1,1,fixed
+PC,electricity,biomass,biomass (IGCC CCS),share-weight,2010,2050,0,1,linear
+PC,electricity,biomass,biomass (IGCC CCS),share-weight,2045,2100,1,1,fixed
+PC,electricity,biomass,biomass (IGCC CCS),share-weight,2095,2100,1,1,fixed
+RJ,electricity,biomass,biomass (IGCC CCS),share-weight,2010,2050,0,1,linear
+RJ,electricity,biomass,biomass (IGCC CCS),share-weight,2045,2100,1,1,fixed
+RJ,electricity,biomass,biomass (IGCC CCS),share-weight,2095,2100,1,1,fixed
+SK,electricity,biomass,biomass (IGCC CCS),share-weight,2010,2050,0,1,linear
+SK,electricity,biomass,biomass (IGCC CCS),share-weight,2045,2100,1,1,fixed
+SK,electricity,biomass,biomass (IGCC CCS),share-weight,2095,2100,1,1,fixed
+TN,electricity,biomass,biomass (IGCC CCS),share-weight,2010,2050,0,1,linear
+TN,electricity,biomass,biomass (IGCC CCS),share-weight,2045,2100,1,1,fixed
+TN,electricity,biomass,biomass (IGCC CCS),share-weight,2095,2100,1,1,fixed
+TR,electricity,biomass,biomass (IGCC CCS),share-weight,2010,2050,0,1,linear
+TR,electricity,biomass,biomass (IGCC CCS),share-weight,2045,2100,1,1,fixed
+TR,electricity,biomass,biomass (IGCC CCS),share-weight,2095,2100,1,1,fixed
+TS,electricity,biomass,biomass (IGCC CCS),share-weight,2010,2050,0,1,linear
+TS,electricity,biomass,biomass (IGCC CCS),share-weight,2045,2100,1,1,fixed
+TS,electricity,biomass,biomass (IGCC CCS),share-weight,2095,2100,1,1,fixed
+UK,electricity,biomass,biomass (IGCC CCS),share-weight,2010,2050,0,1,linear
+UK,electricity,biomass,biomass (IGCC CCS),share-weight,2045,2100,1,1,fixed
+UK,electricity,biomass,biomass (IGCC CCS),share-weight,2095,2100,1,1,fixed
+UP,electricity,biomass,biomass (IGCC CCS),share-weight,2010,2050,0,1,linear
+UP,electricity,biomass,biomass (IGCC CCS),share-weight,2045,2100,1,1,fixed
+UP,electricity,biomass,biomass (IGCC CCS),share-weight,2095,2100,1,1,fixed
+WB,electricity,biomass,biomass (IGCC CCS),share-weight,2010,2050,0,1,linear
+WB,electricity,biomass,biomass (IGCC CCS),share-weight,2045,2100,1,1,fixed
+WB,electricity,biomass,biomass (IGCC CCS),share-weight,2095,2100,1,1,fixed
+AN,electricity,biomass,biomass (conv CCS),share-weight,2010,2050,0,1,linear
+AN,electricity,biomass,biomass (conv CCS),share-weight,2045,2100,1,1,fixed
+AN,electricity,biomass,biomass (conv CCS),share-weight,2095,2100,1,1,fixed
+AP,electricity,biomass,biomass (conv CCS),share-weight,2010,2050,0,1,linear
+AP,electricity,biomass,biomass (conv CCS),share-weight,2045,2100,1,1,fixed
+AP,electricity,biomass,biomass (conv CCS),share-weight,2095,2100,1,1,fixed
+AR,electricity,biomass,biomass (conv CCS),share-weight,2010,2050,0,1,linear
+AR,electricity,biomass,biomass (conv CCS),share-weight,2045,2100,1,1,fixed
+AR,electricity,biomass,biomass (conv CCS),share-weight,2095,2100,1,1,fixed
+AS,electricity,biomass,biomass (conv CCS),share-weight,2010,2050,0,1,linear
+AS,electricity,biomass,biomass (conv CCS),share-weight,2045,2100,1,1,fixed
+AS,electricity,biomass,biomass (conv CCS),share-weight,2095,2100,1,1,fixed
+BR,electricity,biomass,biomass (conv CCS),share-weight,2010,2050,0,1,linear
+BR,electricity,biomass,biomass (conv CCS),share-weight,2045,2100,1,1,fixed
+BR,electricity,biomass,biomass (conv CCS),share-weight,2095,2100,1,1,fixed
+CG,electricity,biomass,biomass (conv CCS),share-weight,2010,2050,0,1,linear
+CG,electricity,biomass,biomass (conv CCS),share-weight,2045,2100,1,1,fixed
+CG,electricity,biomass,biomass (conv CCS),share-weight,2095,2100,1,1,fixed
+CH,electricity,biomass,biomass (conv CCS),share-weight,2010,2050,0,1,linear
+CH,electricity,biomass,biomass (conv CCS),share-weight,2045,2100,1,1,fixed
+CH,electricity,biomass,biomass (conv CCS),share-weight,2095,2100,1,1,fixed
+DD,electricity,biomass,biomass (conv CCS),share-weight,2010,2050,0,1,linear
+DD,electricity,biomass,biomass (conv CCS),share-weight,2045,2100,1,1,fixed
+DD,electricity,biomass,biomass (conv CCS),share-weight,2095,2100,1,1,fixed
+DL,electricity,biomass,biomass (conv CCS),share-weight,2010,2050,0,1,linear
+DL,electricity,biomass,biomass (conv CCS),share-weight,2045,2100,1,1,fixed
+DL,electricity,biomass,biomass (conv CCS),share-weight,2095,2100,1,1,fixed
+DN,electricity,biomass,biomass (conv CCS),share-weight,2010,2050,0,1,linear
+DN,electricity,biomass,biomass (conv CCS),share-weight,2045,2100,1,1,fixed
+DN,electricity,biomass,biomass (conv CCS),share-weight,2095,2100,1,1,fixed
+GA,electricity,biomass,biomass (conv CCS),share-weight,2010,2050,0,1,linear
+GA,electricity,biomass,biomass (conv CCS),share-weight,2045,2100,1,1,fixed
+GA,electricity,biomass,biomass (conv CCS),share-weight,2095,2100,1,1,fixed
+GJ,electricity,biomass,biomass (conv CCS),share-weight,2010,2050,0,1,linear
+GJ,electricity,biomass,biomass (conv CCS),share-weight,2045,2100,1,1,fixed
+GJ,electricity,biomass,biomass (conv CCS),share-weight,2095,2100,1,1,fixed
+HP,electricity,biomass,biomass (conv CCS),share-weight,2010,2050,0,1,linear
+HP,electricity,biomass,biomass (conv CCS),share-weight,2045,2100,1,1,fixed
+HP,electricity,biomass,biomass (conv CCS),share-weight,2095,2100,1,1,fixed
+HR,electricity,biomass,biomass (conv CCS),share-weight,2010,2050,0,1,linear
+HR,electricity,biomass,biomass (conv CCS),share-weight,2045,2100,1,1,fixed
+HR,electricity,biomass,biomass (conv CCS),share-weight,2095,2100,1,1,fixed
+JH,electricity,biomass,biomass (conv CCS),share-weight,2010,2050,0,1,linear
+JH,electricity,biomass,biomass (conv CCS),share-weight,2045,2100,1,1,fixed
+JH,electricity,biomass,biomass (conv CCS),share-weight,2095,2100,1,1,fixed
+JK,electricity,biomass,biomass (conv CCS),share-weight,2010,2050,0,1,linear
+JK,electricity,biomass,biomass (conv CCS),share-weight,2045,2100,1,1,fixed
+JK,electricity,biomass,biomass (conv CCS),share-weight,2095,2100,1,1,fixed
+KA,electricity,biomass,biomass (conv CCS),share-weight,2010,2050,0,1,linear
+KA,electricity,biomass,biomass (conv CCS),share-weight,2045,2100,1,1,fixed
+KA,electricity,biomass,biomass (conv CCS),share-weight,2095,2100,1,1,fixed
+KL,electricity,biomass,biomass (conv CCS),share-weight,2010,2050,0,1,linear
+KL,electricity,biomass,biomass (conv CCS),share-weight,2045,2100,1,1,fixed
+KL,electricity,biomass,biomass (conv CCS),share-weight,2095,2100,1,1,fixed
+LA,electricity,biomass,biomass (conv CCS),share-weight,2010,2050,0,1,linear
+LA,electricity,biomass,biomass (conv CCS),share-weight,2045,2100,1,1,fixed
+LA,electricity,biomass,biomass (conv CCS),share-weight,2095,2100,1,1,fixed
+LD,electricity,biomass,biomass (conv CCS),share-weight,2010,2050,0,1,linear
+LD,electricity,biomass,biomass (conv CCS),share-weight,2045,2100,1,1,fixed
+LD,electricity,biomass,biomass (conv CCS),share-weight,2095,2100,1,1,fixed
+MH,electricity,biomass,biomass (conv CCS),share-weight,2010,2050,0,1,linear
+MH,electricity,biomass,biomass (conv CCS),share-weight,2045,2100,1,1,fixed
+MH,electricity,biomass,biomass (conv CCS),share-weight,2095,2100,1,1,fixed
+ML,electricity,biomass,biomass (conv CCS),share-weight,2010,2050,0,1,linear
+ML,electricity,biomass,biomass (conv CCS),share-weight,2045,2100,1,1,fixed
+ML,electricity,biomass,biomass (conv CCS),share-weight,2095,2100,1,1,fixed
+MN,electricity,biomass,biomass (conv CCS),share-weight,2010,2050,0,1,linear
+MN,electricity,biomass,biomass (conv CCS),share-weight,2045,2100,1,1,fixed
+MN,electricity,biomass,biomass (conv CCS),share-weight,2095,2100,1,1,fixed
+MP,electricity,biomass,biomass (conv CCS),share-weight,2010,2050,0,1,linear
+MP,electricity,biomass,biomass (conv CCS),share-weight,2045,2100,1,1,fixed
+MP,electricity,biomass,biomass (conv CCS),share-weight,2095,2100,1,1,fixed
+MZ,electricity,biomass,biomass (conv CCS),share-weight,2010,2050,0,1,linear
+MZ,electricity,biomass,biomass (conv CCS),share-weight,2045,2100,1,1,fixed
+MZ,electricity,biomass,biomass (conv CCS),share-weight,2095,2100,1,1,fixed
+NL,electricity,biomass,biomass (conv CCS),share-weight,2010,2050,0,1,linear
+NL,electricity,biomass,biomass (conv CCS),share-weight,2045,2100,1,1,fixed
+NL,electricity,biomass,biomass (conv CCS),share-weight,2095,2100,1,1,fixed
+OD,electricity,biomass,biomass (conv CCS),share-weight,2010,2050,0,1,linear
+OD,electricity,biomass,biomass (conv CCS),share-weight,2045,2100,1,1,fixed
+OD,electricity,biomass,biomass (conv CCS),share-weight,2095,2100,1,1,fixed
+PB,electricity,biomass,biomass (conv CCS),share-weight,2010,2050,0,1,linear
+PB,electricity,biomass,biomass (conv CCS),share-weight,2045,2100,1,1,fixed
+PB,electricity,biomass,biomass (conv CCS),share-weight,2095,2100,1,1,fixed
+PC,electricity,biomass,biomass (conv CCS),share-weight,2010,2050,0,1,linear
+PC,electricity,biomass,biomass (conv CCS),share-weight,2045,2100,1,1,fixed
+PC,electricity,biomass,biomass (conv CCS),share-weight,2095,2100,1,1,fixed
+RJ,electricity,biomass,biomass (conv CCS),share-weight,2010,2050,0,1,linear
+RJ,electricity,biomass,biomass (conv CCS),share-weight,2045,2100,1,1,fixed
+RJ,electricity,biomass,biomass (conv CCS),share-weight,2095,2100,1,1,fixed
+SK,electricity,biomass,biomass (conv CCS),share-weight,2010,2050,0,1,linear
+SK,electricity,biomass,biomass (conv CCS),share-weight,2045,2100,1,1,fixed
+SK,electricity,biomass,biomass (conv CCS),share-weight,2095,2100,1,1,fixed
+TN,electricity,biomass,biomass (conv CCS),share-weight,2010,2050,0,1,linear
+TN,electricity,biomass,biomass (conv CCS),share-weight,2045,2100,1,1,fixed
+TN,electricity,biomass,biomass (conv CCS),share-weight,2095,2100,1,1,fixed
+TR,electricity,biomass,biomass (conv CCS),share-weight,2010,2050,0,1,linear
+TR,electricity,biomass,biomass (conv CCS),share-weight,2045,2100,1,1,fixed
+TR,electricity,biomass,biomass (conv CCS),share-weight,2095,2100,1,1,fixed
+TS,electricity,biomass,biomass (conv CCS),share-weight,2010,2050,0,1,linear
+TS,electricity,biomass,biomass (conv CCS),share-weight,2045,2100,1,1,fixed
+TS,electricity,biomass,biomass (conv CCS),share-weight,2095,2100,1,1,fixed
+UK,electricity,biomass,biomass (conv CCS),share-weight,2010,2050,0,1,linear
+UK,electricity,biomass,biomass (conv CCS),share-weight,2045,2100,1,1,fixed
+UK,electricity,biomass,biomass (conv CCS),share-weight,2095,2100,1,1,fixed
+UP,electricity,biomass,biomass (conv CCS),share-weight,2010,2050,0,1,linear
+UP,electricity,biomass,biomass (conv CCS),share-weight,2045,2100,1,1,fixed
+UP,electricity,biomass,biomass (conv CCS),share-weight,2095,2100,1,1,fixed
+WB,electricity,biomass,biomass (conv CCS),share-weight,2010,2050,0,1,linear
+WB,electricity,biomass,biomass (conv CCS),share-weight,2045,2100,1,1,fixed
+WB,electricity,biomass,biomass (conv CCS),share-weight,2095,2100,1,1,fixed
+AN,electricity,coal,coal (IGCC CCS),share-weight,2010,2050,0,1,linear
+AN,electricity,coal,coal (IGCC CCS),share-weight,2045,2100,1,1,fixed
+AN,electricity,coal,coal (IGCC CCS),share-weight,2095,2100,1,1,fixed
+AP,electricity,coal,coal (IGCC CCS),share-weight,2010,2050,0,1,linear
+AP,electricity,coal,coal (IGCC CCS),share-weight,2045,2100,1,1,fixed
+AP,electricity,coal,coal (IGCC CCS),share-weight,2095,2100,1,1,fixed
+AR,electricity,coal,coal (IGCC CCS),share-weight,2010,2050,0,1,linear
+AR,electricity,coal,coal (IGCC CCS),share-weight,2045,2100,1,1,fixed
+AR,electricity,coal,coal (IGCC CCS),share-weight,2095,2100,1,1,fixed
+AS,electricity,coal,coal (IGCC CCS),share-weight,2010,2050,0,1,linear
+AS,electricity,coal,coal (IGCC CCS),share-weight,2045,2100,1,1,fixed
+AS,electricity,coal,coal (IGCC CCS),share-weight,2095,2100,1,1,fixed
+BR,electricity,coal,coal (IGCC CCS),share-weight,2010,2050,0,1,linear
+BR,electricity,coal,coal (IGCC CCS),share-weight,2045,2100,1,1,fixed
+BR,electricity,coal,coal (IGCC CCS),share-weight,2095,2100,1,1,fixed
+CG,electricity,coal,coal (IGCC CCS),share-weight,2010,2050,0,1,linear
+CG,electricity,coal,coal (IGCC CCS),share-weight,2045,2100,1,1,fixed
+CG,electricity,coal,coal (IGCC CCS),share-weight,2095,2100,1,1,fixed
+CH,electricity,coal,coal (IGCC CCS),share-weight,2010,2050,0,1,linear
+CH,electricity,coal,coal (IGCC CCS),share-weight,2045,2100,1,1,fixed
+CH,electricity,coal,coal (IGCC CCS),share-weight,2095,2100,1,1,fixed
+DD,electricity,coal,coal (IGCC CCS),share-weight,2010,2050,0,1,linear
+DD,electricity,coal,coal (IGCC CCS),share-weight,2045,2100,1,1,fixed
+DD,electricity,coal,coal (IGCC CCS),share-weight,2095,2100,1,1,fixed
+DL,electricity,coal,coal (IGCC CCS),share-weight,2010,2050,0,1,linear
+DL,electricity,coal,coal (IGCC CCS),share-weight,2045,2100,1,1,fixed
+DL,electricity,coal,coal (IGCC CCS),share-weight,2095,2100,1,1,fixed
+DN,electricity,coal,coal (IGCC CCS),share-weight,2010,2050,0,1,linear
+DN,electricity,coal,coal (IGCC CCS),share-weight,2045,2100,1,1,fixed
+DN,electricity,coal,coal (IGCC CCS),share-weight,2095,2100,1,1,fixed
+GA,electricity,coal,coal (IGCC CCS),share-weight,2010,2050,0,1,linear
+GA,electricity,coal,coal (IGCC CCS),share-weight,2045,2100,1,1,fixed
+GA,electricity,coal,coal (IGCC CCS),share-weight,2095,2100,1,1,fixed
+GJ,electricity,coal,coal (IGCC CCS),share-weight,2010,2050,0,1,linear
+GJ,electricity,coal,coal (IGCC CCS),share-weight,2045,2100,1,1,fixed
+GJ,electricity,coal,coal (IGCC CCS),share-weight,2095,2100,1,1,fixed
+HP,electricity,coal,coal (IGCC CCS),share-weight,2010,2050,0,1,linear
+HP,electricity,coal,coal (IGCC CCS),share-weight,2045,2100,1,1,fixed
+HP,electricity,coal,coal (IGCC CCS),share-weight,2095,2100,1,1,fixed
+HR,electricity,coal,coal (IGCC CCS),share-weight,2010,2050,0,1,linear
+HR,electricity,coal,coal (IGCC CCS),share-weight,2045,2100,1,1,fixed
+HR,electricity,coal,coal (IGCC CCS),share-weight,2095,2100,1,1,fixed
+JH,electricity,coal,coal (IGCC CCS),share-weight,2010,2050,0,1,linear
+JH,electricity,coal,coal (IGCC CCS),share-weight,2045,2100,1,1,fixed
+JH,electricity,coal,coal (IGCC CCS),share-weight,2095,2100,1,1,fixed
+JK,electricity,coal,coal (IGCC CCS),share-weight,2010,2050,0,1,linear
+JK,electricity,coal,coal (IGCC CCS),share-weight,2045,2100,1,1,fixed
+JK,electricity,coal,coal (IGCC CCS),share-weight,2095,2100,1,1,fixed
+KA,electricity,coal,coal (IGCC CCS),share-weight,2010,2050,0,1,linear
+KA,electricity,coal,coal (IGCC CCS),share-weight,2045,2100,1,1,fixed
+KA,electricity,coal,coal (IGCC CCS),share-weight,2095,2100,1,1,fixed
+KL,electricity,coal,coal (IGCC CCS),share-weight,2010,2050,0,1,linear
+KL,electricity,coal,coal (IGCC CCS),share-weight,2045,2100,1,1,fixed
+KL,electricity,coal,coal (IGCC CCS),share-weight,2095,2100,1,1,fixed
+LA,electricity,coal,coal (IGCC CCS),share-weight,2010,2050,0,1,linear
+LA,electricity,coal,coal (IGCC CCS),share-weight,2045,2100,1,1,fixed
+LA,electricity,coal,coal (IGCC CCS),share-weight,2095,2100,1,1,fixed
+LD,electricity,coal,coal (IGCC CCS),share-weight,2010,2050,0,1,linear
+LD,electricity,coal,coal (IGCC CCS),share-weight,2045,2100,1,1,fixed
+LD,electricity,coal,coal (IGCC CCS),share-weight,2095,2100,1,1,fixed
+MH,electricity,coal,coal (IGCC CCS),share-weight,2010,2050,0,1,linear
+MH,electricity,coal,coal (IGCC CCS),share-weight,2045,2100,1,1,fixed
+MH,electricity,coal,coal (IGCC CCS),share-weight,2095,2100,1,1,fixed
+ML,electricity,coal,coal (IGCC CCS),share-weight,2010,2050,0,1,linear
+ML,electricity,coal,coal (IGCC CCS),share-weight,2045,2100,1,1,fixed
+ML,electricity,coal,coal (IGCC CCS),share-weight,2095,2100,1,1,fixed
+MN,electricity,coal,coal (IGCC CCS),share-weight,2010,2050,0,1,linear
+MN,electricity,coal,coal (IGCC CCS),share-weight,2045,2100,1,1,fixed
+MN,electricity,coal,coal (IGCC CCS),share-weight,2095,2100,1,1,fixed
+MP,electricity,coal,coal (IGCC CCS),share-weight,2010,2050,0,1,linear
+MP,electricity,coal,coal (IGCC CCS),share-weight,2045,2100,1,1,fixed
+MP,electricity,coal,coal (IGCC CCS),share-weight,2095,2100,1,1,fixed
+MZ,electricity,coal,coal (IGCC CCS),share-weight,2010,2050,0,1,linear
+MZ,electricity,coal,coal (IGCC CCS),share-weight,2045,2100,1,1,fixed
+MZ,electricity,coal,coal (IGCC CCS),share-weight,2095,2100,1,1,fixed
+NL,electricity,coal,coal (IGCC CCS),share-weight,2010,2050,0,1,linear
+NL,electricity,coal,coal (IGCC CCS),share-weight,2045,2100,1,1,fixed
+NL,electricity,coal,coal (IGCC CCS),share-weight,2095,2100,1,1,fixed
+OD,electricity,coal,coal (IGCC CCS),share-weight,2010,2050,0,1,linear
+OD,electricity,coal,coal (IGCC CCS),share-weight,2045,2100,1,1,fixed
+OD,electricity,coal,coal (IGCC CCS),share-weight,2095,2100,1,1,fixed
+PB,electricity,coal,coal (IGCC CCS),share-weight,2010,2050,0,1,linear
+PB,electricity,coal,coal (IGCC CCS),share-weight,2045,2100,1,1,fixed
+PB,electricity,coal,coal (IGCC CCS),share-weight,2095,2100,1,1,fixed
+PC,electricity,coal,coal (IGCC CCS),share-weight,2010,2050,0,1,linear
+PC,electricity,coal,coal (IGCC CCS),share-weight,2045,2100,1,1,fixed
+PC,electricity,coal,coal (IGCC CCS),share-weight,2095,2100,1,1,fixed
+RJ,electricity,coal,coal (IGCC CCS),share-weight,2010,2050,0,1,linear
+RJ,electricity,coal,coal (IGCC CCS),share-weight,2045,2100,1,1,fixed
+RJ,electricity,coal,coal (IGCC CCS),share-weight,2095,2100,1,1,fixed
+SK,electricity,coal,coal (IGCC CCS),share-weight,2010,2050,0,1,linear
+SK,electricity,coal,coal (IGCC CCS),share-weight,2045,2100,1,1,fixed
+SK,electricity,coal,coal (IGCC CCS),share-weight,2095,2100,1,1,fixed
+TN,electricity,coal,coal (IGCC CCS),share-weight,2010,2050,0,1,linear
+TN,electricity,coal,coal (IGCC CCS),share-weight,2045,2100,1,1,fixed
+TN,electricity,coal,coal (IGCC CCS),share-weight,2095,2100,1,1,fixed
+TR,electricity,coal,coal (IGCC CCS),share-weight,2010,2050,0,1,linear
+TR,electricity,coal,coal (IGCC CCS),share-weight,2045,2100,1,1,fixed
+TR,electricity,coal,coal (IGCC CCS),share-weight,2095,2100,1,1,fixed
+TS,electricity,coal,coal (IGCC CCS),share-weight,2010,2050,0,1,linear
+TS,electricity,coal,coal (IGCC CCS),share-weight,2045,2100,1,1,fixed
+TS,electricity,coal,coal (IGCC CCS),share-weight,2095,2100,1,1,fixed
+UK,electricity,coal,coal (IGCC CCS),share-weight,2010,2050,0,1,linear
+UK,electricity,coal,coal (IGCC CCS),share-weight,2045,2100,1,1,fixed
+UK,electricity,coal,coal (IGCC CCS),share-weight,2095,2100,1,1,fixed
+UP,electricity,coal,coal (IGCC CCS),share-weight,2010,2050,0,1,linear
+UP,electricity,coal,coal (IGCC CCS),share-weight,2045,2100,1,1,fixed
+UP,electricity,coal,coal (IGCC CCS),share-weight,2095,2100,1,1,fixed
+WB,electricity,coal,coal (IGCC CCS),share-weight,2010,2050,0,1,linear
+WB,electricity,coal,coal (IGCC CCS),share-weight,2045,2100,1,1,fixed
+WB,electricity,coal,coal (IGCC CCS),share-weight,2095,2100,1,1,fixed
+AN,electricity,coal,coal (conv pul CCS),share-weight,2010,2050,0,1,linear
+AN,electricity,coal,coal (conv pul CCS),share-weight,2045,2100,1,1,fixed
+AN,electricity,coal,coal (conv pul CCS),share-weight,2095,2100,1,1,fixed
+AP,electricity,coal,coal (conv pul CCS),share-weight,2010,2050,0,1,linear
+AP,electricity,coal,coal (conv pul CCS),share-weight,2045,2100,1,1,fixed
+AP,electricity,coal,coal (conv pul CCS),share-weight,2095,2100,1,1,fixed
+AR,electricity,coal,coal (conv pul CCS),share-weight,2010,2050,0,1,linear
+AR,electricity,coal,coal (conv pul CCS),share-weight,2045,2100,1,1,fixed
+AR,electricity,coal,coal (conv pul CCS),share-weight,2095,2100,1,1,fixed
+AS,electricity,coal,coal (conv pul CCS),share-weight,2010,2050,0,1,linear
+AS,electricity,coal,coal (conv pul CCS),share-weight,2045,2100,1,1,fixed
+AS,electricity,coal,coal (conv pul CCS),share-weight,2095,2100,1,1,fixed
+BR,electricity,coal,coal (conv pul CCS),share-weight,2010,2050,0,1,linear
+BR,electricity,coal,coal (conv pul CCS),share-weight,2045,2100,1,1,fixed
+BR,electricity,coal,coal (conv pul CCS),share-weight,2095,2100,1,1,fixed
+CG,electricity,coal,coal (conv pul CCS),share-weight,2010,2050,0,1,linear
+CG,electricity,coal,coal (conv pul CCS),share-weight,2045,2100,1,1,fixed
+CG,electricity,coal,coal (conv pul CCS),share-weight,2095,2100,1,1,fixed
+CH,electricity,coal,coal (conv pul CCS),share-weight,2010,2050,0,1,linear
+CH,electricity,coal,coal (conv pul CCS),share-weight,2045,2100,1,1,fixed
+CH,electricity,coal,coal (conv pul CCS),share-weight,2095,2100,1,1,fixed
+DD,electricity,coal,coal (conv pul CCS),share-weight,2010,2050,0,1,linear
+DD,electricity,coal,coal (conv pul CCS),share-weight,2045,2100,1,1,fixed
+DD,electricity,coal,coal (conv pul CCS),share-weight,2095,2100,1,1,fixed
+DL,electricity,coal,coal (conv pul CCS),share-weight,2010,2050,0,1,linear
+DL,electricity,coal,coal (conv pul CCS),share-weight,2045,2100,1,1,fixed
+DL,electricity,coal,coal (conv pul CCS),share-weight,2095,2100,1,1,fixed
+DN,electricity,coal,coal (conv pul CCS),share-weight,2010,2050,0,1,linear
+DN,electricity,coal,coal (conv pul CCS),share-weight,2045,2100,1,1,fixed
+DN,electricity,coal,coal (conv pul CCS),share-weight,2095,2100,1,1,fixed
+GA,electricity,coal,coal (conv pul CCS),share-weight,2010,2050,0,1,linear
+GA,electricity,coal,coal (conv pul CCS),share-weight,2045,2100,1,1,fixed
+GA,electricity,coal,coal (conv pul CCS),share-weight,2095,2100,1,1,fixed
+GJ,electricity,coal,coal (conv pul CCS),share-weight,2010,2050,0,1,linear
+GJ,electricity,coal,coal (conv pul CCS),share-weight,2045,2100,1,1,fixed
+GJ,electricity,coal,coal (conv pul CCS),share-weight,2095,2100,1,1,fixed
+HP,electricity,coal,coal (conv pul CCS),share-weight,2010,2050,0,1,linear
+HP,electricity,coal,coal (conv pul CCS),share-weight,2045,2100,1,1,fixed
+HP,electricity,coal,coal (conv pul CCS),share-weight,2095,2100,1,1,fixed
+HR,electricity,coal,coal (conv pul CCS),share-weight,2010,2050,0,1,linear
+HR,electricity,coal,coal (conv pul CCS),share-weight,2045,2100,1,1,fixed
+HR,electricity,coal,coal (conv pul CCS),share-weight,2095,2100,1,1,fixed
+JH,electricity,coal,coal (conv pul CCS),share-weight,2010,2050,0,1,linear
+JH,electricity,coal,coal (conv pul CCS),share-weight,2045,2100,1,1,fixed
+JH,electricity,coal,coal (conv pul CCS),share-weight,2095,2100,1,1,fixed
+JK,electricity,coal,coal (conv pul CCS),share-weight,2010,2050,0,1,linear
+JK,electricity,coal,coal (conv pul CCS),share-weight,2045,2100,1,1,fixed
+JK,electricity,coal,coal (conv pul CCS),share-weight,2095,2100,1,1,fixed
+KA,electricity,coal,coal (conv pul CCS),share-weight,2010,2050,0,1,linear
+KA,electricity,coal,coal (conv pul CCS),share-weight,2045,2100,1,1,fixed
+KA,electricity,coal,coal (conv pul CCS),share-weight,2095,2100,1,1,fixed
+KL,electricity,coal,coal (conv pul CCS),share-weight,2010,2050,0,1,linear
+KL,electricity,coal,coal (conv pul CCS),share-weight,2045,2100,1,1,fixed
+KL,electricity,coal,coal (conv pul CCS),share-weight,2095,2100,1,1,fixed
+LA,electricity,coal,coal (conv pul CCS),share-weight,2010,2050,0,1,linear
+LA,electricity,coal,coal (conv pul CCS),share-weight,2045,2100,1,1,fixed
+LA,electricity,coal,coal (conv pul CCS),share-weight,2095,2100,1,1,fixed
+LD,electricity,coal,coal (conv pul CCS),share-weight,2010,2050,0,1,linear
+LD,electricity,coal,coal (conv pul CCS),share-weight,2045,2100,1,1,fixed
+LD,electricity,coal,coal (conv pul CCS),share-weight,2095,2100,1,1,fixed
+MH,electricity,coal,coal (conv pul CCS),share-weight,2010,2050,0,1,linear
+MH,electricity,coal,coal (conv pul CCS),share-weight,2045,2100,1,1,fixed
+MH,electricity,coal,coal (conv pul CCS),share-weight,2095,2100,1,1,fixed
+ML,electricity,coal,coal (conv pul CCS),share-weight,2010,2050,0,1,linear
+ML,electricity,coal,coal (conv pul CCS),share-weight,2045,2100,1,1,fixed
+ML,electricity,coal,coal (conv pul CCS),share-weight,2095,2100,1,1,fixed
+MN,electricity,coal,coal (conv pul CCS),share-weight,2010,2050,0,1,linear
+MN,electricity,coal,coal (conv pul CCS),share-weight,2045,2100,1,1,fixed
+MN,electricity,coal,coal (conv pul CCS),share-weight,2095,2100,1,1,fixed
+MP,electricity,coal,coal (conv pul CCS),share-weight,2010,2050,0,1,linear
+MP,electricity,coal,coal (conv pul CCS),share-weight,2045,2100,1,1,fixed
+MP,electricity,coal,coal (conv pul CCS),share-weight,2095,2100,1,1,fixed
+MZ,electricity,coal,coal (conv pul CCS),share-weight,2010,2050,0,1,linear
+MZ,electricity,coal,coal (conv pul CCS),share-weight,2045,2100,1,1,fixed
+MZ,electricity,coal,coal (conv pul CCS),share-weight,2095,2100,1,1,fixed
+NL,electricity,coal,coal (conv pul CCS),share-weight,2010,2050,0,1,linear
+NL,electricity,coal,coal (conv pul CCS),share-weight,2045,2100,1,1,fixed
+NL,electricity,coal,coal (conv pul CCS),share-weight,2095,2100,1,1,fixed
+OD,electricity,coal,coal (conv pul CCS),share-weight,2010,2050,0,1,linear
+OD,electricity,coal,coal (conv pul CCS),share-weight,2045,2100,1,1,fixed
+OD,electricity,coal,coal (conv pul CCS),share-weight,2095,2100,1,1,fixed
+PB,electricity,coal,coal (conv pul CCS),share-weight,2010,2050,0,1,linear
+PB,electricity,coal,coal (conv pul CCS),share-weight,2045,2100,1,1,fixed
+PB,electricity,coal,coal (conv pul CCS),share-weight,2095,2100,1,1,fixed
+PC,electricity,coal,coal (conv pul CCS),share-weight,2010,2050,0,1,linear
+PC,electricity,coal,coal (conv pul CCS),share-weight,2045,2100,1,1,fixed
+PC,electricity,coal,coal (conv pul CCS),share-weight,2095,2100,1,1,fixed
+RJ,electricity,coal,coal (conv pul CCS),share-weight,2010,2050,0,1,linear
+RJ,electricity,coal,coal (conv pul CCS),share-weight,2045,2100,1,1,fixed
+RJ,electricity,coal,coal (conv pul CCS),share-weight,2095,2100,1,1,fixed
+SK,electricity,coal,coal (conv pul CCS),share-weight,2010,2050,0,1,linear
+SK,electricity,coal,coal (conv pul CCS),share-weight,2045,2100,1,1,fixed
+SK,electricity,coal,coal (conv pul CCS),share-weight,2095,2100,1,1,fixed
+TN,electricity,coal,coal (conv pul CCS),share-weight,2010,2050,0,1,linear
+TN,electricity,coal,coal (conv pul CCS),share-weight,2045,2100,1,1,fixed
+TN,electricity,coal,coal (conv pul CCS),share-weight,2095,2100,1,1,fixed
+TR,electricity,coal,coal (conv pul CCS),share-weight,2010,2050,0,1,linear
+TR,electricity,coal,coal (conv pul CCS),share-weight,2045,2100,1,1,fixed
+TR,electricity,coal,coal (conv pul CCS),share-weight,2095,2100,1,1,fixed
+TS,electricity,coal,coal (conv pul CCS),share-weight,2010,2050,0,1,linear
+TS,electricity,coal,coal (conv pul CCS),share-weight,2045,2100,1,1,fixed
+TS,electricity,coal,coal (conv pul CCS),share-weight,2095,2100,1,1,fixed
+UK,electricity,coal,coal (conv pul CCS),share-weight,2010,2050,0,1,linear
+UK,electricity,coal,coal (conv pul CCS),share-weight,2045,2100,1,1,fixed
+UK,electricity,coal,coal (conv pul CCS),share-weight,2095,2100,1,1,fixed
+UP,electricity,coal,coal (conv pul CCS),share-weight,2010,2050,0,1,linear
+UP,electricity,coal,coal (conv pul CCS),share-weight,2045,2100,1,1,fixed
+UP,electricity,coal,coal (conv pul CCS),share-weight,2095,2100,1,1,fixed
+WB,electricity,coal,coal (conv pul CCS),share-weight,2010,2050,0,1,linear
+WB,electricity,coal,coal (conv pul CCS),share-weight,2045,2100,1,1,fixed
+WB,electricity,coal,coal (conv pul CCS),share-weight,2095,2100,1,1,fixed
+AN,electricity,gas,gas (CC CCS),share-weight,2010,2050,0,1,linear
+AN,electricity,gas,gas (CC CCS),share-weight,2045,2100,1,1,fixed
+AN,electricity,gas,gas (CC CCS),share-weight,2095,2100,1,1,fixed
+AP,electricity,gas,gas (CC CCS),share-weight,2010,2050,0,1,linear
+AP,electricity,gas,gas (CC CCS),share-weight,2045,2100,1,1,fixed
+AP,electricity,gas,gas (CC CCS),share-weight,2095,2100,1,1,fixed
+AR,electricity,gas,gas (CC CCS),share-weight,2010,2050,0,1,linear
+AR,electricity,gas,gas (CC CCS),share-weight,2045,2100,1,1,fixed
+AR,electricity,gas,gas (CC CCS),share-weight,2095,2100,1,1,fixed
+AS,electricity,gas,gas (CC CCS),share-weight,2010,2050,0,1,linear
+AS,electricity,gas,gas (CC CCS),share-weight,2045,2100,1,1,fixed
+AS,electricity,gas,gas (CC CCS),share-weight,2095,2100,1,1,fixed
+BR,electricity,gas,gas (CC CCS),share-weight,2010,2050,0,1,linear
+BR,electricity,gas,gas (CC CCS),share-weight,2045,2100,1,1,fixed
+BR,electricity,gas,gas (CC CCS),share-weight,2095,2100,1,1,fixed
+CG,electricity,gas,gas (CC CCS),share-weight,2010,2050,0,1,linear
+CG,electricity,gas,gas (CC CCS),share-weight,2045,2100,1,1,fixed
+CG,electricity,gas,gas (CC CCS),share-weight,2095,2100,1,1,fixed
+CH,electricity,gas,gas (CC CCS),share-weight,2010,2050,0,1,linear
+CH,electricity,gas,gas (CC CCS),share-weight,2045,2100,1,1,fixed
+CH,electricity,gas,gas (CC CCS),share-weight,2095,2100,1,1,fixed
+DD,electricity,gas,gas (CC CCS),share-weight,2010,2050,0,1,linear
+DD,electricity,gas,gas (CC CCS),share-weight,2045,2100,1,1,fixed
+DD,electricity,gas,gas (CC CCS),share-weight,2095,2100,1,1,fixed
+DL,electricity,gas,gas (CC CCS),share-weight,2010,2050,0,1,linear
+DL,electricity,gas,gas (CC CCS),share-weight,2045,2100,1,1,fixed
+DL,electricity,gas,gas (CC CCS),share-weight,2095,2100,1,1,fixed
+DN,electricity,gas,gas (CC CCS),share-weight,2010,2050,0,1,linear
+DN,electricity,gas,gas (CC CCS),share-weight,2045,2100,1,1,fixed
+DN,electricity,gas,gas (CC CCS),share-weight,2095,2100,1,1,fixed
+GA,electricity,gas,gas (CC CCS),share-weight,2010,2050,0,1,linear
+GA,electricity,gas,gas (CC CCS),share-weight,2045,2100,1,1,fixed
+GA,electricity,gas,gas (CC CCS),share-weight,2095,2100,1,1,fixed
+GJ,electricity,gas,gas (CC CCS),share-weight,2010,2050,0,1,linear
+GJ,electricity,gas,gas (CC CCS),share-weight,2045,2100,1,1,fixed
+GJ,electricity,gas,gas (CC CCS),share-weight,2095,2100,1,1,fixed
+HP,electricity,gas,gas (CC CCS),share-weight,2010,2050,0,1,linear
+HP,electricity,gas,gas (CC CCS),share-weight,2045,2100,1,1,fixed
+HP,electricity,gas,gas (CC CCS),share-weight,2095,2100,1,1,fixed
+HR,electricity,gas,gas (CC CCS),share-weight,2010,2050,0,1,linear
+HR,electricity,gas,gas (CC CCS),share-weight,2045,2100,1,1,fixed
+HR,electricity,gas,gas (CC CCS),share-weight,2095,2100,1,1,fixed
+JH,electricity,gas,gas (CC CCS),share-weight,2010,2050,0,1,linear
+JH,electricity,gas,gas (CC CCS),share-weight,2045,2100,1,1,fixed
+JH,electricity,gas,gas (CC CCS),share-weight,2095,2100,1,1,fixed
+JK,electricity,gas,gas (CC CCS),share-weight,2010,2050,0,1,linear
+JK,electricity,gas,gas (CC CCS),share-weight,2045,2100,1,1,fixed
+JK,electricity,gas,gas (CC CCS),share-weight,2095,2100,1,1,fixed
+KA,electricity,gas,gas (CC CCS),share-weight,2010,2050,0,1,linear
+KA,electricity,gas,gas (CC CCS),share-weight,2045,2100,1,1,fixed
+KA,electricity,gas,gas (CC CCS),share-weight,2095,2100,1,1,fixed
+KL,electricity,gas,gas (CC CCS),share-weight,2010,2050,0,1,linear
+KL,electricity,gas,gas (CC CCS),share-weight,2045,2100,1,1,fixed
+KL,electricity,gas,gas (CC CCS),share-weight,2095,2100,1,1,fixed
+LA,electricity,gas,gas (CC CCS),share-weight,2010,2050,0,1,linear
+LA,electricity,gas,gas (CC CCS),share-weight,2045,2100,1,1,fixed
+LA,electricity,gas,gas (CC CCS),share-weight,2095,2100,1,1,fixed
+LD,electricity,gas,gas (CC CCS),share-weight,2010,2050,0,1,linear
+LD,electricity,gas,gas (CC CCS),share-weight,2045,2100,1,1,fixed
+LD,electricity,gas,gas (CC CCS),share-weight,2095,2100,1,1,fixed
+MH,electricity,gas,gas (CC CCS),share-weight,2010,2050,0,1,linear
+MH,electricity,gas,gas (CC CCS),share-weight,2045,2100,1,1,fixed
+MH,electricity,gas,gas (CC CCS),share-weight,2095,2100,1,1,fixed
+ML,electricity,gas,gas (CC CCS),share-weight,2010,2050,0,1,linear
+ML,electricity,gas,gas (CC CCS),share-weight,2045,2100,1,1,fixed
+ML,electricity,gas,gas (CC CCS),share-weight,2095,2100,1,1,fixed
+MN,electricity,gas,gas (CC CCS),share-weight,2010,2050,0,1,linear
+MN,electricity,gas,gas (CC CCS),share-weight,2045,2100,1,1,fixed
+MN,electricity,gas,gas (CC CCS),share-weight,2095,2100,1,1,fixed
+MP,electricity,gas,gas (CC CCS),share-weight,2010,2050,0,1,linear
+MP,electricity,gas,gas (CC CCS),share-weight,2045,2100,1,1,fixed
+MP,electricity,gas,gas (CC CCS),share-weight,2095,2100,1,1,fixed
+MZ,electricity,gas,gas (CC CCS),share-weight,2010,2050,0,1,linear
+MZ,electricity,gas,gas (CC CCS),share-weight,2045,2100,1,1,fixed
+MZ,electricity,gas,gas (CC CCS),share-weight,2095,2100,1,1,fixed
+NL,electricity,gas,gas (CC CCS),share-weight,2010,2050,0,1,linear
+NL,electricity,gas,gas (CC CCS),share-weight,2045,2100,1,1,fixed
+NL,electricity,gas,gas (CC CCS),share-weight,2095,2100,1,1,fixed
+OD,electricity,gas,gas (CC CCS),share-weight,2010,2050,0,1,linear
+OD,electricity,gas,gas (CC CCS),share-weight,2045,2100,1,1,fixed
+OD,electricity,gas,gas (CC CCS),share-weight,2095,2100,1,1,fixed
+PB,electricity,gas,gas (CC CCS),share-weight,2010,2050,0,1,linear
+PB,electricity,gas,gas (CC CCS),share-weight,2045,2100,1,1,fixed
+PB,electricity,gas,gas (CC CCS),share-weight,2095,2100,1,1,fixed
+PC,electricity,gas,gas (CC CCS),share-weight,2010,2050,0,1,linear
+PC,electricity,gas,gas (CC CCS),share-weight,2045,2100,1,1,fixed
+PC,electricity,gas,gas (CC CCS),share-weight,2095,2100,1,1,fixed
+RJ,electricity,gas,gas (CC CCS),share-weight,2010,2050,0,1,linear
+RJ,electricity,gas,gas (CC CCS),share-weight,2045,2100,1,1,fixed
+RJ,electricity,gas,gas (CC CCS),share-weight,2095,2100,1,1,fixed
+SK,electricity,gas,gas (CC CCS),share-weight,2010,2050,0,1,linear
+SK,electricity,gas,gas (CC CCS),share-weight,2045,2100,1,1,fixed
+SK,electricity,gas,gas (CC CCS),share-weight,2095,2100,1,1,fixed
+TN,electricity,gas,gas (CC CCS),share-weight,2010,2050,0,1,linear
+TN,electricity,gas,gas (CC CCS),share-weight,2045,2100,1,1,fixed
+TN,electricity,gas,gas (CC CCS),share-weight,2095,2100,1,1,fixed
+TR,electricity,gas,gas (CC CCS),share-weight,2010,2050,0,1,linear
+TR,electricity,gas,gas (CC CCS),share-weight,2045,2100,1,1,fixed
+TR,electricity,gas,gas (CC CCS),share-weight,2095,2100,1,1,fixed
+TS,electricity,gas,gas (CC CCS),share-weight,2010,2050,0,1,linear
+TS,electricity,gas,gas (CC CCS),share-weight,2045,2100,1,1,fixed
+TS,electricity,gas,gas (CC CCS),share-weight,2095,2100,1,1,fixed
+UK,electricity,gas,gas (CC CCS),share-weight,2010,2050,0,1,linear
+UK,electricity,gas,gas (CC CCS),share-weight,2045,2100,1,1,fixed
+UK,electricity,gas,gas (CC CCS),share-weight,2095,2100,1,1,fixed
+UP,electricity,gas,gas (CC CCS),share-weight,2010,2050,0,1,linear
+UP,electricity,gas,gas (CC CCS),share-weight,2045,2100,1,1,fixed
+UP,electricity,gas,gas (CC CCS),share-weight,2095,2100,1,1,fixed
+WB,electricity,gas,gas (CC CCS),share-weight,2010,2050,0,1,linear
+WB,electricity,gas,gas (CC CCS),share-weight,2045,2100,1,1,fixed
+WB,electricity,gas,gas (CC CCS),share-weight,2095,2100,1,1,fixed
+AN,electricity,refined liquids,refined liquids (CC CCS),share-weight,2010,2050,0,1,linear
+AN,electricity,refined liquids,refined liquids (CC CCS),share-weight,2045,2100,1,1,fixed
+AN,electricity,refined liquids,refined liquids (CC CCS),share-weight,2095,2100,1,1,fixed
+AP,electricity,refined liquids,refined liquids (CC CCS),share-weight,2010,2050,0,1,linear
+AP,electricity,refined liquids,refined liquids (CC CCS),share-weight,2045,2100,1,1,fixed
+AP,electricity,refined liquids,refined liquids (CC CCS),share-weight,2095,2100,1,1,fixed
+AR,electricity,refined liquids,refined liquids (CC CCS),share-weight,2010,2050,0,1,linear
+AR,electricity,refined liquids,refined liquids (CC CCS),share-weight,2045,2100,1,1,fixed
+AR,electricity,refined liquids,refined liquids (CC CCS),share-weight,2095,2100,1,1,fixed
+AS,electricity,refined liquids,refined liquids (CC CCS),share-weight,2010,2050,0,1,linear
+AS,electricity,refined liquids,refined liquids (CC CCS),share-weight,2045,2100,1,1,fixed
+AS,electricity,refined liquids,refined liquids (CC CCS),share-weight,2095,2100,1,1,fixed
+BR,electricity,refined liquids,refined liquids (CC CCS),share-weight,2010,2050,0,1,linear
+BR,electricity,refined liquids,refined liquids (CC CCS),share-weight,2045,2100,1,1,fixed
+BR,electricity,refined liquids,refined liquids (CC CCS),share-weight,2095,2100,1,1,fixed
+CG,electricity,refined liquids,refined liquids (CC CCS),share-weight,2010,2050,0,1,linear
+CG,electricity,refined liquids,refined liquids (CC CCS),share-weight,2045,2100,1,1,fixed
+CG,electricity,refined liquids,refined liquids (CC CCS),share-weight,2095,2100,1,1,fixed
+CH,electricity,refined liquids,refined liquids (CC CCS),share-weight,2010,2050,0,1,linear
+CH,electricity,refined liquids,refined liquids (CC CCS),share-weight,2045,2100,1,1,fixed
+CH,electricity,refined liquids,refined liquids (CC CCS),share-weight,2095,2100,1,1,fixed
+DD,electricity,refined liquids,refined liquids (CC CCS),share-weight,2010,2050,0,1,linear
+DD,electricity,refined liquids,refined liquids (CC CCS),share-weight,2045,2100,1,1,fixed
+DD,electricity,refined liquids,refined liquids (CC CCS),share-weight,2095,2100,1,1,fixed
+DL,electricity,refined liquids,refined liquids (CC CCS),share-weight,2010,2050,0,1,linear
+DL,electricity,refined liquids,refined liquids (CC CCS),share-weight,2045,2100,1,1,fixed
+DL,electricity,refined liquids,refined liquids (CC CCS),share-weight,2095,2100,1,1,fixed
+DN,electricity,refined liquids,refined liquids (CC CCS),share-weight,2010,2050,0,1,linear
+DN,electricity,refined liquids,refined liquids (CC CCS),share-weight,2045,2100,1,1,fixed
+DN,electricity,refined liquids,refined liquids (CC CCS),share-weight,2095,2100,1,1,fixed
+GA,electricity,refined liquids,refined liquids (CC CCS),share-weight,2010,2050,0,1,linear
+GA,electricity,refined liquids,refined liquids (CC CCS),share-weight,2045,2100,1,1,fixed
+GA,electricity,refined liquids,refined liquids (CC CCS),share-weight,2095,2100,1,1,fixed
+GJ,electricity,refined liquids,refined liquids (CC CCS),share-weight,2010,2050,0,1,linear
+GJ,electricity,refined liquids,refined liquids (CC CCS),share-weight,2045,2100,1,1,fixed
+GJ,electricity,refined liquids,refined liquids (CC CCS),share-weight,2095,2100,1,1,fixed
+HP,electricity,refined liquids,refined liquids (CC CCS),share-weight,2010,2050,0,1,linear
+HP,electricity,refined liquids,refined liquids (CC CCS),share-weight,2045,2100,1,1,fixed
+HP,electricity,refined liquids,refined liquids (CC CCS),share-weight,2095,2100,1,1,fixed
+HR,electricity,refined liquids,refined liquids (CC CCS),share-weight,2010,2050,0,1,linear
+HR,electricity,refined liquids,refined liquids (CC CCS),share-weight,2045,2100,1,1,fixed
+HR,electricity,refined liquids,refined liquids (CC CCS),share-weight,2095,2100,1,1,fixed
+JH,electricity,refined liquids,refined liquids (CC CCS),share-weight,2010,2050,0,1,linear
+JH,electricity,refined liquids,refined liquids (CC CCS),share-weight,2045,2100,1,1,fixed
+JH,electricity,refined liquids,refined liquids (CC CCS),share-weight,2095,2100,1,1,fixed
+JK,electricity,refined liquids,refined liquids (CC CCS),share-weight,2010,2050,0,1,linear
+JK,electricity,refined liquids,refined liquids (CC CCS),share-weight,2045,2100,1,1,fixed
+JK,electricity,refined liquids,refined liquids (CC CCS),share-weight,2095,2100,1,1,fixed
+KA,electricity,refined liquids,refined liquids (CC CCS),share-weight,2010,2050,0,1,linear
+KA,electricity,refined liquids,refined liquids (CC CCS),share-weight,2045,2100,1,1,fixed
+KA,electricity,refined liquids,refined liquids (CC CCS),share-weight,2095,2100,1,1,fixed
+KL,electricity,refined liquids,refined liquids (CC CCS),share-weight,2010,2050,0,1,linear
+KL,electricity,refined liquids,refined liquids (CC CCS),share-weight,2045,2100,1,1,fixed
+KL,electricity,refined liquids,refined liquids (CC CCS),share-weight,2095,2100,1,1,fixed
+LA,electricity,refined liquids,refined liquids (CC CCS),share-weight,2010,2050,0,1,linear
+LA,electricity,refined liquids,refined liquids (CC CCS),share-weight,2045,2100,1,1,fixed
+LA,electricity,refined liquids,refined liquids (CC CCS),share-weight,2095,2100,1,1,fixed
+LD,electricity,refined liquids,refined liquids (CC CCS),share-weight,2010,2050,0,1,linear
+LD,electricity,refined liquids,refined liquids (CC CCS),share-weight,2045,2100,1,1,fixed
+LD,electricity,refined liquids,refined liquids (CC CCS),share-weight,2095,2100,1,1,fixed
+MH,electricity,refined liquids,refined liquids (CC CCS),share-weight,2010,2050,0,1,linear
+MH,electricity,refined liquids,refined liquids (CC CCS),share-weight,2045,2100,1,1,fixed
+MH,electricity,refined liquids,refined liquids (CC CCS),share-weight,2095,2100,1,1,fixed
+ML,electricity,refined liquids,refined liquids (CC CCS),share-weight,2010,2050,0,1,linear
+ML,electricity,refined liquids,refined liquids (CC CCS),share-weight,2045,2100,1,1,fixed
+ML,electricity,refined liquids,refined liquids (CC CCS),share-weight,2095,2100,1,1,fixed
+MN,electricity,refined liquids,refined liquids (CC CCS),share-weight,2010,2050,0,1,linear
+MN,electricity,refined liquids,refined liquids (CC CCS),share-weight,2045,2100,1,1,fixed
+MN,electricity,refined liquids,refined liquids (CC CCS),share-weight,2095,2100,1,1,fixed
+MP,electricity,refined liquids,refined liquids (CC CCS),share-weight,2010,2050,0,1,linear
+MP,electricity,refined liquids,refined liquids (CC CCS),share-weight,2045,2100,1,1,fixed
+MP,electricity,refined liquids,refined liquids (CC CCS),share-weight,2095,2100,1,1,fixed
+MZ,electricity,refined liquids,refined liquids (CC CCS),share-weight,2010,2050,0,1,linear
+MZ,electricity,refined liquids,refined liquids (CC CCS),share-weight,2045,2100,1,1,fixed
+MZ,electricity,refined liquids,refined liquids (CC CCS),share-weight,2095,2100,1,1,fixed
+NL,electricity,refined liquids,refined liquids (CC CCS),share-weight,2010,2050,0,1,linear
+NL,electricity,refined liquids,refined liquids (CC CCS),share-weight,2045,2100,1,1,fixed
+NL,electricity,refined liquids,refined liquids (CC CCS),share-weight,2095,2100,1,1,fixed
+OD,electricity,refined liquids,refined liquids (CC CCS),share-weight,2010,2050,0,1,linear
+OD,electricity,refined liquids,refined liquids (CC CCS),share-weight,2045,2100,1,1,fixed
+OD,electricity,refined liquids,refined liquids (CC CCS),share-weight,2095,2100,1,1,fixed
+PB,electricity,refined liquids,refined liquids (CC CCS),share-weight,2010,2050,0,1,linear
+PB,electricity,refined liquids,refined liquids (CC CCS),share-weight,2045,2100,1,1,fixed
+PB,electricity,refined liquids,refined liquids (CC CCS),share-weight,2095,2100,1,1,fixed
+PC,electricity,refined liquids,refined liquids (CC CCS),share-weight,2010,2050,0,1,linear
+PC,electricity,refined liquids,refined liquids (CC CCS),share-weight,2045,2100,1,1,fixed
+PC,electricity,refined liquids,refined liquids (CC CCS),share-weight,2095,2100,1,1,fixed
+RJ,electricity,refined liquids,refined liquids (CC CCS),share-weight,2010,2050,0,1,linear
+RJ,electricity,refined liquids,refined liquids (CC CCS),share-weight,2045,2100,1,1,fixed
+RJ,electricity,refined liquids,refined liquids (CC CCS),share-weight,2095,2100,1,1,fixed
+SK,electricity,refined liquids,refined liquids (CC CCS),share-weight,2010,2050,0,1,linear
+SK,electricity,refined liquids,refined liquids (CC CCS),share-weight,2045,2100,1,1,fixed
+SK,electricity,refined liquids,refined liquids (CC CCS),share-weight,2095,2100,1,1,fixed
+TN,electricity,refined liquids,refined liquids (CC CCS),share-weight,2010,2050,0,1,linear
+TN,electricity,refined liquids,refined liquids (CC CCS),share-weight,2045,2100,1,1,fixed
+TN,electricity,refined liquids,refined liquids (CC CCS),share-weight,2095,2100,1,1,fixed
+TR,electricity,refined liquids,refined liquids (CC CCS),share-weight,2010,2050,0,1,linear
+TR,electricity,refined liquids,refined liquids (CC CCS),share-weight,2045,2100,1,1,fixed
+TR,electricity,refined liquids,refined liquids (CC CCS),share-weight,2095,2100,1,1,fixed
+TS,electricity,refined liquids,refined liquids (CC CCS),share-weight,2010,2050,0,1,linear
+TS,electricity,refined liquids,refined liquids (CC CCS),share-weight,2045,2100,1,1,fixed
+TS,electricity,refined liquids,refined liquids (CC CCS),share-weight,2095,2100,1,1,fixed
+UK,electricity,refined liquids,refined liquids (CC CCS),share-weight,2010,2050,0,1,linear
+UK,electricity,refined liquids,refined liquids (CC CCS),share-weight,2045,2100,1,1,fixed
+UK,electricity,refined liquids,refined liquids (CC CCS),share-weight,2095,2100,1,1,fixed
+UP,electricity,refined liquids,refined liquids (CC CCS),share-weight,2010,2050,0,1,linear
+UP,electricity,refined liquids,refined liquids (CC CCS),share-weight,2045,2100,1,1,fixed
+UP,electricity,refined liquids,refined liquids (CC CCS),share-weight,2095,2100,1,1,fixed
+WB,electricity,refined liquids,refined liquids (CC CCS),share-weight,2010,2050,0,1,linear
+WB,electricity,refined liquids,refined liquids (CC CCS),share-weight,2045,2100,1,1,fixed
+WB,electricity,refined liquids,refined liquids (CC CCS),share-weight,2095,2100,1,1,fixed

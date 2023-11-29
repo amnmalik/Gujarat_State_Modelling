@@ -1,0 +1,39 @@
+# File: A10.SmthRenewRsrcCurves_solar.csv
+# Title: Solar Resource Curves
+# Units: EJ
+# Source: Trial
+# Column types: cccnnnn
+# ----------
+region,renewresource,smooth.renewable.subresource,year.fillout,maxSubResource,mid.price,curve.exponent
+USA,global solar resource,global solar resource,1975,194.08243,3.8,3.777
+Africa_Eastern,global solar resource,global solar resource,1975,141.37222,5.8,3.306
+Africa_Northern,global solar resource,global solar resource,1975,193.39167,6.3,5.059
+Africa_Southern,global solar resource,global solar resource,1975,98.38298,6.5,3.396
+Africa_Western,global solar resource,global solar resource,1975,211.40251,7,3.345
+Australia_NZ,global solar resource,global solar resource,1975,180.91991,3.9,3.988
+Brazil,global solar resource,global solar resource,1975,80.98533,5.3,3.123
+Canada,global solar resource,global solar resource,1975,152.66342,4.7,3.442
+Central America and Caribbean,global solar resource,global solar resource,1975,7.24145,6.2,2.533
+Central Asia,global solar resource,global solar resource,1975,169.83294,3.6,3.637
+China,global solar resource,global solar resource,1975,126.01415,5.5,3.815
+EU-12,global solar resource,global solar resource,1975,20.6076,4.3,3.176
+EU-15,global solar resource,global solar resource,1975,64.18551,3.4,2.431
+Europe_Eastern,global solar resource,global solar resource,1975,21.02296,3,6.161
+Europe_Non_EU,global solar resource,global solar resource,1975,19.40819,5.7,3.483
+European Free Trade Association,global solar resource,global solar resource,1975,8.6492,2.3,2.554
+India,global solar resource,global solar resource,1975,42.27845,8.4,4.472
+Indonesia,global solar resource,global solar resource,1975,1.66908,9.8,3.557
+Japan,global solar resource,global solar resource,1975,2.30431,4.2,2.844
+Mexico,global solar resource,global solar resource,1975,22.16046,6.5,3.911
+Middle East,global solar resource,global solar resource,1975,123.99224,6.3,5.195
+Pakistan,global solar resource,global solar resource,1975,13.38833,6.8,3.822
+Russia,global solar resource,global solar resource,1975,251.95804,4.9,4.453
+South Africa,global solar resource,global solar resource,1975,25.22245,5.1,4.488
+South America_Northern,global solar resource,global solar resource,1975,8.52455,7.8,3.432
+South America_Southern,global solar resource,global solar resource,1975,32.23972,5.1,2.945
+South Asia,global solar resource,global solar resource,1975,14.98906,4,1.944
+South Korea,global solar resource,global solar resource,1975,14.30581,6.1,4.087
+Southeast Asia,global solar resource,global solar resource,1975,0.19575,10.8,3.646
+Taiwan,global solar resource,global solar resource,1975,0.19575,4.9,2.538
+Argentina,global solar resource,global solar resource,1975,59.96785,2.5,3.188
+Colombia,global solar resource,global solar resource,1975,3.25085,10.9,3.899

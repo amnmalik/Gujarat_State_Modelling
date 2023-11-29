@@ -1,0 +1,50 @@
+# File: A54.india_tranSubsectorSpeed_passthru.csv
+# Title: Passthrough sector speed
+# Unit: kmph
+# Column types: cccin
+# ----------
+region,supplysector,tranSubsector,year,speed
+India,trn_pass_road_LDV,4W,1975, 36.00 
+India,trn_pass_road_LDV,4W,1990, 36.00 
+India,trn_pass_road_LDV,4W,2005, 36.00 
+India,trn_pass_road_LDV,4W,2010, 36.70 
+India,trn_pass_road_LDV,4W,2015, 37.30 
+India,trn_pass_road_LDV,4W,2020, 38.00 
+India,trn_pass_road_LDV,4W,2025, 39.00 
+India,trn_pass_road_LDV,4W,2030, 40.00 
+India,trn_pass_road_LDV,4W,2035, 41.00 
+India,trn_pass_road_LDV,4W,2040, 41.70 
+India,trn_pass_road_LDV,4W,2045, 42.30 
+India,trn_pass_road_LDV,4W,2050, 43.00 
+India,trn_pass_road_LDV,4W,2055, 43.30 
+India,trn_pass_road_LDV,4W,2060, 43.70 
+India,trn_pass_road_LDV,4W,2065, 44.00 
+India,trn_pass_road_LDV,4W,2070, 44.00 
+India,trn_pass_road_LDV,4W,2075, 44.00 
+India,trn_pass_road_LDV,4W,2080, 44.00 
+India,trn_pass_road_LDV,4W,2085, 44.30 
+India,trn_pass_road_LDV,4W,2090, 44.70 
+India,trn_pass_road_LDV,4W,2095, 45.00 
+India,trn_pass_road_LDV,4W,2100, 45.00 
+India,trn_pass_road_LDV,2W,1975, 36.00 
+India,trn_pass_road_LDV,2W,1990, 36.00 
+India,trn_pass_road_LDV,2W,2005, 36.00 
+India,trn_pass_road_LDV,2W,2010, 36.00 
+India,trn_pass_road_LDV,2W,2015, 36.59 
+India,trn_pass_road_LDV,2W,2020, 37.28 
+India,trn_pass_road_LDV,2W,2025, 38.26 
+India,trn_pass_road_LDV,2W,2030, 39.24 
+India,trn_pass_road_LDV,2W,2035, 40.22 
+India,trn_pass_road_LDV,2W,2040, 40.90 
+India,trn_pass_road_LDV,2W,2045, 41.49 
+India,trn_pass_road_LDV,2W,2050, 42.18 
+India,trn_pass_road_LDV,2W,2055, 42.47 
+India,trn_pass_road_LDV,2W,2060, 42.87 
+India,trn_pass_road_LDV,2W,2065, 43.16 
+India,trn_pass_road_LDV,2W,2070, 43.16 
+India,trn_pass_road_LDV,2W,2075, 43.16 
+India,trn_pass_road_LDV,2W,2080, 43.16 
+India,trn_pass_road_LDV,2W,2085, 43.46 
+India,trn_pass_road_LDV,2W,2090, 43.85 
+India,trn_pass_road_LDV,2W,2095, 44.14 
+India,trn_pass_road_LDV,2W,2100, 44.14 

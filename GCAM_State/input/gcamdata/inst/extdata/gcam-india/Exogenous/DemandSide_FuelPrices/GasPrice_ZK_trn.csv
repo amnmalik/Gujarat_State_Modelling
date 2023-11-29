@@ -1,0 +1,9 @@
+INPUT_TABLE,,,,,,
+Variable ID,,,,,,
+RegionGasPriceAdder,,,,,,
+,,,,,,
+region,supplysector,subsector,technology,year,minicam-non-energy-input,input-cost
+RJ,trn_freight_road,Truck,NG,2015,non-energy,1
+RJ,trn_pass_road,Bus,NG,2015,non-energy,1
+RJ,trn_pass_road_LDV,LDV_3W,NG,2015,non-energy,1
+RJ,trn_pass_road_LDV_4W,LDV_4W,NG,2015,non-energy,1

@@ -1,0 +1,8 @@
+INPUT_TABLE,,,,,,,,
+Variable ID,,,,,,,,
+IndiaTranSubsectorInterp_new,,,,,,,,
+,,,,,,,,
+region,supplysector,tranSubsector,apply.to,from.year,to.year,from.value,to-value,interpolation.function
+RJ,trn_pass_road_LDV_2W,LDV_2W,share-weight,2020,2100,2,2,fixed
+RJ,trn_pass_road_LDV_2W,LDV_2W,share-weight,2095,2100,2,2,fixed
+RJ,trn_pass_road_LDV_4W,LDV_4W,share-weight,2025,2030,1.5,1.5,fixed
