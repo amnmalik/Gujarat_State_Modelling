@@ -667,10 +667,10 @@ gcamusa.STATE_UNLIMITED_RESOURCES <- c("global solar resource", "limestone")
 gcamusa.SECTOR_EN_NAMES <- "refining"
 
 # Define intermittent technologies
-gcamusa.INT_TECH_LIST <- c("CSP", "PV", "wind")
+gcamusa.INT_TECH_LIST <- c("CSP", "PV", "onshore","offshore")
 
 # Define storage technologies
-gcamusa.STORAGE_TECH_LIST <- c("CSP_storage", "PV_storage", "wind_storage")
+gcamusa.STORAGE_TECH_LIST <- c("CSP_storage", "PV_storage", "onshore_storage","offshore_storage")
 
 
 # Degree day norms
@@ -719,8 +719,8 @@ gcamindia.REGIONAL_FUEL_MARKETS <- c("regional coal", "delivered coal", "wholesa
 gcamindia.STATE_RENEWABLE_RESOURCES <- c("distributed_solar", "geothermal", "onshore wind resource", "traditional biomass", "global solar resource")
 gcamindia.STATE_UNLIMITED_RESOURCES <- c("limestone")
 gcamindia.SECTOR_EN_NAMES <- "refining"
-gcamindia.INT_TECH_LIST <- c("CSP", "PV", "wind")
-gcamindia.STORAGE_TECH_LIST <- c("CSP_storage", "PV_storage", "wind_storage")
+gcamindia.INT_TECH_LIST <- c("CSP", "PV", "onshore","offshore")
+gcamindia.STORAGE_TECH_LIST <- c("CSP_storage", "PV_storage", "onshore_storage","offshore_storage")
 gcamindia.BASE_HDD_INDIA <- 6595 # https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0107
 gcamindia.BASE_CDD_INDIA <- 20938 # https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb010
 gcamindia.AEO_DD_YEARS <- seq(2010, 2040, 5)
