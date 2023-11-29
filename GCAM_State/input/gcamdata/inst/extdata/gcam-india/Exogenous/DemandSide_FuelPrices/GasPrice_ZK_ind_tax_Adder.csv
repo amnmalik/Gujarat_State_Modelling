@@ -1,0 +1,264 @@
+INPUT_TABLE,,,,,,
+Variable ID,,,,,,
+RegionGasPriceAdder,,,,,,
+,,,,,,
+region,supplysector,subsector,technology,year,minicam-non-energy-input,input-cost
+AN,Chem_Fert_enuse,gas,gas,2015,tax,-1.188
+AN,Food Processing_enuse,gas,gas,2015,tax,-1.188
+AN,Iron and Steel_enuse,gas,gas,2015,tax,-1.188
+AN,Non-Ferrous Metals_enuse,gas,gas,2015,tax,-1.188
+AN,Other Industries_enuse,gas,gas,2015,tax,-1.188
+AN,Paper and Pulp_enuse,gas,gas,2015,tax,-1.188
+AN,process heat cement,gas,gas,2015,tax,-0.746
+AP,Chem_Fert_enuse,gas,gas,2015,tax,-1.188
+AP,Food Processing_enuse,gas,gas,2015,tax,-1.188
+AP,Iron and Steel_enuse,gas,gas,2015,tax,-1.188
+AP,Non-Ferrous Metals_enuse,gas,gas,2015,tax,-1.188
+AP,Other Industries_enuse,gas,gas,2015,tax,-1.188
+AP,Paper and Pulp_enuse,gas,gas,2015,tax,-1.188
+AP,process heat cement,gas,gas,2015,tax,-0.746
+AR,Chem_Fert_enuse,gas,gas,2015,tax,-1.188
+AR,Food Processing_enuse,gas,gas,2015,tax,-1.188
+AR,Iron and Steel_enuse,gas,gas,2015,tax,-1.188
+AR,Non-Ferrous Metals_enuse,gas,gas,2015,tax,-1.188
+AR,Other Industries_enuse,gas,gas,2015,tax,-1.188
+AR,Paper and Pulp_enuse,gas,gas,2015,tax,-1.188
+AR,process heat cement,gas,gas,2015,tax,-0.746
+AS,Chem_Fert_enuse,gas,gas,2015,tax,-1.188
+AS,Food Processing_enuse,gas,gas,2015,tax,-1.188
+AS,Iron and Steel_enuse,gas,gas,2015,tax,-1.188
+AS,Non-Ferrous Metals_enuse,gas,gas,2015,tax,-1.188
+AS,Other Industries_enuse,gas,gas,2015,tax,-1.188
+AS,Paper and Pulp_enuse,gas,gas,2015,tax,-1.188
+AS,process heat cement,gas,gas,2015,tax,-0.746
+BR,Chem_Fert_enuse,gas,gas,2015,tax,-1.188
+BR,Food Processing_enuse,gas,gas,2015,tax,-1.188
+BR,Iron and Steel_enuse,gas,gas,2015,tax,-1.188
+BR,Non-Ferrous Metals_enuse,gas,gas,2015,tax,-1.188
+BR,Other Industries_enuse,gas,gas,2015,tax,-1.188
+BR,Paper and Pulp_enuse,gas,gas,2015,tax,-1.188
+BR,process heat cement,gas,gas,2015,tax,-0.746
+CG,Chem_Fert_enuse,gas,gas,2015,tax,-1.188
+CG,Food Processing_enuse,gas,gas,2015,tax,-1.188
+CG,Iron and Steel_enuse,gas,gas,2015,tax,-1.188
+CG,Non-Ferrous Metals_enuse,gas,gas,2015,tax,-1.188
+CG,Other Industries_enuse,gas,gas,2015,tax,-1.188
+CG,Paper and Pulp_enuse,gas,gas,2015,tax,-1.188
+CG,process heat cement,gas,gas,2015,tax,-0.746
+CH,Chem_Fert_enuse,gas,gas,2015,tax,-1.188
+CH,Food Processing_enuse,gas,gas,2015,tax,-1.188
+CH,Iron and Steel_enuse,gas,gas,2015,tax,-1.188
+CH,Non-Ferrous Metals_enuse,gas,gas,2015,tax,-1.188
+CH,Other Industries_enuse,gas,gas,2015,tax,-1.188
+CH,Paper and Pulp_enuse,gas,gas,2015,tax,-1.188
+CH,process heat cement,gas,gas,2015,tax,-0.746
+DD,Chem_Fert_enuse,gas,gas,2015,tax,-1.188
+DD,Food Processing_enuse,gas,gas,2015,tax,-1.188
+DD,Iron and Steel_enuse,gas,gas,2015,tax,-1.188
+DD,Non-Ferrous Metals_enuse,gas,gas,2015,tax,-1.188
+DD,Other Industries_enuse,gas,gas,2015,tax,-1.188
+DD,Paper and Pulp_enuse,gas,gas,2015,tax,-1.188
+DD,process heat cement,gas,gas,2015,tax,-0.746
+DL,Chem_Fert_enuse,gas,gas,2015,tax,-1.188
+DL,Food Processing_enuse,gas,gas,2015,tax,-1.188
+DL,Iron and Steel_enuse,gas,gas,2015,tax,-1.188
+DL,Non-Ferrous Metals_enuse,gas,gas,2015,tax,-1.188
+DL,Other Industries_enuse,gas,gas,2015,tax,-1.188
+DL,Paper and Pulp_enuse,gas,gas,2015,tax,-1.188
+DL,process heat cement,gas,gas,2015,tax,-0.746
+DN,Chem_Fert_enuse,gas,gas,2015,tax,-1.188
+DN,Food Processing_enuse,gas,gas,2015,tax,-1.188
+DN,Iron and Steel_enuse,gas,gas,2015,tax,-1.188
+DN,Non-Ferrous Metals_enuse,gas,gas,2015,tax,-1.188
+DN,Other Industries_enuse,gas,gas,2015,tax,-1.188
+DN,Paper and Pulp_enuse,gas,gas,2015,tax,-1.188
+DN,process heat cement,gas,gas,2015,tax,-0.746
+GA,Chem_Fert_enuse,gas,gas,2015,tax,-1.188
+GA,Food Processing_enuse,gas,gas,2015,tax,-1.188
+GA,Iron and Steel_enuse,gas,gas,2015,tax,-1.188
+GA,Non-Ferrous Metals_enuse,gas,gas,2015,tax,-1.188
+GA,Other Industries_enuse,gas,gas,2015,tax,-1.188
+GA,Paper and Pulp_enuse,gas,gas,2015,tax,-1.188
+GA,process heat cement,gas,gas,2015,tax,-0.746
+GJ,Chem_Fert_enuse,gas,gas,2015,tax,-1.188
+GJ,Food Processing_enuse,gas,gas,2015,tax,-1.188
+GJ,Iron and Steel_enuse,gas,gas,2015,tax,-1.188
+GJ,Non-Ferrous Metals_enuse,gas,gas,2015,tax,-1.188
+GJ,Other Industries_enuse,gas,gas,2015,tax,-1.188
+GJ,Paper and Pulp_enuse,gas,gas,2015,tax,-1.188
+GJ,process heat cement,gas,gas,2015,tax,-0.746
+HP,Chem_Fert_enuse,gas,gas,2015,tax,-1.188
+HP,Food Processing_enuse,gas,gas,2015,tax,-1.188
+HP,Iron and Steel_enuse,gas,gas,2015,tax,-1.188
+HP,Non-Ferrous Metals_enuse,gas,gas,2015,tax,-1.188
+HP,Other Industries_enuse,gas,gas,2015,tax,-1.188
+HP,Paper and Pulp_enuse,gas,gas,2015,tax,-1.188
+HP,process heat cement,gas,gas,2015,tax,-0.746
+HR,Chem_Fert_enuse,gas,gas,2015,tax,-1.188
+HR,Food Processing_enuse,gas,gas,2015,tax,-1.188
+HR,Iron and Steel_enuse,gas,gas,2015,tax,-1.188
+HR,Non-Ferrous Metals_enuse,gas,gas,2015,tax,-1.188
+HR,Other Industries_enuse,gas,gas,2015,tax,-1.188
+HR,Paper and Pulp_enuse,gas,gas,2015,tax,-1.188
+HR,process heat cement,gas,gas,2015,tax,-0.746
+JH,Chem_Fert_enuse,gas,gas,2015,tax,-1.188
+JH,Food Processing_enuse,gas,gas,2015,tax,-1.188
+JH,Iron and Steel_enuse,gas,gas,2015,tax,-1.188
+JH,Non-Ferrous Metals_enuse,gas,gas,2015,tax,-1.188
+JH,Other Industries_enuse,gas,gas,2015,tax,-1.188
+JH,Paper and Pulp_enuse,gas,gas,2015,tax,-1.188
+JH,process heat cement,gas,gas,2015,tax,-0.746
+JK,Chem_Fert_enuse,gas,gas,2015,tax,-1.188
+JK,Food Processing_enuse,gas,gas,2015,tax,-1.188
+JK,Iron and Steel_enuse,gas,gas,2015,tax,-1.188
+JK,Non-Ferrous Metals_enuse,gas,gas,2015,tax,-1.188
+JK,Other Industries_enuse,gas,gas,2015,tax,-1.188
+JK,Paper and Pulp_enuse,gas,gas,2015,tax,-1.188
+JK,process heat cement,gas,gas,2015,tax,-0.746
+KA,Chem_Fert_enuse,gas,gas,2015,tax,-1.188
+KA,Food Processing_enuse,gas,gas,2015,tax,-1.188
+KA,Iron and Steel_enuse,gas,gas,2015,tax,-1.188
+KA,Non-Ferrous Metals_enuse,gas,gas,2015,tax,-1.188
+KA,Other Industries_enuse,gas,gas,2015,tax,-1.188
+KA,Paper and Pulp_enuse,gas,gas,2015,tax,-1.188
+KA,process heat cement,gas,gas,2015,tax,-0.746
+KL,Chem_Fert_enuse,gas,gas,2015,tax,-1.188
+KL,Food Processing_enuse,gas,gas,2015,tax,-1.188
+KL,Iron and Steel_enuse,gas,gas,2015,tax,-1.188
+KL,Non-Ferrous Metals_enuse,gas,gas,2015,tax,-1.188
+KL,Other Industries_enuse,gas,gas,2015,tax,-1.188
+KL,Paper and Pulp_enuse,gas,gas,2015,tax,-1.188
+KL,process heat cement,gas,gas,2015,tax,-0.746
+LA,Chem_Fert_enuse,gas,gas,2015,tax,-1.188
+LA,Food Processing_enuse,gas,gas,2015,tax,-1.188
+LA,Iron and Steel_enuse,gas,gas,2015,tax,-1.188
+LA,Non-Ferrous Metals_enuse,gas,gas,2015,tax,-1.188
+LA,Other Industries_enuse,gas,gas,2015,tax,-1.188
+LA,Paper and Pulp_enuse,gas,gas,2015,tax,-1.188
+LA,process heat cement,gas,gas,2015,tax,-0.746
+LD,Chem_Fert_enuse,gas,gas,2015,tax,-1.188
+LD,Food Processing_enuse,gas,gas,2015,tax,-1.188
+LD,Iron and Steel_enuse,gas,gas,2015,tax,-1.188
+LD,Non-Ferrous Metals_enuse,gas,gas,2015,tax,-1.188
+LD,Other Industries_enuse,gas,gas,2015,tax,-1.188
+LD,Paper and Pulp_enuse,gas,gas,2015,tax,-1.188
+LD,process heat cement,gas,gas,2015,tax,-0.746
+MH,Chem_Fert_enuse,gas,gas,2015,tax,-1.188
+MH,Food Processing_enuse,gas,gas,2015,tax,-1.188
+MH,Iron and Steel_enuse,gas,gas,2015,tax,-1.188
+MH,Non-Ferrous Metals_enuse,gas,gas,2015,tax,-1.188
+MH,Other Industries_enuse,gas,gas,2015,tax,-1.188
+MH,Paper and Pulp_enuse,gas,gas,2015,tax,-1.188
+MH,process heat cement,gas,gas,2015,tax,-0.746
+ML,Chem_Fert_enuse,gas,gas,2015,tax,-1.188
+ML,Food Processing_enuse,gas,gas,2015,tax,-1.188
+ML,Iron and Steel_enuse,gas,gas,2015,tax,-1.188
+ML,Non-Ferrous Metals_enuse,gas,gas,2015,tax,-1.188
+ML,Other Industries_enuse,gas,gas,2015,tax,-1.188
+ML,Paper and Pulp_enuse,gas,gas,2015,tax,-1.188
+ML,process heat cement,gas,gas,2015,tax,-0.746
+MN,Chem_Fert_enuse,gas,gas,2015,tax,-1.188
+MN,Food Processing_enuse,gas,gas,2015,tax,-1.188
+MN,Iron and Steel_enuse,gas,gas,2015,tax,-1.188
+MN,Non-Ferrous Metals_enuse,gas,gas,2015,tax,-1.188
+MN,Other Industries_enuse,gas,gas,2015,tax,-1.188
+MN,Paper and Pulp_enuse,gas,gas,2015,tax,-1.188
+MN,process heat cement,gas,gas,2015,tax,-0.746
+MP,Chem_Fert_enuse,gas,gas,2015,tax,-1.188
+MP,Food Processing_enuse,gas,gas,2015,tax,-1.188
+MP,Iron and Steel_enuse,gas,gas,2015,tax,-1.188
+MP,Non-Ferrous Metals_enuse,gas,gas,2015,tax,-1.188
+MP,Other Industries_enuse,gas,gas,2015,tax,-1.188
+MP,Paper and Pulp_enuse,gas,gas,2015,tax,-1.188
+MP,process heat cement,gas,gas,2015,tax,-0.746
+MZ,Chem_Fert_enuse,gas,gas,2015,tax,-1.188
+MZ,Food Processing_enuse,gas,gas,2015,tax,-1.188
+MZ,Iron and Steel_enuse,gas,gas,2015,tax,-1.188
+MZ,Non-Ferrous Metals_enuse,gas,gas,2015,tax,-1.188
+MZ,Other Industries_enuse,gas,gas,2015,tax,-1.188
+MZ,Paper and Pulp_enuse,gas,gas,2015,tax,-1.188
+MZ,process heat cement,gas,gas,2015,tax,-0.746
+NL,Chem_Fert_enuse,gas,gas,2015,tax,-1.188
+NL,Food Processing_enuse,gas,gas,2015,tax,-1.188
+NL,Iron and Steel_enuse,gas,gas,2015,tax,-1.188
+NL,Non-Ferrous Metals_enuse,gas,gas,2015,tax,-1.188
+NL,Other Industries_enuse,gas,gas,2015,tax,-1.188
+NL,Paper and Pulp_enuse,gas,gas,2015,tax,-1.188
+NL,process heat cement,gas,gas,2015,tax,-0.746
+OD,Chem_Fert_enuse,gas,gas,2015,tax,-1.188
+OD,Food Processing_enuse,gas,gas,2015,tax,-1.188
+OD,Iron and Steel_enuse,gas,gas,2015,tax,-1.188
+OD,Non-Ferrous Metals_enuse,gas,gas,2015,tax,-1.188
+OD,Other Industries_enuse,gas,gas,2015,tax,-1.188
+OD,Paper and Pulp_enuse,gas,gas,2015,tax,-1.188
+OD,process heat cement,gas,gas,2015,tax,-0.746
+PB,Chem_Fert_enuse,gas,gas,2015,tax,-1.188
+PB,Food Processing_enuse,gas,gas,2015,tax,-1.188
+PB,Iron and Steel_enuse,gas,gas,2015,tax,-1.188
+PB,Non-Ferrous Metals_enuse,gas,gas,2015,tax,-1.188
+PB,Other Industries_enuse,gas,gas,2015,tax,-1.188
+PB,Paper and Pulp_enuse,gas,gas,2015,tax,-1.188
+PB,process heat cement,gas,gas,2015,tax,-0.746
+PC,Chem_Fert_enuse,gas,gas,2015,tax,-1.188
+PC,Food Processing_enuse,gas,gas,2015,tax,-1.188
+PC,Iron and Steel_enuse,gas,gas,2015,tax,-1.188
+PC,Non-Ferrous Metals_enuse,gas,gas,2015,tax,-1.188
+PC,Other Industries_enuse,gas,gas,2015,tax,-1.188
+PC,Paper and Pulp_enuse,gas,gas,2015,tax,-1.188
+PC,process heat cement,gas,gas,2015,tax,-0.746
+RJ,Chem_Fert_enuse,gas,gas,2015,tax,-1.188
+RJ,Food Processing_enuse,gas,gas,2015,tax,-1.188
+RJ,Iron and Steel_enuse,gas,gas,2015,tax,-1.188
+RJ,Non-Ferrous Metals_enuse,gas,gas,2015,tax,-1.188
+RJ,Other Industries_enuse,gas,gas,2015,tax,-1.188
+RJ,Paper and Pulp_enuse,gas,gas,2015,tax,-1.188
+RJ,process heat cement,gas,gas,2015,tax,-0.746
+SK,Chem_Fert_enuse,gas,gas,2015,tax,-1.188
+SK,Food Processing_enuse,gas,gas,2015,tax,-1.188
+SK,Iron and Steel_enuse,gas,gas,2015,tax,-1.188
+SK,Non-Ferrous Metals_enuse,gas,gas,2015,tax,-1.188
+SK,Other Industries_enuse,gas,gas,2015,tax,-1.188
+SK,Paper and Pulp_enuse,gas,gas,2015,tax,-1.188
+SK,process heat cement,gas,gas,2015,tax,-0.746
+TN,Chem_Fert_enuse,gas,gas,2015,tax,-1.188
+TN,Food Processing_enuse,gas,gas,2015,tax,-1.188
+TN,Iron and Steel_enuse,gas,gas,2015,tax,-1.188
+TN,Non-Ferrous Metals_enuse,gas,gas,2015,tax,-1.188
+TN,Other Industries_enuse,gas,gas,2015,tax,-1.188
+TN,Paper and Pulp_enuse,gas,gas,2015,tax,-1.188
+TN,process heat cement,gas,gas,2015,tax,-0.746
+TR,Chem_Fert_enuse,gas,gas,2015,tax,-1.188
+TR,Food Processing_enuse,gas,gas,2015,tax,-1.188
+TR,Iron and Steel_enuse,gas,gas,2015,tax,-1.188
+TR,Non-Ferrous Metals_enuse,gas,gas,2015,tax,-1.188
+TR,Other Industries_enuse,gas,gas,2015,tax,-1.188
+TR,Paper and Pulp_enuse,gas,gas,2015,tax,-1.188
+TR,process heat cement,gas,gas,2015,tax,-0.746
+TS,Chem_Fert_enuse,gas,gas,2015,tax,-1.188
+TS,Food Processing_enuse,gas,gas,2015,tax,-1.188
+TS,Iron and Steel_enuse,gas,gas,2015,tax,-1.188
+TS,Non-Ferrous Metals_enuse,gas,gas,2015,tax,-1.188
+TS,Other Industries_enuse,gas,gas,2015,tax,-1.188
+TS,Paper and Pulp_enuse,gas,gas,2015,tax,-1.188
+TS,process heat cement,gas,gas,2015,tax,-0.746
+UK,Chem_Fert_enuse,gas,gas,2015,tax,-1.188
+UK,Food Processing_enuse,gas,gas,2015,tax,-1.188
+UK,Iron and Steel_enuse,gas,gas,2015,tax,-1.188
+UK,Non-Ferrous Metals_enuse,gas,gas,2015,tax,-1.188
+UK,Other Industries_enuse,gas,gas,2015,tax,-1.188
+UK,Paper and Pulp_enuse,gas,gas,2015,tax,-1.188
+UK,process heat cement,gas,gas,2015,tax,-0.746
+UP,Chem_Fert_enuse,gas,gas,2015,tax,-1.188
+UP,Food Processing_enuse,gas,gas,2015,tax,-1.188
+UP,Iron and Steel_enuse,gas,gas,2015,tax,-1.188
+UP,Non-Ferrous Metals_enuse,gas,gas,2015,tax,-1.188
+UP,Other Industries_enuse,gas,gas,2015,tax,-1.188
+UP,Paper and Pulp_enuse,gas,gas,2015,tax,-1.188
+UP,process heat cement,gas,gas,2015,tax,-0.746
+WB,Chem_Fert_enuse,gas,gas,2015,tax,-1.188
+WB,Food Processing_enuse,gas,gas,2015,tax,-1.188
+WB,Iron and Steel_enuse,gas,gas,2015,tax,-1.188
+WB,Non-Ferrous Metals_enuse,gas,gas,2015,tax,-1.188
+WB,Other Industries_enuse,gas,gas,2015,tax,-1.188
+WB,Paper and Pulp_enuse,gas,gas,2015,tax,-1.188
+WB,process heat cement,gas,gas,2015,tax,-0.746

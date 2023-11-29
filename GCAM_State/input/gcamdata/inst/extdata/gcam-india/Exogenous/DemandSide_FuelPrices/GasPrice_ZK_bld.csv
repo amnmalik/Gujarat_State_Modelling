@@ -1,0 +1,10 @@
+﻿INPUT_TABLE,,,,,,
+Variable ID,,,,,,
+RegionGasPriceAdder,,,,,,
+,,,,,,
+region,supplysector,subsector,technology,year,minicam-non-energy-input,input-cost
+RJ,resid rural apploth,gas,Gas-based app,2015,non-energy,0.662
+RJ,resid urban apploth,gas,Gas-based app,2015,non-energy,0.662
+RJ,comm cooking,gas,gas based cooking,2015,non-energy,0.662
+RJ,resid rural cooking,gas,gas-based cooking,2015,non-energy,0.662
+RJ,resid urban cooking,gas,gas-based cooking,2015,non-energy,0.662

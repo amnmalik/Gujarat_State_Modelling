@@ -1,0 +1,9 @@
+INPUT_TABLE,,,,,,,,
+Variable ID,,,,,,,,
+IndiaIndusSharewt,,,,,,,,
+,,,,,,,,
+region,supplysector,subsector,apply.to,from.year,to.year,from.value,to.value,interpolation.function
+RJ,electricity,solar,share-weight,2020,2070,0.15,0.8,linear
+RJ,electricity,solar,share-weight,2065,2100,0.8,0.8,fixed
+RJ,electricity,nuclear,share-weight,2020,2070,0.065,0.2,linear
+RJ,electricity,nuclear,share-weight,2065,2100,0.2,0.2,fixed

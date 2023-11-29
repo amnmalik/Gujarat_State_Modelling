@@ -1,0 +1,193 @@
+# File: A23.india_state_tech_eff.csv
+# Title: India efficiencies by fuel and electric sector
+# Units: Unitless efficiency (electricity out / energy in)
+# Source: Assumption from India Data
+# Comments: Correction for coal use in base years
+# Column types: ccccccnnnn
+# ----------
+region,supplysector,subsector,stub.technology,minicam.energy.input,market.name,1975,1990,2005,2010
+AN,electricity,coal,coal (conv pul),regional coal,Southern,0.287589,0.296496,0.26684,0.278752
+AN,electricity,gas,gas (steam/CT),wholesale gas,Southern,0.141405,0.247442,0.33,0.376667869
+AN,electricity,gas,gas (CC),wholesale gas,Southern,0.45,0.45,0.54363,0.57608
+AN,electricity,refined liquids,refined liquids (steam/CT),refined liquids industrial,Southern,0.222574,0.240573,0.249086,0.202075
+AN,electricity,biomass,biomass (conv),regional biomass,Southern,0.33,0.33,0.150072,0.149919
+AP,electricity,coal,coal (conv pul),regional coal,Southern,0.287589,0.296496,0.26684,0.31743988
+AP,electricity,gas,gas (steam/CT),wholesale gas,Southern,0.141405,0.247442,0.33,1.018055487
+AP,electricity,gas,gas (CC),wholesale gas,Southern,0.45,0.45,0.54363,0.57608
+AP,electricity,refined liquids,refined liquids (steam/CT),refined liquids industrial,Southern,0.3,0.240573,0.249086,0.202075
+AP,electricity,biomass,biomass (conv),regional biomass,Southern,0.33,0.33,0.150072,0.149919
+AR,electricity,coal,coal (conv pul),regional coal,North-Eastern,0.287589,0.296496,0.26684,0.278752
+AR,electricity,gas,gas (steam/CT),wholesale gas,North-Eastern,0.141405,0.247442,0.33,0.376667869
+AR,electricity,gas,gas (CC),wholesale gas,North-Eastern,0.45,0.45,0.54363,0.57608
+AR,electricity,refined liquids,refined liquids (steam/CT),refined liquids industrial,North-Eastern,0.2,0.240573,0.249086,0.202075
+AR,electricity,biomass,biomass (conv),regional biomass,North-Eastern,0.33,0.33,0.150072,0.149919
+AS,electricity,coal,coal (conv pul),regional coal,North-Eastern,0.287589,0.296496,0.26684,0.278752
+AS,electricity,gas,gas (steam/CT),wholesale gas,North-Eastern,0.141405,0.247442,0.33,0.251294668
+AS,electricity,gas,gas (CC),wholesale gas,North-Eastern,0.45,0.45,0.54363,0.57608
+AS,electricity,refined liquids,refined liquids (steam/CT),refined liquids industrial,North-Eastern,0.2,0.240573,0.249086,0.202075
+AS,electricity,biomass,biomass (conv),regional biomass,North-Eastern,0.33,0.33,0.150072,0.149919
+BR,electricity,coal,coal (conv pul),regional coal,Eastern,0.287589,0.296496,0.26684,0.259747842
+BR,electricity,gas,gas (steam/CT),wholesale gas,Eastern,0.141405,0.247442,0.33,0.376667869
+BR,electricity,gas,gas (CC),wholesale gas,Eastern,0.45,0.45,0.54363,0.57608
+BR,electricity,refined liquids,refined liquids (steam/CT),refined liquids industrial,Eastern,0.2,0.240573,0.249086,0.202075
+BR,electricity,biomass,biomass (conv),regional biomass,Eastern,0.33,0.33,0.150072,0.149919
+CG,electricity,coal,coal (conv pul),regional coal,Western,0.287589,0.296496,0.26684,0.317450496
+CG,electricity,gas,gas (steam/CT),wholesale gas,Western,0.141405,0.247442,0.33,0.376667869
+CG,electricity,gas,gas (CC),wholesale gas,Western,0.45,0.45,0.54363,0.57608
+CG,electricity,refined liquids,refined liquids (steam/CT),refined liquids industrial,Western,0.2,0.240573,0.249086,0.202075
+CG,electricity,biomass,biomass (conv),regional biomass,Western,0.33,0.33,0.150072,0.149919
+CH,electricity,coal,coal (conv pul),regional coal,Northern,0.287589,0.296496,0.26684,0.278752
+CH,electricity,gas,gas (steam/CT),wholesale gas,Northern,0.141405,0.247442,0.33,0.376667869
+CH,electricity,gas,gas (CC),wholesale gas,Northern,0.45,0.45,0.54363,0.57608
+CH,electricity,refined liquids,refined liquids (steam/CT),refined liquids industrial,Northern,0.2,0.240573,0.249086,0.202075
+CH,electricity,biomass,biomass (conv),regional biomass,Northern,0.33,0.33,0.150072,0.149919
+DL,electricity,coal,coal (conv pul),regional coal,Northern,0.287589,0.296496,0.26684,0.260565804
+DL,electricity,gas,gas (steam/CT),wholesale gas,Northern,0.141405,0.247442,0.33,0.412997332
+DL,electricity,gas,gas (CC),wholesale gas,Northern,0.45,0.45,0.54363,0.57608
+DL,electricity,refined liquids,refined liquids (steam/CT),refined liquids industrial,Northern,0.2,0.240573,0.249086,0.202075
+DL,electricity,biomass,biomass (conv),regional biomass,Northern,0.33,0.33,0.150072,0.149919
+GA,electricity,coal,coal (conv pul),regional coal,Western,0.287589,0.296496,0.26684,0.278752
+GA,electricity,gas,gas (steam/CT),wholesale gas,Western,0.141405,0.247442,0.33,0.376667869
+GA,electricity,gas,gas (CC),wholesale gas,Western,0.45,0.45,0.54363,0.57608
+GA,electricity,refined liquids,refined liquids (steam/CT),refined liquids industrial,Western,0.2,0.240573,0.249086,0.202075
+GA,electricity,biomass,biomass (conv),regional biomass,Western,0.33,0.33,0.150072,0.149919
+GJ,electricity,coal,coal (conv pul),regional coal,Western,0.287589,0.296496,0.26684,0.389366092
+GJ,electricity,gas,gas (steam/CT),wholesale gas,Western,0.141405,0.247442,0.33,0.941547355
+GJ,electricity,gas,gas (CC),wholesale gas,Western,0.45,0.45,0.54363,0.57608
+GJ,electricity,refined liquids,refined liquids (steam/CT),refined liquids industrial,Western,0.2,0.240573,0.249086,0.202075
+GJ,electricity,biomass,biomass (conv),regional biomass,Western,0.33,0.33,0.150072,0.149919
+HR,electricity,coal,coal (conv pul),regional coal,Northern,0.287589,0.296496,0.26684,0.264381259
+HR,electricity,gas,gas (steam/CT),wholesale gas,Northern,0.141405,0.247442,0.33,0.579179085
+HR,electricity,gas,gas (CC),wholesale gas,Northern,0.45,0.45,0.54363,0.57608
+HR,electricity,refined liquids,refined liquids (steam/CT),refined liquids industrial,Northern,0.2,0.240573,0.249086,0.202075
+HR,electricity,biomass,biomass (conv),regional biomass,Northern,0.33,0.33,0.150072,0.149919
+HP,electricity,coal,coal (conv pul),regional coal,Northern,0.287589,0.296496,0.26684,0.278752
+HP,electricity,gas,gas (steam/CT),wholesale gas,Northern,0.141405,0.247442,0.33,0.376667869
+HP,electricity,gas,gas (CC),wholesale gas,Northern,0.45,0.45,0.54363,0.57608
+HP,electricity,refined liquids,refined liquids (steam/CT),refined liquids industrial,Northern,0.2,0.240573,0.249086,0.202075
+HP,electricity,biomass,biomass (conv),regional biomass,Northern,0.33,0.33,0.150072,0.149919
+JK,electricity,coal,coal (conv pul),regional coal,Northern,0.287589,0.296496,0.26684,0.026913816
+JK,electricity,gas,gas (steam/CT),wholesale gas,Northern,0.141405,0.247442,0.33,0.053196609
+JK,electricity,gas,gas (CC),wholesale gas,Northern,0.45,0.45,0.54363,0.57608
+JK,electricity,refined liquids,refined liquids (steam/CT),refined liquids industrial,Northern,0.2,0.240573,0.249086,0.202075
+JK,electricity,biomass,biomass (conv),regional biomass,Northern,0.33,0.33,0.150072,0.149919
+JH,electricity,coal,coal (conv pul),regional coal,Eastern,0.287589,0.296496,0.26684,0.379189281
+JH,electricity,gas,gas (steam/CT),wholesale gas,Eastern,0.141405,0.247442,0.33,0.376667869
+JH,electricity,gas,gas (CC),wholesale gas,Eastern,0.45,0.45,0.54363,0.57608
+JH,electricity,refined liquids,refined liquids (steam/CT),refined liquids industrial,Eastern,0.2,0.240573,0.249086,0.202075
+JH,electricity,biomass,biomass (conv),regional biomass,Eastern,0.33,0.33,0.150072,0.149919
+KA,electricity,coal,coal (conv pul),regional coal,Southern,0.287589,0.296496,0.26684,0.442824907
+KA,electricity,gas,gas (steam/CT),wholesale gas,Southern,0.141405,0.247442,0.33,0.376667869
+KA,electricity,gas,gas (CC),wholesale gas,Southern,0.45,0.45,0.54363,0.57608
+KA,electricity,refined liquids,refined liquids (steam/CT),refined liquids industrial,Southern,0.2,0.240573,0.249086,0.202075
+KA,electricity,biomass,biomass (conv),regional biomass,Southern,0.33,0.33,0.150072,0.149919
+KL,electricity,coal,coal (conv pul),regional coal,Southern,0.287589,0.296496,0.26684,0.278752
+KL,electricity,gas,gas (steam/CT),wholesale gas,Southern,0.141405,0.247442,0.33,0.376667869
+KL,electricity,gas,gas (CC),wholesale gas,Southern,0.45,0.45,0.54363,0.57608
+KL,electricity,refined liquids,refined liquids (steam/CT),refined liquids industrial,Southern,0.2,0.240573,0.249086,0.202075
+KL,electricity,biomass,biomass (conv),regional biomass,Southern,0.33,0.33,0.150072,0.149919
+MP,electricity,coal,coal (conv pul),regional coal,Western,0.287589,0.296496,0.26684,0.292310253
+MP,electricity,gas,gas (steam/CT),wholesale gas,Western,0.141405,0.247442,0.33,0.376667869
+MP,electricity,gas,gas (CC),wholesale gas,Western,0.45,0.45,0.54363,0.57608
+MP,electricity,refined liquids,refined liquids (steam/CT),refined liquids industrial,Western,0.2,0.240573,0.249086,0.202075
+MP,electricity,biomass,biomass (conv),regional biomass,Western,0.33,0.33,0.150072,0.149919
+MH,electricity,coal,coal (conv pul),regional coal,Western,0.287589,0.296496,0.26684,0.274389299
+MH,electricity,gas,gas (steam/CT),wholesale gas,Western,0.141405,0.247442,0.33,0.606037449
+MH,electricity,gas,gas (CC),wholesale gas,Western,0.45,0.45,0.54363,0.57608
+MH,electricity,refined liquids,refined liquids (steam/CT),refined liquids industrial,Western,0.2,0.240573,0.249086,0.202075
+MH,electricity,biomass,biomass (conv),regional biomass,Western,0.33,0.33,0.150072,0.149919
+MN,electricity,coal,coal (conv pul),regional coal,North-Eastern,0.287589,0.296496,0.26684,0.278752
+MN,electricity,gas,gas (steam/CT),wholesale gas,North-Eastern,0.141405,0.247442,0.33,0.376667869
+MN,electricity,gas,gas (CC),wholesale gas,North-Eastern,0.45,0.45,0.54363,0.57608
+MN,electricity,refined liquids,refined liquids (steam/CT),refined liquids industrial,North-Eastern,0.2,0.240573,0.249086,0.202075
+MN,electricity,biomass,biomass (conv),regional biomass,North-Eastern,0.33,0.33,0.150072,0.149919
+ML,electricity,coal,coal (conv pul),regional coal,North-Eastern,0.287589,0.296496,0.26684,0.278752
+ML,electricity,gas,gas (steam/CT),wholesale gas,North-Eastern,0.141405,0.247442,0.33,0.376667869
+ML,electricity,gas,gas (CC),wholesale gas,North-Eastern,0.45,0.45,0.54363,0.57608
+ML,electricity,refined liquids,refined liquids (steam/CT),refined liquids industrial,North-Eastern,0.2,0.240573,0.249086,0.202075
+ML,electricity,biomass,biomass (conv),regional biomass,North-Eastern,0.33,0.33,0.150072,0.149919
+MZ,electricity,coal,coal (conv pul),regional coal,North-Eastern,0.287589,0.296496,0.26684,0.278752
+MZ,electricity,gas,gas (steam/CT),wholesale gas,North-Eastern,0.141405,0.247442,0.33,0.376667869
+MZ,electricity,gas,gas (CC),wholesale gas,North-Eastern,0.45,0.45,0.54363,0.57608
+MZ,electricity,refined liquids,refined liquids (steam/CT),refined liquids industrial,North-Eastern,0.2,0.240573,0.249086,0.202075
+MZ,electricity,biomass,biomass (conv),regional biomass,North-Eastern,0.33,0.33,0.150072,0.149919
+NL,electricity,coal,coal (conv pul),regional coal,North-Eastern,0.287589,0.296496,0.26684,0.278752
+NL,electricity,gas,gas (steam/CT),wholesale gas,North-Eastern,0.141405,0.247442,0.33,0.376667869
+NL,electricity,gas,gas (CC),wholesale gas,North-Eastern,0.45,0.45,0.54363,0.57608
+NL,electricity,refined liquids,refined liquids (steam/CT),refined liquids industrial,North-Eastern,0.2,0.240573,0.249086,0.202075
+NL,electricity,biomass,biomass (conv),regional biomass,North-Eastern,0.33,0.33,0.150072,0.149919
+OD,electricity,coal,coal (conv pul),regional coal,Eastern,0.287589,0.296496,0.26684,0.372290728
+OD,electricity,gas,gas (steam/CT),wholesale gas,Eastern,0.141405,0.247442,0.33,0.376667869
+OD,electricity,gas,gas (CC),wholesale gas,Eastern,0.45,0.45,0.54363,0.57608
+OD,electricity,refined liquids,refined liquids (steam/CT),refined liquids industrial,Eastern,0.2,0.240573,0.249086,0.202075
+OD,electricity,biomass,biomass (conv),regional biomass,Eastern,0.33,0.33,0.150072,0.149919
+PB,electricity,coal,coal (conv pul),regional coal,Northern,0.287589,0.296496,0.26684,0.319116978
+PB,electricity,gas,gas (steam/CT),wholesale gas,Northern,0.141405,0.247442,0.33,0.376667869
+PB,electricity,gas,gas (CC),wholesale gas,Northern,0.45,0.45,0.54363,0.57608
+PB,electricity,refined liquids,refined liquids (steam/CT),refined liquids industrial,Northern,0.2,0.240573,0.249086,0.202075
+PB,electricity,biomass,biomass (conv),regional biomass,Northern,0.33,0.33,0.150072,0.149919
+RJ,electricity,coal,coal (conv pul),regional coal,Northern,0.287589,0.296496,0.26684,0.400237403
+RJ,electricity,gas,gas (steam/CT),wholesale gas,Northern,0.141405,0.247442,0.33,0.413137842
+RJ,electricity,gas,gas (CC),wholesale gas,Northern,0.45,0.45,0.54363,0.57608
+RJ,electricity,refined liquids,refined liquids (steam/CT),refined liquids industrial,Northern,0.2,0.240573,0.249086,0.202075
+RJ,electricity,biomass,biomass (conv),regional biomass,Northern,0.33,0.33,0.150072,0.149919
+SK,electricity,coal,coal (conv pul),regional coal,Eastern,0.287589,0.296496,0.26684,0.278752
+SK,electricity,gas,gas (steam/CT),wholesale gas,Eastern,0.141405,0.247442,0.33,0.376667869
+SK,electricity,gas,gas (CC),wholesale gas,Eastern,0.45,0.45,0.54363,0.57608
+SK,electricity,refined liquids,refined liquids (steam/CT),refined liquids industrial,Eastern,0.2,0.240573,0.249086,0.202075
+SK,electricity,biomass,biomass (conv),regional biomass,Eastern,0.33,0.33,0.150072,0.149919
+TN,electricity,coal,coal (conv pul),regional coal,Southern,0.287589,0.296496,0.26684,0.677778555
+TN,electricity,gas,gas (steam/CT),wholesale gas,Southern,0.141405,0.247442,0.33,0.017447007
+TN,electricity,gas,gas (CC),wholesale gas,Southern,0.45,0.45,0.54363,0.57608
+TN,electricity,refined liquids,refined liquids (steam/CT),refined liquids industrial,Southern,0.2,0.240573,0.249086,0.202075
+TN,electricity,biomass,biomass (conv),regional biomass,Southern,0.33,0.33,0.150072,0.149919
+TS,electricity,coal,coal (conv pul),regional coal,Southern,0.287589,0.296496,0.26684,0.31743988
+TS,electricity,gas,gas (steam/CT),wholesale gas,Southern,0.141405,0.247442,0.33,0.376667869
+TS,electricity,gas,gas (CC),wholesale gas,Southern,0.45,0.45,0.54363,0.57608
+TS,electricity,refined liquids,refined liquids (steam/CT),refined liquids industrial,Southern,0.2,0.240573,0.249086,0.202075
+TS,electricity,biomass,biomass (conv),regional biomass,Southern,0.33,0.33,0.150072,0.149919
+TR,electricity,coal,coal (conv pul),regional coal,North-Eastern,0.287589,0.296496,0.26684,0.278752
+TR,electricity,gas,gas (steam/CT),wholesale gas,North-Eastern,0.141405,0.247442,0.33,0.230377594
+TR,electricity,gas,gas (CC),wholesale gas,North-Eastern,0.45,0.45,0.54363,0.57608
+TR,electricity,refined liquids,refined liquids (steam/CT),refined liquids industrial,North-Eastern,0.2,0.240573,0.249086,0.202075
+TR,electricity,biomass,biomass (conv),regional biomass,North-Eastern,0.33,0.33,0.150072,0.149919
+UP,electricity,coal,coal (conv pul),regional coal,Northern,0.287589,0.296496,0.26684,0.303438141
+UP,electricity,gas,gas (steam/CT),wholesale gas,Northern,0.141405,0.247442,0.33,0.531158948
+UP,electricity,gas,gas (CC),wholesale gas,Northern,0.45,0.45,0.54363,0.57608
+UP,electricity,refined liquids,refined liquids (steam/CT),refined liquids industrial,Northern,0.2,0.240573,0.249086,0.202075
+UP,electricity,biomass,biomass (conv),regional biomass,Northern,0.33,0.33,0.150072,0.149919
+UK,electricity,coal,coal (conv pul),regional coal,Northern,0.287589,0.296496,0.26684,0.278752
+UK,electricity,gas,gas (steam/CT),wholesale gas,Northern,0.141405,0.247442,0.33,0.376667869
+UK,electricity,gas,gas (CC),wholesale gas,Northern,0.45,0.45,0.54363,0.57608
+UK,electricity,refined liquids,refined liquids (steam/CT),refined liquids industrial,Northern,0.2,0.240573,0.249086,0.202075
+UK,electricity,biomass,biomass (conv),regional biomass,Northern,0.33,0.33,0.150072,0.149919
+WB,electricity,coal,coal (conv pul),regional coal,Eastern,0.287589,0.296496,0.26684,0.28181766
+WB,electricity,gas,gas (steam/CT),wholesale gas,Eastern,0.141405,0.247442,0.33,0.376667869
+WB,electricity,gas,gas (CC),wholesale gas,Eastern,0.45,0.45,0.54363,0.57608
+WB,electricity,refined liquids,refined liquids (steam/CT),refined liquids industrial,Eastern,0.2,0.240573,0.249086,0.202075
+WB,electricity,biomass,biomass (conv),regional biomass,Eastern,0.33,0.33,0.150072,0.149919
+DD,electricity,coal,coal (conv pul),regional coal,Western,0.287589,0.296496,0.26684,0.278752
+DD,electricity,gas,gas (steam/CT),wholesale gas,Western,0.141405,0.247442,0.33,0.376667869
+DD,electricity,gas,gas (CC),wholesale gas,Western,0.45,0.45,0.54363,0.57608
+DD,electricity,refined liquids,refined liquids (steam/CT),refined liquids industrial,Western,0.2,0.240573,0.249086,0.202075
+DD,electricity,biomass,biomass (conv),regional biomass,Western,0.33,0.33,0.150072,0.149919
+DN,electricity,coal,coal (conv pul),regional coal,Western,0.287589,0.296496,0.26684,0.278752
+DN,electricity,gas,gas (steam/CT),wholesale gas,Western,0.141405,0.247442,0.33,0.376667869
+DN,electricity,gas,gas (CC),wholesale gas,Western,0.45,0.45,0.54363,0.57608
+DN,electricity,refined liquids,refined liquids (steam/CT),refined liquids industrial,Western,0.2,0.240573,0.249086,0.202075
+DN,electricity,biomass,biomass (conv),regional biomass,Western,0.33,0.33,0.150072,0.149919
+LA,electricity,coal,coal (conv pul),regional coal,Northern,0.287589,0.296496,0.26684,0.278752
+LA,electricity,gas,gas (steam/CT),wholesale gas,Northern,0.141405,0.247442,0.33,0.376667869
+LA,electricity,gas,gas (CC),wholesale gas,Northern,0.45,0.45,0.54363,0.57608
+LA,electricity,refined liquids,refined liquids (steam/CT),refined liquids industrial,Northern,0.2,0.240573,0.249086,0.202075
+LA,electricity,biomass,biomass (conv),regional biomass,Northern,0.33,0.33,0.150072,0.149919
+LD,electricity,coal,coal (conv pul),regional coal,Southern,0.287589,0.296496,0.26684,0.278752
+LD,electricity,gas,gas (steam/CT),wholesale gas,Southern,0.141405,0.247442,0.33,0.376667869
+LD,electricity,gas,gas (CC),wholesale gas,Southern,0.45,0.45,0.54363,0.57608
+LD,electricity,refined liquids,refined liquids (steam/CT),refined liquids industrial,Southern,0.2,0.240573,0.249086,0.202075
+LD,electricity,biomass,biomass (conv),regional biomass,Southern,0.33,0.33,0.150072,0.149919
+PC,electricity,coal,coal (conv pul),regional coal,Southern,0.287589,0.296496,0.26684,0.278752
+PC,electricity,gas,gas (steam/CT),wholesale gas,Southern,0.141405,0.247442,0.33,0.624255006
+PC,electricity,gas,gas (CC),wholesale gas,Southern,0.45,0.45,0.54363,0.57608
+PC,electricity,refined liquids,refined liquids (steam/CT),refined liquids industrial,Southern,0.2,0.240573,0.249086,0.202075
+PC,electricity,biomass,biomass (conv),regional biomass,Southern,0.33,0.33,0.150072,0.149919

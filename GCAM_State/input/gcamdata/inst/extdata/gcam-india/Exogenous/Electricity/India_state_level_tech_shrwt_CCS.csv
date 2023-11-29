@@ -1,0 +1,42 @@
+INPUT_TABLE,,,,,,,,,
+Variable ID,,,,,,,,,
+IndiaIndustechSharewt,,,,,,,,,
+,,,,,,,,,
+region,supplysector,subsector,technology,apply.to,from.year,to.year,from.value,to-value,interpolation.function
+AN,electricity,coal,coal (IGCC CCS),share-weight,2010,2100,0,0,fixed
+AP,electricity,coal,coal (IGCC CCS),share-weight,2010,2100,0,0,fixed
+AR,electricity,coal,coal (IGCC CCS),share-weight,2010,2100,0,0,fixed
+AS,electricity,coal,coal (IGCC CCS),share-weight,2010,2100,0,0,fixed
+BR,electricity,coal,coal (IGCC CCS),share-weight,2010,2100,0,0,fixed
+CG,electricity,coal,coal (IGCC CCS),share-weight,2010,2100,0,0,fixed
+CH,electricity,coal,coal (IGCC CCS),share-weight,2010,2100,0,0,fixed
+DD,electricity,coal,coal (IGCC CCS),share-weight,2010,2100,0,0,fixed
+DL,electricity,coal,coal (IGCC CCS),share-weight,2010,2100,0,0,fixed
+DN,electricity,coal,coal (IGCC CCS),share-weight,2010,2100,0,0,fixed
+GA,electricity,coal,coal (IGCC CCS),share-weight,2010,2100,0,0,fixed
+GJ,electricity,coal,coal (IGCC CCS),share-weight,2010,2100,0,0,fixed
+HP,electricity,coal,coal (IGCC CCS),share-weight,2010,2100,0,0,fixed
+HR,electricity,coal,coal (IGCC CCS),share-weight,2010,2100,0,0,fixed
+JH,electricity,coal,coal (IGCC CCS),share-weight,2010,2100,0,0,fixed
+JK,electricity,coal,coal (IGCC CCS),share-weight,2010,2100,0,0,fixed
+KA,electricity,coal,coal (IGCC CCS),share-weight,2010,2100,0,0,fixed
+KL,electricity,coal,coal (IGCC CCS),share-weight,2010,2100,0,0,fixed
+LA,electricity,coal,coal (IGCC CCS),share-weight,2010,2100,0,0,fixed
+LD,electricity,coal,coal (IGCC CCS),share-weight,2010,2100,0,0,fixed
+MH,electricity,coal,coal (IGCC CCS),share-weight,2010,2100,0,0,fixed
+ML,electricity,coal,coal (IGCC CCS),share-weight,2010,2100,0,0,fixed
+MN,electricity,coal,coal (IGCC CCS),share-weight,2010,2100,0,0,fixed
+MP,electricity,coal,coal (IGCC CCS),share-weight,2010,2100,0,0,fixed
+MZ,electricity,coal,coal (IGCC CCS),share-weight,2010,2100,0,0,fixed
+NL,electricity,coal,coal (IGCC CCS),share-weight,2010,2100,0,0,fixed
+OD,electricity,coal,coal (IGCC CCS),share-weight,2010,2100,0,0,fixed
+PB,electricity,coal,coal (IGCC CCS),share-weight,2010,2100,0,0,fixed
+PC,electricity,coal,coal (IGCC CCS),share-weight,2010,2100,0,0,fixed
+RJ,electricity,coal,coal (IGCC CCS),share-weight,2010,2100,0,0,fixed
+SK,electricity,coal,coal (IGCC CCS),share-weight,2010,2100,0,0,fixed
+TN,electricity,coal,coal (IGCC CCS),share-weight,2010,2100,0,0,fixed
+TR,electricity,coal,coal (IGCC CCS),share-weight,2010,2100,0,0,fixed
+TS,electricity,coal,coal (IGCC CCS),share-weight,2010,2100,0,0,fixed
+UK,electricity,coal,coal (IGCC CCS),share-weight,2010,2100,0,0,fixed
+UP,electricity,coal,coal (IGCC CCS),share-weight,2010,2100,0,0,fixed
+WB,electricity,coal,coal (IGCC CCS),share-weight,2010,2100,0,0,fixed

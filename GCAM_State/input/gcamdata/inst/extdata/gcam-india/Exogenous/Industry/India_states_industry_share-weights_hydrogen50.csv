@@ -1,0 +1,1437 @@
+INPUT_TABLE,,,,,,,,
+Variable ID,,,,,,,,
+IndiaIndTechInterp_new,,,,,,,,
+,,,,,,,,
+region,supplysector,subsector,apply.to,from.year,to.year,from.value,to-value,interpolation.function
+AN,Chem_Fert_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+AN,Chem_Fert_enuse,hydrogen,share-weight,2015,2040,0,0,linear
+AN,Chem_Fert_enuse,hydrogen,share-weight,2035,2100,0,0,fixed
+AP,Chem_Fert_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+AP,Chem_Fert_enuse,hydrogen,share-weight,2015,2040,0,0,linear
+AP,Chem_Fert_enuse,hydrogen,share-weight,2035,2100,0,0,fixed
+AR,Chem_Fert_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+AR,Chem_Fert_enuse,hydrogen,share-weight,2015,2040,0,0,linear
+AR,Chem_Fert_enuse,hydrogen,share-weight,2035,2100,0,0,fixed
+AS,Chem_Fert_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+AS,Chem_Fert_enuse,hydrogen,share-weight,2015,2040,0,0,linear
+AS,Chem_Fert_enuse,hydrogen,share-weight,2035,2100,0,0,fixed
+BR,Chem_Fert_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+BR,Chem_Fert_enuse,hydrogen,share-weight,2015,2040,0,0,linear
+BR,Chem_Fert_enuse,hydrogen,share-weight,2035,2100,0,0,fixed
+CG,Chem_Fert_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+CG,Chem_Fert_enuse,hydrogen,share-weight,2015,2040,0,0,linear
+CG,Chem_Fert_enuse,hydrogen,share-weight,2035,2100,0,0,fixed
+CH,Chem_Fert_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+CH,Chem_Fert_enuse,hydrogen,share-weight,2015,2040,0,0,linear
+CH,Chem_Fert_enuse,hydrogen,share-weight,2035,2100,0,0,fixed
+DD,Chem_Fert_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+DD,Chem_Fert_enuse,hydrogen,share-weight,2015,2040,0,0,linear
+DD,Chem_Fert_enuse,hydrogen,share-weight,2035,2100,0,0,fixed
+DL,Chem_Fert_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+DL,Chem_Fert_enuse,hydrogen,share-weight,2015,2040,0,0,linear
+DL,Chem_Fert_enuse,hydrogen,share-weight,2035,2100,0,0,fixed
+DN,Chem_Fert_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+DN,Chem_Fert_enuse,hydrogen,share-weight,2015,2040,0,0,linear
+DN,Chem_Fert_enuse,hydrogen,share-weight,2035,2100,0,0,fixed
+GA,Chem_Fert_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+GA,Chem_Fert_enuse,hydrogen,share-weight,2015,2040,0,0,linear
+GA,Chem_Fert_enuse,hydrogen,share-weight,2035,2100,0,0,fixed
+GJ,Chem_Fert_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+GJ,Chem_Fert_enuse,hydrogen,share-weight,2015,2040,0,0,linear
+GJ,Chem_Fert_enuse,hydrogen,share-weight,2035,2100,0,0,fixed
+HP,Chem_Fert_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+HP,Chem_Fert_enuse,hydrogen,share-weight,2015,2040,0,0,linear
+HP,Chem_Fert_enuse,hydrogen,share-weight,2035,2100,0,0,fixed
+HR,Chem_Fert_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+HR,Chem_Fert_enuse,hydrogen,share-weight,2015,2040,0,0,linear
+HR,Chem_Fert_enuse,hydrogen,share-weight,2035,2100,0,0,fixed
+JH,Chem_Fert_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+JH,Chem_Fert_enuse,hydrogen,share-weight,2015,2040,0,0,linear
+JH,Chem_Fert_enuse,hydrogen,share-weight,2035,2100,0,0,fixed
+JK,Chem_Fert_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+JK,Chem_Fert_enuse,hydrogen,share-weight,2015,2040,0,0,linear
+JK,Chem_Fert_enuse,hydrogen,share-weight,2035,2100,0,0,fixed
+KA,Chem_Fert_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+KA,Chem_Fert_enuse,hydrogen,share-weight,2015,2040,0,0,linear
+KA,Chem_Fert_enuse,hydrogen,share-weight,2035,2100,0,0,fixed
+KL,Chem_Fert_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+KL,Chem_Fert_enuse,hydrogen,share-weight,2015,2040,0,0,linear
+KL,Chem_Fert_enuse,hydrogen,share-weight,2035,2100,0,0,fixed
+LA,Chem_Fert_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+LA,Chem_Fert_enuse,hydrogen,share-weight,2015,2040,0,0,linear
+LA,Chem_Fert_enuse,hydrogen,share-weight,2035,2100,0,0,fixed
+LD,Chem_Fert_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+LD,Chem_Fert_enuse,hydrogen,share-weight,2015,2040,0,0,linear
+LD,Chem_Fert_enuse,hydrogen,share-weight,2035,2100,0,0,fixed
+MH,Chem_Fert_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+MH,Chem_Fert_enuse,hydrogen,share-weight,2015,2040,0,0,linear
+MH,Chem_Fert_enuse,hydrogen,share-weight,2035,2100,0,0,fixed
+ML,Chem_Fert_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+ML,Chem_Fert_enuse,hydrogen,share-weight,2015,2040,0,0,linear
+ML,Chem_Fert_enuse,hydrogen,share-weight,2035,2100,0,0,fixed
+MN,Chem_Fert_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+MN,Chem_Fert_enuse,hydrogen,share-weight,2015,2040,0,0,linear
+MN,Chem_Fert_enuse,hydrogen,share-weight,2035,2100,0,0,fixed
+MP,Chem_Fert_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+MP,Chem_Fert_enuse,hydrogen,share-weight,2015,2040,0,0,linear
+MP,Chem_Fert_enuse,hydrogen,share-weight,2035,2100,0,0,fixed
+MZ,Chem_Fert_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+MZ,Chem_Fert_enuse,hydrogen,share-weight,2015,2040,0,0,linear
+MZ,Chem_Fert_enuse,hydrogen,share-weight,2035,2100,0,0,fixed
+NL,Chem_Fert_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+NL,Chem_Fert_enuse,hydrogen,share-weight,2015,2040,0,0,linear
+NL,Chem_Fert_enuse,hydrogen,share-weight,2035,2100,0,0,fixed
+OD,Chem_Fert_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+OD,Chem_Fert_enuse,hydrogen,share-weight,2015,2040,0,0,linear
+OD,Chem_Fert_enuse,hydrogen,share-weight,2035,2100,0,0,fixed
+PB,Chem_Fert_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+PB,Chem_Fert_enuse,hydrogen,share-weight,2015,2040,0,0,linear
+PB,Chem_Fert_enuse,hydrogen,share-weight,2035,2100,0,0,fixed
+PC,Chem_Fert_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+PC,Chem_Fert_enuse,hydrogen,share-weight,2015,2040,0,0,linear
+PC,Chem_Fert_enuse,hydrogen,share-weight,2035,2100,0,0,fixed
+RJ,Chem_Fert_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+RJ,Chem_Fert_enuse,hydrogen,share-weight,2015,2040,0,0,linear
+RJ,Chem_Fert_enuse,hydrogen,share-weight,2035,2100,0,0,fixed
+SK,Chem_Fert_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+SK,Chem_Fert_enuse,hydrogen,share-weight,2015,2040,0,0,linear
+SK,Chem_Fert_enuse,hydrogen,share-weight,2035,2100,0,0,fixed
+TN,Chem_Fert_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+TN,Chem_Fert_enuse,hydrogen,share-weight,2015,2040,0,0,linear
+TN,Chem_Fert_enuse,hydrogen,share-weight,2035,2100,0,0,fixed
+TR,Chem_Fert_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+TR,Chem_Fert_enuse,hydrogen,share-weight,2015,2040,0,0,linear
+TR,Chem_Fert_enuse,hydrogen,share-weight,2035,2100,0,0,fixed
+TS,Chem_Fert_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+TS,Chem_Fert_enuse,hydrogen,share-weight,2015,2040,0,0,linear
+TS,Chem_Fert_enuse,hydrogen,share-weight,2035,2100,0,0,fixed
+UK,Chem_Fert_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+UK,Chem_Fert_enuse,hydrogen,share-weight,2015,2040,0,0,linear
+UK,Chem_Fert_enuse,hydrogen,share-weight,2035,2100,0,0,fixed
+UP,Chem_Fert_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+UP,Chem_Fert_enuse,hydrogen,share-weight,2015,2040,0,0,linear
+UP,Chem_Fert_enuse,hydrogen,share-weight,2035,2100,0,0,fixed
+WB,Chem_Fert_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+WB,Chem_Fert_enuse,hydrogen,share-weight,2015,2040,0,0,linear
+WB,Chem_Fert_enuse,hydrogen,share-weight,2035,2100,0,0,fixed
+AN,Iron and Steel_fsuse,coal,share-weight,2010,2100,1,1,fixed
+AP,Iron and Steel_fsuse,coal,share-weight,2010,2100,1,1,fixed
+AR,Iron and Steel_fsuse,coal,share-weight,2010,2100,1,1,fixed
+AS,Iron and Steel_fsuse,coal,share-weight,2010,2100,1,1,fixed
+BR,Iron and Steel_fsuse,coal,share-weight,2010,2100,1,1,fixed
+CG,Iron and Steel_fsuse,coal,share-weight,2010,2100,1,1,fixed
+CH,Iron and Steel_fsuse,coal,share-weight,2010,2100,1,1,fixed
+DD,Iron and Steel_fsuse,coal,share-weight,2010,2100,1,1,fixed
+DL,Iron and Steel_fsuse,coal,share-weight,2010,2100,1,1,fixed
+DN,Iron and Steel_fsuse,coal,share-weight,2010,2100,1,1,fixed
+GA,Iron and Steel_fsuse,coal,share-weight,2010,2100,1,1,fixed
+GJ,Iron and Steel_fsuse,coal,share-weight,2010,2100,1,1,fixed
+HP,Iron and Steel_fsuse,coal,share-weight,2010,2100,1,1,fixed
+HR,Iron and Steel_fsuse,coal,share-weight,2010,2100,1,1,fixed
+JH,Iron and Steel_fsuse,coal,share-weight,2010,2100,1,1,fixed
+JK,Iron and Steel_fsuse,coal,share-weight,2010,2100,1,1,fixed
+KA,Iron and Steel_fsuse,coal,share-weight,2010,2100,1,1,fixed
+KL,Iron and Steel_fsuse,coal,share-weight,2010,2100,1,1,fixed
+LA,Iron and Steel_fsuse,coal,share-weight,2010,2100,1,1,fixed
+LD,Iron and Steel_fsuse,coal,share-weight,2010,2100,1,1,fixed
+MH,Iron and Steel_fsuse,coal,share-weight,2010,2100,1,1,fixed
+ML,Iron and Steel_fsuse,coal,share-weight,2010,2100,1,1,fixed
+MN,Iron and Steel_fsuse,coal,share-weight,2010,2100,1,1,fixed
+MP,Iron and Steel_fsuse,coal,share-weight,2010,2100,1,1,fixed
+MZ,Iron and Steel_fsuse,coal,share-weight,2010,2100,1,1,fixed
+NL,Iron and Steel_fsuse,coal,share-weight,2010,2100,1,1,fixed
+OD,Iron and Steel_fsuse,coal,share-weight,2010,2100,1,1,fixed
+PB,Iron and Steel_fsuse,coal,share-weight,2010,2100,1,1,fixed
+PC,Iron and Steel_fsuse,coal,share-weight,2010,2100,1,1,fixed
+RJ,Iron and Steel_fsuse,coal,share-weight,2010,2100,1,1,fixed
+SK,Iron and Steel_fsuse,coal,share-weight,2010,2100,1,1,fixed
+TN,Iron and Steel_fsuse,coal,share-weight,2010,2100,1,1,fixed
+TR,Iron and Steel_fsuse,coal,share-weight,2010,2100,1,1,fixed
+TS,Iron and Steel_fsuse,coal,share-weight,2010,2100,1,1,fixed
+UK,Iron and Steel_fsuse,coal,share-weight,2010,2100,1,1,fixed
+UP,Iron and Steel_fsuse,coal,share-weight,2010,2100,1,1,fixed
+WB,Iron and Steel_fsuse,coal,share-weight,2010,2100,1,1,fixed
+AN,Iron and Steel_fsuse,gas,share-weight,2010,2015,0,0,fixed
+AP,Iron and Steel_fsuse,gas,share-weight,2010,2015,0,0,fixed
+AR,Iron and Steel_fsuse,gas,share-weight,2010,2015,0,0,fixed
+AS,Iron and Steel_fsuse,gas,share-weight,2010,2015,0,0,fixed
+BR,Iron and Steel_fsuse,gas,share-weight,2010,2015,0,0,fixed
+CG,Iron and Steel_fsuse,gas,share-weight,2010,2015,0,0,fixed
+CH,Iron and Steel_fsuse,gas,share-weight,2010,2015,0,0,fixed
+DD,Iron and Steel_fsuse,gas,share-weight,2010,2015,0,0,fixed
+DL,Iron and Steel_fsuse,gas,share-weight,2010,2015,0,0,fixed
+DN,Iron and Steel_fsuse,gas,share-weight,2010,2015,0,0,fixed
+GA,Iron and Steel_fsuse,gas,share-weight,2010,2015,0,0,fixed
+GJ,Iron and Steel_fsuse,gas,share-weight,2010,2015,0,0,fixed
+HP,Iron and Steel_fsuse,gas,share-weight,2010,2015,0,0,fixed
+HR,Iron and Steel_fsuse,gas,share-weight,2010,2015,0,0,fixed
+JH,Iron and Steel_fsuse,gas,share-weight,2010,2015,0,0,fixed
+JK,Iron and Steel_fsuse,gas,share-weight,2010,2015,0,0,fixed
+KA,Iron and Steel_fsuse,gas,share-weight,2010,2015,0,0,fixed
+KL,Iron and Steel_fsuse,gas,share-weight,2010,2015,0,0,fixed
+LA,Iron and Steel_fsuse,gas,share-weight,2010,2015,0,0,fixed
+LD,Iron and Steel_fsuse,gas,share-weight,2010,2015,0,0,fixed
+MH,Iron and Steel_fsuse,gas,share-weight,2010,2015,0,0,fixed
+ML,Iron and Steel_fsuse,gas,share-weight,2010,2015,0,0,fixed
+MN,Iron and Steel_fsuse,gas,share-weight,2010,2015,0,0,fixed
+MP,Iron and Steel_fsuse,gas,share-weight,2010,2015,0,0,fixed
+MZ,Iron and Steel_fsuse,gas,share-weight,2010,2015,0,0,fixed
+NL,Iron and Steel_fsuse,gas,share-weight,2010,2015,0,0,fixed
+OD,Iron and Steel_fsuse,gas,share-weight,2010,2015,0,0,fixed
+PB,Iron and Steel_fsuse,gas,share-weight,2010,2015,0,0,fixed
+PC,Iron and Steel_fsuse,gas,share-weight,2010,2015,0,0,fixed
+RJ,Iron and Steel_fsuse,gas,share-weight,2010,2015,0,0,fixed
+SK,Iron and Steel_fsuse,gas,share-weight,2010,2015,0,0,fixed
+TN,Iron and Steel_fsuse,gas,share-weight,2010,2015,0,0,fixed
+TR,Iron and Steel_fsuse,gas,share-weight,2010,2015,0,0,fixed
+TS,Iron and Steel_fsuse,gas,share-weight,2010,2015,0,0,fixed
+UK,Iron and Steel_fsuse,gas,share-weight,2010,2015,0,0,fixed
+UP,Iron and Steel_fsuse,gas,share-weight,2010,2015,0,0,fixed
+WB,Iron and Steel_fsuse,gas,share-weight,2010,2015,0,0,fixed
+AN,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+AP,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+AR,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+AS,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+BR,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+CG,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+CH,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+DD,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+DL,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+DN,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+GA,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+GJ,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+HP,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+HR,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+JH,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+JK,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+KA,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+KL,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+LA,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+LD,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+MH,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+ML,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+MN,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+MP,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+MZ,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+NL,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+OD,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+PB,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+PC,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+RJ,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+SK,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+TN,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+TR,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+TS,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+UK,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+UP,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+WB,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+AN,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+AP,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+AR,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+AS,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+BR,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+CG,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+CH,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+DD,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+DL,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+DN,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+GA,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+GJ,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+HP,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+HR,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+JH,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+JK,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+KA,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+KL,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+LA,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+LD,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+MH,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+ML,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+MN,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+MP,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+MZ,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+NL,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+OD,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+PB,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+PC,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+RJ,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+SK,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+TN,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+TR,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+TS,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+UK,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+UP,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+WB,Iron and Steel_fsuse,gas,share-weight,2015,2100,0,0.3,linear
+AN,Iron and Steel_fsuse,gas,share-weight,2095,2100,0.3,0.3,fixed
+AP,Iron and Steel_fsuse,gas,share-weight,2095,2100,0.3,0.3,fixed
+AR,Iron and Steel_fsuse,gas,share-weight,2095,2100,0.3,0.3,fixed
+AS,Iron and Steel_fsuse,gas,share-weight,2095,2100,0.3,0.3,fixed
+BR,Iron and Steel_fsuse,gas,share-weight,2095,2100,0.3,0.3,fixed
+CG,Iron and Steel_fsuse,gas,share-weight,2095,2100,0.3,0.3,fixed
+CH,Iron and Steel_fsuse,gas,share-weight,2095,2100,0.3,0.3,fixed
+DD,Iron and Steel_fsuse,gas,share-weight,2095,2100,0.3,0.3,fixed
+DL,Iron and Steel_fsuse,gas,share-weight,2095,2100,0.3,0.3,fixed
+DN,Iron and Steel_fsuse,gas,share-weight,2095,2100,0.3,0.3,fixed
+GA,Iron and Steel_fsuse,gas,share-weight,2095,2100,0.3,0.3,fixed
+GJ,Iron and Steel_fsuse,gas,share-weight,2095,2100,0.3,0.3,fixed
+HP,Iron and Steel_fsuse,gas,share-weight,2095,2100,0.3,0.3,fixed
+HR,Iron and Steel_fsuse,gas,share-weight,2095,2100,0.3,0.3,fixed
+JH,Iron and Steel_fsuse,gas,share-weight,2095,2100,0.3,0.3,fixed
+JK,Iron and Steel_fsuse,gas,share-weight,2095,2100,0.3,0.3,fixed
+KA,Iron and Steel_fsuse,gas,share-weight,2095,2100,0.3,0.3,fixed
+KL,Iron and Steel_fsuse,gas,share-weight,2095,2100,0.3,0.3,fixed
+LA,Iron and Steel_fsuse,gas,share-weight,2095,2100,0.3,0.3,fixed
+LD,Iron and Steel_fsuse,gas,share-weight,2095,2100,0.3,0.3,fixed
+MH,Iron and Steel_fsuse,gas,share-weight,2095,2100,0.3,0.3,fixed
+ML,Iron and Steel_fsuse,gas,share-weight,2095,2100,0.3,0.3,fixed
+MN,Iron and Steel_fsuse,gas,share-weight,2095,2100,0.3,0.3,fixed
+MP,Iron and Steel_fsuse,gas,share-weight,2095,2100,0.3,0.3,fixed
+MZ,Iron and Steel_fsuse,gas,share-weight,2095,2100,0.3,0.3,fixed
+NL,Iron and Steel_fsuse,gas,share-weight,2095,2100,0.3,0.3,fixed
+OD,Iron and Steel_fsuse,gas,share-weight,2095,2100,0.3,0.3,fixed
+PB,Iron and Steel_fsuse,gas,share-weight,2095,2100,0.3,0.3,fixed
+PC,Iron and Steel_fsuse,gas,share-weight,2095,2100,0.3,0.3,fixed
+RJ,Iron and Steel_fsuse,gas,share-weight,2095,2100,0.3,0.3,fixed
+SK,Iron and Steel_fsuse,gas,share-weight,2095,2100,0.3,0.3,fixed
+TN,Iron and Steel_fsuse,gas,share-weight,2095,2100,0.3,0.3,fixed
+TR,Iron and Steel_fsuse,gas,share-weight,2095,2100,0.3,0.3,fixed
+TS,Iron and Steel_fsuse,gas,share-weight,2095,2100,0.3,0.3,fixed
+UK,Iron and Steel_fsuse,gas,share-weight,2095,2100,0.3,0.3,fixed
+UP,Iron and Steel_fsuse,gas,share-weight,2095,2100,0.3,0.3,fixed
+WB,Iron and Steel_fsuse,gas,share-weight,2095,2100,0.3,0.3,fixed
+AN,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0.0001,linear
+AP,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0.0001,linear
+AR,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0.0001,linear
+AS,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0.0001,linear
+BR,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0.0001,linear
+CG,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0.0001,linear
+CH,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0.0001,linear
+DD,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0.0001,linear
+DL,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0.0001,linear
+DN,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0.0001,linear
+GA,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0.0001,linear
+GJ,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0.0001,linear
+HP,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0.0001,linear
+HR,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0.0001,linear
+JH,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0.0001,linear
+JK,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0.0001,linear
+KA,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0.0001,linear
+KL,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0.0001,linear
+LA,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0.0001,linear
+LD,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0.0001,linear
+MH,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0.0001,linear
+ML,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0.0001,linear
+MN,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0.0001,linear
+MP,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0.0001,linear
+MZ,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0.0001,linear
+NL,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0.0001,linear
+OD,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0.0001,linear
+PB,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0.0001,linear
+PC,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0.0001,linear
+RJ,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0.0001,linear
+SK,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0.0001,linear
+TN,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0.0001,linear
+TR,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0.0001,linear
+TS,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0.0001,linear
+UK,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0.0001,linear
+UP,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0.0001,linear
+WB,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0.0001,linear
+AN,Paper and Pulp_enuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+AP,Paper and Pulp_enuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+AR,Paper and Pulp_enuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+AS,Paper and Pulp_enuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+BR,Paper and Pulp_enuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+CG,Paper and Pulp_enuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+CH,Paper and Pulp_enuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+DD,Paper and Pulp_enuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+DL,Paper and Pulp_enuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+DN,Paper and Pulp_enuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+GA,Paper and Pulp_enuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+GJ,Paper and Pulp_enuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+HP,Paper and Pulp_enuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+HR,Paper and Pulp_enuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+JH,Paper and Pulp_enuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+JK,Paper and Pulp_enuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+KA,Paper and Pulp_enuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+KL,Paper and Pulp_enuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+LA,Paper and Pulp_enuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+LD,Paper and Pulp_enuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+MH,Paper and Pulp_enuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+ML,Paper and Pulp_enuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+MN,Paper and Pulp_enuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+MP,Paper and Pulp_enuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+MZ,Paper and Pulp_enuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+NL,Paper and Pulp_enuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+OD,Paper and Pulp_enuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+PB,Paper and Pulp_enuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+PC,Paper and Pulp_enuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+RJ,Paper and Pulp_enuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+SK,Paper and Pulp_enuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+TN,Paper and Pulp_enuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+TR,Paper and Pulp_enuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+TS,Paper and Pulp_enuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+UK,Paper and Pulp_enuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+UP,Paper and Pulp_enuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+WB,Paper and Pulp_enuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+AN,Iron and Steel_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+AP,Iron and Steel_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+AR,Iron and Steel_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+AS,Iron and Steel_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+BR,Iron and Steel_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+CG,Iron and Steel_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+CH,Iron and Steel_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+DD,Iron and Steel_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+DL,Iron and Steel_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+DN,Iron and Steel_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+GA,Iron and Steel_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+GJ,Iron and Steel_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+HP,Iron and Steel_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+HR,Iron and Steel_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+JH,Iron and Steel_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+JK,Iron and Steel_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+KA,Iron and Steel_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+KL,Iron and Steel_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+LA,Iron and Steel_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+LD,Iron and Steel_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+MH,Iron and Steel_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+ML,Iron and Steel_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+MN,Iron and Steel_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+MP,Iron and Steel_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+MZ,Iron and Steel_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+NL,Iron and Steel_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+OD,Iron and Steel_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+PB,Iron and Steel_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+PC,Iron and Steel_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+RJ,Iron and Steel_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+SK,Iron and Steel_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+TN,Iron and Steel_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+TR,Iron and Steel_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+TS,Iron and Steel_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+UK,Iron and Steel_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+UP,Iron and Steel_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+WB,Iron and Steel_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+AN,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+AP,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+AR,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+AS,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+BR,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+CG,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+CH,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+DD,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+DL,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+DN,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+GA,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+GJ,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+HP,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+HR,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+JH,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+JK,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+KA,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+KL,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+LA,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+LD,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+MH,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+ML,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+MN,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+MP,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+MZ,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+NL,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+OD,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+PB,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+PC,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+RJ,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+SK,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+TN,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+TR,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+TS,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+UK,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+UP,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+WB,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+AN,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+AP,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+AR,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+AS,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+BR,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+CG,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+CH,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+DD,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+DL,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+DN,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+GA,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+GJ,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+HP,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+HR,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+JH,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+JK,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+KA,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+KL,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+LA,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+LD,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+MH,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+ML,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+MN,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+MP,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+MZ,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+NL,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+OD,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+PB,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+PC,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+RJ,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+SK,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+TN,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+TR,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+TS,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+UK,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+UP,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+WB,Iron and Steel_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+AN,Iron and Steel_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+AP,Iron and Steel_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+AR,Iron and Steel_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+AS,Iron and Steel_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+BR,Iron and Steel_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+CG,Iron and Steel_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+CH,Iron and Steel_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+DD,Iron and Steel_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+DL,Iron and Steel_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+DN,Iron and Steel_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+GA,Iron and Steel_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+GJ,Iron and Steel_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+HP,Iron and Steel_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+HR,Iron and Steel_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+JH,Iron and Steel_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+JK,Iron and Steel_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+KA,Iron and Steel_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+KL,Iron and Steel_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+LA,Iron and Steel_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+LD,Iron and Steel_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+MH,Iron and Steel_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+ML,Iron and Steel_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+MN,Iron and Steel_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+MP,Iron and Steel_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+MZ,Iron and Steel_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+NL,Iron and Steel_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+OD,Iron and Steel_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+PB,Iron and Steel_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+PC,Iron and Steel_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+RJ,Iron and Steel_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+SK,Iron and Steel_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+TN,Iron and Steel_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+TR,Iron and Steel_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+TS,Iron and Steel_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+UK,Iron and Steel_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+UP,Iron and Steel_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+WB,Iron and Steel_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+AN,Chem_Fert_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+AP,Chem_Fert_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+AR,Chem_Fert_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+AS,Chem_Fert_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+BR,Chem_Fert_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+CG,Chem_Fert_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+CH,Chem_Fert_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+DD,Chem_Fert_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+DL,Chem_Fert_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+DN,Chem_Fert_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+GA,Chem_Fert_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+GJ,Chem_Fert_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+HP,Chem_Fert_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+HR,Chem_Fert_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+JH,Chem_Fert_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+JK,Chem_Fert_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+KA,Chem_Fert_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+KL,Chem_Fert_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+LA,Chem_Fert_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+LD,Chem_Fert_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+MH,Chem_Fert_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+ML,Chem_Fert_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+MN,Chem_Fert_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+MP,Chem_Fert_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+MZ,Chem_Fert_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+NL,Chem_Fert_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+OD,Chem_Fert_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+PB,Chem_Fert_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+PC,Chem_Fert_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+RJ,Chem_Fert_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+SK,Chem_Fert_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+TN,Chem_Fert_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+TR,Chem_Fert_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+TS,Chem_Fert_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+UK,Chem_Fert_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+UP,Chem_Fert_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+WB,Chem_Fert_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+AN,Chem_Fert_fsuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+AP,Chem_Fert_fsuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+AR,Chem_Fert_fsuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+AS,Chem_Fert_fsuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+BR,Chem_Fert_fsuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+CG,Chem_Fert_fsuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+CH,Chem_Fert_fsuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+DD,Chem_Fert_fsuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+DL,Chem_Fert_fsuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+DN,Chem_Fert_fsuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+GA,Chem_Fert_fsuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+GJ,Chem_Fert_fsuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+HP,Chem_Fert_fsuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+HR,Chem_Fert_fsuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+JH,Chem_Fert_fsuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+JK,Chem_Fert_fsuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+KA,Chem_Fert_fsuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+KL,Chem_Fert_fsuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+LA,Chem_Fert_fsuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+LD,Chem_Fert_fsuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+MH,Chem_Fert_fsuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+ML,Chem_Fert_fsuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+MN,Chem_Fert_fsuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+MP,Chem_Fert_fsuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+MZ,Chem_Fert_fsuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+NL,Chem_Fert_fsuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+OD,Chem_Fert_fsuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+PB,Chem_Fert_fsuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+PC,Chem_Fert_fsuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+RJ,Chem_Fert_fsuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+SK,Chem_Fert_fsuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+TN,Chem_Fert_fsuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+TR,Chem_Fert_fsuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+TS,Chem_Fert_fsuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+UK,Chem_Fert_fsuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+UP,Chem_Fert_fsuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+WB,Chem_Fert_fsuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+AN,Chem_Fert_fsuse,hydrogen,share-weight,2035,2100,0.3,0.3,linear
+AP,Chem_Fert_fsuse,hydrogen,share-weight,2035,2100,0.3,0.3,linear
+AR,Chem_Fert_fsuse,hydrogen,share-weight,2035,2100,0.3,0.3,linear
+AS,Chem_Fert_fsuse,hydrogen,share-weight,2035,2100,0.3,0.3,linear
+BR,Chem_Fert_fsuse,hydrogen,share-weight,2035,2100,0.3,0.3,linear
+CG,Chem_Fert_fsuse,hydrogen,share-weight,2035,2100,0.3,0.3,linear
+CH,Chem_Fert_fsuse,hydrogen,share-weight,2035,2100,0.3,0.3,linear
+DD,Chem_Fert_fsuse,hydrogen,share-weight,2035,2100,0.3,0.3,linear
+DL,Chem_Fert_fsuse,hydrogen,share-weight,2035,2100,0.3,0.3,linear
+DN,Chem_Fert_fsuse,hydrogen,share-weight,2035,2100,0.3,0.3,linear
+GA,Chem_Fert_fsuse,hydrogen,share-weight,2035,2100,0.3,0.3,linear
+GJ,Chem_Fert_fsuse,hydrogen,share-weight,2035,2100,0.3,0.3,linear
+HP,Chem_Fert_fsuse,hydrogen,share-weight,2035,2100,0.3,0.3,linear
+HR,Chem_Fert_fsuse,hydrogen,share-weight,2035,2100,0.3,0.3,linear
+JH,Chem_Fert_fsuse,hydrogen,share-weight,2035,2100,0.3,0.3,linear
+JK,Chem_Fert_fsuse,hydrogen,share-weight,2035,2100,0.3,0.3,linear
+KA,Chem_Fert_fsuse,hydrogen,share-weight,2035,2100,0.3,0.3,linear
+KL,Chem_Fert_fsuse,hydrogen,share-weight,2035,2100,0.3,0.3,linear
+LA,Chem_Fert_fsuse,hydrogen,share-weight,2035,2100,0.3,0.3,linear
+LD,Chem_Fert_fsuse,hydrogen,share-weight,2035,2100,0.3,0.3,linear
+MH,Chem_Fert_fsuse,hydrogen,share-weight,2035,2100,0.3,0.3,linear
+ML,Chem_Fert_fsuse,hydrogen,share-weight,2035,2100,0.3,0.3,linear
+MN,Chem_Fert_fsuse,hydrogen,share-weight,2035,2100,0.3,0.3,linear
+MP,Chem_Fert_fsuse,hydrogen,share-weight,2035,2100,0.3,0.3,linear
+MZ,Chem_Fert_fsuse,hydrogen,share-weight,2035,2100,0.3,0.3,linear
+NL,Chem_Fert_fsuse,hydrogen,share-weight,2035,2100,0.3,0.3,linear
+OD,Chem_Fert_fsuse,hydrogen,share-weight,2035,2100,0.3,0.3,linear
+PB,Chem_Fert_fsuse,hydrogen,share-weight,2035,2100,0.3,0.3,linear
+PC,Chem_Fert_fsuse,hydrogen,share-weight,2035,2100,0.3,0.3,linear
+RJ,Chem_Fert_fsuse,hydrogen,share-weight,2035,2100,0.3,0.3,linear
+SK,Chem_Fert_fsuse,hydrogen,share-weight,2035,2100,0.3,0.3,linear
+TN,Chem_Fert_fsuse,hydrogen,share-weight,2035,2100,0.3,0.3,linear
+TR,Chem_Fert_fsuse,hydrogen,share-weight,2035,2100,0.3,0.3,linear
+TS,Chem_Fert_fsuse,hydrogen,share-weight,2035,2100,0.3,0.3,linear
+UK,Chem_Fert_fsuse,hydrogen,share-weight,2035,2100,0.3,0.3,linear
+UP,Chem_Fert_fsuse,hydrogen,share-weight,2035,2100,0.3,0.3,linear
+WB,Chem_Fert_fsuse,hydrogen,share-weight,2035,2100,0.3,0.3,linear
+AN,Chem_Fert_fsuse,hydrogen,share-weight,2095,2100,0.3,0.3,fixed
+AP,Chem_Fert_fsuse,hydrogen,share-weight,2095,2100,0.3,0.3,fixed
+AR,Chem_Fert_fsuse,hydrogen,share-weight,2095,2100,0.3,0.3,fixed
+AS,Chem_Fert_fsuse,hydrogen,share-weight,2095,2100,0.3,0.3,fixed
+BR,Chem_Fert_fsuse,hydrogen,share-weight,2095,2100,0.3,0.3,fixed
+CG,Chem_Fert_fsuse,hydrogen,share-weight,2095,2100,0.3,0.3,fixed
+CH,Chem_Fert_fsuse,hydrogen,share-weight,2095,2100,0.3,0.3,fixed
+DD,Chem_Fert_fsuse,hydrogen,share-weight,2095,2100,0.3,0.3,fixed
+DL,Chem_Fert_fsuse,hydrogen,share-weight,2095,2100,0.3,0.3,fixed
+DN,Chem_Fert_fsuse,hydrogen,share-weight,2095,2100,0.3,0.3,fixed
+GA,Chem_Fert_fsuse,hydrogen,share-weight,2095,2100,0.3,0.3,fixed
+GJ,Chem_Fert_fsuse,hydrogen,share-weight,2095,2100,0.3,0.3,fixed
+HP,Chem_Fert_fsuse,hydrogen,share-weight,2095,2100,0.3,0.3,fixed
+HR,Chem_Fert_fsuse,hydrogen,share-weight,2095,2100,0.3,0.3,fixed
+JH,Chem_Fert_fsuse,hydrogen,share-weight,2095,2100,0.3,0.3,fixed
+JK,Chem_Fert_fsuse,hydrogen,share-weight,2095,2100,0.3,0.3,fixed
+KA,Chem_Fert_fsuse,hydrogen,share-weight,2095,2100,0.3,0.3,fixed
+KL,Chem_Fert_fsuse,hydrogen,share-weight,2095,2100,0.3,0.3,fixed
+LA,Chem_Fert_fsuse,hydrogen,share-weight,2095,2100,0.3,0.3,fixed
+LD,Chem_Fert_fsuse,hydrogen,share-weight,2095,2100,0.3,0.3,fixed
+MH,Chem_Fert_fsuse,hydrogen,share-weight,2095,2100,0.3,0.3,fixed
+ML,Chem_Fert_fsuse,hydrogen,share-weight,2095,2100,0.3,0.3,fixed
+MN,Chem_Fert_fsuse,hydrogen,share-weight,2095,2100,0.3,0.3,fixed
+MP,Chem_Fert_fsuse,hydrogen,share-weight,2095,2100,0.3,0.3,fixed
+MZ,Chem_Fert_fsuse,hydrogen,share-weight,2095,2100,0.3,0.3,fixed
+NL,Chem_Fert_fsuse,hydrogen,share-weight,2095,2100,0.3,0.3,fixed
+OD,Chem_Fert_fsuse,hydrogen,share-weight,2095,2100,0.3,0.3,fixed
+PB,Chem_Fert_fsuse,hydrogen,share-weight,2095,2100,0.3,0.3,fixed
+PC,Chem_Fert_fsuse,hydrogen,share-weight,2095,2100,0.3,0.3,fixed
+RJ,Chem_Fert_fsuse,hydrogen,share-weight,2095,2100,0.3,0.3,fixed
+SK,Chem_Fert_fsuse,hydrogen,share-weight,2095,2100,0.3,0.3,fixed
+TN,Chem_Fert_fsuse,hydrogen,share-weight,2095,2100,0.3,0.3,fixed
+TR,Chem_Fert_fsuse,hydrogen,share-weight,2095,2100,0.3,0.3,fixed
+TS,Chem_Fert_fsuse,hydrogen,share-weight,2095,2100,0.3,0.3,fixed
+UK,Chem_Fert_fsuse,hydrogen,share-weight,2095,2100,0.3,0.3,fixed
+UP,Chem_Fert_fsuse,hydrogen,share-weight,2095,2100,0.3,0.3,fixed
+WB,Chem_Fert_fsuse,hydrogen,share-weight,2095,2100,0.3,0.3,fixed
+AN,Other Industries_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+AP,Other Industries_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+AR,Other Industries_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+AS,Other Industries_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+BR,Other Industries_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+CG,Other Industries_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+CH,Other Industries_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+DD,Other Industries_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+DL,Other Industries_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+DN,Other Industries_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+GA,Other Industries_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+GJ,Other Industries_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+HP,Other Industries_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+HR,Other Industries_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+JH,Other Industries_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+JK,Other Industries_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+KA,Other Industries_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+KL,Other Industries_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+LA,Other Industries_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+LD,Other Industries_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+MH,Other Industries_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+ML,Other Industries_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+MN,Other Industries_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+MP,Other Industries_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+MZ,Other Industries_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+NL,Other Industries_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+OD,Other Industries_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+PB,Other Industries_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+PC,Other Industries_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+RJ,Other Industries_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+SK,Other Industries_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+TN,Other Industries_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+TR,Other Industries_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+TS,Other Industries_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+UK,Other Industries_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+UP,Other Industries_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+WB,Other Industries_fsuse,hydrogen,share-weight,2010,2015,0,0,fixed
+AN,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+AP,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+AR,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+AS,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+BR,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+CG,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+CH,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+DD,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+DL,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+DN,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+GA,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+GJ,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+HP,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+HR,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+JH,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+JK,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+KA,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+KL,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+LA,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+LD,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+MH,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+ML,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+MN,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+MP,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+MZ,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+NL,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+OD,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+PB,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+PC,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+RJ,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+SK,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+TN,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+TR,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+TS,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+UK,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+UP,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+WB,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+AN,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+AP,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+AR,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+AS,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+BR,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+CG,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+CH,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+DD,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+DL,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+DN,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+GA,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+GJ,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+HP,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+HR,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+JH,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+JK,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+KA,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+KL,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+LA,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+LD,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+MH,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+ML,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+MN,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+MP,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+MZ,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+NL,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+OD,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+PB,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+PC,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+RJ,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+SK,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+TN,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+TR,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+TS,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+UK,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+UP,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+WB,Other Industries_fsuse,hydrogen,share-weight,2015,2100,0,0.0001,linear
+AN,Other Industries_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+AP,Other Industries_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+AR,Other Industries_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+AS,Other Industries_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+BR,Other Industries_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+CG,Other Industries_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+CH,Other Industries_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+DD,Other Industries_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+DL,Other Industries_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+DN,Other Industries_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+GA,Other Industries_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+GJ,Other Industries_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+HP,Other Industries_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+HR,Other Industries_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+JH,Other Industries_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+JK,Other Industries_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+KA,Other Industries_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+KL,Other Industries_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+LA,Other Industries_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+LD,Other Industries_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+MH,Other Industries_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+ML,Other Industries_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+MN,Other Industries_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+MP,Other Industries_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+MZ,Other Industries_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+NL,Other Industries_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+OD,Other Industries_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+PB,Other Industries_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+PC,Other Industries_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+RJ,Other Industries_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+SK,Other Industries_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+TN,Other Industries_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+TR,Other Industries_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+TS,Other Industries_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+UK,Other Industries_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+UP,Other Industries_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+WB,Other Industries_fsuse,hydrogen,share-weight,2095,2100,0.0001,0.0001,fixed
+AN,Iron and Steel_fsuse,refined liquids,share-weight,2010,2015,0,0,fixed
+AP,Iron and Steel_fsuse,refined liquids,share-weight,2010,2015,0,0,fixed
+AR,Iron and Steel_fsuse,refined liquids,share-weight,2010,2015,0,0,fixed
+AS,Iron and Steel_fsuse,refined liquids,share-weight,2010,2015,0,0,fixed
+BR,Iron and Steel_fsuse,refined liquids,share-weight,2010,2015,0,0,fixed
+CG,Iron and Steel_fsuse,refined liquids,share-weight,2010,2015,0,0,fixed
+CH,Iron and Steel_fsuse,refined liquids,share-weight,2010,2015,0,0,fixed
+DD,Iron and Steel_fsuse,refined liquids,share-weight,2010,2015,0,0,fixed
+DL,Iron and Steel_fsuse,refined liquids,share-weight,2010,2015,0,0,fixed
+DN,Iron and Steel_fsuse,refined liquids,share-weight,2010,2015,0,0,fixed
+GA,Iron and Steel_fsuse,refined liquids,share-weight,2010,2015,0,0,fixed
+GJ,Iron and Steel_fsuse,refined liquids,share-weight,2010,2015,0,0,fixed
+HP,Iron and Steel_fsuse,refined liquids,share-weight,2010,2015,0,0,fixed
+HR,Iron and Steel_fsuse,refined liquids,share-weight,2010,2015,0,0,fixed
+JH,Iron and Steel_fsuse,refined liquids,share-weight,2010,2015,0,0,fixed
+JK,Iron and Steel_fsuse,refined liquids,share-weight,2010,2015,0,0,fixed
+KA,Iron and Steel_fsuse,refined liquids,share-weight,2010,2015,0,0,fixed
+KL,Iron and Steel_fsuse,refined liquids,share-weight,2010,2015,0,0,fixed
+LA,Iron and Steel_fsuse,refined liquids,share-weight,2010,2015,0,0,fixed
+LD,Iron and Steel_fsuse,refined liquids,share-weight,2010,2015,0,0,fixed
+MH,Iron and Steel_fsuse,refined liquids,share-weight,2010,2015,0,0,fixed
+ML,Iron and Steel_fsuse,refined liquids,share-weight,2010,2015,0,0,fixed
+MN,Iron and Steel_fsuse,refined liquids,share-weight,2010,2015,0,0,fixed
+MP,Iron and Steel_fsuse,refined liquids,share-weight,2010,2015,0,0,fixed
+MZ,Iron and Steel_fsuse,refined liquids,share-weight,2010,2015,0,0,fixed
+NL,Iron and Steel_fsuse,refined liquids,share-weight,2010,2015,0,0,fixed
+OD,Iron and Steel_fsuse,refined liquids,share-weight,2010,2015,0,0,fixed
+PB,Iron and Steel_fsuse,refined liquids,share-weight,2010,2015,0,0,fixed
+PC,Iron and Steel_fsuse,refined liquids,share-weight,2010,2015,0,0,fixed
+RJ,Iron and Steel_fsuse,refined liquids,share-weight,2010,2015,0,0,fixed
+SK,Iron and Steel_fsuse,refined liquids,share-weight,2010,2015,0,0,fixed
+TN,Iron and Steel_fsuse,refined liquids,share-weight,2010,2015,0,0,fixed
+TR,Iron and Steel_fsuse,refined liquids,share-weight,2010,2015,0,0,fixed
+TS,Iron and Steel_fsuse,refined liquids,share-weight,2010,2015,0,0,fixed
+UK,Iron and Steel_fsuse,refined liquids,share-weight,2010,2015,0,0,fixed
+UP,Iron and Steel_fsuse,refined liquids,share-weight,2010,2015,0,0,fixed
+WB,Iron and Steel_fsuse,refined liquids,share-weight,2010,2015,0,0,fixed
+AN,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+AP,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+AR,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+AS,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+BR,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+CG,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+CH,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+DD,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+DL,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+DN,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+GA,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+GJ,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+HP,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+HR,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+JH,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+JK,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+KA,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+KL,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+LA,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+LD,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+MH,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+ML,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+MN,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+MP,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+MZ,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+NL,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+OD,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+PB,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+PC,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+RJ,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+SK,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+TN,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+TR,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+TS,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+UK,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+UP,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+WB,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+AN,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+AP,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+AR,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+AS,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+BR,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+CG,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+CH,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+DD,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+DL,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+DN,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+GA,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+GJ,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+HP,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+HR,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+JH,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+JK,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+KA,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+KL,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+LA,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+LD,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+MH,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+ML,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+MN,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+MP,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+MZ,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+NL,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+OD,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+PB,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+PC,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+RJ,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+SK,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+TN,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+TR,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+TS,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+UK,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+UP,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+WB,Iron and Steel_fsuse,refined liquids,share-weight,2015,2100,0,0.0001,linear
+AN,Iron and Steel_fsuse,refined liquids,share-weight,2095,2100,0.0001,0.0001,fixed
+AP,Iron and Steel_fsuse,refined liquids,share-weight,2095,2100,0.0001,0.0001,fixed
+AR,Iron and Steel_fsuse,refined liquids,share-weight,2095,2100,0.0001,0.0001,fixed
+AS,Iron and Steel_fsuse,refined liquids,share-weight,2095,2100,0.0001,0.0001,fixed
+BR,Iron and Steel_fsuse,refined liquids,share-weight,2095,2100,0.0001,0.0001,fixed
+CG,Iron and Steel_fsuse,refined liquids,share-weight,2095,2100,0.0001,0.0001,fixed
+CH,Iron and Steel_fsuse,refined liquids,share-weight,2095,2100,0.0001,0.0001,fixed
+DD,Iron and Steel_fsuse,refined liquids,share-weight,2095,2100,0.0001,0.0001,fixed
+DL,Iron and Steel_fsuse,refined liquids,share-weight,2095,2100,0.0001,0.0001,fixed
+DN,Iron and Steel_fsuse,refined liquids,share-weight,2095,2100,0.0001,0.0001,fixed
+GA,Iron and Steel_fsuse,refined liquids,share-weight,2095,2100,0.0001,0.0001,fixed
+GJ,Iron and Steel_fsuse,refined liquids,share-weight,2095,2100,0.0001,0.0001,fixed
+HP,Iron and Steel_fsuse,refined liquids,share-weight,2095,2100,0.0001,0.0001,fixed
+HR,Iron and Steel_fsuse,refined liquids,share-weight,2095,2100,0.0001,0.0001,fixed
+JH,Iron and Steel_fsuse,refined liquids,share-weight,2095,2100,0.0001,0.0001,fixed
+JK,Iron and Steel_fsuse,refined liquids,share-weight,2095,2100,0.0001,0.0001,fixed
+KA,Iron and Steel_fsuse,refined liquids,share-weight,2095,2100,0.0001,0.0001,fixed
+KL,Iron and Steel_fsuse,refined liquids,share-weight,2095,2100,0.0001,0.0001,fixed
+LA,Iron and Steel_fsuse,refined liquids,share-weight,2095,2100,0.0001,0.0001,fixed
+LD,Iron and Steel_fsuse,refined liquids,share-weight,2095,2100,0.0001,0.0001,fixed
+MH,Iron and Steel_fsuse,refined liquids,share-weight,2095,2100,0.0001,0.0001,fixed
+ML,Iron and Steel_fsuse,refined liquids,share-weight,2095,2100,0.0001,0.0001,fixed
+MN,Iron and Steel_fsuse,refined liquids,share-weight,2095,2100,0.0001,0.0001,fixed
+MP,Iron and Steel_fsuse,refined liquids,share-weight,2095,2100,0.0001,0.0001,fixed
+MZ,Iron and Steel_fsuse,refined liquids,share-weight,2095,2100,0.0001,0.0001,fixed
+NL,Iron and Steel_fsuse,refined liquids,share-weight,2095,2100,0.0001,0.0001,fixed
+OD,Iron and Steel_fsuse,refined liquids,share-weight,2095,2100,0.0001,0.0001,fixed
+PB,Iron and Steel_fsuse,refined liquids,share-weight,2095,2100,0.0001,0.0001,fixed
+PC,Iron and Steel_fsuse,refined liquids,share-weight,2095,2100,0.0001,0.0001,fixed
+RJ,Iron and Steel_fsuse,refined liquids,share-weight,2095,2100,0.0001,0.0001,fixed
+SK,Iron and Steel_fsuse,refined liquids,share-weight,2095,2100,0.0001,0.0001,fixed
+TN,Iron and Steel_fsuse,refined liquids,share-weight,2095,2100,0.0001,0.0001,fixed
+TR,Iron and Steel_fsuse,refined liquids,share-weight,2095,2100,0.0001,0.0001,fixed
+TS,Iron and Steel_fsuse,refined liquids,share-weight,2095,2100,0.0001,0.0001,fixed
+UK,Iron and Steel_fsuse,refined liquids,share-weight,2095,2100,0.0001,0.0001,fixed
+UP,Iron and Steel_fsuse,refined liquids,share-weight,2095,2100,0.0001,0.0001,fixed
+WB,Iron and Steel_fsuse,refined liquids,share-weight,2095,2100,0.0001,0.0001,fixed
+GJ,process heat cement,biomass,share-weight,2010,2100,0.0128669,0.0128669,fixed
+GJ,process heat cement,coal,share-weight,2010,2100,0.7,0.7,fixed
+GJ,process heat cement,gas,share-weight,2010,2015,0.5,0.5,fixed
+GJ,process heat cement,gas,share-weight,2010,2100,0.5,1,linear
+GJ,process heat cement,gas,share-weight,2095,2100,1,1,fixed
+GJ,process heat cement,refined liquids,share-weight,2010,2100,0.0642555,0.0642555,fixed
+OD,process heat cement,biomass,share-weight,2010,2100,0.0158347,0.0158347,fixed
+OD,process heat cement,coal,share-weight,2010,2100,0.7,0.7,fixed
+OD,process heat cement,gas,share-weight,2010,2015,0.01,0.01,fixed
+OD,process heat cement,gas,share-weight,2010,2100,0.01,1,linear
+OD,process heat cement,gas,share-weight,2095,2100,1,1,fixed
+OD,process heat cement,refined liquids,share-weight,2010,2100,0.01,0.01,fixed
+TN,process heat cement,biomass,share-weight,2010,2100,0.0117669,0.0117669,fixed
+TN,process heat cement,coal,share-weight,2010,2100,0.7,0.7,fixed
+TN,process heat cement,gas,share-weight,2010,2015,0.01,0.01,fixed
+TN,process heat cement,gas,share-weight,2010,2100,0.01,1,linear
+TN,process heat cement,gas,share-weight,2095,2100,1,1,fixed
+TN,process heat cement,refined liquids,share-weight,2010,2100,0.01,0.01,fixed
+UK,process heat cement,biomass,share-weight,2010,2100,0.01,0.01,fixed
+UK,process heat cement,coal,share-weight,2010,2100,0.1,0.1,fixed
+UK,process heat cement,gas,share-weight,2010,2100,0.01,0.01,fixed
+UK,process heat cement,refined liquids,share-weight,2010,2100,0.01,0.01,fixed
+UP,process heat cement,biomass,share-weight,2010,2100,0.00903185,0.00903185,fixed
+UP,process heat cement,coal,share-weight,2010,2100,0.5,0.5,fixed
+UP,process heat cement,gas,share-weight,2010,2100,1,1,fixed
+UP,process heat cement,refined liquids,share-weight,2010,2100,0.01,0.01,fixed
+AN,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+AN,Non-Ferrous Metals_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+AN,Non-Ferrous Metals_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+AP,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+AP,Non-Ferrous Metals_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+AP,Non-Ferrous Metals_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+AR,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+AR,Non-Ferrous Metals_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+AR,Non-Ferrous Metals_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+AS,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+AS,Non-Ferrous Metals_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+AS,Non-Ferrous Metals_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+BR,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+BR,Non-Ferrous Metals_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+BR,Non-Ferrous Metals_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+CG,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+CG,Non-Ferrous Metals_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+CG,Non-Ferrous Metals_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+CH,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+CH,Non-Ferrous Metals_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+CH,Non-Ferrous Metals_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+DD,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+DD,Non-Ferrous Metals_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+DD,Non-Ferrous Metals_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+DL,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+DL,Non-Ferrous Metals_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+DL,Non-Ferrous Metals_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+DN,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+DN,Non-Ferrous Metals_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+DN,Non-Ferrous Metals_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+GA,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+GA,Non-Ferrous Metals_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+GA,Non-Ferrous Metals_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+GJ,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+GJ,Non-Ferrous Metals_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+GJ,Non-Ferrous Metals_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+HP,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+HP,Non-Ferrous Metals_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+HP,Non-Ferrous Metals_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+HR,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+HR,Non-Ferrous Metals_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+HR,Non-Ferrous Metals_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+JH,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+JH,Non-Ferrous Metals_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+JH,Non-Ferrous Metals_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+JK,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+JK,Non-Ferrous Metals_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+JK,Non-Ferrous Metals_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+KA,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+KA,Non-Ferrous Metals_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+KA,Non-Ferrous Metals_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+KL,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+KL,Non-Ferrous Metals_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+KL,Non-Ferrous Metals_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+LA,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+LA,Non-Ferrous Metals_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+LA,Non-Ferrous Metals_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+LD,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+LD,Non-Ferrous Metals_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+LD,Non-Ferrous Metals_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+MH,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+MH,Non-Ferrous Metals_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+MH,Non-Ferrous Metals_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+ML,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+ML,Non-Ferrous Metals_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+ML,Non-Ferrous Metals_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+MN,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+MN,Non-Ferrous Metals_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+MN,Non-Ferrous Metals_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+MP,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+MP,Non-Ferrous Metals_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+MP,Non-Ferrous Metals_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+MZ,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+MZ,Non-Ferrous Metals_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+MZ,Non-Ferrous Metals_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+NL,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+NL,Non-Ferrous Metals_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+NL,Non-Ferrous Metals_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+OD,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+OD,Non-Ferrous Metals_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+OD,Non-Ferrous Metals_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+PB,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+PB,Non-Ferrous Metals_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+PB,Non-Ferrous Metals_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+PC,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+PC,Non-Ferrous Metals_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+PC,Non-Ferrous Metals_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+RJ,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+RJ,Non-Ferrous Metals_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+RJ,Non-Ferrous Metals_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+SK,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+SK,Non-Ferrous Metals_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+SK,Non-Ferrous Metals_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+TN,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+TN,Non-Ferrous Metals_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+TN,Non-Ferrous Metals_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+TR,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+TR,Non-Ferrous Metals_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+TR,Non-Ferrous Metals_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+TS,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+TS,Non-Ferrous Metals_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+TS,Non-Ferrous Metals_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+UK,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+UK,Non-Ferrous Metals_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+UK,Non-Ferrous Metals_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+UP,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+UP,Non-Ferrous Metals_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+UP,Non-Ferrous Metals_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+WB,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+WB,Non-Ferrous Metals_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+WB,Non-Ferrous Metals_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+AN,Other Industries_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+AN,Other Industries_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+AN,Other Industries_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+AP,Other Industries_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+AP,Other Industries_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+AP,Other Industries_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+AR,Other Industries_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+AR,Other Industries_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+AR,Other Industries_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+AS,Other Industries_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+AS,Other Industries_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+AS,Other Industries_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+BR,Other Industries_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+BR,Other Industries_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+BR,Other Industries_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+CG,Other Industries_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+CG,Other Industries_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+CG,Other Industries_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+CH,Other Industries_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+CH,Other Industries_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+CH,Other Industries_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+DD,Other Industries_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+DD,Other Industries_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+DD,Other Industries_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+DL,Other Industries_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+DL,Other Industries_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+DL,Other Industries_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+DN,Other Industries_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+DN,Other Industries_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+DN,Other Industries_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+GA,Other Industries_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+GA,Other Industries_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+GA,Other Industries_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+GJ,Other Industries_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+GJ,Other Industries_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+GJ,Other Industries_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+HP,Other Industries_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+HP,Other Industries_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+HP,Other Industries_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+HR,Other Industries_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+HR,Other Industries_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+HR,Other Industries_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+JH,Other Industries_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+JH,Other Industries_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+JH,Other Industries_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+JK,Other Industries_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+JK,Other Industries_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+JK,Other Industries_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+KA,Other Industries_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+KA,Other Industries_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+KA,Other Industries_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+KL,Other Industries_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+KL,Other Industries_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+KL,Other Industries_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+LA,Other Industries_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+LA,Other Industries_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+LA,Other Industries_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+LD,Other Industries_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+LD,Other Industries_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+LD,Other Industries_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+MH,Other Industries_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+MH,Other Industries_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+MH,Other Industries_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+ML,Other Industries_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+ML,Other Industries_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+ML,Other Industries_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+MN,Other Industries_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+MN,Other Industries_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+MN,Other Industries_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+MP,Other Industries_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+MP,Other Industries_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+MP,Other Industries_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+MZ,Other Industries_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+MZ,Other Industries_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+MZ,Other Industries_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+NL,Other Industries_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+NL,Other Industries_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+NL,Other Industries_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+OD,Other Industries_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+OD,Other Industries_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+OD,Other Industries_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+PB,Other Industries_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+PB,Other Industries_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+PB,Other Industries_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+PC,Other Industries_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+PC,Other Industries_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+PC,Other Industries_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+RJ,Other Industries_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+RJ,Other Industries_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+RJ,Other Industries_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+SK,Other Industries_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+SK,Other Industries_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+SK,Other Industries_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+TN,Other Industries_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+TN,Other Industries_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+TN,Other Industries_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+TR,Other Industries_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+TR,Other Industries_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+TR,Other Industries_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+TS,Other Industries_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+TS,Other Industries_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+TS,Other Industries_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+UK,Other Industries_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+UK,Other Industries_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+UK,Other Industries_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+UP,Other Industries_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+UP,Other Industries_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+UP,Other Industries_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+WB,Other Industries_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+WB,Other Industries_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+WB,Other Industries_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+AN,Iron and Steel_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+AN,Iron and Steel_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+AN,Iron and Steel_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+AP,Iron and Steel_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+AP,Iron and Steel_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+AP,Iron and Steel_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+AR,Iron and Steel_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+AR,Iron and Steel_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+AR,Iron and Steel_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+AS,Iron and Steel_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+AS,Iron and Steel_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+AS,Iron and Steel_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+BR,Iron and Steel_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+BR,Iron and Steel_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+BR,Iron and Steel_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+CG,Iron and Steel_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+CG,Iron and Steel_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+CG,Iron and Steel_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+CH,Iron and Steel_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+CH,Iron and Steel_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+CH,Iron and Steel_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+DD,Iron and Steel_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+DD,Iron and Steel_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+DD,Iron and Steel_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+DL,Iron and Steel_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+DL,Iron and Steel_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+DL,Iron and Steel_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+DN,Iron and Steel_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+DN,Iron and Steel_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+DN,Iron and Steel_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+GA,Iron and Steel_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+GA,Iron and Steel_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+GA,Iron and Steel_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+GJ,Iron and Steel_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+GJ,Iron and Steel_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+GJ,Iron and Steel_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+HP,Iron and Steel_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+HP,Iron and Steel_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+HP,Iron and Steel_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+HR,Iron and Steel_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+HR,Iron and Steel_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+HR,Iron and Steel_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+JH,Iron and Steel_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+JH,Iron and Steel_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+JH,Iron and Steel_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+JK,Iron and Steel_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+JK,Iron and Steel_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+JK,Iron and Steel_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+KA,Iron and Steel_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+KA,Iron and Steel_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+KA,Iron and Steel_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+KL,Iron and Steel_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+KL,Iron and Steel_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+KL,Iron and Steel_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+LA,Iron and Steel_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+LA,Iron and Steel_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+LA,Iron and Steel_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+LD,Iron and Steel_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+LD,Iron and Steel_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+LD,Iron and Steel_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+MH,Iron and Steel_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+MH,Iron and Steel_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+MH,Iron and Steel_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+ML,Iron and Steel_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+ML,Iron and Steel_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+ML,Iron and Steel_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+MN,Iron and Steel_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+MN,Iron and Steel_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+MN,Iron and Steel_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+MP,Iron and Steel_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+MP,Iron and Steel_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+MP,Iron and Steel_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+MZ,Iron and Steel_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+MZ,Iron and Steel_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+MZ,Iron and Steel_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+NL,Iron and Steel_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+NL,Iron and Steel_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+NL,Iron and Steel_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+OD,Iron and Steel_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+OD,Iron and Steel_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+OD,Iron and Steel_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+PB,Iron and Steel_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+PB,Iron and Steel_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+PB,Iron and Steel_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+PC,Iron and Steel_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+PC,Iron and Steel_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+PC,Iron and Steel_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+RJ,Iron and Steel_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+RJ,Iron and Steel_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+RJ,Iron and Steel_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+SK,Iron and Steel_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+SK,Iron and Steel_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+SK,Iron and Steel_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+TN,Iron and Steel_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+TN,Iron and Steel_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+TN,Iron and Steel_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+TR,Iron and Steel_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+TR,Iron and Steel_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+TR,Iron and Steel_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+TS,Iron and Steel_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+TS,Iron and Steel_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+TS,Iron and Steel_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+UK,Iron and Steel_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+UK,Iron and Steel_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+UK,Iron and Steel_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+UP,Iron and Steel_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+UP,Iron and Steel_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+UP,Iron and Steel_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+WB,Iron and Steel_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+WB,Iron and Steel_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+WB,Iron and Steel_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+AN,Paper and Pulp_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+AN,Paper and Pulp_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+AN,Paper and Pulp_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+AP,Paper and Pulp_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+AP,Paper and Pulp_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+AP,Paper and Pulp_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+AR,Paper and Pulp_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+AR,Paper and Pulp_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+AR,Paper and Pulp_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+AS,Paper and Pulp_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+AS,Paper and Pulp_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+AS,Paper and Pulp_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+BR,Paper and Pulp_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+BR,Paper and Pulp_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+BR,Paper and Pulp_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+CG,Paper and Pulp_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+CG,Paper and Pulp_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+CG,Paper and Pulp_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+CH,Paper and Pulp_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+CH,Paper and Pulp_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+CH,Paper and Pulp_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+DD,Paper and Pulp_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+DD,Paper and Pulp_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+DD,Paper and Pulp_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+DL,Paper and Pulp_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+DL,Paper and Pulp_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+DL,Paper and Pulp_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+DN,Paper and Pulp_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+DN,Paper and Pulp_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+DN,Paper and Pulp_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+GA,Paper and Pulp_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+GA,Paper and Pulp_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+GA,Paper and Pulp_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+GJ,Paper and Pulp_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+GJ,Paper and Pulp_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+GJ,Paper and Pulp_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+HP,Paper and Pulp_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+HP,Paper and Pulp_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+HP,Paper and Pulp_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+HR,Paper and Pulp_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+HR,Paper and Pulp_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+HR,Paper and Pulp_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+JH,Paper and Pulp_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+JH,Paper and Pulp_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+JH,Paper and Pulp_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+JK,Paper and Pulp_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+JK,Paper and Pulp_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+JK,Paper and Pulp_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+KA,Paper and Pulp_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+KA,Paper and Pulp_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+KA,Paper and Pulp_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+KL,Paper and Pulp_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+KL,Paper and Pulp_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+KL,Paper and Pulp_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+LA,Paper and Pulp_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+LA,Paper and Pulp_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+LA,Paper and Pulp_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+LD,Paper and Pulp_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+LD,Paper and Pulp_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+LD,Paper and Pulp_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+MH,Paper and Pulp_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+MH,Paper and Pulp_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+MH,Paper and Pulp_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+ML,Paper and Pulp_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+ML,Paper and Pulp_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+ML,Paper and Pulp_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+MN,Paper and Pulp_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+MN,Paper and Pulp_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+MN,Paper and Pulp_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+MP,Paper and Pulp_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+MP,Paper and Pulp_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+MP,Paper and Pulp_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+MZ,Paper and Pulp_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+MZ,Paper and Pulp_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+MZ,Paper and Pulp_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+NL,Paper and Pulp_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+NL,Paper and Pulp_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+NL,Paper and Pulp_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+OD,Paper and Pulp_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+OD,Paper and Pulp_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+OD,Paper and Pulp_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+PB,Paper and Pulp_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+PB,Paper and Pulp_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+PB,Paper and Pulp_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+PC,Paper and Pulp_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+PC,Paper and Pulp_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+PC,Paper and Pulp_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+RJ,Paper and Pulp_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+RJ,Paper and Pulp_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+RJ,Paper and Pulp_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+SK,Paper and Pulp_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+SK,Paper and Pulp_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+SK,Paper and Pulp_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+TN,Paper and Pulp_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+TN,Paper and Pulp_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+TN,Paper and Pulp_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+TR,Paper and Pulp_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+TR,Paper and Pulp_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+TR,Paper and Pulp_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+TS,Paper and Pulp_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+TS,Paper and Pulp_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+TS,Paper and Pulp_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+UK,Paper and Pulp_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+UK,Paper and Pulp_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+UK,Paper and Pulp_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+UP,Paper and Pulp_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+UP,Paper and Pulp_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+UP,Paper and Pulp_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
+WB,Paper and Pulp_enuse,hydrogen,share-weight,2010,2020,0,0,fixed
+WB,Paper and Pulp_enuse,hydrogen,share-weight,2015,2040,0,0.3,linear
+WB,Paper and Pulp_enuse,hydrogen,share-weight,2035,2100,0.3,0.3,fixed
