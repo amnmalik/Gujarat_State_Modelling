@@ -1,9 +1,0 @@
-# File: GreenHydrogenGlobaltech_cost.csv
-# Title: Hydrogen non-energy costs
-# Units: Unitless
-# Column types: cccccnnnnnnnnnnnnnnnn
-# ----------
-region ,supplysector ,subsector ,technology ,minicam.non.energy.input,2025,2030,2035,2040,2045,2050,2055,2060,2065,2070,2075,2080,2085,2090,2095,2100
-India ,H2 central production,electricity ,electrolysis,non-energy,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
-India ,H2 central production,wind ,electrolysis,non-energy,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
-India ,H2 central production,solar ,electrolysis,non-energy,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
