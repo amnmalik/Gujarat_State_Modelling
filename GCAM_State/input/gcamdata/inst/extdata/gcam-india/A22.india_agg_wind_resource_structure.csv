@@ -5,4 +5,5 @@
 # Column types: ccccccnnncn
 # ----------
 region,renewresource,output.unit,price.unit,market,smooth.renewable.subresource,maxSubResource,mid.price,curve.exponent,technology,share.weight
-India,onshore wind resource,EJ,1975$/GJ,India,onshore wind resource,68.5,0.096,3.96,onshore wind resource,1
+India,onshore wind resource,EJ,1975$/GJ,India,onshore wind resource,68.5,0.096,3.96,onshore ,1
+India,onshore wind resource,EJ,1975$/GJ,India,onshore wind resource,68.5,0.096,3.96,offshore,1
