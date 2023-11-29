@@ -494,17 +494,17 @@ module_gcamindia_L223.electricity <- function(command, ...) {
     # L223.india_state_StubTechCapFactor_elec_wind: capacity factors for wind electricity in the states
     # Just use the subsector for matching - technologies include storage technologies as well
     L223.CapacityFactor_wind_state <- L114.CapacityFactor_wind_state %>%
-      left_join_error_no_match(select(calibrated_techs, sector, fuel, supplysector, subsector),
+      left_join_error_no_match(select(calibrated_techs, sector, fuel, supplysector, subsector, technology),
                                by = c("sector", "fuel"))
 
-
+    L223.CapacityFactor_wind_state <- L223.CapacityFactor_wind_state %>% rename (stub.technology = technology)
     L223.india_state_StubTechCapFactor_elec_wind <- L223.StubTechCapFactor_elec %>%
       filter(region == gcam.india_REGION) %>%
       semi_join(L223.CapacityFactor_wind_state, by = c("supplysector", "subsector")) %>%
       select(-region, -capacity.factor) %>%
       write_to_all_india_states(names = c(names(.), "region")) %>%
       left_join_error_no_match(L223.CapacityFactor_wind_state,
-                               by = c("region" = "state", "supplysector", "subsector")) %>%
+                               by = c("region" = "state", "supplysector", "subsector", "stub.technology")) %>%
       mutate(capacity.factor = round(capacity.factor, digits = energy.DIGITS_CAPACITY_FACTOR)) %>%
       select(LEVEL2_DATA_NAMES[["StubTechCapFactor"]])
 
