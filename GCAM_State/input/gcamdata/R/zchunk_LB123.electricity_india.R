@@ -107,6 +107,7 @@ module_gcamindia_LB123.electricity <- function(command, ...) {
       left_join_error_no_match(L123.out_EJ_R_elec_F_Yh %>%
                                  select(fuel, year, value),
                                by = c("fuel", "year")) %>%
+      is.na(L123.india_state_out_EJ_elec_F)
       # Multiplying state share by total value
       mutate(value = value.x * value.y,
              sector = "electricity generation") %>%
