@@ -29,6 +29,7 @@ module_gcamusa_LA154.Transport <- function(command, ...) {
 
     all_data <- list(...)[[1]]
 
+
     # Load required inputs
     trnUCD_EIA_mapping <- get_data(all_data, "gcam-usa/trnUCD_EIA_mapping")
     L154.in_EJ_R_trn_m_sz_tech_F_Yh <- get_data(all_data, "L154.in_EJ_R_trn_m_sz_tech_F_Yh")
