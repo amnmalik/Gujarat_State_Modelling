@@ -83,7 +83,7 @@
 
       <Value name = "socio_india">../input/gcamdata/xml/India/socioeconomics_india.xml</Value>
 		<Value name = "interest_india">../input/gcamdata/xml/India/interest_rate_india.xml</Value>
-		<Value name = "resource_india">../input/gcamdata/xml/India/resources_india_SJ.xml</Value>
+		<Value name = "resource_india">../input/gcamdata/xml/India/resources_india_MS_ZK.xml</Value>
         <!--Value name = "resource_india">../input/gcamdata/xml/India/resources_india_NorthernGrid_CurveExp100.xml</Value-->                                                                                                                                           
 		<!--Value name = "resource_india">../input/gcamdata/xml/India/resources_india_RJ_NorthernGridChange.xml</Value-->
         <!--Value name = "resource_india">../input/gcamdata/xml/India/resources_india_NorthernGrid_CurveExp100_increasedallNRby0.5.xml</Value-->
