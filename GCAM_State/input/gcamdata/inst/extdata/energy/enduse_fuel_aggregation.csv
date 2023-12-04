@@ -12,7 +12,8 @@ elec_hydro,hydro,,,,
 elec_nuclear,nuclear,,,,
 elec_solar CSP,solar CSP,,,,
 elec_solar PV,solar PV,,,,
-elec_wind,wind,,,,
+elec_wind_onshore,wind onshore,,,,
+elec_wind_offshore,wind offshore,,,,
 electricity,,,electricity,electricity,electricity
 gas,gas,gas,gas,gas,gas
 gasified biomass,gas,gas,gas,gas,gas
