@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenario>
+    <world>
+        <region name="TN">
+            <supplysector name="electricity">
+                <subsector name="wind">
+                    <technology name="offshore">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2025">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2020" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>5</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+    </world>
+</scenario>

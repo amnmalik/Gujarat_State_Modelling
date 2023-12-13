@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenario>
+    <world>
+        <region name="India">
+            <supplysector name="electricity">
+                <subsector name="wind">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2020">
+                        <from-value>0.056</from-value>
+                        <to-value>0.056</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2055">
+                        <from-value>0.056</from-value>
+                        <to-value>0.3</to-value>
+                        <interpolation-function name="linear"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2050" to-year="2100">
+                        <from-value>0.3</from-value>
+                        <to-value>0.8</to-value>
+                        <interpolation-function name="linear"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2095" to-year="2100">
+                        <from-value>0.8</from-value>
+                        <to-value>0.8</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+            </supplysector>
+        </region>
+    </world>
+</scenario>

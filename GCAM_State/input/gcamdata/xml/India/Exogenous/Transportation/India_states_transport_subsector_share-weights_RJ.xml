@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenario>
+    <world>
+        <region name="RJ">
+            <supplysector name="trn_pass_road_LDV_2W">
+                <tranSubsector name="LDV_2W">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2020" to-year="2100">
+                        <from-value>2</from-value>
+                        <to-value>2</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2095" to-year="2100">
+                        <from-value>2</from-value>
+                        <to-value>2</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </tranSubsector>
+            </supplysector>
+            <supplysector name="trn_pass_road_LDV_4W">
+                <tranSubsector name="LDV_4W">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2025" to-year="2030">
+                        <from-value>1.5</from-value>
+                        <to-value>1.5</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </tranSubsector>
+            </supplysector>
+        </region>
+    </world>
+</scenario>

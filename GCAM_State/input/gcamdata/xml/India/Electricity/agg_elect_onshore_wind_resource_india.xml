@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenario>
+    <world>
+        <region name="India">
+            <renewresource name="onshore wind resource">
+                <output-unit>EJ</output-unit>
+                <price-unit>1975$/GJ</price-unit>
+                <market>India</market>
+                <smooth-renewable-subresource name="onshore wind resource">
+                    <maxSubResource fillout="1" year="1975">17.7</maxSubResource>
+                    <mid-price>0.096</mid-price>
+                    <curve-exponent>3.96</curve-exponent>
+                     <technology name="onshore">
+                        <period year="1975">
+                            <share-weight>1</share-weight>
+                        </period>
+                        <period year="1990">
+                            <share-weight>1</share-weight>
+                        </period>
+                        <period year="2005">
+                            <share-weight>1</share-weight>
+                        </period>
+                        <period year="2010">
+                            <share-weight>1</share-weight>
+                        </period>
+                        <period year="2015">
+                            <share-weight>1</share-weight>
+                        </period>
+                        <period year="2020">
+                            <share-weight>1</share-weight>
+                        </period>
+                        <period year="2025">
+                            <share-weight>1</share-weight>
+                        </period>
+                        <period year="2030">
+                            <share-weight>1</share-weight>
+                        </period>
+                        <period year="2035">
+                            <share-weight>1</share-weight>
+                        </period>
+                        <period year="2040">
+                            <share-weight>1</share-weight>
+                        </period>
+                        <period year="2045">
+                            <share-weight>1</share-weight>
+                        </period>
+                        <period year="2050">
+                            <share-weight>1</share-weight>
+                        </period>
+                        <period year="2055">
+                            <share-weight>1</share-weight>
+                        </period>
+                        <period year="2060">
+                            <share-weight>1</share-weight>
+                        </period>
+                        <period year="2065">
+                            <share-weight>1</share-weight>
+                        </period>
+                        <period year="2070">
+                            <share-weight>1</share-weight>
+                        </period>
+                        <period year="2075">
+                            <share-weight>1</share-weight>
+                        </period>
+                        <period year="2080">
+                            <share-weight>1</share-weight>
+                        </period>
+                        <period year="2085">
+                            <share-weight>1</share-weight>
+                        </period>
+                        <period year="2090">
+                            <share-weight>1</share-weight>
+                        </period>
+                        <period year="2095">
+                            <share-weight>1</share-weight>
+                        </period>
+                        <period year="2100">
+                            <share-weight>1</share-weight>
+                        </period>
+                    </technology>
+                   </smooth-renewable-subresource>
+                  </renewresource>
+                    <renewresource name="offshore wind resource">
+                <output-unit>EJ</output-unit>
+                <price-unit>1975$/GJ</price-unit>
+                <market>India</market>
+                <smooth-renewable-subresource name="offshore wind resource">
+                    <maxSubResource fillout="1" year="1975">0.78</maxSubResource>
+                    <mid-price>0.096</mid-price>
+                    <curve-exponent>3.96</curve-exponent>
+                     <technology name="offshore">
+                        <period year="1975">
+                            <share-weight>1</share-weight>
+                        </period>
+                        <period year="1990">
+                            <share-weight>0</share-weight>
+                        </period>
+                        <period year="2005">
+                            <share-weight>0</share-weight>
+                        </period>
+                        <period year="2010">
+                            <share-weight>0</share-weight>
+                        </period>
+                        <period year="2015">
+                            <share-weight>0</share-weight>
+                        </period>
+                        <period year="2020">
+                            <share-weight>0</share-weight>
+                        </period>
+                        <period year="2025">
+                            <share-weight>0</share-weight>
+                        </period>
+                        <period year="2030">
+                            <share-weight>1</share-weight>
+                        </period>
+                        <period year="2035">
+                            <share-weight>1</share-weight>
+                        </period>
+                        <period year="2040">
+                            <share-weight>1</share-weight>
+                        </period>
+                        <period year="2045">
+                            <share-weight>1</share-weight>
+                        </period>
+                        <period year="2050">
+                            <share-weight>1</share-weight>
+                        </period>
+                        <period year="2055">
+                            <share-weight>1</share-weight>
+                        </period>
+                        <period year="2060">
+                            <share-weight>1</share-weight>
+                        </period>
+                        <period year="2065">
+                            <share-weight>1</share-weight>
+                        </period>
+                        <period year="2070">
+                            <share-weight>1</share-weight>
+                        </period>
+                        <period year="2075">
+                            <share-weight>1</share-weight>
+                        </period>
+                        <period year="2080">
+                            <share-weight>1</share-weight>
+                        </period>
+                        <period year="2085">
+                            <share-weight>1</share-weight>
+                        </period>
+                        <period year="2090">
+                            <share-weight>1</share-weight>
+                        </period>
+                        <period year="2095">
+                            <share-weight>1</share-weight>
+                        </period>
+                        <period year="2100">
+                            <share-weight>1</share-weight>
+                        </period>
+                    </technology>
+                </smooth-renewable-subresource>
+            </renewresource>
+        </region>
+    </world>
+</scenario>

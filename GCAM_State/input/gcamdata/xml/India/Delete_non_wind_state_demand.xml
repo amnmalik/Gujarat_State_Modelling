@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenario>
+    <world>
+<region name="AN">
+            <pass-through-sector name="electricity">
+            <subsector delete ="1" name="wind">
+                     <stub-technology delete="1" name="wind"/>
+</subsector>
+</pass-through-sector>
+</region>
+ <region name="AR">
+            <pass-through-sector name="electricity">
+            <subsector delete ="1" name="wind">
+                     <stub-technology delete="1" name="wind"/>  
+</subsector>
+</pass-through-sector>
+</region>
+<region name="AS">
+            <pass-through-sector name="electricity">
+            <subsector delete ="1" name="wind">
+                     <stub-technology delete="1" name="wind"/>   
+</subsector>
+</pass-through-sector>
+</region>         
+<region name="BR">
+            <pass-through-sector name="electricity">
+            <subsector delete ="1" name="wind">
+                     <stub-technology delete="1" name="wind"/>          
+</subsector>
+</pass-through-sector>
+</region>
+<region name="CG">
+            <pass-through-sector name="electricity">
+            <subsector delete ="1" name="wind">
+                     <stub-technology delete="1" name="wind"/>
+</subsector>
+</pass-through-sector>
+</region>
+<region name="DL">
+            <pass-through-sector name="electricity">
+            <subsector delete ="1" name="wind">
+                     <stub-technology delete="1" name="wind"/>
+</subsector>
+</pass-through-sector>
+</region>
+<region name="GA">
+            <pass-through-sector name="electricity">
+            <subsector delete ="1" name="wind">
+                     <stub-technology delete="1" name="wind"/>
+</subsector>
+</pass-through-sector>
+</region>
+<region name="HR">
+            <pass-through-sector name="electricity">
+            <subsector delete ="1" name="wind">
+                     <stub-technology delete="1" name="wind"/>
+</subsector>
+</pass-through-sector>
+</region>
+<region name="HP">
+            <pass-through-sector name="electricity">
+            <subsector delete ="1" name="wind">
+                     <stub-technology delete="1" name="wind"/>
+</subsector>
+</pass-through-sector>
+</region>
+<region name="JK">
+            <pass-through-sector name="electricity">
+            <subsector delete ="1" name="wind">
+                     <stub-technology delete="1" name="wind"/>
+</subsector>
+</pass-through-sector>
+</region>
+<region name="JH">
+            <pass-through-sector name="electricity">
+            <subsector delete ="1" name="wind">
+                     <stub-technology delete="1" name="wind"/>
+</subsector>
+</pass-through-sector>
+</region>
+<region name="MN">
+            <pass-through-sector name="electricity">
+            <subsector delete ="1" name="wind">
+                     <stub-technology delete="1" name="wind"/>
+</subsector>
+</pass-through-sector>
+</region>
+<region name="ML">
+            <pass-through-sector name="electricity">
+            <subsector delete ="1" name="wind">
+                     <stub-technology delete="1" name="wind"/>
+</subsector>
+</pass-through-sector>
+</region>
+<region name="MZ">
+            <pass-through-sector name="electricity">
+            <subsector delete ="1" name="wind">
+                     <stub-technology delete="1" name="wind"/>
+</subsector>
+</pass-through-sector>
+</region>
+<region name="NL">
+            <pass-through-sector name="electricity">
+            <subsector delete ="1" name="wind">
+                     <stub-technology delete="1" name="wind"/>
+</subsector>
+</pass-through-sector>
+</region>
+<region name="PB">
+            <pass-through-sector name="electricity">
+            <subsector delete ="1" name="wind">
+                     <stub-technology delete="1" name="wind"/>
+</subsector>
+</pass-through-sector>
+</region>
+<region name="SK">
+            <pass-through-sector name="electricity">
+            <subsector delete ="1" name="wind">
+                     <stub-technology delete="1" name="wind"/>
+</subsector>
+</pass-through-sector>
+</region>
+<region name="TR">
+            <pass-through-sector name="electricity">
+            <subsector delete ="1" name="wind">
+                     <stub-technology delete="1" name="wind"/>
+</subsector>
+</pass-through-sector>
+</region>
+ <region name="UK">
+            <pass-through-sector name="electricity">
+            <subsector delete ="1" name="wind">
+                     <stub-technology delete="1" name="wind"/>
+</subsector>
+</pass-through-sector>
+</region>
+<region name="CH">
+            <pass-through-sector name="electricity">
+            <subsector delete ="1" name="wind">
+                     <stub-technology delete="1" name="wind"/>
+</subsector>
+</pass-through-sector>
+</region>
+<region name="DD">
+            <pass-through-sector name="electricity">
+            <subsector delete ="1" name="wind">
+                     <stub-technology delete="1" name="wind"/>
+</subsector>
+</pass-through-sector>
+</region>
+<region name="DN">
+            <pass-through-sector name="electricity">
+            <subsector delete ="1" name="wind">
+                     <stub-technology delete="1" name="wind"/>
+</subsector>
+</pass-through-sector>
+</region>
+<region name="LA">
+            <pass-through-sector name="electricity">
+            <subsector delete ="1" name="wind">
+                     <stub-technology delete="1" name="wind"/>
+</subsector>
+</pass-through-sector>
+</region>
+<region name="LD">
+            <pass-through-sector name="electricity">
+            <subsector delete ="1" name="wind">
+                     <stub-technology delete="1" name="wind"/>
+</subsector>
+</pass-through-sector>
+</region>
+<region name="PC">
+            <pass-through-sector name="electricity">
+            <subsector delete ="1" name="wind">
+                     <stub-technology delete="1" name="wind"/>
+           </subsector>
+ </pass-through-sector>
+</region>
+
+</world>
+</scenario>

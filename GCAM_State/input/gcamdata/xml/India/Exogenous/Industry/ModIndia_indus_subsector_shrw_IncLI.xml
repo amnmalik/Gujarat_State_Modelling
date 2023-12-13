@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><scenario>
+    <world>
+        <region name="India">
+            <supplysector name="IandS_enuse">
+                <subsector name="Large Int">
+                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2020">
+                        <from-value>0.84</from-value>
+                        <to-value>0.84</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2055">
+                        <from-value>0.84</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="linear"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2050" to-year="2100">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="linear"/>
+                    </interpolation-rule>
+                </subsector>
+                <subsector name="Large Sec">
+                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2020">
+                        <from-value>0.48</from-value>
+                        <to-value>0.48</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2100">
+                        <from-value>0.48</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="linear"/>
+                    </interpolation-rule>
+                </subsector>
+                <subsector name="MSME">
+                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2020">
+                        <from-value>0.5</from-value>
+                        <to-value>0.5</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2100">
+                        <from-value>0.5</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="linear"/>
+                    </interpolation-rule>
+                </subsector>
+            </supplysector>
+            <supplysector name="Other Industries_enuse">
+                <subsector name="biomass">
+                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+                <subsector name="coal">
+                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+                <subsector name="electricity">
+                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+                <subsector name="hydrogen">
+                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2025">
+                        <from-value>0</from-value>
+                        <to-value>0</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2020" to-year="2100">
+                        <from-value>0</from-value>
+                        <to-value>0.25</to-value>
+                        <interpolation-function name="linear"/>
+                    </interpolation-rule>
+                </subsector>
+                <subsector name="gas">
+                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+                <subsector name="refined liquids">
+                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+            </supplysector>
+            <supplysector name="Agriculture">
+                <subsector name="Agriculture">
+                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+            </supplysector>
+            <supplysector name="IandS">
+                <subsector name="IandS">
+                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+            </supplysector>
+            <supplysector name="Other Industries">
+                <subsector name="Other Industries">
+                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+            </supplysector>
+            <supplysector name="Agriculture_enuse">
+                <subsector name="refined liquids">
+                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+            </supplysector>
+            <supplysector name="IandS_fsuse">
+                <subsector name="Large Int">
+                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+                <subsector name="Large Sec">
+                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+                <subsector name="MSME">
+                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+            </supplysector>
+        </region>
+    </world>
+</scenario>

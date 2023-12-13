@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenario>
+    <world>
+        <region name="RJ">
+            <supplysector name="electricity">
+                <subsector name="solar">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2070">
+                        <from-value>0.351</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="linear"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2065" to-year="2100">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="linear"/>
+                    </interpolation-rule>
+                </subsector>
+                <subsector name="nuclear">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2020" to-year="2070">
+                        <from-value>0.065</from-value>
+                        <to-value>0.3</to-value>
+                        <interpolation-function name="linear"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2065" to-year="2100">
+                        <from-value>0.3</from-value>
+                        <to-value>0.3</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+            </supplysector>
+        </region>
+    </world>
+</scenario>

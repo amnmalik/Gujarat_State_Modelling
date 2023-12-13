@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><scenario>
+    <world>
+        <region name="India">
+            <supplysector name="IandS_enuse">
+                <subsector name="Large Int">
+                    <technology name="biomass">
+                        <period year="2010">
+                            <minicam-non-energy-input name="non-energy">
+                                <input-cost>3</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </technology>
+                    <technology name="coal">
+                        <period year="2010">
+                            <minicam-non-energy-input name="non-energy">
+                                <input-cost>3</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </technology>
+                    <technology name="electricity">
+                        <period year="2010">
+                            <minicam-non-energy-input name="non-energy">
+                                <input-cost>0</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </technology>
+                    <technology name="gas">
+                        <period year="2010">
+                            <minicam-non-energy-input name="non-energy">
+                                <input-cost>3</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </technology>
+                    <technology name="hydrogen">
+                        <period year="2010">
+                            <minicam-non-energy-input name="non-energy">
+                                <input-cost>3</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </technology>
+                    <technology name="refined liquids">
+                        <period year="2010">
+                            <minicam-non-energy-input name="non-energy">
+                                <input-cost>2</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </technology>
+                </subsector>
+                <subsector name="Large Sec">
+                    <technology name="biomass">
+                        <period year="2010">
+                            <minicam-non-energy-input name="non-energy">
+                                <input-cost>3</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </technology>
+                    <technology name="coal">
+                        <period year="2010">
+                            <minicam-non-energy-input name="non-energy">
+                                <input-cost>3</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </technology>
+                    <technology name="electricity">
+                        <period year="2010">
+                            <minicam-non-energy-input name="non-energy">
+                                <input-cost>-2</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </technology>
+                    <technology name="gas">
+                        <period year="2010">
+                            <minicam-non-energy-input name="non-energy">
+                                <input-cost>3</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </technology>
+                    <technology name="hydrogen">
+                        <period year="2010">
+                            <minicam-non-energy-input name="non-energy">
+                                <input-cost>3</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </technology>
+                    <technology name="refined liquids">
+                        <period year="2010">
+                            <minicam-non-energy-input name="non-energy">
+                                <input-cost>2</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </technology>
+                </subsector>
+                <subsector name="MSME">
+                    <technology name="biomass">
+                        <period year="2010">
+                            <minicam-non-energy-input name="non-energy">
+                                <input-cost>3</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </technology>
+                    <technology name="coal">
+                        <period year="2010">
+                            <minicam-non-energy-input name="non-energy">
+                                <input-cost>3</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </technology>
+                    <technology name="electricity">
+                        <period year="2010">
+                            <minicam-non-energy-input name="non-energy">
+                                <input-cost>-4</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </technology>
+                    <technology name="gas">
+                        <period year="2010">
+                            <minicam-non-energy-input name="non-energy">
+                                <input-cost>3</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </technology>
+                    <technology name="hydrogen">
+                        <period year="2010">
+                            <minicam-non-energy-input name="non-energy">
+                                <input-cost>3</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </technology>
+                    <technology name="refined liquids">
+                        <period year="2010">
+                            <minicam-non-energy-input name="non-energy">
+                                <input-cost>1</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </technology>
+                </subsector>
+            </supplysector>
+            <supplysector name="Other Industries_enuse">
+                <subsector name="biomass">
+                    <technology name="biomass">
+                        <period year="2010">
+                            <minicam-non-energy-input name="non-energy">
+                                <input-cost>3</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </technology>
+                </subsector>
+                <subsector name="coal">
+                    <technology name="coal">
+                        <period year="2010">
+                            <minicam-non-energy-input name="non-energy">
+                                <input-cost>3</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </technology>
+                </subsector>
+                <subsector name="electricity">
+                    <technology name="electricity">
+                        <period year="2010">
+                            <minicam-non-energy-input name="non-energy">
+                                <input-cost>0</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </technology>
+                </subsector>
+                <subsector name="gas">
+                    <technology name="gas">
+                        <period year="2010">
+                            <minicam-non-energy-input name="non-energy">
+                                <input-cost>3</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </technology>
+                </subsector>
+                <subsector name="hydrogen">
+                    <technology name="hydrogen">
+                        <period year="2010">
+                            <minicam-non-energy-input name="non-energy">
+                                <input-cost>3</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </technology>
+                </subsector>
+                <subsector name="refined liquids">
+                    <technology name="refined liquids">
+                        <period year="2010">
+                            <minicam-non-energy-input name="non-energy">
+                                <input-cost>0</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+    </world>
+</scenario>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenario>
+    <world>
+        <region name="TN">
+            <supplysector name="trn_freight_road">
+                <tranSubsector name="Truck">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2020">
+                        <from-value>0.0166381</from-value>
+                        <to-value>0.7</to-value>
+                        <interpolation-function name="linear"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2020" to-year="2100">
+                        <from-value>0.7</from-value>
+                        <to-value>2.5</to-value>
+                        <interpolation-function name="linear"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2095" to-year="2100">
+                        <from-value>2.5</from-value>
+                        <to-value>2.5</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </tranSubsector>
+            </supplysector>
+            <supplysector name="trn_freight">
+                <tranSubsector name="Freight Rail">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2020">
+                        <from-value>0.09</from-value>
+                        <to-value>0.09</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2020" to-year="2100">
+                        <from-value>0.09</from-value>
+                        <to-value>0.05</to-value>
+                        <interpolation-function name="linear"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2095" to-year="2100">
+                        <from-value>0.05</from-value>
+                        <to-value>0.05</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </tranSubsector>
+            </supplysector>
+        </region>
+    </world>
+</scenario>

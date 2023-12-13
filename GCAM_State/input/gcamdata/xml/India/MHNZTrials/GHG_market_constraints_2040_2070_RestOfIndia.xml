@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenario>
+   <world>
+      <region name="India">
+         <ghgpolicy name="CO2">
+            <market>India</market>
+            <constraint year="2025">867.9471637</constraint>
+            <constraint year="2030">1040.690277</constraint>
+            <constraint year="2035">1240.926552</constraint>
+            <constraint year="2040">1458.400027</constraint>
+            <constraint year="2045">1202.166689</constraint>
+            <constraint year="2050">950.9333511</constraint>
+            <constraint year="2055">711.7000133</constraint>
+            <constraint year="2060">475.4666756</constraint>
+            <constraint year="2065">241.2333378</constraint>
+            <constraint year="2070">0.01</constraint>
+            <constraint year="2075">0.01</constraint>
+            <constraint year="2080">0.01</constraint>
+            <constraint year="2085">0.01</constraint>
+            <constraint year="2090">0.01</constraint>
+            <constraint year="2095">0.01</constraint>
+            <constraint year="2100">0.01</constraint>
+         </ghgpolicy>
+      </region>
+		<region name="AN">
+         <ghgpolicy name="CO2">
+            <market>India</market>
+         </ghgpolicy>
+      </region>
+      <region name="AP">
+         <ghgpolicy name="CO2">
+            <market>India</market>
+         </ghgpolicy>
+      </region>
+      <region name="AR">
+         <ghgpolicy name="CO2">
+            <market>India</market>
+         </ghgpolicy>
+      </region>
+      <region name="AS">
+         <ghgpolicy name="CO2">
+            <market>India</market>
+         </ghgpolicy>
+      </region>
+      <region name="BR">
+         <ghgpolicy name="CO2">
+            <market>India</market>
+         </ghgpolicy>
+      </region>
+      <region name="CG">
+         <ghgpolicy name="CO2">
+            <market>India</market>
+         </ghgpolicy>
+      </region>
+      <region name="CH">
+         <ghgpolicy name="CO2">
+            <market>India</market>
+         </ghgpolicy>
+      </region>
+      <region name="DD">
+         <ghgpolicy name="CO2">
+            <market>India</market>
+         </ghgpolicy>
+      </region>
+      <region name="DL">
+         <ghgpolicy name="CO2">
+            <market>India</market>
+         </ghgpolicy>
+      </region>
+      <region name="DN">
+         <ghgpolicy name="CO2">
+            <market>India</market>
+         </ghgpolicy>
+      </region>
+      <region name="GA">
+         <ghgpolicy name="CO2">
+            <market>India</market>
+         </ghgpolicy>
+      </region>
+      <region name="GJ">
+         <ghgpolicy name="CO2">
+            <market>India</market>
+         </ghgpolicy>
+      </region>
+      <region name="HP">
+         <ghgpolicy name="CO2">
+            <market>India</market>
+         </ghgpolicy>
+      </region>
+      <region name="HR">
+         <ghgpolicy name="CO2">
+            <market>India</market>
+         </ghgpolicy>
+      </region>
+      <region name="JH">
+         <ghgpolicy name="CO2">
+            <market>India</market>
+         </ghgpolicy>
+      </region>
+	<region name="JK">
+         <ghgpolicy name="CO2">
+            <market>India</market>
+         </ghgpolicy>
+      </region>
+      <region name="KA">
+         <ghgpolicy name="CO2">
+            <market>India</market>
+         </ghgpolicy>
+      </region>
+      <region name="KL">
+         <ghgpolicy name="CO2">
+            <market>India</market>
+         </ghgpolicy>
+      </region>
+      <region name="LA">
+         <ghgpolicy name="CO2">
+            <market>India</market>
+         </ghgpolicy>
+      </region>
+      <region name="LD">
+         <ghgpolicy name="CO2">
+            <market>India</market>
+         </ghgpolicy>
+      </region>
+            <region name="ML">
+         <ghgpolicy name="CO2">
+            <market>India</market>
+         </ghgpolicy>
+      </region>
+      <region name="MN">
+         <ghgpolicy name="CO2">
+            <market>India</market>
+         </ghgpolicy>
+      </region>
+      <region name="MP">
+         <ghgpolicy name="CO2">
+            <market>India</market>
+         </ghgpolicy>
+      </region>
+      <region name="MZ">
+         <ghgpolicy name="CO2">
+            <market>India</market>
+         </ghgpolicy>
+      </region>
+      <region name="NL">
+         <ghgpolicy name="CO2">
+            <market>India</market>
+         </ghgpolicy>
+      </region>
+      <region name="OD">
+         <ghgpolicy name="CO2">
+            <market>India</market>
+         </ghgpolicy>
+      </region>
+      <region name="PB">
+         <ghgpolicy name="CO2">
+            <market>India</market>
+         </ghgpolicy>
+      </region>
+      <region name="PC">
+         <ghgpolicy name="CO2">
+            <market>India</market>
+         </ghgpolicy>
+      </region>
+      <region name="RJ">
+         <ghgpolicy name="CO2">
+            <market>India</market>
+         </ghgpolicy>
+      </region>
+      <region name="SK">
+         <ghgpolicy name="CO2">
+            <market>India</market>
+         </ghgpolicy>
+      </region>
+      <region name="TN">
+         <ghgpolicy name="CO2">
+            <market>India</market>
+         </ghgpolicy>
+      </region>
+<region name="TR">
+         <ghgpolicy name="CO2">
+            <market>India</market>
+         </ghgpolicy>
+      </region>
+<region name="TS">
+         <ghgpolicy name="CO2">
+            <market>India</market>
+         </ghgpolicy>
+      </region>
+<region name="UK">
+         <ghgpolicy name="CO2">
+            <market>India</market>
+         </ghgpolicy>
+      </region>
+<region name="UP">
+         <ghgpolicy name="CO2">
+            <market>India</market>
+         </ghgpolicy>
+      </region>
+<region name="WB">
+         <ghgpolicy name="CO2">
+            <market>India</market>
+         </ghgpolicy>
+      </region>
+   </world>
+</scenario>

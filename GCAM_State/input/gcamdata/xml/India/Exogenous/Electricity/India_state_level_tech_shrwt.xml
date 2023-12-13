@@ -1,0 +1,2225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenario>
+    <world>
+        <region name="AN">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <technology name="Gen_II_LWR">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2025">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2020" to-year="2050">
+                            <from-value>0</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2045" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2095" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                    <technology name="Gen_III">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="gas">
+                    <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="coal">
+                    <technology name="coal (IGCC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="AP">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <technology name="Gen_II_LWR">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2025">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2020" to-year="2050">
+                            <from-value>0</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2045" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2095" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                    <technology name="Gen_III">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="gas">
+                    <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="coal">
+                    <technology name="coal (IGCC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="AR">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <technology name="Gen_II_LWR">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2025">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2020" to-year="2050">
+                            <from-value>0</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2045" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2095" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                    <technology name="Gen_III">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="gas">
+                    <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="coal">
+                    <technology name="coal (IGCC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="AS">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <technology name="Gen_II_LWR">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2025">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2020" to-year="2050">
+                            <from-value>0</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2045" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2095" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                    <technology name="Gen_III">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="gas">
+                    <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="coal">
+                    <technology name="coal (IGCC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="BR">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <technology name="Gen_II_LWR">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2025">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2020" to-year="2050">
+                            <from-value>0</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2045" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2095" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                    <technology name="Gen_III">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="gas">
+                    <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="coal">
+                    <technology name="coal (IGCC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="CG">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <technology name="Gen_II_LWR">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2025">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2020" to-year="2050">
+                            <from-value>0</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2045" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2095" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                    <technology name="Gen_III">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="gas">
+                    <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="coal">
+                    <technology name="coal (IGCC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="CH">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <technology name="Gen_II_LWR">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2025">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2020" to-year="2050">
+                            <from-value>0</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2045" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2095" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                    <technology name="Gen_III">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="gas">
+                    <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="coal">
+                    <technology name="coal (IGCC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="DD">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <technology name="Gen_II_LWR">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2025">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2020" to-year="2050">
+                            <from-value>0</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2045" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2095" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                    <technology name="Gen_III">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="gas">
+                    <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="coal">
+                    <technology name="coal (IGCC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="DL">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <technology name="Gen_II_LWR">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2025">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2020" to-year="2050">
+                            <from-value>0</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2045" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2095" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                    <technology name="Gen_III">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="gas">
+                    <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="coal">
+                    <technology name="coal (IGCC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="DN">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <technology name="Gen_II_LWR">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2025">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2020" to-year="2050">
+                            <from-value>0</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2045" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2095" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                    <technology name="Gen_III">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="gas">
+                    <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="coal">
+                    <technology name="coal (IGCC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="GA">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <technology name="Gen_II_LWR">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2025">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2020" to-year="2050">
+                            <from-value>0</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2045" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2095" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                    <technology name="Gen_III">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="gas">
+                    <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="coal">
+                    <technology name="coal (IGCC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="GJ">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <technology name="Gen_II_LWR">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2025">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2020" to-year="2050">
+                            <from-value>0</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2045" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2095" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                    <technology name="Gen_III">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="gas">
+                    <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="coal">
+                    <technology name="coal (IGCC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="HP">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <technology name="Gen_II_LWR">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2025">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2020" to-year="2050">
+                            <from-value>0</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2045" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2095" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                    <technology name="Gen_III">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="gas">
+                    <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="coal">
+                    <technology name="coal (IGCC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="HR">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <technology name="Gen_II_LWR">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2025">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2020" to-year="2050">
+                            <from-value>0</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2045" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2095" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                    <technology name="Gen_III">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="gas">
+                    <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="coal">
+                    <technology name="coal (IGCC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="JH">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <technology name="Gen_II_LWR">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2025">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2020" to-year="2050">
+                            <from-value>0</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2045" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2095" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                    <technology name="Gen_III">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="gas">
+                    <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="coal">
+                    <technology name="coal (IGCC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="JK">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <technology name="Gen_II_LWR">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2025">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2020" to-year="2050">
+                            <from-value>0</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2045" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2095" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                    <technology name="Gen_III">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="gas">
+                    <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="coal">
+                    <technology name="coal (IGCC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="KA">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <technology name="Gen_II_LWR">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2025">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2020" to-year="2050">
+                            <from-value>0</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2045" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2095" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                    <technology name="Gen_III">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="gas">
+                    <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="coal">
+                    <technology name="coal (IGCC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="KL">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <technology name="Gen_II_LWR">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2025">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2020" to-year="2050">
+                            <from-value>0</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2045" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2095" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                    <technology name="Gen_III">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="gas">
+                    <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="coal">
+                    <technology name="coal (IGCC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="LA">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <technology name="Gen_II_LWR">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2025">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2020" to-year="2050">
+                            <from-value>0</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2045" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2095" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                    <technology name="Gen_III">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="gas">
+                    <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="coal">
+                    <technology name="coal (IGCC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="LD">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <technology name="Gen_II_LWR">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2025">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2020" to-year="2050">
+                            <from-value>0</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2045" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2095" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                    <technology name="Gen_III">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="gas">
+                    <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="coal">
+                    <technology name="coal (IGCC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="MH">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <technology name="Gen_II_LWR">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2025">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2020" to-year="2050">
+                            <from-value>0</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2045" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2095" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                    <technology name="Gen_III">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="gas">
+                    <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="coal">
+                    <technology name="coal (IGCC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="ML">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <technology name="Gen_II_LWR">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2025">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2020" to-year="2050">
+                            <from-value>0</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2045" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2095" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                    <technology name="Gen_III">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="gas">
+                    <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="coal">
+                    <technology name="coal (IGCC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="MN">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <technology name="Gen_II_LWR">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2025">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2020" to-year="2050">
+                            <from-value>0</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2045" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2095" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                    <technology name="Gen_III">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="gas">
+                    <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="coal">
+                    <technology name="coal (IGCC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="MP">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <technology name="Gen_II_LWR">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2025">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2020" to-year="2050">
+                            <from-value>0</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2045" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2095" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                    <technology name="Gen_III">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="gas">
+                    <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="coal">
+                    <technology name="coal (IGCC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="MZ">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <technology name="Gen_II_LWR">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2025">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2020" to-year="2050">
+                            <from-value>0</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2045" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2095" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                    <technology name="Gen_III">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="gas">
+                    <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="coal">
+                    <technology name="coal (IGCC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="NL">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <technology name="Gen_II_LWR">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2025">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2020" to-year="2050">
+                            <from-value>0</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2045" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2095" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                    <technology name="Gen_III">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="gas">
+                    <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="coal">
+                    <technology name="coal (IGCC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="OD">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <technology name="Gen_II_LWR">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2025">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2020" to-year="2050">
+                            <from-value>0</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2045" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2095" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                    <technology name="Gen_III">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="gas">
+                    <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="coal">
+                    <technology name="coal (IGCC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="PB">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <technology name="Gen_II_LWR">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2025">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2020" to-year="2050">
+                            <from-value>0</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2045" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2095" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                    <technology name="Gen_III">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="gas">
+                    <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="coal">
+                    <technology name="coal (IGCC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="PC">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <technology name="Gen_II_LWR">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2025">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2020" to-year="2050">
+                            <from-value>0</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2045" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2095" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                    <technology name="Gen_III">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="gas">
+                    <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="coal">
+                    <technology name="coal (IGCC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="RJ">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <technology name="Gen_II_LWR">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2025">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2020" to-year="2050">
+                            <from-value>0</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2045" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2095" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                    <technology name="Gen_III">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="gas">
+                    <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="coal">
+                    <technology name="coal (IGCC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="SK">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <technology name="Gen_II_LWR">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2025">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2020" to-year="2050">
+                            <from-value>0</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2045" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2095" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                    <technology name="Gen_III">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="gas">
+                    <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="coal">
+                    <technology name="coal (IGCC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="TN">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <technology name="Gen_II_LWR">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2025">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2020" to-year="2050">
+                            <from-value>0</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2045" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2095" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                    <technology name="Gen_III">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="gas">
+                    <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="coal">
+                    <technology name="coal (IGCC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="TR">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <technology name="Gen_II_LWR">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2025">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2020" to-year="2050">
+                            <from-value>0</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2045" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2095" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                    <technology name="Gen_III">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="gas">
+                    <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="coal">
+                    <technology name="coal (IGCC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="TS">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <technology name="Gen_II_LWR">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2025">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2020" to-year="2050">
+                            <from-value>0</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2045" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2095" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                    <technology name="Gen_III">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="gas">
+                    <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="coal">
+                    <technology name="coal (IGCC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="UK">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <technology name="Gen_II_LWR">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2025">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2020" to-year="2050">
+                            <from-value>0</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2045" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2095" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                    <technology name="Gen_III">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="gas">
+                    <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="coal">
+                    <technology name="coal (IGCC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="UP">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <technology name="Gen_II_LWR">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2025">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2020" to-year="2050">
+                            <from-value>0</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2045" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2095" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                    <technology name="Gen_III">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="gas">
+                    <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="coal">
+                    <technology name="coal (IGCC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+        <region name="WB">
+            <supplysector name="electricity">
+                <subsector name="nuclear">
+                    <technology name="Gen_II_LWR">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2025">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2020" to-year="2050">
+                            <from-value>0</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2045" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2095" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                    <technology name="Gen_III">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="gas">
+                    <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="coal">
+                    <technology name="coal (IGCC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+    </world>
+</scenario>

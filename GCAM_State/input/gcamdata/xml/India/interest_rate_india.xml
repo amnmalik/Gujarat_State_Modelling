@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenario>
+    <world>
+        <region name="AN">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="AP">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="AR">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="AS">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="BR">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="CG">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="CH">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="DD">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="DL">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="DN">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="GA">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="GJ">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="HP">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="HR">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="JH">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="JK">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="KA">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="KL">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="LA">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="LD">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="MH">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="ML">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="MN">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="MP">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="MZ">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="NL">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="OD">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="PB">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="PC">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="RJ">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="SK">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="TN">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="TR">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="TS">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="UK">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="UP">
+            <interest-rate>0.05</interest-rate>
+        </region>
+        <region name="WB">
+            <interest-rate>0.05</interest-rate>
+        </region>
+    </world>
+</scenario>

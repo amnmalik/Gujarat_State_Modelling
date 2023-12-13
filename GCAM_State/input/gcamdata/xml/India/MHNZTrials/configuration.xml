@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+	<Files>
+		<Value name="xmlInputFileName">../input/gcamdata/xml/All/modeltime.xml</Value>
+		<Value name="BatchFileName">batch_ag.xml</Value>
+		<Value name="policy-target-file">../input/policy/forcing_target_4p5.xml</Value>
+		<Value name="GHGInputFileName">../input/magicc/inputs/input_gases.emk</Value>
+		<Value write-output="1" append-scenario-name="0" name="xmldb-location">../output/database_basexdb</Value>
+		<Value write-output="1" append-scenario-name="0" name="restart">./restart/restart</Value>
+		<Value write-output="1" append-scenario-name="1" name="xmlDebugFileName">debug.xml</Value>
+		<Value write-output="1" append-scenario-name="0" name="climatFileName">gas.emk</Value>
+		<Value write-output="1" append-scenario-name="1" name="costCurvesOutputFileName">cost_curves.xml</Value>
+		<Value write-output="1" append-scenario-name="0" name="batchCSVOutputFile">batch-csv-out.csv</Value>
+		<Value write-output="0" append-scenario-name="0" name="supplyDemandOutputFileName">SDCurves.csv</Value>
+		<Value write-output="0" append-scenario-name="0" name="flow-graph">gcam-flow-graph.dot</Value>
+		<Value write-output="0" append-scenario-name="0" name="dependencyGraphName">DependencyGraph.dot</Value>
+		<Value write-output="0" append-scenario-name="0" name="landAllocatorGraphName">LandAllocatorGraph.dot</Value>
+	</Files>
+	<ScenarioComponents>
+        <Value name = "climate">../input/gcamdata/xml/All/hector.xml</Value>
+		<Value name = "socioeconomics">../input/gcamdata/xml/All/socioeconomics_gSSP2.xml</Value>
+
+		<Value name = "resources">../input/gcamdata/xml/All/resources.xml</Value>
+		<Value name = "energy_supply">../input/gcamdata/xml/All/en_supply.xml</Value>
+		<Value name = "energy_transformation">../input/gcamdata/xml/All/en_transformation.xml</Value>
+		<Value name = "electricity">../input/gcamdata/xml/All/electricity.xml</Value>
+		<!--Value name = "elec_water_base">../input/gcamdata/xml/All/electricity_water.xml</Value-->
+		<Value name = "heat">../input/gcamdata/xml/All/heat.xml</Value>
+		<Value name = "hydrogen">../input/gcamdata/xml/All/hydrogen.xml</Value>
+		<Value name = "energy_distribution">../input/gcamdata/xml/All/en_distribution.xml</Value>
+		<Value name = "industry">../input/gcamdata/xml/All/industry.xml</Value>
+		<Value name = "industry_income_elas">../input/gcamdata/xml/All/industry_incelas_gssp2.xml</Value>
+		<Value name = "cement">../input/gcamdata/xml/All/cement.xml</Value>
+		<Value name = "cement_income_elas">../input/gcamdata/xml/All/cement_incelas_gssp2.xml</Value>
+		<Value name = "fertilizer_energy">../input/gcamdata/xml/All/en_Fert.xml</Value>
+		<Value name = "hddcdd">../input/gcamdata/xml/All/HDDCDD_constdd_no_GCM.xml</Value>
+		<Value name = "building">../input/gcamdata/xml/All/building_det.xml</Value>
+		<Value name = "transportation">../input/gcamdata/xml/All/transportation_UCD_CORE.xml</Value>
+		<Value name = "carbon_content">../input/gcamdata/xml/All/Ccoef.xml</Value>
+		<Value name = "carbon_storage">../input/gcamdata/xml/All/Cstorage.xml</Value>
+
+
+		<Value name = "ag_base">../input/gcamdata/xml/All/ag_For_Past_bio_base_IRR_MGMT.xml</Value>
+		<Value name = "ag_cost">../input/gcamdata/xml/All/ag_cost_IRR_MGMT.xml</Value>
+		<Value name = "ag_prodchange">../input/gcamdata/xml/All/ag_prodchange_ref_IRR_MGMT.xml</Value>
+		<Value name = "residue_bio">../input/gcamdata/xml/All/resbio_input_IRR_MGMT.xml</Value>
+		<Value name = "animal">../input/gcamdata/xml/All/an_input.xml</Value>
+		<Value name = "fertilizer">../input/gcamdata/xml/All/ag_Fert_IRR_MGMT.xml</Value>
+		<Value name = "land1">../input/gcamdata/xml/All/land_input_1.xml</Value>
+		<Value name = "land2">../input/gcamdata/xml/All/land_input_2.xml</Value>
+		<Value name = "land3">../input/gcamdata/xml/All/land_input_3_IRR.xml</Value>
+		<Value name = "land4">../input/gcamdata/xml/All/land_input_4_IRR_MGMT.xml</Value>
+		<Value name = "land5">../input/gcamdata/xml/All/land_input_5_IRR_MGMT.xml</Value>
+		<Value name = "protected_land2">../input/gcamdata/xml/All/protected_land_input_2.xml</Value>
+		<Value name = "protected_land3">../input/gcamdata/xml/All/protected_land_input_3.xml</Value>
+		<Value name = "demand">../input/gcamdata/xml/All/demand_input.xml</Value>
+		<Value name = "bio_trade">../input/gcamdata/xml/All/bio_trade.xml</Value>
+		<Value name = "ag_trade">../input/gcamdata/xml/All/ag_trade.xml</Value>
+
+		<Value name = "ind_urb_proc">../input/gcamdata/xml/All/ind_urb_processing_sectors.xml</Value>
+		<Value name = "nonco2_energy">../input/gcamdata/xml/All/all_energy_emissions.xml</Value>
+		<Value name = "nonco2_fgas">../input/gcamdata/xml/All/all_fgas_emissions.xml</Value>
+		<Value name = "nonco2_unmgd">../input/gcamdata/xml/All/all_unmgd_emissions.xml</Value>
+		<Value name = "nonco2_aglu">../input/gcamdata/xml/All/all_aglu_emissions_IRR_MGMT.xml</Value>
+		<Value name = "nonco2_aglu_prot">../input/gcamdata/xml/All/all_protected_unmgd_emissions.xml</Value>
+		
+		<!--Value name = "unlim_supply_water">../input/gcamdata/xml/unlimited_water_supply.xml</Value>
+		<Value name = "water_supply">../input/gcamdata/xml/water_supply_constrained.xml</Value>
+		<Value name = "water_mapping">../input/gcamdata/xml/water_mapping.xml</Value>
+		<Value name = "ag_water">../input/gcamdata/xml/ag_water_input_IRR_MGMT.xml</Value>
+		<Value name = "elec_water_coef">../input/gcamdata/xml/electricity_water_coefs.xml</Value>
+		<Value name = "nonco2_elec_water">../input/gcamdata/xml/water_elec_emissions.xml</Value>
+		<Value name = "ind_water">../input/gcamdata/xml/water_demand_industry.xml</Value>
+		<Value name = "an_water">../input/gcamdata/xml/water_demand_livestock.xml</Value>
+		<Value name = "municipal_water">../input/gcamdata/xml/water_demand_municipal.xml</Value>
+		<Value name = "primary_ene_water">../input/gcamdata/xml/water_demand_primary.xml</Value>
+
+		<Value name = "bio_feedstock_limit">../input/gcamdata/xml/liquids_limits.xml</Value>
+		<Value name = "bio_elec_w_feed_limit">../input/gcamdata/xml/water_elec_liquids_limits.xml</Value>
+		<Value name = "bio_neg_emiss_budget">../input/gcamdata/xml/negative_emissions_budget_gSSP2.xml</Value-->
+ 
+        <Value name = "Elec Revise Lifetime">../input/gcamdata/xml/India/Exogenous/Electricity/electricity_revised_lifetime.xml</Value>
+
+      <Value name = "socio_india">../input/gcamdata/xml/India/socioeconomics_india.xml</Value>
+		<Value name = "interest_india">../input/gcamdata/xml/India/interest_rate_india.xml</Value>
+		<Value name = "resource_india">../input/gcamdata/xml/India/resources_india.xml</Value>
+		<Value name = "prices_india">../input/gcamdata/xml/India/en_prices_india.xml</Value>
+        <Value name = "transformation_india">../input/gcamdata/xml/India/en_transformation_india.xml</Value>
+      	<Value name = "elec_india">../input/gcamdata/xml/India/electricity_india.xml</Value>
+		<Value name = "elect_td_india">../input/gcamdata/xml/India/electd_india.xml</Value>   
+              
+		<Value name = "ind_india">../input/gcamdata/xml/India/industry_india.xml</Value>
+		<Value name = "ind_india">../input/gcamdata/xml/India/cement_India.xml</Value>
+
+		<Value name = "bld">../input/gcamdata/xml/India/building_india.xml</Value>
+		
+        <Value name = "trn_India">../input/gcamdata/xml/India/transportation_India.xml</Value>
+		
+       <Value name = "elect_td_trn">../input/gcamdata/xml/India/agg_elect_td_trn_india.xml</Value>
+		<Value name = "elect_td_ind">../input/gcamdata/xml/India/agg_elect_td_ind_india.xml</Value>
+       <Value name = "Global_solar">../input/gcamdata/xml/India/agg_elect_global_solar_resource_india.xml</Value>
+		<Value name = "Onshore_wind">../input/gcamdata/xml/India/agg_elect_onshore_wind_resource_india.xml</Value>
+		<Value name = "Trad_Bio">../input/gcamdata/xml/India/agg_tradbio_india.xml</Value>
+        <Value name = "Trad_Bio">../input/gcamdata/xml/India/tradbio_resource_india.xml</Value>
+        
+        <Value name = "Indus_FuelAdders">../input/gcamdata/xml/India/Exogenous/Industry/India_states_Fuel_adders.xml</Value>
+        <Value name = "Indus_incomeelas">../input/gcamdata/xml/India/Exogenous/Industry/India_states_Industry_incomeelas.xml</Value>
+        <Value name = "Indus_fs_stubtech_coeff">../input/gcamdata/xml/India/Exogenous/Industry/India_states_FS_Stubtech_Coeff.xml</Value>
+		<Value name = "Indus_shareweights">../input/gcamdata/xml/India/Exogenous/Industry/India_states_industry_share-weights.xml</Value>
+		<Value name = "Indus_nonenergy">../input/gcamdata/xml/India/Exogenous/Industry/India_states_Non_Energy_Cost.xml</Value>
+		<!--Value name = "Indus_shareweights">../input/gcamdata/xml/India/Exogenous/Industry/India_states_Enuse_FSuse_Coeff.xml</Value-->
+
+		<Value name = "Trn_fueladders">../input/gcamdata/xml/India/Exogenous/Transportation/India_states_trn_Fuel_adders.xml</Value>       
+		<Value name = "Trn_shareweights">../input/gcamdata/xml/India/Exogenous/Transportation/India_states_transport_share-weights.xml</Value>
+        <Value name = "Trn_incomeelas">../input/gcamdata/xml/India/Exogenous/Transportation/India_states_transport_incomeelas.xml</Value>
+	
+        <Value name = "Elec_inttechCC">../input/gcamdata/xml/India/Exogenous/Electricity/India_state_level_tech_OMvar.xml</Value>
+        <Value name = "Elec_techCF">../input/gcamdata/xml/India/Exogenous/Electricity/India_state_level_tech_OMfixed.xml</Value>
+        <Value name = "Elec_inttechCF">../input/gcamdata/xml/India/Exogenous/Electricity/India_state_level_tech_CF.xml</Value>
+        <Value name = "Elec_techOMfixed">../input/gcamdata/xml/India/Exogenous/Electricity/India_state_level_tech_CC.xml</Value>
+        <Value name = "Elec_inttechOMfixed">../input/gcamdata/xml/India/Exogenous/Electricity/India_state_level_inttech_OMvar.xml</Value>
+        <Value name = "Elec_techOMvar">../input/gcamdata/xml/India/Exogenous/Electricity/India_state_level_inttech_OMfixed.xml</Value>
+        <Value name = "Elec_inttechOMvar">../input/gcamdata/xml/India/Exogenous/Electricity/India_state_level_inttech_CF.xml</Value>
+        <Value name = "Elec_inttechOMvar">../input/gcamdata/xml/India/Exogenous/Electricity/India_state_level_inttech_CC.xml</Value>
+ 		<Value name = "Elec_inttechOMvar">../input/gcamdata/xml/India/Exogenous/Electricity/India_state_level_stubtech_backup.xml</Value>    
+ 		<Value name = "Elec_inttechOMvar">../input/gcamdata/xml/India/Exogenous/Electricity/India_state_level_TechEff_elec.xml</Value> 
+ 		<Value name = "Elec_inttechOMvar">../input/gcamdata/xml/India/Exogenous/Electricity/India_state_level_elec_costs_correction.xml</Value>    
+
+
+ 		<Value name = "Elec_Grid_weight">../input/gcamdata/xml/India/Exogenous/Electricity/India_state_level_grid_shrwt.xml</Value>
+      	<Value name = "Elec_subsector_weight">../input/gcamdata/xml/India/Exogenous/Electricity/India_state_level_shrwt.xml</Value>
+      	<Value name = "Elec_subsector_weight">../input/gcamdata/xml/India/Exogenous/Electricity/India_state_level_tech_shrwt.xml</Value>           
+      	<Value name = "Elec TD">../input/gcamdata/xml/India/Exogenous/Electricity/India_state_level_tdcoeff.xml</Value>     
+   
+         <Value name = "Elec_Globaltech">../input/gcamdata/xml/India/Exogenous/Electricity/global technology_elect_td_res_com.xml</Value>
+         <!--Value name = "Bld_subregshr">../input/gcamdata/xml/India/Exogenous/Building/Bld_subregional_shares.xml</Value-->
+         <Value name = "Bld_FuelAdders">../input/gcamdata/xml/India/Exogenous/Building/Bld_states_Fuel_adders.xml</Value>
+         <Value name = "Bld_Shareweights">../input/gcamdata/xml/India/Exogenous/Building/Bld_subsec_shareweights.xml</Value>
+         <Value name = "Bld_tech_Shareweights">../input/gcamdata/xml/India/Exogenous/Building/Bld_tech_shareweights.xml</Value>
+         <Value name = "Bld_costadders">../input/gcamdata/xml/India/Exogenous/Building/Bld_cost_adders.xml</Value>
+
+        <Value name = "World2070NZ">../input/gcamdata/xml/India/Netzero/GHG_market_constraints_2040_2070_row.xml</Value>
+		<Value name = "Rest of India 2070NZ">../input/gcamdata/xml/India/MHNZTrials/GHG_market_constraints_2040_2070_RestOfIndia.xml</Value>
+        <Value name = "MH 2070 NZ">../input/gcamdata/xml/India/MHNZTrials/GHG_market_constraints_2040_2070_MH.xml</Value>
+
+        <!--Value name = "Supply_non-wind">../input/gcamdata/xml/India/Delete_non_wind_state_supply.xml</Value>
+        <Value name = "Demand_non-wind">../input/gcamdata/xml/India/Delete_non_wind_state_demand.xml</Value-->
+
+		<!--Value name = "Exo Flrspc">../input/gcamdata/xml/India/Exogenous/Building/Bld_exo_flrspc.xml</Value-->
+
+		<Value name = "solver">../input/solution/cal_broyden_config.xml</Value>
+
+	</ScenarioComponents>
+	<Strings>
+		<Value name="scenarioName">MH NZ Trial</Value>
+		<Value name="debug-region">MH</Value>
+		<Value name="MAGICC-input-dir">../input/magicc/inputs</Value>
+		<Value name="MAGICC-output-dir">../output</Value>
+		<Value name="AbatedGasForCostCurves">CO2</Value>
+	</Strings>
+	<Bools>
+		<Value name="CalibrationActive">1</Value>
+		<Value name="BatchMode">0</Value>
+		<Value name="find-path">0</Value>
+		<Value name="createCostCurve">0</Value>
+		<Value name="debugChecking">0</Value>
+		<Value name="simulActive">1</Value>
+		<Value name="PrintValuesOnGraphs">1</Value>
+		<Value name="ShowNullPaths">0</Value>
+		<Value name="PrintPrices">1</Value>
+	</Bools>
+	<Ints>
+		<Value name="numMarketsToFindSD">10</Value>
+		<Value name="numPointsForSD">21</Value>
+		<Value name="numPointsForCO2CostCurve">5</Value>
+		<Value name="carbon-output-start-year">1705</Value>
+		<Value name="climateOutputInterval">5</Value>
+		<Value name="parallel-grain-size">50</Value>
+		<Value name="stop-period">21</Value>
+		<Value name="restart-period">-1</Value>
+	</Ints>
+	<Doubles>
+	</Doubles>
+</Configuration>

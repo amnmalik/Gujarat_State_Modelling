@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenario>
+   <world>
+      <region name="AN">
+         <ghgpolicy name="CO2">
+            <market>AOI</market>
+            <constraint year="2025">761.31</constraint>
+            <constraint year="2030">891.15</constraint>
+            <constraint year="2035">1019.19</constraint>
+            <constraint year="2040">1146.24</constraint>
+            <constraint year="2045">969.36</constraint>
+            <constraint year="2050">792.49</constraint>
+            <constraint year="2055">615.62</constraint>
+            <constraint year="2060">438.74</constraint>
+            <constraint year="2065">261.87</constraint>
+            <constraint year="2070">85</constraint>
+            <constraint year="2075">85</constraint>
+            <constraint year="2080">85</constraint>
+            <constraint year="2085">85</constraint>
+            <constraint year="2090">85</constraint>
+            <constraint year="2095">85</constraint>
+            <constraint year="2100">85</constraint>
+         </ghgpolicy>
+	</region>
+      <region name="AP">
+         <ghgpolicy name="CO2">
+            <market>AOI</market>
+         </ghgpolicy>
+      </region>
+      <region name="AR">
+         <ghgpolicy name="CO2">
+            <market>AOI</market>
+         </ghgpolicy>
+      </region>
+      <region name="AS">
+         <ghgpolicy name="CO2">
+            <market>AOI</market>
+         </ghgpolicy>
+      </region>
+	  <region name="BR">
+         <ghgpolicy name="CO2">
+            <market>AOI</market>
+         </ghgpolicy>
+      </region>
+      <region name="CG">
+         <ghgpolicy name="CO2">
+            <market>AOI</market>
+         </ghgpolicy>
+      </region>
+      <region name="CH">
+         <ghgpolicy name="CO2">
+            <market>AOI</market>
+         </ghgpolicy>
+      </region>
+      <region name="DD">
+         <ghgpolicy name="CO2">
+            <market>AOI</market>
+         </ghgpolicy>
+      </region>
+      <region name="DL">
+         <ghgpolicy name="CO2">
+            <market>AOI</market>
+         </ghgpolicy>
+      </region>
+      <region name="DN">
+         <ghgpolicy name="CO2">
+            <market>AOI</market>
+         </ghgpolicy>
+      </region>
+      <region name="GA">
+         <ghgpolicy name="CO2">
+            <market>AOI</market>
+         </ghgpolicy>
+      </region>
+      <region name="HP">
+         <ghgpolicy name="CO2">
+            <market>AOI</market>
+         </ghgpolicy>
+      </region>
+      <region name="HR">
+         <ghgpolicy name="CO2">
+            <market>AOI</market>
+         </ghgpolicy>
+      </region>
+      <region name="JH">
+         <ghgpolicy name="CO2">
+            <market>AOI</market>
+         </ghgpolicy>
+      </region>
+	<region name="JK">
+         <ghgpolicy name="CO2">
+            <market>AOI</market>
+         </ghgpolicy>
+      </region>
+      <region name="KA">
+         <ghgpolicy name="CO2">
+            <market>AOI</market>
+         </ghgpolicy>
+      </region>
+      <region name="KL">
+         <ghgpolicy name="CO2">
+            <market>AOI</market>
+         </ghgpolicy>
+      </region>
+      <region name="LA">
+         <ghgpolicy name="CO2">
+            <market>AOI</market>
+         </ghgpolicy>
+      </region>
+      <region name="LD">
+         <ghgpolicy name="CO2">
+            <market>AOI</market>
+         </ghgpolicy>
+      </region>
+      <region name="MH">
+         <ghgpolicy name="CO2">
+            <market>AOI</market>
+         </ghgpolicy>
+      </region>
+      <region name="ML">
+         <ghgpolicy name="CO2">
+            <market>AOI</market>
+         </ghgpolicy>
+      </region>
+      <region name="MN">
+         <ghgpolicy name="CO2">
+            <market>AOI</market>
+         </ghgpolicy>
+      </region>
+      <region name="MP">
+         <ghgpolicy name="CO2">
+            <market>AOI</market>
+         </ghgpolicy>
+      </region>
+      <region name="MZ">
+         <ghgpolicy name="CO2">
+            <market>AOI</market>
+         </ghgpolicy>
+      </region>
+      <region name="NL">
+         <ghgpolicy name="CO2">
+            <market>AOI</market>
+         </ghgpolicy>
+      </region>
+      <region name="OD">
+         <ghgpolicy name="CO2">
+            <market>AOI</market>
+         </ghgpolicy>
+      </region>
+      <region name="PB">
+         <ghgpolicy name="CO2">
+            <market>AOI</market>
+         </ghgpolicy>
+      </region>
+      <region name="PC">
+         <ghgpolicy name="CO2">
+            <market>AOI</market>
+         </ghgpolicy>
+      </region>
+      <region name="RJ">
+         <ghgpolicy name="CO2">
+            <market>AOI</market>
+         </ghgpolicy>
+      </region>
+      <region name="SK">
+         <ghgpolicy name="CO2">
+            <market>AOI</market>
+         </ghgpolicy>
+      </region>
+      <region name="TN">
+         <ghgpolicy name="CO2">
+            <market>AOI</market>
+         </ghgpolicy>
+      </region>
+<region name="TR">
+         <ghgpolicy name="CO2">
+            <market>AOI</market>
+         </ghgpolicy>
+      </region>
+<region name="TS">
+         <ghgpolicy name="CO2">
+            <market>AOI</market>
+         </ghgpolicy>
+      </region>
+<region name="UK">
+         <ghgpolicy name="CO2">
+            <market>AOI</market>
+         </ghgpolicy>
+      </region>
+<region name="UP">
+         <ghgpolicy name="CO2">
+            <market>AOI</market>
+         </ghgpolicy>
+      </region>
+<region name="WB">
+         <ghgpolicy name="CO2">
+            <market>AOI</market>
+         </ghgpolicy>
+      </region>
+   </world>
+</scenario>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenario>
+    <world>
+<region name="AN">
+            <renewresource delete="1" name="onshore wind resource"/>
+               </region>
+<region name="AR">
+            <renewresource delete="1" name="onshore wind resource"/>
+               </region>
+<region name="AS">
+            <renewresource delete="1" name="onshore wind resource"/>
+               </region>
+<region name="BR">
+            <renewresource delete="1" name="onshore wind resource"/>
+               </region>
+<region name="CG">
+            <renewresource delete="1" name="onshore wind resource"/>
+              </region>
+<region name="DL">
+            <renewresource delete="1" name="onshore wind resource"/>
+               </region>
+<region name="GA">
+            <renewresource delete="1" name="onshore wind resource"/>
+               </region>
+<region name="HR">
+            <renewresource delete="1" name="onshore wind resource"/>
+             </region>
+<region name="HP">
+            <renewresource delete="1" name="onshore wind resource"/>
+            </region>
+<region name="JK">
+            <renewresource delete="1" name="onshore wind resource"/>
+            </region>
+<region name="JH">
+            <renewresource delete="1" name="onshore wind resource"/>
+            </region>
+<region name="MN">
+            <renewresource delete="1" name="onshore wind resource"/>
+             </region>
+<region name="ML">
+            <renewresource delete="1" name="onshore wind resource"/>
+               </region>
+<region name="MZ">
+            <renewresource delete="1" name="onshore wind resource"/>
+               </region>
+<region name="NL">
+            <renewresource delete="1" name="onshore wind resource"/>
+               </region>
+<region name="PB">
+            <renewresource delete="1" name="onshore wind resource"/>
+                </region>
+<region name="SK">
+            <renewresource delete="1" name="onshore wind resource"/>
+               </region>
+<region name="TR">
+            <renewresource delete="1" name="onshore wind resource"/>
+                 </region>
+<region name="UK">
+            <renewresource delete="1" name="onshore wind resource"/>
+              </region>
+<region name="CH">
+            <renewresource delete="1" name="onshore wind resource"/>
+            </region>
+<region name="DD">
+            <renewresource delete="1" name="onshore wind resource"/>
+            </region>
+<region name="DN">
+            <renewresource delete="1" name="onshore wind resource"/>
+               </region>
+<region name="LA">
+            <renewresource delete="1" name="onshore wind resource"/>
+             </region>
+<region name="LD">
+            <renewresource delete="1" name="onshore wind resource"/>
+              </region>
+<region name="PC">
+            <renewresource delete="1" name="onshore wind resource"/>
+              </region>
+    </world>
+</scenario>
