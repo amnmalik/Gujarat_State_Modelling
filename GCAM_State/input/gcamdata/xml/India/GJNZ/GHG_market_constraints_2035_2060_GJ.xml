@@ -3,20 +3,20 @@
    <world>
       <region name="GJ">
          <ghgpolicy name="CO2">
-            <market>RJ</market>
-			<constraint year="2040">97.53</constraint>
-            <constraint year="2045">73.15</constraint>
-            <constraint year="2050">48.76</constraint>
-            <constraint year="2055">24.38</constraint>
-            <constraint year="2060">0.1</constraint>
-            <constraint year="2065">0.1</constraint>
-            <constraint year="2070">0.1</constraint>
-            <constraint year="2075">0.1</constraint>
-            <constraint year="2080">0.1</constraint>
-            <constraint year="2085">0.1</constraint>
-            <constraint year="2090">0.1</constraint>
-            <constraint year="2095">0.1</constraint>
-            <constraint year="2100">0.1</constraint>
+            <market>GJ</market>
+			<constraint year="2040">99.93</constraint>
+            <constraint year="2045">77.95</constraint>
+            <constraint year="2050">55.93</constraint>
+            <constraint year="2055">33.98</constraint>
+            <constraint year="2060">12</constraint>
+            <constraint year="2065">12</constraint>
+            <constraint year="2070">12</constraint>
+            <constraint year="2075">12</constraint>
+            <constraint year="2080">12</constraint>
+            <constraint year="2085">12</constraint>
+            <constraint year="2090">12</constraint>
+            <constraint year="2095">12</constraint>
+            <constraint year="2100">12</constraint>
          </ghgpolicy>
       </region>
 	
