@@ -175,11 +175,14 @@
 
 		<!--Value name = "Exo Flrspc">../input/gcamdata/xml/India/Exogenous/Building/Bld_exo_flrspc.xml</Value-->
 
+<!--Net-zero constraints for GJ-->
+	<Value name = "GHG_market_constraints_2040_2070_GJ">../input/gcamdata/xml/India/RJNZ2070/GHG_market_constraints_2040_2070_GJ.xml</Value>		
+
 		<Value name = "solver">../input/solution/cal_broyden_config.xml</Value>
 
 	</ScenarioComponents>
 	<Strings>
-		<Value name="scenarioName">BAU_GJ</Value>
+		<Value name="scenarioName">NZ_GJ_40-70</Value>
 		<Value name="debug-region">WB</Value>
 		<Value name="MAGICC-input-dir">../input/magicc/inputs</Value>
 		<Value name="MAGICC-output-dir">../output</Value>
