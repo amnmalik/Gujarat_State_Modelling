@@ -1,8 +1,8 @@
-# File: A23.india_state_tech_capital.csv
-# Title: Electricity technology capital costs
-# Units: 1975$/kW
-# Column types: ccccncii
-# ----------
+# File: A23.india_state_tech_capital.csv,,,,,,,
+# Title: Electricity technology capital costs,,,,,,,
+# Units: 1975$/kW,,,,,,,
+# Column types: ccccncii,,,,,,,
+# ----------,,,,,,,
 region,supplysector,subsector,technology,year,input.capital,capital.overnight,fixed.charge.rate
 AN,electricity,biomass,biomass (conv CCS),1975,capital,2386,0.13
 AN,electricity,biomass,biomass (conv CCS),1990,capital,2386,0.13
@@ -4520,16 +4520,16 @@ GJ,electricity,coal,coal (IGCC),2005,capital,952,0.13
 GJ,electricity,coal,coal (IGCC),2010,capital,952,0.13
 GJ,electricity,coal,coal (IGCC),2015,capital,952,0.13
 GJ,electricity,coal,coal (IGCC),2020,capital,1000,0.21
-GJ,electricity,coal,coal (IGCC),2025,capital,1000,0.21
-GJ,electricity,coal,coal (IGCC),2030,capital,348,0.238
-GJ,electricity,coal,coal (IGCC),2035,capital,348,0.238
-GJ,electricity,coal,coal (IGCC),2040,capital,348,0.238
-GJ,electricity,coal,coal (IGCC),2045,capital,348,0.238
-GJ,electricity,coal,coal (IGCC),2050,capital,348,0.238
-GJ,electricity,coal,coal (IGCC),2055,capital,348,0.238
-GJ,electricity,coal,coal (IGCC),2060,capital,348,0.238
-GJ,electricity,coal,coal (IGCC),2065,capital,348,0.238
-GJ,electricity,coal,coal (IGCC),2070,capital,348,0.238
+GJ,electricity,coal,coal (IGCC),2025,capital,1000,0.024777019
+GJ,electricity,coal,coal (IGCC),2030,capital,348,0.081313957
+GJ,electricity,coal,coal (IGCC),2035,capital,348,0.093404431
+GJ,electricity,coal,coal (IGCC),2040,capital,348,0.107185615
+GJ,electricity,coal,coal (IGCC),2045,capital,348,0.120742712
+GJ,electricity,coal,coal (IGCC),2050,capital,348,0.137319505
+GJ,electricity,coal,coal (IGCC),2055,capital,348,0.155660966
+GJ,electricity,coal,coal (IGCC),2060,capital,348,0.174124949
+GJ,electricity,coal,coal (IGCC),2065,capital,348,0.197145983
+GJ,electricity,coal,coal (IGCC),2070,capital,348,0.220268784
 GJ,electricity,coal,coal (IGCC),2075,capital,348,0.238
 GJ,electricity,coal,coal (IGCC),2080,capital,348,0.238
 GJ,electricity,coal,coal (IGCC),2085,capital,348,0.238
