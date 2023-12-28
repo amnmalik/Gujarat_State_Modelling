@@ -1,7 +1,7 @@
-INPUT_TABLE
-Variable ID
-RegionIntTechCapital
-
+INPUT_TABLE,,,,,,,
+Variable ID,,,,,,,
+RegionIntTechCapital,,,,,,,
+,,,,,,,
 region,supplysector,subsector,intermittent.technology,year,input.capital,capital.overnight,fixed.charge.rate
 AN,electricity,solar,CSP,1975,capital,599,0.1125
 AP,electricity,solar,CSP,1975,capital,599,0.1125
@@ -1827,7 +1827,7 @@ DD,electricity,solar,PV,2020,capital,151,0.12163
 DL,electricity,solar,PV,2020,capital,151,0.12163
 DN,electricity,solar,PV,2020,capital,151,0.12163
 GA,electricity,solar,PV,2020,capital,151,0.12163
-GJ,electricity,solar,PV,2020,capital,151,0.12163
+GJ,electricity,solar,PV,2020,capital,151,0.025116537
 HP,electricity,solar,PV,2020,capital,151,0.12163
 HR,electricity,solar,PV,2020,capital,151,0.12163
 JH,electricity,solar,PV,2020,capital,151,0.12163
@@ -1864,7 +1864,7 @@ DD,electricity,solar,PV,2025,capital,136,0.12851
 DL,electricity,solar,PV,2025,capital,136,0.12851
 DN,electricity,solar,PV,2025,capital,136,0.12851
 GA,electricity,solar,PV,2025,capital,136,0.12851
-GJ,electricity,solar,PV,2025,capital,136,0.12851
+GJ,electricity,solar,PV,2025,capital,136,0.023902569
 HP,electricity,solar,PV,2025,capital,136,0.12851
 HR,electricity,solar,PV,2025,capital,136,0.12851
 JH,electricity,solar,PV,2025,capital,136,0.12851
@@ -1901,7 +1901,7 @@ DD,electricity,solar,PV,2030,capital,116,0.14916
 DL,electricity,solar,PV,2030,capital,116,0.14916
 DN,electricity,solar,PV,2030,capital,116,0.14916
 GA,electricity,solar,PV,2030,capital,116,0.14916
-GJ,electricity,solar,PV,2030,capital,116,0.14916
+GJ,electricity,solar,PV,2030,capital,116,0.023350122
 HP,electricity,solar,PV,2030,capital,116,0.14916
 HR,electricity,solar,PV,2030,capital,116,0.14916
 JH,electricity,solar,PV,2030,capital,116,0.14916
@@ -1938,7 +1938,7 @@ DD,electricity,solar,PV,2035,capital,98,0.1664
 DL,electricity,solar,PV,2035,capital,98,0.1664
 DN,electricity,solar,PV,2035,capital,98,0.1664
 GA,electricity,solar,PV,2035,capital,98,0.1664
-GJ,electricity,solar,PV,2035,capital,98,0.1664
+GJ,electricity,solar,PV,2035,capital,98,0.024860849
 HP,electricity,solar,PV,2035,capital,98,0.1664
 HR,electricity,solar,PV,2035,capital,98,0.1664
 JH,electricity,solar,PV,2035,capital,98,0.1664
@@ -1975,7 +1975,7 @@ DD,electricity,solar,PV,2040,capital,84,0.1947
 DL,electricity,solar,PV,2040,capital,84,0.1947
 DN,electricity,solar,PV,2040,capital,84,0.1947
 GA,electricity,solar,PV,2040,capital,84,0.1947
-GJ,electricity,solar,PV,2040,capital,84,0.1947
+GJ,electricity,solar,PV,2040,capital,84,0.025732476
 HP,electricity,solar,PV,2040,capital,84,0.1947
 HR,electricity,solar,PV,2040,capital,84,0.1947
 JH,electricity,solar,PV,2040,capital,84,0.1947
@@ -2012,7 +2012,7 @@ DD,electricity,solar,PV,2045,capital,71,0.2265
 DL,electricity,solar,PV,2045,capital,71,0.2265
 DN,electricity,solar,PV,2045,capital,71,0.2265
 GA,electricity,solar,PV,2045,capital,71,0.2265
-GJ,electricity,solar,PV,2045,capital,71,0.2265
+GJ,electricity,solar,PV,2045,capital,71,0.030327505
 HP,electricity,solar,PV,2045,capital,71,0.2265
 HR,electricity,solar,PV,2045,capital,71,0.2265
 JH,electricity,solar,PV,2045,capital,71,0.2265
@@ -2049,7 +2049,7 @@ DD,electricity,solar,PV,2050,capital,60,0.262
 DL,electricity,solar,PV,2050,capital,60,0.262
 DN,electricity,solar,PV,2050,capital,60,0.262
 GA,electricity,solar,PV,2050,capital,60,0.262
-GJ,electricity,solar,PV,2050,capital,60,0.262
+GJ,electricity,solar,PV,2050,capital,60,0.035654957
 HP,electricity,solar,PV,2050,capital,60,0.262
 HR,electricity,solar,PV,2050,capital,60,0.262
 JH,electricity,solar,PV,2050,capital,60,0.262
@@ -2086,7 +2086,7 @@ DD,electricity,solar,PV,2055,capital,60,0.2537
 DL,electricity,solar,PV,2055,capital,60,0.2537
 DN,electricity,solar,PV,2055,capital,60,0.2537
 GA,electricity,solar,PV,2055,capital,60,0.2537
-GJ,electricity,solar,PV,2055,capital,60,0.2537
+GJ,electricity,solar,PV,2055,capital,60,0.035287661
 HP,electricity,solar,PV,2055,capital,60,0.2537
 HR,electricity,solar,PV,2055,capital,60,0.2537
 JH,electricity,solar,PV,2055,capital,60,0.2537
@@ -2123,7 +2123,7 @@ DD,electricity,solar,PV,2060,capital,60,0.2566
 DL,electricity,solar,PV,2060,capital,60,0.2566
 DN,electricity,solar,PV,2060,capital,60,0.2566
 GA,electricity,solar,PV,2060,capital,60,0.2566
-GJ,electricity,solar,PV,2060,capital,60,0.2566
+GJ,electricity,solar,PV,2060,capital,60,0.032615521
 HP,electricity,solar,PV,2060,capital,60,0.2566
 HR,electricity,solar,PV,2060,capital,60,0.2566
 JH,electricity,solar,PV,2060,capital,60,0.2566
@@ -2160,7 +2160,7 @@ DD,electricity,solar,PV,2065,capital,60,0.248
 DL,electricity,solar,PV,2065,capital,60,0.248
 DN,electricity,solar,PV,2065,capital,60,0.248
 GA,electricity,solar,PV,2065,capital,60,0.248
-GJ,electricity,solar,PV,2065,capital,60,0.248
+GJ,electricity,solar,PV,2065,capital,60,0.032225434
 HP,electricity,solar,PV,2065,capital,60,0.248
 HR,electricity,solar,PV,2065,capital,60,0.248
 JH,electricity,solar,PV,2065,capital,60,0.248
@@ -2197,7 +2197,7 @@ DD,electricity,solar,PV,2070,capital,60,0.2497
 DL,electricity,solar,PV,2070,capital,60,0.2497
 DN,electricity,solar,PV,2070,capital,60,0.2497
 GA,electricity,solar,PV,2070,capital,60,0.2497
-GJ,electricity,solar,PV,2070,capital,60,0.2497
+GJ,electricity,solar,PV,2070,capital,60,0.031580548
 HP,electricity,solar,PV,2070,capital,60,0.2497
 HR,electricity,solar,PV,2070,capital,60,0.2497
 JH,electricity,solar,PV,2070,capital,60,0.2497
@@ -2641,7 +2641,7 @@ DD,electricity,wind,offshore,2020,capital,322.9823707,0.073192419
 DL,electricity,wind,offshore,2020,capital,339.9263902,0.073192419
 DN,electricity,wind,offshore,2020,capital,322.9823707,0.073192419
 GA,electricity,wind,offshore,2020,capital,322.9823707,0.073192419
-GJ,electricity,wind,offshore,2020,capital,27.80501468,0.073192419
+GJ,electricity,wind,offshore,2020,capital,27.80501468,1.171026144
 HP,electricity,wind,offshore,2020,capital,204.2257207,0.073192419
 HR,electricity,wind,offshore,2020,capital,120.5236131,0.073192419
 JH,electricity,wind,offshore,2020,capital,331.2527619,0.073192419
@@ -2678,7 +2678,7 @@ DD,electricity,wind,offshore,2025,capital,143.8748611,0.073192419
 DL,electricity,wind,offshore,2025,capital,161.1636745,0.073192419
 DN,electricity,wind,offshore,2025,capital,146.0350013,0.073192419
 GA,electricity,wind,offshore,2025,capital,144.3720842,0.073192419
-GJ,electricity,wind,offshore,2025,capital,1.034914137,0.043192419
+GJ,electricity,wind,offshore,2025,capital,1.034914137,19.78340032
 HP,electricity,wind,offshore,2025,capital,48.89867943,0.073192419
 HR,electricity,wind,offshore,2025,capital,10.33679159,0.073192419
 JH,electricity,wind,offshore,2025,capital,124.6020607,0.073192419
@@ -2715,7 +2715,7 @@ DD,electricity,wind,offshore,2030,capital,143.8748611,0.073192419
 DL,electricity,wind,offshore,2030,capital,161.1636745,0.073192419
 DN,electricity,wind,offshore,2030,capital,146.0350013,0.073192419
 GA,electricity,wind,offshore,2030,capital,144.3720842,0.073192419
-GJ,electricity,wind,offshore,2030,capital,1.034914137,0.073192419
+GJ,electricity,wind,offshore,2030,capital,1.034914137,10.68418382
 HP,electricity,wind,offshore,2030,capital,48.89867943,0.073192419
 HR,electricity,wind,offshore,2030,capital,10.33679159,0.073192419
 JH,electricity,wind,offshore,2030,capital,124.6020607,0.073192419
@@ -2752,7 +2752,7 @@ DD,electricity,wind,offshore,2035,capital,143.8748611,0.073192419
 DL,electricity,wind,offshore,2035,capital,161.1636745,0.073192419
 DN,electricity,wind,offshore,2035,capital,146.0350013,0.073192419
 GA,electricity,wind,offshore,2035,capital,144.3720842,0.073192419
-GJ,electricity,wind,offshore,2035,capital,1.034914137,0.073192419
+GJ,electricity,wind,offshore,2035,capital,1.034914137,9.029590535
 HP,electricity,wind,offshore,2035,capital,48.89867943,0.073192419
 HR,electricity,wind,offshore,2035,capital,10.33679159,0.073192419
 JH,electricity,wind,offshore,2035,capital,124.6020607,0.073192419
@@ -2789,7 +2789,7 @@ DD,electricity,wind,offshore,2040,capital,143.8748611,0.073192419
 DL,electricity,wind,offshore,2040,capital,161.1636745,0.073192419
 DN,electricity,wind,offshore,2040,capital,146.0350013,0.073192419
 GA,electricity,wind,offshore,2040,capital,144.3720842,0.073192419
-GJ,electricity,wind,offshore,2040,capital,1.034914137,0.073192419
+GJ,electricity,wind,offshore,2040,capital,1.034914137,7.631395996
 HP,electricity,wind,offshore,2040,capital,48.89867943,0.073192419
 HR,electricity,wind,offshore,2040,capital,10.33679159,0.073192419
 JH,electricity,wind,offshore,2040,capital,124.6020607,0.073192419
@@ -2826,7 +2826,7 @@ DD,electricity,wind,offshore,2045,capital,143.8748611,0.073192419
 DL,electricity,wind,offshore,2045,capital,161.1636745,0.073192419
 DN,electricity,wind,offshore,2045,capital,146.0350013,0.073192419
 GA,electricity,wind,offshore,2045,capital,144.3720842,0.073192419
-GJ,electricity,wind,offshore,2045,capital,1.034914137,0.073192419
+GJ,electricity,wind,offshore,2045,capital,1.034914137,1.343917786
 HP,electricity,wind,offshore,2045,capital,48.89867943,0.073192419
 HR,electricity,wind,offshore,2045,capital,10.33679159,0.073192419
 JH,electricity,wind,offshore,2045,capital,124.6020607,0.073192419
@@ -2863,7 +2863,7 @@ DD,electricity,wind,offshore,2050,capital,143.8748611,0.073192419
 DL,electricity,wind,offshore,2050,capital,161.1636745,0.073192419
 DN,electricity,wind,offshore,2050,capital,146.0350013,0.073192419
 GA,electricity,wind,offshore,2050,capital,144.3720842,0.073192419
-GJ,electricity,wind,offshore,2050,capital,1.034914137,0.073192419
+GJ,electricity,wind,offshore,2050,capital,1.034914137,0.662983136
 HP,electricity,wind,offshore,2050,capital,48.89867943,0.073192419
 HR,electricity,wind,offshore,2050,capital,10.33679159,0.073192419
 JH,electricity,wind,offshore,2050,capital,124.6020607,0.073192419
@@ -2900,7 +2900,7 @@ DD,electricity,wind,offshore,2055,capital,143.8748611,0.073192419
 DL,electricity,wind,offshore,2055,capital,161.1636745,0.073192419
 DN,electricity,wind,offshore,2055,capital,146.0350013,0.073192419
 GA,electricity,wind,offshore,2055,capital,144.3720842,0.073192419
-GJ,electricity,wind,offshore,2055,capital,1.034914137,0.073192419
+GJ,electricity,wind,offshore,2055,capital,1.034914137,0.102173826
 HP,electricity,wind,offshore,2055,capital,48.89867943,0.073192419
 HR,electricity,wind,offshore,2055,capital,10.33679159,0.073192419
 JH,electricity,wind,offshore,2055,capital,124.6020607,0.073192419
@@ -2937,7 +2937,7 @@ DD,electricity,wind,offshore,2060,capital,143.8748611,0.073192419
 DL,electricity,wind,offshore,2060,capital,161.1636745,0.073192419
 DN,electricity,wind,offshore,2060,capital,146.0350013,0.073192419
 GA,electricity,wind,offshore,2060,capital,144.3720842,0.073192419
-GJ,electricity,wind,offshore,2060,capital,1.034914137,0.073192419
+GJ,electricity,wind,offshore,2060,capital,1.034914137,-0.279129332
 HP,electricity,wind,offshore,2060,capital,48.89867943,0.073192419
 HR,electricity,wind,offshore,2060,capital,10.33679159,0.073192419
 JH,electricity,wind,offshore,2060,capital,124.6020607,0.073192419
@@ -2974,7 +2974,7 @@ DD,electricity,wind,offshore,2065,capital,143.8748611,0.073192419
 DL,electricity,wind,offshore,2065,capital,161.1636745,0.073192419
 DN,electricity,wind,offshore,2065,capital,146.0350013,0.073192419
 GA,electricity,wind,offshore,2065,capital,144.3720842,0.073192419
-GJ,electricity,wind,offshore,2065,capital,1.034914137,0.073192419
+GJ,electricity,wind,offshore,2065,capital,1.034914137,-4.168093555
 HP,electricity,wind,offshore,2065,capital,48.89867943,0.073192419
 HR,electricity,wind,offshore,2065,capital,10.33679159,0.073192419
 JH,electricity,wind,offshore,2065,capital,124.6020607,0.073192419
@@ -3011,7 +3011,7 @@ DD,electricity,wind,offshore,2070,capital,143.8748611,0.073192419
 DL,electricity,wind,offshore,2070,capital,161.1636745,0.073192419
 DN,electricity,wind,offshore,2070,capital,146.0350013,0.073192419
 GA,electricity,wind,offshore,2070,capital,144.3720842,0.073192419
-GJ,electricity,wind,offshore,2070,capital,1.034914137,0.073192419
+GJ,electricity,wind,offshore,2070,capital,1.034914137,-7.076354977
 HP,electricity,wind,offshore,2070,capital,48.89867943,0.073192419
 HR,electricity,wind,offshore,2070,capital,10.33679159,0.073192419
 JH,electricity,wind,offshore,2070,capital,124.6020607,0.073192419
