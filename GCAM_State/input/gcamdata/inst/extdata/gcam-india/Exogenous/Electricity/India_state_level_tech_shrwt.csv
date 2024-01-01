@@ -125,6 +125,7 @@ DD,electricity,nuclear,Gen_II_LWR,share-weight,2095,2100,0.5,0.5,fixed
 DL,electricity,nuclear,Gen_II_LWR,share-weight,2095,2100,0.5,0.5,fixed
 DN,electricity,nuclear,Gen_II_LWR,share-weight,2095,2100,0.5,0.5,fixed
 GA,electricity,nuclear,Gen_II_LWR,share-weight,2095,2100,0.5,0.5,fixed
+GJ,electricity,nuclear,Gen_III,share-weight,2010,2100,0,0,fixed
 GJ,electricity,nuclear,Gen_II_LWR,share-weight,2095,2100,0.5,0.5,fixed
 HP,electricity,nuclear,Gen_II_LWR,share-weight,2095,2100,0.5,0.5,fixed
 HR,electricity,nuclear,Gen_II_LWR,share-weight,2095,2100,0.5,0.5,fixed
@@ -199,7 +200,8 @@ DD,electricity,coal,coal (IGCC),share-weight,2010,2100,0,0,fixed
 DL,electricity,coal,coal (IGCC),share-weight,2010,2100,0,0,fixed
 DN,electricity,coal,coal (IGCC),share-weight,2010,2100,0,0,fixed
 GA,electricity,coal,coal (IGCC),share-weight,2010,2100,0,0,fixed
-GJ,electricity,coal,coal (IGCC),share-weight,2010,2100,0,0,fixed
+GJ,electricity,coal,coal (conv pul),share-weight,2025,2100,0,0,fixed
+GJ,electricity,coal,coal (IGCC),share-weight,2025,2100,1,1,fixed
 HP,electricity,coal,coal (IGCC),share-weight,2010,2100,0,0,fixed
 HR,electricity,coal,coal (IGCC),share-weight,2010,2100,0,0,fixed
 JH,electricity,coal,coal (IGCC),share-weight,2010,2100,0,0,fixed
