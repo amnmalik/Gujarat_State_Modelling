@@ -5934,7 +5934,7 @@ DD,electricity,coal,coal (IGCC),2025,capital,1250,0.21
 DL,electricity,coal,coal (IGCC),2025,capital,1250,0.21
 DN,electricity,coal,coal (IGCC),2025,capital,1250,0.21
 GA,electricity,coal,coal (IGCC),2025,capital,1250,0.21
-GJ,electricity,coal,coal (IGCC),2025,capital,1250,0.024777019
+GJ,electricity,coal,coal (IGCC),2025,capital,1250,0.018
 HP,electricity,coal,coal (IGCC),2025,capital,1250,0.21
 HR,electricity,coal,coal (IGCC),2025,capital,1250,0.21
 JH,electricity,coal,coal (IGCC),2025,capital,1250,0.21
@@ -5971,7 +5971,7 @@ DD,electricity,coal,coal (IGCC),2030,capital,239.1642073,0.2261
 DL,electricity,coal,coal (IGCC),2030,capital,366.4907218,0.2261
 DN,electricity,coal,coal (IGCC),2030,capital,271.9084117,0.2261
 GA,electricity,coal,coal (IGCC),2030,capital,226.556916,0.2261
-GJ,electricity,coal,coal (IGCC),2030,capital,260.4011385,0.081313957
+GJ,electricity,coal,coal (IGCC),2030,capital,260.4011385,0.088
 HP,electricity,coal,coal (IGCC),2030,capital,277.8768239,0.2261
 HR,electricity,coal,coal (IGCC),2030,capital,379.7732258,0.2261
 JH,electricity,coal,coal (IGCC),2030,capital,314.3905933,0.2261
@@ -6008,7 +6008,7 @@ DD,electricity,coal,coal (IGCC),2035,capital,239.1642073,0.2261
 DL,electricity,coal,coal (IGCC),2035,capital,366.4907218,0.2261
 DN,electricity,coal,coal (IGCC),2035,capital,271.9084117,0.2261
 GA,electricity,coal,coal (IGCC),2035,capital,226.556916,0.2261
-GJ,electricity,coal,coal (IGCC),2035,capital,260.4011385,0.093404431
+GJ,electricity,coal,coal (IGCC),2035,capital,260.4011385,0.087
 HP,electricity,coal,coal (IGCC),2035,capital,277.8768239,0.2261
 HR,electricity,coal,coal (IGCC),2035,capital,379.7732258,0.2261
 JH,electricity,coal,coal (IGCC),2035,capital,314.3905933,0.2261
@@ -6045,7 +6045,7 @@ DD,electricity,coal,coal (IGCC),2040,capital,239.1642073,0.2261
 DL,electricity,coal,coal (IGCC),2040,capital,366.4907218,0.2261
 DN,electricity,coal,coal (IGCC),2040,capital,271.9084117,0.2261
 GA,electricity,coal,coal (IGCC),2040,capital,226.556916,0.2261
-GJ,electricity,coal,coal (IGCC),2040,capital,260.4011385,0.107185615
+GJ,electricity,coal,coal (IGCC),2040,capital,260.4011385,0.087
 HP,electricity,coal,coal (IGCC),2040,capital,277.8768239,0.107185615
 HR,electricity,coal,coal (IGCC),2040,capital,379.7732258,0.2261
 JH,electricity,coal,coal (IGCC),2040,capital,314.3905933,0.2261
@@ -6082,7 +6082,7 @@ DD,electricity,coal,coal (IGCC),2045,capital,239.1642073,0.2261
 DL,electricity,coal,coal (IGCC),2045,capital,366.4907218,0.2261
 DN,electricity,coal,coal (IGCC),2045,capital,271.9084117,0.2261
 GA,electricity,coal,coal (IGCC),2045,capital,226.556916,0.2261
-GJ,electricity,coal,coal (IGCC),2045,capital,260.4011385,0.120742712
+GJ,electricity,coal,coal (IGCC),2045,capital,260.4011385,0.087
 HP,electricity,coal,coal (IGCC),2045,capital,277.8768239,0.2261
 HR,electricity,coal,coal (IGCC),2045,capital,379.7732258,0.2261
 JH,electricity,coal,coal (IGCC),2045,capital,314.3905933,0.2261
@@ -6119,7 +6119,7 @@ DD,electricity,coal,coal (IGCC),2050,capital,239.1642073,0.2261
 DL,electricity,coal,coal (IGCC),2050,capital,366.4907218,0.2261
 DN,electricity,coal,coal (IGCC),2050,capital,271.9084117,0.2261
 GA,electricity,coal,coal (IGCC),2050,capital,226.556916,0.2261
-GJ,electricity,coal,coal (IGCC),2050,capital,260.4011385,0.137319505
+GJ,electricity,coal,coal (IGCC),2050,capital,260.4011385,0.086
 HP,electricity,coal,coal (IGCC),2050,capital,277.8768239,0.2261
 HR,electricity,coal,coal (IGCC),2050,capital,379.7732258,0.2261
 JH,electricity,coal,coal (IGCC),2050,capital,314.3905933,0.2261
@@ -6156,7 +6156,7 @@ DD,electricity,coal,coal (IGCC),2055,capital,239.1642073,0.2261
 DL,electricity,coal,coal (IGCC),2055,capital,366.4907218,0.2261
 DN,electricity,coal,coal (IGCC),2055,capital,271.9084117,0.2261
 GA,electricity,coal,coal (IGCC),2055,capital,226.556916,0.2261
-GJ,electricity,coal,coal (IGCC),2055,capital,260.4011385,0.155660966
+GJ,electricity,coal,coal (IGCC),2055,capital,260.4011385,0.085
 HP,electricity,coal,coal (IGCC),2055,capital,277.8768239,0.2261
 HR,electricity,coal,coal (IGCC),2055,capital,379.7732258,0.2261
 JH,electricity,coal,coal (IGCC),2055,capital,314.3905933,0.2261
@@ -6193,7 +6193,7 @@ DD,electricity,coal,coal (IGCC),2060,capital,239.1642073,0.2261
 DL,electricity,coal,coal (IGCC),2060,capital,366.4907218,0.2261
 DN,electricity,coal,coal (IGCC),2060,capital,271.9084117,0.2261
 GA,electricity,coal,coal (IGCC),2060,capital,226.556916,0.2261
-GJ,electricity,coal,coal (IGCC),2060,capital,260.4011385,0.174124949
+GJ,electricity,coal,coal (IGCC),2060,capital,260.4011385,0.085
 HP,electricity,coal,coal (IGCC),2060,capital,277.8768239,0.2261
 HR,electricity,coal,coal (IGCC),2060,capital,379.7732258,0.2261
 JH,electricity,coal,coal (IGCC),2060,capital,314.3905933,0.2261
@@ -6230,7 +6230,7 @@ DD,electricity,coal,coal (IGCC),2065,capital,239.1642073,0.2261
 DL,electricity,coal,coal (IGCC),2065,capital,366.4907218,0.2261
 DN,electricity,coal,coal (IGCC),2065,capital,271.9084117,0.2261
 GA,electricity,coal,coal (IGCC),2065,capital,226.556916,0.2261
-GJ,electricity,coal,coal (IGCC),2065,capital,260.4011385,0.197145983
+GJ,electricity,coal,coal (IGCC),2065,capital,260.4011385,0.085
 HP,electricity,coal,coal (IGCC),2065,capital,277.8768239,0.2261
 HR,electricity,coal,coal (IGCC),2065,capital,379.7732258,0.2261
 JH,electricity,coal,coal (IGCC),2065,capital,314.3905933,0.2261
@@ -6267,7 +6267,7 @@ DD,electricity,coal,coal (IGCC),2070,capital,239.1642073,0.2261
 DL,electricity,coal,coal (IGCC),2070,capital,366.4907218,0.2261
 DN,electricity,coal,coal (IGCC),2070,capital,271.9084117,0.2261
 GA,electricity,coal,coal (IGCC),2070,capital,226.556916,0.2261
-GJ,electricity,coal,coal (IGCC),2070,capital,260.4011385,0.220268784
+GJ,electricity,coal,coal (IGCC),2070,capital,260.4011385,0.084
 HP,electricity,coal,coal (IGCC),2070,capital,277.8768239,0.2261
 HR,electricity,coal,coal (IGCC),2070,capital,379.7732258,0.2261
 JH,electricity,coal,coal (IGCC),2070,capital,314.3905933,0.2261
@@ -9967,7 +9967,7 @@ DD,electricity,nuclear,Gen_II_LWR,2020,capital,597.504,0.1353
 DL,electricity,nuclear,Gen_II_LWR,2020,capital,597.504,0.1353
 DN,electricity,nuclear,Gen_II_LWR,2020,capital,597.504,0.1353
 GA,electricity,nuclear,Gen_II_LWR,2020,capital,597.504,0.1353
-GJ,electricity,nuclear,Gen_II_LWR,2020,capital,597.504,0.1353
+GJ,electricity,nuclear,Gen_II_LWR,2020,capital,597.504,0.0133
 HP,electricity,nuclear,Gen_II_LWR,2020,capital,597.504,0.1353
 HR,electricity,nuclear,Gen_II_LWR,2020,capital,597.504,0.1353
 JH,electricity,nuclear,Gen_II_LWR,2020,capital,597.504,0.1353
@@ -10004,7 +10004,7 @@ DD,electricity,nuclear,Gen_II_LWR,2025,capital,597.504,0.1353
 DL,electricity,nuclear,Gen_II_LWR,2025,capital,597.504,0.1353
 DN,electricity,nuclear,Gen_II_LWR,2025,capital,597.504,0.1353
 GA,electricity,nuclear,Gen_II_LWR,2025,capital,597.504,0.1353
-GJ,electricity,nuclear,Gen_II_LWR,2025,capital,597.504,0.1353
+GJ,electricity,nuclear,Gen_II_LWR,2025,capital,597.504,0.0135
 HP,electricity,nuclear,Gen_II_LWR,2025,capital,597.504,0.1353
 HR,electricity,nuclear,Gen_II_LWR,2025,capital,597.504,0.1353
 JH,electricity,nuclear,Gen_II_LWR,2025,capital,597.504,0.1353
@@ -10041,7 +10041,7 @@ DD,electricity,nuclear,Gen_II_LWR,2030,capital,597.504,0.1353
 DL,electricity,nuclear,Gen_II_LWR,2030,capital,597.504,0.1353
 DN,electricity,nuclear,Gen_II_LWR,2030,capital,597.504,0.1353
 GA,electricity,nuclear,Gen_II_LWR,2030,capital,597.504,0.1353
-GJ,electricity,nuclear,Gen_II_LWR,2030,capital,597.504,0.1353
+GJ,electricity,nuclear,Gen_II_LWR,2030,capital,597.504,0.0134
 HP,electricity,nuclear,Gen_II_LWR,2030,capital,597.504,0.1353
 HR,electricity,nuclear,Gen_II_LWR,2030,capital,597.504,0.1353
 JH,electricity,nuclear,Gen_II_LWR,2030,capital,597.504,0.1353
@@ -10078,7 +10078,7 @@ DD,electricity,nuclear,Gen_II_LWR,2035,capital,597.504,0.1353
 DL,electricity,nuclear,Gen_II_LWR,2035,capital,597.504,0.1353
 DN,electricity,nuclear,Gen_II_LWR,2035,capital,597.504,0.1353
 GA,electricity,nuclear,Gen_II_LWR,2035,capital,597.504,0.1353
-GJ,electricity,nuclear,Gen_II_LWR,2035,capital,597.504,0.1353
+GJ,electricity,nuclear,Gen_II_LWR,2035,capital,597.504,0.0132
 HP,electricity,nuclear,Gen_II_LWR,2035,capital,597.504,0.1353
 HR,electricity,nuclear,Gen_II_LWR,2035,capital,597.504,0.1353
 JH,electricity,nuclear,Gen_II_LWR,2035,capital,597.504,0.1353
@@ -10115,7 +10115,7 @@ DD,electricity,nuclear,Gen_II_LWR,2040,capital,597.504,0.1353
 DL,electricity,nuclear,Gen_II_LWR,2040,capital,597.504,0.1353
 DN,electricity,nuclear,Gen_II_LWR,2040,capital,597.504,0.1353
 GA,electricity,nuclear,Gen_II_LWR,2040,capital,597.504,0.1353
-GJ,electricity,nuclear,Gen_II_LWR,2040,capital,597.504,0.1353
+GJ,electricity,nuclear,Gen_II_LWR,2040,capital,597.504,0.0134
 HP,electricity,nuclear,Gen_II_LWR,2040,capital,597.504,0.1353
 HR,electricity,nuclear,Gen_II_LWR,2040,capital,597.504,0.1353
 JH,electricity,nuclear,Gen_II_LWR,2040,capital,597.504,0.1353
@@ -10152,7 +10152,7 @@ DD,electricity,nuclear,Gen_II_LWR,2045,capital,597.504,0.1353
 DL,electricity,nuclear,Gen_II_LWR,2045,capital,597.504,0.1353
 DN,electricity,nuclear,Gen_II_LWR,2045,capital,597.504,0.1353
 GA,electricity,nuclear,Gen_II_LWR,2045,capital,597.504,0.1353
-GJ,electricity,nuclear,Gen_II_LWR,2045,capital,597.504,0.1353
+GJ,electricity,nuclear,Gen_II_LWR,2045,capital,597.504,0.0132
 HP,electricity,nuclear,Gen_II_LWR,2045,capital,597.504,0.1353
 HR,electricity,nuclear,Gen_II_LWR,2045,capital,597.504,0.1353
 JH,electricity,nuclear,Gen_II_LWR,2045,capital,597.504,0.1353
@@ -10189,7 +10189,7 @@ DD,electricity,nuclear,Gen_II_LWR,2050,capital,597.504,0.1353
 DL,electricity,nuclear,Gen_II_LWR,2050,capital,597.504,0.1353
 DN,electricity,nuclear,Gen_II_LWR,2050,capital,597.504,0.1353
 GA,electricity,nuclear,Gen_II_LWR,2050,capital,597.504,0.1353
-GJ,electricity,nuclear,Gen_II_LWR,2050,capital,597.504,0.1353
+GJ,electricity,nuclear,Gen_II_LWR,2050,capital,597.504,0.0134
 HP,electricity,nuclear,Gen_II_LWR,2050,capital,597.504,0.1353
 HR,electricity,nuclear,Gen_II_LWR,2050,capital,597.504,0.1353
 JH,electricity,nuclear,Gen_II_LWR,2050,capital,597.504,0.1353
@@ -10226,7 +10226,7 @@ DD,electricity,nuclear,Gen_II_LWR,2055,capital,597.504,0.1353
 DL,electricity,nuclear,Gen_II_LWR,2055,capital,597.504,0.1353
 DN,electricity,nuclear,Gen_II_LWR,2055,capital,597.504,0.1353
 GA,electricity,nuclear,Gen_II_LWR,2055,capital,597.504,0.1353
-GJ,electricity,nuclear,Gen_II_LWR,2055,capital,597.504,0.1353
+GJ,electricity,nuclear,Gen_II_LWR,2055,capital,597.504,0.0132
 HP,electricity,nuclear,Gen_II_LWR,2055,capital,597.504,0.1353
 HR,electricity,nuclear,Gen_II_LWR,2055,capital,597.504,0.1353
 JH,electricity,nuclear,Gen_II_LWR,2055,capital,597.504,0.1353
@@ -10263,7 +10263,7 @@ DD,electricity,nuclear,Gen_II_LWR,2060,capital,597.504,0.1353
 DL,electricity,nuclear,Gen_II_LWR,2060,capital,597.504,0.1353
 DN,electricity,nuclear,Gen_II_LWR,2060,capital,597.504,0.1353
 GA,electricity,nuclear,Gen_II_LWR,2060,capital,597.504,0.1353
-GJ,electricity,nuclear,Gen_II_LWR,2060,capital,597.504,0.1353
+GJ,electricity,nuclear,Gen_II_LWR,2060,capital,597.504,0.0133
 HP,electricity,nuclear,Gen_II_LWR,2060,capital,597.504,0.1353
 HR,electricity,nuclear,Gen_II_LWR,2060,capital,597.504,0.1353
 JH,electricity,nuclear,Gen_II_LWR,2060,capital,597.504,0.1353
@@ -10300,7 +10300,7 @@ DD,electricity,nuclear,Gen_II_LWR,2065,capital,597.504,0.1353
 DL,electricity,nuclear,Gen_II_LWR,2065,capital,597.504,0.1353
 DN,electricity,nuclear,Gen_II_LWR,2065,capital,597.504,0.1353
 GA,electricity,nuclear,Gen_II_LWR,2065,capital,597.504,0.1353
-GJ,electricity,nuclear,Gen_II_LWR,2065,capital,597.504,0.1353
+GJ,electricity,nuclear,Gen_II_LWR,2065,capital,597.504,0.0134
 HP,electricity,nuclear,Gen_II_LWR,2065,capital,597.504,0.1353
 HR,electricity,nuclear,Gen_II_LWR,2065,capital,597.504,0.1353
 JH,electricity,nuclear,Gen_II_LWR,2065,capital,597.504,0.1353
@@ -10337,7 +10337,7 @@ DD,electricity,nuclear,Gen_II_LWR,2070,capital,597.504,0.1353
 DL,electricity,nuclear,Gen_II_LWR,2070,capital,597.504,0.1353
 DN,electricity,nuclear,Gen_II_LWR,2070,capital,597.504,0.1353
 GA,electricity,nuclear,Gen_II_LWR,2070,capital,597.504,0.1353
-GJ,electricity,nuclear,Gen_II_LWR,2070,capital,597.504,0.1353
+GJ,electricity,nuclear,Gen_II_LWR,2070,capital,597.504,0.0133
 HP,electricity,nuclear,Gen_II_LWR,2070,capital,597.504,0.1353
 HR,electricity,nuclear,Gen_II_LWR,2070,capital,597.504,0.1353
 JH,electricity,nuclear,Gen_II_LWR,2070,capital,597.504,0.1353
