@@ -712,9 +712,9 @@
                 <subsector name="coal">
                     <technology name="coal (IGCC)">
                         <interpolation-rule apply-to="share-weight"
-                            from-year="2010" to-year="2100">
-                            <from-value>0</from-value>
-                            <to-value>0</to-value>
+                            from-year="2025" to-year="2100">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
                             <interpolation-function name="fixed"/>
                         </interpolation-rule>
                     </technology>
