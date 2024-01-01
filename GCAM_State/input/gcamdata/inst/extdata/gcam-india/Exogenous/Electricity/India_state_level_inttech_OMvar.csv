@@ -791,7 +791,7 @@ DD,electricity,solar,PV,2020,OM-var,0
 DL,electricity,solar,PV,2020,OM-var,0
 DN,electricity,solar,PV,2020,OM-var,0
 GA,electricity,solar,PV,2020,OM-var,0
-GJ,electricity,solar,PV,2020,OM-var,4.17251654
+GJ,electricity,solar,PV,2020,OM-var,4.5
 HR,electricity,solar,PV,2020,OM-var,0
 HP,electricity,solar,PV,2020,OM-var,0
 JK,electricity,solar,PV,2020,OM-var,0
@@ -828,7 +828,7 @@ DD,electricity,solar,PV,2025,OM-var,3.023893939
 DL,electricity,solar,PV,2025,OM-var,3.023893939
 DN,electricity,solar,PV,2025,OM-var,3.023893939
 GA,electricity,solar,PV,2025,OM-var,3.023893939
-GJ,electricity,solar,PV,2025,OM-var,4.283783647
+GJ,electricity,solar,PV,2025,OM-var,4.7
 HR,electricity,solar,PV,2025,OM-var,3.023893939
 HP,electricity,solar,PV,2025,OM-var,3.023893939
 JK,electricity,solar,PV,2025,OM-var,3.023893939
@@ -865,7 +865,7 @@ DD,electricity,solar,PV,2030,OM-var,3.239886364
 DL,electricity,solar,PV,2030,OM-var,3.239886364
 DN,electricity,solar,PV,2030,OM-var,3.239886364
 GA,electricity,solar,PV,2030,OM-var,3.239886364
-GJ,electricity,solar,PV,2030,OM-var,4.395050755
+GJ,electricity,solar,PV,2030,OM-var,5
 HR,electricity,solar,PV,2030,OM-var,3.239886364
 HP,electricity,solar,PV,2030,OM-var,3.239886364
 JK,electricity,solar,PV,2030,OM-var,3.239886364
@@ -902,7 +902,7 @@ DD,electricity,solar,PV,2035,OM-var,3.455878788
 DL,electricity,solar,PV,2035,OM-var,3.455878788
 DN,electricity,solar,PV,2035,OM-var,3.455878788
 GA,electricity,solar,PV,2035,OM-var,3.455878788
-GJ,electricity,solar,PV,2035,OM-var,4.506317863
+GJ,electricity,solar,PV,2035,OM-var,5.2
 HR,electricity,solar,PV,2035,OM-var,3.455878788
 HP,electricity,solar,PV,2035,OM-var,3.455878788
 JK,electricity,solar,PV,2035,OM-var,3.455878788
@@ -939,7 +939,7 @@ DD,electricity,solar,PV,2040,OM-var,3.887863636
 DL,electricity,solar,PV,2040,OM-var,3.887863636
 DN,electricity,solar,PV,2040,OM-var,3.887863636
 GA,electricity,solar,PV,2040,OM-var,3.887863636
-GJ,electricity,solar,PV,2040,OM-var,4.645401747
+GJ,electricity,solar,PV,2040,OM-var,5.5
 HR,electricity,solar,PV,2040,OM-var,3.887863636
 HP,electricity,solar,PV,2040,OM-var,3.887863636
 JK,electricity,solar,PV,2040,OM-var,3.887863636
@@ -976,7 +976,7 @@ DD,electricity,solar,PV,2045,OM-var,4.319848485
 DL,electricity,solar,PV,2045,OM-var,4.319848485
 DN,electricity,solar,PV,2045,OM-var,4.319848485
 GA,electricity,solar,PV,2045,OM-var,4.319848485
-GJ,electricity,solar,PV,2045,OM-var,4.756668855
+GJ,electricity,solar,PV,2045,OM-var,5.8
 HR,electricity,solar,PV,2045,OM-var,4.319848485
 HP,electricity,solar,PV,2045,OM-var,4.319848485
 JK,electricity,solar,PV,2045,OM-var,4.319848485
@@ -1013,7 +1013,7 @@ DD,electricity,solar,PV,2050,OM-var,4.751833333
 DL,electricity,solar,PV,2050,OM-var,4.751833333
 DN,electricity,solar,PV,2050,OM-var,4.751833333
 GA,electricity,solar,PV,2050,OM-var,4.751833333
-GJ,electricity,solar,PV,2050,OM-var,4.89575274
+GJ,electricity,solar,PV,2050,OM-var,6.1
 HR,electricity,solar,PV,2050,OM-var,4.751833333
 HP,electricity,solar,PV,2050,OM-var,4.751833333
 JK,electricity,solar,PV,2050,OM-var,4.751833333
@@ -1050,7 +1050,7 @@ DD,electricity,solar,PV,2055,OM-var,4.751833333
 DL,electricity,solar,PV,2055,OM-var,4.751833333
 DN,electricity,solar,PV,2055,OM-var,4.751833333
 GA,electricity,solar,PV,2055,OM-var,4.751833333
-GJ,electricity,solar,PV,2055,OM-var,5.034836624
+GJ,electricity,solar,PV,2055,OM-var,6.4
 HR,electricity,solar,PV,2055,OM-var,4.751833333
 HP,electricity,solar,PV,2055,OM-var,4.751833333
 JK,electricity,solar,PV,2055,OM-var,4.751833333
@@ -1087,7 +1087,7 @@ DD,electricity,solar,PV,2060,OM-var,4.751833333
 DL,electricity,solar,PV,2060,OM-var,4.751833333
 DN,electricity,solar,PV,2060,OM-var,4.751833333
 GA,electricity,solar,PV,2060,OM-var,4.751833333
-GJ,electricity,solar,PV,2060,OM-var,5.201737286
+GJ,electricity,solar,PV,2060,OM-var,6.7
 HR,electricity,solar,PV,2060,OM-var,4.751833333
 HP,electricity,solar,PV,2060,OM-var,4.751833333
 JK,electricity,solar,PV,2060,OM-var,4.751833333
@@ -1124,7 +1124,7 @@ DD,electricity,solar,PV,2065,OM-var,4.751833333
 DL,electricity,solar,PV,2065,OM-var,4.751833333
 DN,electricity,solar,PV,2065,OM-var,4.751833333
 GA,electricity,solar,PV,2065,OM-var,4.751833333
-GJ,electricity,solar,PV,2065,OM-var,5.340821171
+GJ,electricity,solar,PV,2065,OM-var,7.1
 HR,electricity,solar,PV,2065,OM-var,4.751833333
 HP,electricity,solar,PV,2065,OM-var,4.751833333
 JK,electricity,solar,PV,2065,OM-var,4.751833333
@@ -1161,7 +1161,7 @@ DD,electricity,solar,PV,2070,OM-var,4.751833333
 DL,electricity,solar,PV,2070,OM-var,4.751833333
 DN,electricity,solar,PV,2070,OM-var,4.751833333
 GA,electricity,solar,PV,2070,OM-var,4.751833333
-GJ,electricity,solar,PV,2070,OM-var,5.507721832
+GJ,electricity,solar,PV,2070,OM-var,7.4
 HR,electricity,solar,PV,2070,OM-var,4.751833333
 HP,electricity,solar,PV,2070,OM-var,4.751833333
 JK,electricity,solar,PV,2070,OM-var,4.751833333
@@ -1494,7 +1494,7 @@ DD,electricity,wind,onshore,2020,OM-var,0
 DL,electricity,wind,onshore,2020,OM-var,0
 DN,electricity,wind,onshore,2020,OM-var,0
 GA,electricity,wind,onshore,2020,OM-var,0
-GJ,electricity,wind,onshore,2020,OM-var,4.17251654
+GJ,electricity,wind,onshore,2020,OM-var,4.5
 HR,electricity,wind,onshore,2020,OM-var,0
 HP,electricity,wind,onshore,2020,OM-var,0
 JK,electricity,wind,onshore,2020,OM-var,0
@@ -1531,7 +1531,7 @@ DD,electricity,wind,onshore,2025,OM-var,3.023893939
 DL,electricity,wind,onshore,2025,OM-var,3.023893939
 DN,electricity,wind,onshore,2025,OM-var,3.023893939
 GA,electricity,wind,onshore,2025,OM-var,3.023893939
-GJ,electricity,wind,onshore,2025,OM-var,4.283783647
+GJ,electricity,wind,onshore,2025,OM-var,4.7
 HR,electricity,wind,onshore,2025,OM-var,3.023893939
 HP,electricity,wind,onshore,2025,OM-var,3.023893939
 JK,electricity,wind,onshore,2025,OM-var,3.023893939
@@ -1568,7 +1568,7 @@ DD,electricity,wind,onshore,2030,OM-var,3.239886364
 DL,electricity,wind,onshore,2030,OM-var,3.239886364
 DN,electricity,wind,onshore,2030,OM-var,3.239886364
 GA,electricity,wind,onshore,2030,OM-var,3.239886364
-GJ,electricity,wind,onshore,2030,OM-var,4.395050755
+GJ,electricity,wind,onshore,2030,OM-var,5
 HR,electricity,wind,onshore,2030,OM-var,3.239886364
 HP,electricity,wind,onshore,2030,OM-var,3.239886364
 JK,electricity,wind,onshore,2030,OM-var,3.239886364
@@ -1605,7 +1605,7 @@ DD,electricity,wind,onshore,2035,OM-var,3.455878788
 DL,electricity,wind,onshore,2035,OM-var,3.455878788
 DN,electricity,wind,onshore,2035,OM-var,3.455878788
 GA,electricity,wind,onshore,2035,OM-var,3.455878788
-GJ,electricity,wind,onshore,2035,OM-var,4.506317863
+GJ,electricity,wind,onshore,2035,OM-var,5.2
 HR,electricity,wind,onshore,2035,OM-var,3.455878788
 HP,electricity,wind,onshore,2035,OM-var,3.455878788
 JK,electricity,wind,onshore,2035,OM-var,3.455878788
@@ -1642,7 +1642,7 @@ DD,electricity,wind,onshore,2040,OM-var,3.887863636
 DL,electricity,wind,onshore,2040,OM-var,3.887863636
 DN,electricity,wind,onshore,2040,OM-var,3.887863636
 GA,electricity,wind,onshore,2040,OM-var,3.887863636
-GJ,electricity,wind,onshore,2040,OM-var,4.645401747
+GJ,electricity,wind,onshore,2040,OM-var,5.5
 HR,electricity,wind,onshore,2040,OM-var,3.887863636
 HP,electricity,wind,onshore,2040,OM-var,3.887863636
 JK,electricity,wind,onshore,2040,OM-var,3.887863636
@@ -1679,7 +1679,7 @@ DD,electricity,wind,onshore,2045,OM-var,4.319848485
 DL,electricity,wind,onshore,2045,OM-var,4.319848485
 DN,electricity,wind,onshore,2045,OM-var,4.319848485
 GA,electricity,wind,onshore,2045,OM-var,4.319848485
-GJ,electricity,wind,onshore,2045,OM-var,4.756668855
+GJ,electricity,wind,onshore,2045,OM-var,5.8
 HR,electricity,wind,onshore,2045,OM-var,4.319848485
 HP,electricity,wind,onshore,2045,OM-var,4.319848485
 JK,electricity,wind,onshore,2045,OM-var,4.319848485
@@ -1716,7 +1716,7 @@ DD,electricity,wind,onshore,2050,OM-var,4.751833333
 DL,electricity,wind,onshore,2050,OM-var,4.751833333
 DN,electricity,wind,onshore,2050,OM-var,4.751833333
 GA,electricity,wind,onshore,2050,OM-var,4.751833333
-GJ,electricity,wind,onshore,2050,OM-var,4.89575274
+GJ,electricity,wind,onshore,2050,OM-var,6.1
 HR,electricity,wind,onshore,2050,OM-var,4.751833333
 HP,electricity,wind,onshore,2050,OM-var,4.751833333
 JK,electricity,wind,onshore,2050,OM-var,4.751833333
@@ -1753,7 +1753,7 @@ DD,electricity,wind,onshore,2055,OM-var,4.751833333
 DL,electricity,wind,onshore,2055,OM-var,4.751833333
 DN,electricity,wind,onshore,2055,OM-var,4.751833333
 GA,electricity,wind,onshore,2055,OM-var,4.751833333
-GJ,electricity,wind,onshore,2055,OM-var,5.034836624
+GJ,electricity,wind,onshore,2055,OM-var,6.4
 HR,electricity,wind,onshore,2055,OM-var,4.751833333
 HP,electricity,wind,onshore,2055,OM-var,4.751833333
 JK,electricity,wind,onshore,2055,OM-var,4.751833333
@@ -1790,7 +1790,7 @@ DD,electricity,wind,onshore,2060,OM-var,4.751833333
 DL,electricity,wind,onshore,2060,OM-var,4.751833333
 DN,electricity,wind,onshore,2060,OM-var,4.751833333
 GA,electricity,wind,onshore,2060,OM-var,4.751833333
-GJ,electricity,wind,onshore,2060,OM-var,5.201737286
+GJ,electricity,wind,onshore,2060,OM-var,6.7
 HR,electricity,wind,onshore,2060,OM-var,4.751833333
 HP,electricity,wind,onshore,2060,OM-var,4.751833333
 JK,electricity,wind,onshore,2060,OM-var,4.751833333
@@ -1827,7 +1827,7 @@ DD,electricity,wind,onshore,2065,OM-var,4.751833333
 DL,electricity,wind,onshore,2065,OM-var,4.751833333
 DN,electricity,wind,onshore,2065,OM-var,4.751833333
 GA,electricity,wind,onshore,2065,OM-var,4.751833333
-GJ,electricity,wind,onshore,2065,OM-var,5.340821171
+GJ,electricity,wind,onshore,2065,OM-var,7.1
 HR,electricity,wind,onshore,2065,OM-var,4.751833333
 HP,electricity,wind,onshore,2065,OM-var,4.751833333
 JK,electricity,wind,onshore,2065,OM-var,4.751833333
@@ -1864,7 +1864,7 @@ DD,electricity,wind,onshore,2070,OM-var,4.751833333
 DL,electricity,wind,onshore,2070,OM-var,4.751833333
 DN,electricity,wind,onshore,2070,OM-var,4.751833333
 GA,electricity,wind,onshore,2070,OM-var,4.751833333
-GJ,electricity,wind,onshore,2070,OM-var,5.507721832
+GJ,electricity,wind,onshore,2070,OM-var,7.4
 HR,electricity,wind,onshore,2070,OM-var,4.751833333
 HP,electricity,wind,onshore,2070,OM-var,4.751833333
 JK,electricity,wind,onshore,2070,OM-var,4.751833333
@@ -2197,7 +2197,7 @@ DD,electricity,wind,offshore,2020,OM-var,0
 DL,electricity,wind,offshore,2020,OM-var,0
 DN,electricity,wind,offshore,2020,OM-var,0
 GA,electricity,wind,offshore,2020,OM-var,0
-GJ,electricity,wind,offshore,2020,OM-var,4.17251654
+GJ,electricity,wind,offshore,2020,OM-var,4.5
 HR,electricity,wind,offshore,2020,OM-var,0
 HP,electricity,wind,offshore,2020,OM-var,0
 JK,electricity,wind,offshore,2020,OM-var,0
@@ -2234,7 +2234,7 @@ DD,electricity,wind,offshore,2025,OM-var,3.023893939
 DL,electricity,wind,offshore,2025,OM-var,3.023893939
 DN,electricity,wind,offshore,2025,OM-var,3.023893939
 GA,electricity,wind,offshore,2025,OM-var,3.023893939
-GJ,electricity,wind,offshore,2025,OM-var,4.283783647
+GJ,electricity,wind,offshore,2025,OM-var,4.7
 HR,electricity,wind,offshore,2025,OM-var,3.023893939
 HP,electricity,wind,offshore,2025,OM-var,3.023893939
 JK,electricity,wind,offshore,2025,OM-var,3.023893939
@@ -2271,7 +2271,7 @@ DD,electricity,wind,offshore,2030,OM-var,3.239886364
 DL,electricity,wind,offshore,2030,OM-var,3.239886364
 DN,electricity,wind,offshore,2030,OM-var,3.239886364
 GA,electricity,wind,offshore,2030,OM-var,3.239886364
-GJ,electricity,wind,offshore,2030,OM-var,4.395050755
+GJ,electricity,wind,offshore,2030,OM-var,5
 HR,electricity,wind,offshore,2030,OM-var,3.239886364
 HP,electricity,wind,offshore,2030,OM-var,3.239886364
 JK,electricity,wind,offshore,2030,OM-var,3.239886364
@@ -2308,7 +2308,7 @@ DD,electricity,wind,offshore,2035,OM-var,3.455878788
 DL,electricity,wind,offshore,2035,OM-var,3.455878788
 DN,electricity,wind,offshore,2035,OM-var,3.455878788
 GA,electricity,wind,offshore,2035,OM-var,3.455878788
-GJ,electricity,wind,offshore,2035,OM-var,4.506317863
+GJ,electricity,wind,offshore,2035,OM-var,5.2
 HR,electricity,wind,offshore,2035,OM-var,3.455878788
 HP,electricity,wind,offshore,2035,OM-var,3.455878788
 JK,electricity,wind,offshore,2035,OM-var,3.455878788
@@ -2345,7 +2345,7 @@ DD,electricity,wind,offshore,2040,OM-var,3.887863636
 DL,electricity,wind,offshore,2040,OM-var,3.887863636
 DN,electricity,wind,offshore,2040,OM-var,3.887863636
 GA,electricity,wind,offshore,2040,OM-var,3.887863636
-GJ,electricity,wind,offshore,2040,OM-var,4.645401747
+GJ,electricity,wind,offshore,2040,OM-var,5.5
 HR,electricity,wind,offshore,2040,OM-var,3.887863636
 HP,electricity,wind,offshore,2040,OM-var,3.887863636
 JK,electricity,wind,offshore,2040,OM-var,3.887863636
@@ -2382,7 +2382,7 @@ DD,electricity,wind,offshore,2045,OM-var,4.319848485
 DL,electricity,wind,offshore,2045,OM-var,4.319848485
 DN,electricity,wind,offshore,2045,OM-var,4.319848485
 GA,electricity,wind,offshore,2045,OM-var,4.319848485
-GJ,electricity,wind,offshore,2045,OM-var,4.756668855
+GJ,electricity,wind,offshore,2045,OM-var,5.8
 HR,electricity,wind,offshore,2045,OM-var,4.319848485
 HP,electricity,wind,offshore,2045,OM-var,4.319848485
 JK,electricity,wind,offshore,2045,OM-var,4.319848485
@@ -2419,7 +2419,7 @@ DD,electricity,wind,offshore,2050,OM-var,4.751833333
 DL,electricity,wind,offshore,2050,OM-var,4.751833333
 DN,electricity,wind,offshore,2050,OM-var,4.751833333
 GA,electricity,wind,offshore,2050,OM-var,4.751833333
-GJ,electricity,wind,offshore,2050,OM-var,4.89575274
+GJ,electricity,wind,offshore,2050,OM-var,6.1
 HR,electricity,wind,offshore,2050,OM-var,4.751833333
 HP,electricity,wind,offshore,2050,OM-var,4.751833333
 JK,electricity,wind,offshore,2050,OM-var,4.751833333
@@ -2456,7 +2456,7 @@ DD,electricity,wind,offshore,2055,OM-var,4.751833333
 DL,electricity,wind,offshore,2055,OM-var,4.751833333
 DN,electricity,wind,offshore,2055,OM-var,4.751833333
 GA,electricity,wind,offshore,2055,OM-var,4.751833333
-GJ,electricity,wind,offshore,2055,OM-var,5.034836624
+GJ,electricity,wind,offshore,2055,OM-var,6.4
 HR,electricity,wind,offshore,2055,OM-var,4.751833333
 HP,electricity,wind,offshore,2055,OM-var,4.751833333
 JK,electricity,wind,offshore,2055,OM-var,4.751833333
@@ -2493,7 +2493,7 @@ DD,electricity,wind,offshore,2060,OM-var,4.751833333
 DL,electricity,wind,offshore,2060,OM-var,4.751833333
 DN,electricity,wind,offshore,2060,OM-var,4.751833333
 GA,electricity,wind,offshore,2060,OM-var,4.751833333
-GJ,electricity,wind,offshore,2060,OM-var,5.201737286
+GJ,electricity,wind,offshore,2060,OM-var,6.7
 HR,electricity,wind,offshore,2060,OM-var,4.751833333
 HP,electricity,wind,offshore,2060,OM-var,4.751833333
 JK,electricity,wind,offshore,2060,OM-var,4.751833333
@@ -2530,7 +2530,7 @@ DD,electricity,wind,offshore,2065,OM-var,4.751833333
 DL,electricity,wind,offshore,2065,OM-var,4.751833333
 DN,electricity,wind,offshore,2065,OM-var,4.751833333
 GA,electricity,wind,offshore,2065,OM-var,4.751833333
-GJ,electricity,wind,offshore,2065,OM-var,5.340821171
+GJ,electricity,wind,offshore,2065,OM-var,7.1
 HR,electricity,wind,offshore,2065,OM-var,4.751833333
 HP,electricity,wind,offshore,2065,OM-var,4.751833333
 JK,electricity,wind,offshore,2065,OM-var,4.751833333
@@ -2567,7 +2567,7 @@ DD,electricity,wind,offshore,2070,OM-var,4.751833333
 DL,electricity,wind,offshore,2070,OM-var,4.751833333
 DN,electricity,wind,offshore,2070,OM-var,4.751833333
 GA,electricity,wind,offshore,2070,OM-var,4.751833333
-GJ,electricity,wind,offshore,2070,OM-var,5.507721832
+GJ,electricity,wind,offshore,2070,OM-var,7.4
 HR,electricity,wind,offshore,2070,OM-var,4.751833333
 HP,electricity,wind,offshore,2070,OM-var,4.751833333
 JK,electricity,wind,offshore,2070,OM-var,4.751833333
