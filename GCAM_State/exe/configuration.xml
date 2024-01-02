@@ -190,7 +190,7 @@
 
 	</ScenarioComponents>
 	<Strings>
-		<Value name="scenarioName">Vetted_assumptions</Value>
+		<Value name="scenarioName">Trail2</Value>
 		<Value name="debug-region">WB</Value>
 		<Value name="MAGICC-input-dir">../input/magicc/inputs</Value>
 		<Value name="MAGICC-output-dir">../output</Value>
