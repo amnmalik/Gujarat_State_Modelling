@@ -190,7 +190,7 @@
 
 	</ScenarioComponents>
 	<Strings>
-		<Value name="scenarioName">Draft</Value>
+		<Value name="scenarioName">Draft_1</Value>
 		<Value name="debug-region">WB</Value>
 		<Value name="MAGICC-input-dir">../input/magicc/inputs</Value>
 		<Value name="MAGICC-output-dir">../output</Value>
@@ -215,7 +215,7 @@
 		<Value name="climateOutputInterval">5</Value>
 		<Value name="parallel-grain-size">50</Value>
 		<Value name="stop-period">7</Value>
-		<Value name="restart-period">4</Value>
+		<Value name="restart-period">-1</Value>
 	</Ints>
 	<Doubles>
 	</Doubles>
