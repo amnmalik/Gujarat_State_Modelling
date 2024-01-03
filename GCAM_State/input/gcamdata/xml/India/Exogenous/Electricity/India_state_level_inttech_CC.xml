@@ -6192,7 +6192,7 @@
                         <period year="2050">
                             <input-capital name="capital">
                                 <capital-overnight>60</capital-overnight>
-                                <fixed-charge-rate>0.035</fixed-charge-rate>
+                                <fixed-charge-rate>0.5</fixed-charge-rate>
                             </input-capital>
                         </period>
                         <period year="2055">
@@ -6462,7 +6462,7 @@
                         <period year="2050">
                             <input-capital name="capital">
                                 <capital-overnight>1.034914137</capital-overnight>
-                                <fixed-charge-rate>0.66</fixed-charge-rate>
+                                <fixed-charge-rate>0.007</fixed-charge-rate>
                             </input-capital>
                         </period>
                         <period year="2055">
