@@ -190,7 +190,7 @@
 
 	</ScenarioComponents>
 	<Strings>
-		<Value name="scenarioName">I-2035 and II-2050</Value>
+		<Value name="scenarioName">BAU_GJ</Value>
 		<Value name="debug-region">WB</Value>
 		<Value name="MAGICC-input-dir">../input/magicc/inputs</Value>
 		<Value name="MAGICC-output-dir">../output</Value>
@@ -214,7 +214,7 @@
 		<Value name="carbon-output-start-year">1705</Value>
 		<Value name="climateOutputInterval">5</Value>
 		<Value name="parallel-grain-size">50</Value>
-		<Value name="stop-period">11</Value>
+		<Value name="stop-period">15</Value>
 		<Value name="restart-period">-1</Value>
 	</Ints>
 	<Doubles>
