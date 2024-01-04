@@ -190,7 +190,7 @@
 
 	</ScenarioComponents>
 	<Strings>
-		<Value name="scenarioName">LCOE_2050_4JAN_2</Value>
+		<Value name="scenarioName">I-2035 and II-2050</Value>
 		<Value name="debug-region">WB</Value>
 		<Value name="MAGICC-input-dir">../input/magicc/inputs</Value>
 		<Value name="MAGICC-output-dir">../output</Value>
