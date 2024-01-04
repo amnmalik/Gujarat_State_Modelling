@@ -19,40 +19,13 @@ Didn't find builder for profit rate query going to use defaults
 Didn't find builder for profit rate in a specified land use region query going to use defaults
 Didn't find builder for land leaf shares query going to use defaults
 Didn't find builder for land leaf shares in a specified land use region query going to use defaults
-About to perform query: collection()/singleQueryListCache/cache[@id=-1136608076]/text()
-Time : 4
+About to perform query: collection()/singleQueryListCache/cache[@id=498633529]/text()
+Time : 5
 About to perform query: collection()/singleQueryListCache/cache[@id=-1762434599]/text()
-Time : 4
-Before Function: 1704270200363
-About to perform query: collection()/scenario[ (@name='Draft_1' and @date='2024-3-1T12:47:32+05:30') ]/world/region[ (@name='GJ') ]/*[@type='sector' and (@name='electricity' or @name='elect_td_bld')]/*[@type='subsector']/
+Time : 9
+Before Function: 1704340442168
+About to perform query: collection()/scenario[ (@name='LCOE_2020_4JAN' and @date='2024-4-1T08:47:19+05:30') ]/world/region[ (@name='GJ') ]/*[@type='sector' and (@name='electricity' or @name='elect_td_bld')]/*[@type='subsector']/
               *[@type='technology' and not(@name='elect_td_bld')]/cost/text()
-In Function: 1704270200363
-After build Tree: 1704270200398
-After Add table: 1704270200398
-About to perform query: collection()/singleQueryListCache/cache[@id=-740614321]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=-1209976151]/text()
-Time : 7
-About to perform query: collection()/singleQueryListCache/cache[@id=1402312530]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=282351080]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=-166897130]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=-2114901646]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=593830562]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=880969105]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=-1286662131]/text()
-Time : 0
-Before Function: 1704272522500
-About to perform query: collection()/scenario[ (@name='Draft_1' and @date='2024-3-1T12:47:32+05:30') ]/world/region[ (@name='GJ') ]/*[@type = 'sector']/*[@type = 'subsector']/*[@type = 'technology']/
-            *[@type='input']/price-paid[@vintage=parent::*/parent::*/@year]/text()
-In Function: 1704272522501
-After build Tree: 1704272522624
-After Add table: 1704272522624
-Caught the window closing
-Doing remove because of control
-Doing remove because of control
+In Function: 1704340442168
+After build Tree: 1704340442194
+After Add table: 1704340442194
