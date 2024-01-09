@@ -113,7 +113,8 @@
         <Value name = "Indus_incomeelas">../input/gcamdata/xml/India/Exogenous/Industry/India_states_Industry_incomeelas_PD.xml</Value>
         <Value name = "Indus_fs_stubtech_coeff">../input/gcamdata/xml/India/Exogenous/Industry/India_states_FS_Stubtech_Coeff.xml</Value>
 		<!--Value name = "Indus_shareweights_BAU">../input/gcamdata/xml/India/Exogenous/Industry/India_states_industry_share-weights_BAUforRJ.xml</Value-->
-        <Value name = "Indus_shareweights_NZ">../input/gcamdata/xml/India/Exogenous/Industry/India_states_industry_share-weights_hydrogen.xml</Value>		
+        <Value name = "Indus_shareweights_NZ">../input/gcamdata/xml/India/Exogenous/Industry/India_states_industry_share-weights_hydrogen.xml</Value>
+		<Value name = "India Industry Hydrogen">../input/gcamdata/xml/India/Exogenous/Industry/India_states_industry_share-weights_HH_for_all_States.xml</Value>		
         <Value name = "Indus_nonenergy">../input/gcamdata/xml/India/Exogenous/Industry/India_states_Non_Energy_Cost.xml</Value>
 		<!--Value name = "Indus_shareweights">../input/gcamdata/xml/India/Exogenous/Industry/India_states_Enuse_FSuse_Coeff.xml</Value-->
 
@@ -156,6 +157,9 @@
          <Value name = "Bld_costadders">../input/gcamdata/xml/India/Exogenous/Building/Bld_cost_adders_PD_original.xml</Value>
          <!--Value name = "Bld_costadders">../input/gcamdata/xml/India/Exogenous/Building/Bld_cost_adders_PD_Changed.xml</Value-->
 
+		<Value name = "India low hydrogen cost">../input/gcamdata/xml/India/Others/India_hydrogen_cost_change_reference.xml</Value>
+		<Value name = "trn_India">../input/gcamdata/xml/India/GJ/HighHydrogen/transportation_India.xml</Value>
+
          <!--Value name = "No Fossils Policy">../input/gcamdata/xml/India/India_state_level_tech_shrwt_NoNewFossils.xml</Value>
          <Value name = "No Fossils Policy_Indus">../input/gcamdata/xml/India/India_state_level_shrwt_NoNewFossils_Industry_NZ70.xml</Value-->
 
@@ -179,9 +183,9 @@
 <!--Net-zero constraints for GJ-->
 		<!--Value name = "GHG_market_constraints_2035_2060_GJ">../input/gcamdata/xml/India/GJNZ/GHG_market_constraints_2035_2060_GJ.xml</Value-->		
   		<!--Value name = "India All States Curved without Land Use ">../input/gcamdata/xml/India/GJNZ/GHG_market_constraints_2040_2070_state_AllIndia_Curved_withoutland.xml</Value-->
-		<!--Value name = "India All States Curved without Land Use except GJ">../input/gcamdata/xml/India/GJNZ/GHG_market_constraints_2040_2070_state_AllIndia_except_GJ_Curved_withoutland.xml</Value>
-         <Value name = "India Land Use -85">../input/gcamdata/xml/India/GJNZ/GHG_market_constraints_India_Landusesystem85.xml</Value>
-         <Value name = "ROW">../input/gcamdata/xml/India/GJNZ/GHG_market_constraints_2040_2070_row_Puneet.xml</Value-->
+		<!--Value name = "India All States Curved without Land Use except GJ">../input/gcamdata/xml/India/GJNZ/GHG_market_constraints_2040_2070_state_AllIndia_except_GJ_Curved_withoutland.xml</Value-->
+         <!--Value name = "India Land Use -85">../input/gcamdata/xml/India/GJNZ/GHG_market_constraints_India_Landusesystem85.xml</Value-->
+         <!--Value name = "ROW">../input/gcamdata/xml/India/GJNZ/GHG_market_constraints_2040_2070_row_Puneet.xml</Value-->
 
 		<!--Value name = "GHG_market_constraints_2040_2070_GJ">../input/gcamdata/xml/India/GJNZ/GHG_market_constraints_2040_2070_GJ.xml</Value-->		
 
@@ -190,7 +194,7 @@
 
 	</ScenarioComponents>
 	<Strings>
-		<Value name="scenarioName">BAU_GJ</Value>
+		<Value name="scenarioName">LCOE_reflected_BAU</Value>
 		<Value name="debug-region">WB</Value>
 		<Value name="MAGICC-input-dir">../input/magicc/inputs</Value>
 		<Value name="MAGICC-output-dir">../output</Value>
