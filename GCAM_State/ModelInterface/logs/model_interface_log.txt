@@ -19,13 +19,54 @@ Didn't find builder for profit rate query going to use defaults
 Didn't find builder for profit rate in a specified land use region query going to use defaults
 Didn't find builder for land leaf shares query going to use defaults
 Didn't find builder for land leaf shares in a specified land use region query going to use defaults
-About to perform query: collection()/singleQueryListCache/cache[@id=498633529]/text()
+About to perform query: collection()/singleQueryListCache/cache[@id=-1136608076]/text()
 Time : 5
 About to perform query: collection()/singleQueryListCache/cache[@id=-1762434599]/text()
-Time : 9
-Before Function: 1704340442168
-About to perform query: collection()/scenario[ (@name='LCOE_2020_4JAN' and @date='2024-4-1T08:47:19+05:30') ]/world/region[ (@name='GJ') ]/*[@type='sector' and (@name='electricity' or @name='elect_td_bld')]/*[@type='subsector']/
+Time : 16
+Before Function: 1704719647443
+About to perform query: collection()/scenario[ (@name='LCOE_reflected_BAU' and @date='2024-8-1T17:29:02+06:030') ]/world/region[ (@name='GJ') ]/*[@type='sector' and (@name='electricity' or @name='elect_td_bld')]/*[@type='subsector']/
               *[@type='technology' and not(@name='elect_td_bld')]/cost/text()
-In Function: 1704340442168
-After build Tree: 1704340442194
-After Add table: 1704340442194
+In Function: 1704719647445
+After build Tree: 1704719647477
+After Add table: 1704719647477
+About to perform query: collection()/singleQueryListCache/cache[@id=-1816750358]/text()
+Time : 0
+About to perform query: collection()/singleQueryListCache/cache[@id=-1286662131]/text()
+Time : 17
+Before Function: 1704719664122
+About to perform query: collection()/scenario[ (@name='LCOE_reflected_BAU' and @date='2024-8-1T17:29:02+06:030') ]/world/region[ (@name='GJ') ]/*[@type = 'sector']/*[@type = 'subsector']/*[@type = 'technology']/
+            *[@type='input']/price-paid[@vintage=parent::*/parent::*/@year]/text()
+In Function: 1704719664123
+After build Tree: 1704719664277
+After Add table: 1704719664277
+About to perform query: collection()/singleQueryListCache/cache[@id=469024268]/text()
+Time : 2
+About to perform query: collection()/singleQueryListCache/cache[@id=-945885288]/text()
+Time : 0
+Before Function: 1704719861071
+About to perform query: collection()/scenario[ (@name='LCOE_reflected_BAU' and @date='2024-8-1T17:29:02+06:030') ]/world/region[ (@name='GJ') ]/*[@type='sector' (:collapse:)]//CO2/emissions/node()
+In Function: 1704719861076
+After build Tree: 1704719861149
+After Add table: 1704719861149
+Before Function: 1704719871737
+About to perform query: collection()/scenario[ (@name='BAU' and @date='2023-4-12T22:41:56+05:30') or (@name='LCOE_reflected_BAU' and @date='2024-8-1T17:29:02+06:030') ]/world/region[ (@name='GJ') ]/*[@type='sector' (:collapse:)]//CO2/emissions/node()
+In Function: 1704719871737
+After build Tree: 1704719871863
+After Add table: 1704719871863
+About to perform query: collection()/singleQueryListCache/cache[@id=-1925590025]/text()
+Time : 0
+About to perform query: collection()/singleQueryListCache/cache[@id=-350292947]/text()
+Time : 0
+About to perform query: collection()/singleQueryListCache/cache[@id=35282157]/text()
+Time : 0
+Before Function: 1704719928846
+About to perform query: collection()/scenario[ (@name='BAU' and @date='2023-4-12T22:41:56+05:30') or (@name='LCOE_reflected_BAU' and @date='2024-8-1T17:29:02+06:030') ]/world/region[ (@name='GJ') ]/GDP/gdp-mer/text()
+In Function: 1704719928846
+After build Tree: 1704719928846
+After Add table: 1704719928846
+Caught the window closing
+Doing remove because of control
+Doing remove because of control
+Doing remove because of control
+Doing remove because of control
+Doing remove because of control
