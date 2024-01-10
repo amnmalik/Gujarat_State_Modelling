@@ -15,9 +15,7 @@
 #' @import dplyr
 #' @importFrom tidyr gather spread
 #' @author BBL
-
 module_data_Maddison_population <- function(command, ...) {
-  library (dplyr)
   if(command == driver.DECLARE_INPUTS) {
     return(NULL)
   } else if(command == driver.DECLARE_OUTPUTS) {

@@ -13,7 +13,7 @@
                     <totalPop>366</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2010">
-                    <totalPop>378</totalPop>
+                    <totalPop>381</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2015">
                     <totalPop>392</totalPop>
@@ -96,25 +96,25 @@
                 <laborforce year="2100">0.125165399</laborforce>
                 <laborproductivity year="1990">0.02406</laborproductivity>
                 <laborproductivity year="2005">0.04181</laborproductivity>
-                <laborproductivity year="2010">0.06086</laborproductivity>
-                <laborproductivity year="2015">0.05302</laborproductivity>
-                <laborproductivity year="2020">0.05145</laborproductivity>
-                <laborproductivity year="2025">0.05007</laborproductivity>
-                <laborproductivity year="2030">0.04823</laborproductivity>
-                <laborproductivity year="2035">0.04642</laborproductivity>
-                <laborproductivity year="2040">0.04468</laborproductivity>
-                <laborproductivity year="2045">0.04253</laborproductivity>
-                <laborproductivity year="2050">0.04081</laborproductivity>
-                <laborproductivity year="2055">0.03993</laborproductivity>
-                <laborproductivity year="2060">0.03772</laborproductivity>
-                <laborproductivity year="2065">0.03634</laborproductivity>
-                <laborproductivity year="2070">0.03447</laborproductivity>
-                <laborproductivity year="2075">0.03346</laborproductivity>
-                <laborproductivity year="2080">0.03244</laborproductivity>
-                <laborproductivity year="2085">0.03189</laborproductivity>
-                <laborproductivity year="2090">0.03236</laborproductivity>
-                <laborproductivity year="2095">0.03241</laborproductivity>
-                <laborproductivity year="2100">0.03049</laborproductivity>
+                <laborproductivity year="2010">0.133032488</laborproductivity>
+                <laborproductivity year="2015">-0.017612632</laborproductivity>
+                <laborproductivity year="2020">0.090203015</laborproductivity>
+                <laborproductivity year="2025">0.066183562</laborproductivity>
+                <laborproductivity year="2030">0.057695916</laborproductivity>
+                <laborproductivity year="2035">0.060602148</laborproductivity>
+                <laborproductivity year="2040">0.045389087</laborproductivity>
+                <laborproductivity year="2045">0.041826034</laborproductivity>
+                <laborproductivity year="2050">0.038024511</laborproductivity>
+                <laborproductivity year="2055">0.043136282</laborproductivity>
+                <laborproductivity year="2060">0.035805431</laborproductivity>
+                <laborproductivity year="2065">0.038789056</laborproductivity>
+                <laborproductivity year="2070">0.030983938</laborproductivity>
+                <laborproductivity year="2075">0.033580754</laborproductivity>
+                <laborproductivity year="2080">0.035740227</laborproductivity>
+                <laborproductivity year="2085">0.028261752</laborproductivity>
+                <laborproductivity year="2090">0.030229802</laborproductivity>
+                <laborproductivity year="2095">0.031773471</laborproductivity>
+                <laborproductivity year="2100">0.030320687</laborproductivity>
             </GDP>
         </region>
         <region name="AP">
@@ -129,7 +129,7 @@
                     <totalPop>41370</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2010">
-                    <totalPop>43547</totalPop>
+                    <totalPop>49577</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2015">
                     <totalPop>51371</totalPop>
@@ -212,25 +212,25 @@
                 <laborforce year="2100">0.40025403</laborforce>
                 <laborproductivity year="1990">0.02406</laborproductivity>
                 <laborproductivity year="2005">0.04181</laborproductivity>
-                <laborproductivity year="2010">0.06086</laborproductivity>
-                <laborproductivity year="2015">0.05302</laborproductivity>
-                <laborproductivity year="2020">0.05145</laborproductivity>
-                <laborproductivity year="2025">0.05007</laborproductivity>
-                <laborproductivity year="2030">0.04823</laborproductivity>
-                <laborproductivity year="2035">0.04642</laborproductivity>
-                <laborproductivity year="2040">0.04468</laborproductivity>
-                <laborproductivity year="2045">0.04253</laborproductivity>
-                <laborproductivity year="2050">0.04081</laborproductivity>
-                <laborproductivity year="2055">0.03993</laborproductivity>
-                <laborproductivity year="2060">0.03772</laborproductivity>
-                <laborproductivity year="2065">0.03634</laborproductivity>
-                <laborproductivity year="2070">0.03447</laborproductivity>
-                <laborproductivity year="2075">0.03346</laborproductivity>
-                <laborproductivity year="2080">0.03244</laborproductivity>
-                <laborproductivity year="2085">0.03189</laborproductivity>
-                <laborproductivity year="2090">0.03236</laborproductivity>
-                <laborproductivity year="2095">0.03241</laborproductivity>
-                <laborproductivity year="2100">0.03049</laborproductivity>
+                <laborproductivity year="2010">0.032056175</laborproductivity>
+                <laborproductivity year="2015">0.041597002</laborproductivity>
+                <laborproductivity year="2020">0.078156052</laborproductivity>
+                <laborproductivity year="2025">0.053210518</laborproductivity>
+                <laborproductivity year="2030">0.046980058</laborproductivity>
+                <laborproductivity year="2035">0.051389058</laborproductivity>
+                <laborproductivity year="2040">0.042679637</laborproductivity>
+                <laborproductivity year="2045">0.039307909</laborproductivity>
+                <laborproductivity year="2050">0.045657244</laborproductivity>
+                <laborproductivity year="2055">0.040987421</laborproductivity>
+                <laborproductivity year="2060">0.033861468</laborproductivity>
+                <laborproductivity year="2065">0.037031579</laborproductivity>
+                <laborproductivity year="2070">0.029431687</laborproductivity>
+                <laborproductivity year="2075">0.032219248</laborproductivity>
+                <laborproductivity year="2080">0.034573028</laborproductivity>
+                <laborproductivity year="2085">0.027300412</laborproductivity>
+                <laborproductivity year="2090">0.029467774</laborproductivity>
+                <laborproductivity year="2095">0.031213414</laborproductivity>
+                <laborproductivity year="2100">0.029966457</laborproductivity>
             </GDP>
         </region>
         <region name="AR">
@@ -245,7 +245,7 @@
                     <totalPop>1212</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2010">
-                    <totalPop>1355</totalPop>
+                    <totalPop>1384</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2015">
                     <totalPop>1459</totalPop>
@@ -328,25 +328,25 @@
                 <laborforce year="2100">0.210605094</laborforce>
                 <laborproductivity year="1990">0.02406</laborproductivity>
                 <laborproductivity year="2005">0.04181</laborproductivity>
-                <laborproductivity year="2010">0.06086</laborproductivity>
-                <laborproductivity year="2015">0.05302</laborproductivity>
-                <laborproductivity year="2020">0.05145</laborproductivity>
-                <laborproductivity year="2025">0.05007</laborproductivity>
-                <laborproductivity year="2030">0.04823</laborproductivity>
-                <laborproductivity year="2035">0.04642</laborproductivity>
-                <laborproductivity year="2040">0.04468</laborproductivity>
-                <laborproductivity year="2045">0.04253</laborproductivity>
-                <laborproductivity year="2050">0.04081</laborproductivity>
-                <laborproductivity year="2055">0.03993</laborproductivity>
-                <laborproductivity year="2060">0.03772</laborproductivity>
-                <laborproductivity year="2065">0.03634</laborproductivity>
-                <laborproductivity year="2070">0.03447</laborproductivity>
-                <laborproductivity year="2075">0.03346</laborproductivity>
-                <laborproductivity year="2080">0.03244</laborproductivity>
-                <laborproductivity year="2085">0.03189</laborproductivity>
-                <laborproductivity year="2090">0.03236</laborproductivity>
-                <laborproductivity year="2095">0.03241</laborproductivity>
-                <laborproductivity year="2100">0.03049</laborproductivity>
+                <laborproductivity year="2010">0.035</laborproductivity>
+                <laborproductivity year="2015">0.09</laborproductivity>
+                <laborproductivity year="2020">0.076</laborproductivity>
+                <laborproductivity year="2025">0.055</laborproductivity>
+                <laborproductivity year="2030">0.056</laborproductivity>
+                <laborproductivity year="2035">0.051</laborproductivity>
+                <laborproductivity year="2040">0.041</laborproductivity>
+                <laborproductivity year="2045">0.047</laborproductivity>
+                <laborproductivity year="2050">0.044</laborproductivity>
+                <laborproductivity year="2055">0.039</laborproductivity>
+                <laborproductivity year="2060">0.042</laborproductivity>
+                <laborproductivity year="2065">0.036</laborproductivity>
+                <laborproductivity year="2070">0.038</laborproductivity>
+                <laborproductivity year="2075">0.031</laborproductivity>
+                <laborproductivity year="2080">0.034</laborproductivity>
+                <laborproductivity year="2085">0.037</laborproductivity>
+                <laborproductivity year="2090">0.029</laborproductivity>
+                <laborproductivity year="2095">0.031</laborproductivity>
+                <laborproductivity year="2100">0.03</laborproductivity>
             </GDP>
         </region>
         <region name="AS">
@@ -361,7 +361,7 @@
                     <totalPop>28476</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2010">
-                    <totalPop>30751</totalPop>
+                    <totalPop>31206</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2015">
                     <totalPop>33168</totalPop>
@@ -444,25 +444,25 @@
                 <laborforce year="2100">0.443659921</laborforce>
                 <laborproductivity year="1990">0.02406</laborproductivity>
                 <laborproductivity year="2005">0.04181</laborproductivity>
-                <laborproductivity year="2010">0.06086</laborproductivity>
-                <laborproductivity year="2015">0.05302</laborproductivity>
-                <laborproductivity year="2020">0.05145</laborproductivity>
-                <laborproductivity year="2025">0.05007</laborproductivity>
-                <laborproductivity year="2030">0.04823</laborproductivity>
-                <laborproductivity year="2035">0.04642</laborproductivity>
-                <laborproductivity year="2040">0.04468</laborproductivity>
-                <laborproductivity year="2045">0.04253</laborproductivity>
-                <laborproductivity year="2050">0.04081</laborproductivity>
-                <laborproductivity year="2055">0.03993</laborproductivity>
-                <laborproductivity year="2060">0.03772</laborproductivity>
-                <laborproductivity year="2065">0.03634</laborproductivity>
-                <laborproductivity year="2070">0.03447</laborproductivity>
-                <laborproductivity year="2075">0.03346</laborproductivity>
-                <laborproductivity year="2080">0.03244</laborproductivity>
-                <laborproductivity year="2085">0.03189</laborproductivity>
-                <laborproductivity year="2090">0.03236</laborproductivity>
-                <laborproductivity year="2095">0.03241</laborproductivity>
-                <laborproductivity year="2100">0.03049</laborproductivity>
+                <laborproductivity year="2010">0.034521609</laborproductivity>
+                <laborproductivity year="2015">0.042250158</laborproductivity>
+                <laborproductivity year="2020">0.074776656</laborproductivity>
+                <laborproductivity year="2025">0.050853885</laborproductivity>
+                <laborproductivity year="2030">0.044735115</laborproductivity>
+                <laborproductivity year="2035">0.049265428</laborproductivity>
+                <laborproductivity year="2040">0.044121759</laborproductivity>
+                <laborproductivity year="2045">0.041463658</laborproductivity>
+                <laborproductivity year="2050">0.038571054</laborproductivity>
+                <laborproductivity year="2055">0.0445233</laborproductivity>
+                <laborproductivity year="2060">0.038122962</laborproductivity>
+                <laborproductivity year="2065">0.031950021</laborproductivity>
+                <laborproductivity year="2070">0.035094334</laborproductivity>
+                <laborproductivity year="2075">0.028488008</laborproductivity>
+                <laborproductivity year="2080">0.031510315</laborproductivity>
+                <laborproductivity year="2085">0.035086545</laborproductivity>
+                <laborproductivity year="2090">0.027793001</laborproductivity>
+                <laborproductivity year="2095">0.030235872</laborproductivity>
+                <laborproductivity year="2100">0.029697186</laborproductivity>
             </GDP>
         </region>
         <region name="BR">
@@ -477,7 +477,7 @@
                     <totalPop>91439</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2010">
-                    <totalPop>101989</totalPop>
+                    <totalPop>104099</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2015">
                     <totalPop>114176</totalPop>
@@ -560,25 +560,25 @@
                 <laborforce year="2100">0.335470337</laborforce>
                 <laborproductivity year="1990">0.02406</laborproductivity>
                 <laborproductivity year="2005">0.04181</laborproductivity>
-                <laborproductivity year="2010">0.06086</laborproductivity>
-                <laborproductivity year="2015">0.05302</laborproductivity>
-                <laborproductivity year="2020">0.05145</laborproductivity>
-                <laborproductivity year="2025">0.05007</laborproductivity>
-                <laborproductivity year="2030">0.04823</laborproductivity>
-                <laborproductivity year="2035">0.04642</laborproductivity>
-                <laborproductivity year="2040">0.04468</laborproductivity>
+                <laborproductivity year="2010">0.060849933</laborproductivity>
+                <laborproductivity year="2015">0.06742558</laborproductivity>
+                <laborproductivity year="2020">0.032705012</laborproductivity>
+                <laborproductivity year="2025">0.040523909</laborproductivity>
+                <laborproductivity year="2030">0.038613211</laborproductivity>
+                <laborproductivity year="2035">0.047389806</laborproductivity>
+                <laborproductivity year="2040">0.043704575</laborproductivity>
                 <laborproductivity year="2045">0.04253</laborproductivity>
-                <laborproductivity year="2050">0.04081</laborproductivity>
-                <laborproductivity year="2055">0.03993</laborproductivity>
-                <laborproductivity year="2060">0.03772</laborproductivity>
-                <laborproductivity year="2065">0.03634</laborproductivity>
-                <laborproductivity year="2070">0.03447</laborproductivity>
-                <laborproductivity year="2075">0.03346</laborproductivity>
-                <laborproductivity year="2080">0.03244</laborproductivity>
-                <laborproductivity year="2085">0.03189</laborproductivity>
-                <laborproductivity year="2090">0.03236</laborproductivity>
+                <laborproductivity year="2050">0.039819695</laborproductivity>
+                <laborproductivity year="2055">0.035945594</laborproductivity>
+                <laborproductivity year="2060">0.038718768</laborproductivity>
+                <laborproductivity year="2065">0.032330948</laborproductivity>
+                <laborproductivity year="2070">0.035475316</laborproductivity>
+                <laborproductivity year="2075">0.030429325</laborproductivity>
+                <laborproductivity year="2080">0.033453189</laborproductivity>
+                <laborproductivity year="2085">0.026806798</laborproductivity>
+                <laborproductivity year="2090">0.030319763</laborproductivity>
                 <laborproductivity year="2095">0.03241</laborproductivity>
-                <laborproductivity year="2100">0.03049</laborproductivity>
+                <laborproductivity year="2100">0.032534623</laborproductivity>
             </GDP>
         </region>
         <region name="CG">
@@ -593,7 +593,7 @@
                     <totalPop>22718</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2010">
-                    <totalPop>25074</totalPop>
+                    <totalPop>25545</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2015">
                     <totalPop>27571</totalPop>
@@ -676,25 +676,25 @@
                 <laborforce year="2100">0.569502124</laborforce>
                 <laborproductivity year="1990">0.02406</laborproductivity>
                 <laborproductivity year="2005">0.04181</laborproductivity>
-                <laborproductivity year="2010">0.06086</laborproductivity>
-                <laborproductivity year="2015">0.05302</laborproductivity>
-                <laborproductivity year="2020">0.05145</laborproductivity>
-                <laborproductivity year="2025">0.05007</laborproductivity>
-                <laborproductivity year="2030">0.04823</laborproductivity>
-                <laborproductivity year="2035">0.04642</laborproductivity>
-                <laborproductivity year="2040">0.04468</laborproductivity>
-                <laborproductivity year="2045">0.04253</laborproductivity>
-                <laborproductivity year="2050">0.04081</laborproductivity>
-                <laborproductivity year="2055">0.03993</laborproductivity>
-                <laborproductivity year="2060">0.03772</laborproductivity>
-                <laborproductivity year="2065">0.03634</laborproductivity>
-                <laborproductivity year="2070">0.03447</laborproductivity>
-                <laborproductivity year="2075">0.03346</laborproductivity>
-                <laborproductivity year="2080">0.03244</laborproductivity>
-                <laborproductivity year="2085">0.03189</laborproductivity>
-                <laborproductivity year="2090">0.03236</laborproductivity>
-                <laborproductivity year="2095">0.03241</laborproductivity>
-                <laborproductivity year="2100">0.03049</laborproductivity>
+                <laborproductivity year="2010">0.029067126</laborproductivity>
+                <laborproductivity year="2015">0.043355461</laborproductivity>
+                <laborproductivity year="2020">0.051942918</laborproductivity>
+                <laborproductivity year="2025">0.044724474</laborproductivity>
+                <laborproductivity year="2030">0.049021606</laborproductivity>
+                <laborproductivity year="2035">0.043997843</laborproductivity>
+                <laborproductivity year="2040">0.041113813</laborproductivity>
+                <laborproductivity year="2045">0.038694766</laborproductivity>
+                <laborproductivity year="2050">0.036043145</laborproductivity>
+                <laborproductivity year="2055">0.042221275</laborproductivity>
+                <laborproductivity year="2060">0.036077551</laborproductivity>
+                <laborproductivity year="2065">0.040162057</laborproductivity>
+                <laborproductivity year="2070">0.033546184</laborproductivity>
+                <laborproductivity year="2075">0.037268711</laborproductivity>
+                <laborproductivity year="2080">0.030468913</laborproductivity>
+                <laborproductivity year="2085">0.034297519</laborproductivity>
+                <laborproductivity year="2090">0.037438837</laborproductivity>
+                <laborproductivity year="2095">0.02997118</laborproductivity>
+                <laborproductivity year="2100">0.029697186</laborproductivity>
             </GDP>
         </region>
         <region name="CH">
@@ -709,7 +709,7 @@
                     <totalPop>963</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2010">
-                    <totalPop>1040</totalPop>
+                    <totalPop>1055</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2015">
                     <totalPop>1136</totalPop>
@@ -792,25 +792,25 @@
                 <laborforce year="2100">0.111521764</laborforce>
                 <laborproductivity year="1990">0.02406</laborproductivity>
                 <laborproductivity year="2005">0.04181</laborproductivity>
-                <laborproductivity year="2010">0.06086</laborproductivity>
-                <laborproductivity year="2015">0.05302</laborproductivity>
-                <laborproductivity year="2020">0.05145</laborproductivity>
-                <laborproductivity year="2025">0.05007</laborproductivity>
-                <laborproductivity year="2030">0.04823</laborproductivity>
-                <laborproductivity year="2035">0.04642</laborproductivity>
-                <laborproductivity year="2040">0.04468</laborproductivity>
-                <laborproductivity year="2045">0.04253</laborproductivity>
-                <laborproductivity year="2050">0.04081</laborproductivity>
-                <laborproductivity year="2055">0.03993</laborproductivity>
-                <laborproductivity year="2060">0.03772</laborproductivity>
-                <laborproductivity year="2065">0.03634</laborproductivity>
-                <laborproductivity year="2070">0.03447</laborproductivity>
-                <laborproductivity year="2075">0.03346</laborproductivity>
-                <laborproductivity year="2080">0.03244</laborproductivity>
-                <laborproductivity year="2085">0.03189</laborproductivity>
-                <laborproductivity year="2090">0.03236</laborproductivity>
-                <laborproductivity year="2095">0.03241</laborproductivity>
-                <laborproductivity year="2100">0.03049</laborproductivity>
+                <laborproductivity year="2010">0.093448851</laborproductivity>
+                <laborproductivity year="2015">-0.007154869</laborproductivity>
+                <laborproductivity year="2020">0.06850715</laborproductivity>
+                <laborproductivity year="2025">0.060731395</laborproductivity>
+                <laborproductivity year="2030">0.06192532</laborproductivity>
+                <laborproductivity year="2035">0.056136636</laborproductivity>
+                <laborproductivity year="2040">0.040010389</laborproductivity>
+                <laborproductivity year="2045">0.046707315</laborproductivity>
+                <laborproductivity year="2050">0.043355226</laborproductivity>
+                <laborproductivity year="2055">0.038887766</laborproductivity>
+                <laborproductivity year="2060">0.04198879</laborproductivity>
+                <laborproductivity year="2065">0.035329907</laborproductivity>
+                <laborproductivity year="2070">0.03801632</laborproductivity>
+                <laborproductivity year="2075">0.030920811</laborproductivity>
+                <laborproductivity year="2080">0.033473103</laborproductivity>
+                <laborproductivity year="2085">0.036572607</laborproductivity>
+                <laborproductivity year="2090">0.028781326</laborproductivity>
+                <laborproductivity year="2095">0.03073367</laborproductivity>
+                <laborproductivity year="2100">0.029697187</laborproductivity>
             </GDP>
         </region>
         <region name="DD">
@@ -825,7 +825,7 @@
                     <totalPop>192</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2010">
-                    <totalPop>234</totalPop>
+                    <totalPop>243</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2015">
                     <totalPop>329</totalPop>
@@ -941,7 +941,7 @@
                     <totalPop>15026</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2010">
-                    <totalPop>16494</totalPop>
+                    <totalPop>16788</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2015">
                     <totalPop>18677</totalPop>
@@ -1024,25 +1024,25 @@
                 <laborforce year="2100">0.114832994</laborforce>
                 <laborproductivity year="1990">0.02406</laborproductivity>
                 <laborproductivity year="2005">0.04181</laborproductivity>
-                <laborproductivity year="2010">0.06086</laborproductivity>
-                <laborproductivity year="2015">0.05302</laborproductivity>
-                <laborproductivity year="2020">0.05145</laborproductivity>
-                <laborproductivity year="2025">0.05007</laborproductivity>
-                <laborproductivity year="2030">0.04823</laborproductivity>
-                <laborproductivity year="2035">0.04642</laborproductivity>
-                <laborproductivity year="2040">0.04468</laborproductivity>
-                <laborproductivity year="2045">0.04253</laborproductivity>
-                <laborproductivity year="2050">0.04081</laborproductivity>
-                <laborproductivity year="2055">0.03993</laborproductivity>
-                <laborproductivity year="2060">0.03772</laborproductivity>
-                <laborproductivity year="2065">0.03634</laborproductivity>
-                <laborproductivity year="2070">0.03447</laborproductivity>
-                <laborproductivity year="2075">0.03346</laborproductivity>
-                <laborproductivity year="2080">0.03244</laborproductivity>
-                <laborproductivity year="2085">0.03189</laborproductivity>
-                <laborproductivity year="2090">0.03236</laborproductivity>
-                <laborproductivity year="2095">0.03241</laborproductivity>
-                <laborproductivity year="2100">0.03049</laborproductivity>
+                <laborproductivity year="2010">0.025586488</laborproductivity>
+                <laborproductivity year="2015">0.067927645</laborproductivity>
+                <laborproductivity year="2020">0.058517895</laborproductivity>
+                <laborproductivity year="2025">0.054729728</laborproductivity>
+                <laborproductivity year="2030">0.046620584</laborproductivity>
+                <laborproductivity year="2035">0.042002065</laborproductivity>
+                <laborproductivity year="2040">0.046562874</laborproductivity>
+                <laborproductivity year="2045">0.043709859</laborproductivity>
+                <laborproductivity year="2050">0.040620929</laborproductivity>
+                <laborproductivity year="2055">0.036423614</laborproductivity>
+                <laborproductivity year="2060">0.039780185</laborproductivity>
+                <laborproductivity year="2065">0.033399298</laborproductivity>
+                <laborproductivity year="2070">0.036347588</laborproductivity>
+                <laborproductivity year="2075">0.029531722</laborproductivity>
+                <laborproductivity year="2080">0.032352607</laborproductivity>
+                <laborproductivity year="2085">0.035724428</laborproductivity>
+                <laborproductivity year="2090">0.02821735</laborproductivity>
+                <laborproductivity year="2095">0.030449664</laborproductivity>
+                <laborproductivity year="2100">0.029697187</laborproductivity>
             </GDP>
         </region>
         <region name="DN">
@@ -1057,7 +1057,7 @@
                     <totalPop>270</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2010">
-                    <totalPop>332</totalPop>
+                    <totalPop>344</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2015">
                     <totalPop>452</totalPop>
@@ -1173,7 +1173,7 @@
                     <totalPop>1392</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2010">
-                    <totalPop>1448</totalPop>
+                    <totalPop>1459</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2015">
                     <totalPop>1512</totalPop>
@@ -1256,25 +1256,25 @@
                 <laborforce year="2100">0.170012622</laborforce>
                 <laborproductivity year="1990">0.02406</laborproductivity>
                 <laborproductivity year="2005">0.04181</laborproductivity>
-                <laborproductivity year="2010">0.06086</laborproductivity>
-                <laborproductivity year="2015">0.05302</laborproductivity>
-                <laborproductivity year="2020">0.05145</laborproductivity>
-                <laborproductivity year="2025">0.05007</laborproductivity>
-                <laborproductivity year="2030">0.04823</laborproductivity>
-                <laborproductivity year="2035">0.04642</laborproductivity>
-                <laborproductivity year="2040">0.04468</laborproductivity>
-                <laborproductivity year="2045">0.04253</laborproductivity>
-                <laborproductivity year="2050">0.04081</laborproductivity>
-                <laborproductivity year="2055">0.03993</laborproductivity>
-                <laborproductivity year="2060">0.03772</laborproductivity>
-                <laborproductivity year="2065">0.03634</laborproductivity>
-                <laborproductivity year="2070">0.03447</laborproductivity>
-                <laborproductivity year="2075">0.03346</laborproductivity>
-                <laborproductivity year="2080">0.03244</laborproductivity>
-                <laborproductivity year="2085">0.03189</laborproductivity>
-                <laborproductivity year="2090">0.03236</laborproductivity>
-                <laborproductivity year="2095">0.03241</laborproductivity>
-                <laborproductivity year="2100">0.03049</laborproductivity>
+                <laborproductivity year="2010">0.191013826</laborproductivity>
+                <laborproductivity year="2015">-0.067120126</laborproductivity>
+                <laborproductivity year="2020">0.066255759</laborproductivity>
+                <laborproductivity year="2025">0.057983693</laborproductivity>
+                <laborproductivity year="2030">0.049442303</laborproductivity>
+                <laborproductivity year="2035">0.053048621</laborproductivity>
+                <laborproductivity year="2040">0.041033705</laborproductivity>
+                <laborproductivity year="2045">0.04688973</laborproductivity>
+                <laborproductivity year="2050">0.042590936</laborproductivity>
+                <laborproductivity year="2055">0.037164734</laborproductivity>
+                <laborproductivity year="2060">0.039381505</laborproductivity>
+                <laborproductivity year="2065">0.03176159</laborproductivity>
+                <laborproductivity year="2070">0.033550389</laborproductivity>
+                <laborproductivity year="2075">0.035649406</laborproductivity>
+                <laborproductivity year="2080">0.037303158</laborproductivity>
+                <laborproductivity year="2085">0.029302735</laborproductivity>
+                <laborproductivity year="2090">0.030755162</laborproductivity>
+                <laborproductivity year="2095">0.0317773</laborproductivity>
+                <laborproductivity year="2100">0.029799072</laborproductivity>
             </GDP>
         </region>
         <region name="GJ">
@@ -1289,61 +1289,61 @@
                     <totalPop>54579</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2010">
-                    <totalPop>59463</totalPop>
+                    <totalPop>60440</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2015">
-                    <totalPop>65200</totalPop>
+                    <totalPop>65158</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2020">
-                    <totalPop>69800</totalPop>
+                    <totalPop>69788</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2025">
-                    <totalPop>74100</totalPop>
+                    <totalPop>74086</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2030">
-                    <totalPop>77900</totalPop>
+                    <totalPop>77931</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2035">
-                    <totalPop>81300</totalPop>
+                    <totalPop>81316</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2040">
-                    <totalPop>83500</totalPop>
+                    <totalPop>83459</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2045">
-                    <totalPop>85000</totalPop>
+                    <totalPop>85022</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2050">
-                    <totalPop>86100</totalPop>
+                    <totalPop>86090</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2055">
-                    <totalPop>86700</totalPop>
+                    <totalPop>86686</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2060">
-                    <totalPop>86400</totalPop>
+                    <totalPop>86834</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2065">
-                    <totalPop>85700</totalPop>
+                    <totalPop>86539</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2070">
-                    <totalPop>84600</totalPop>
+                    <totalPop>85808</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2075">
-                    <totalPop>82912</totalPop>
+                    <totalPop>84703</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2080">
-                    <totalPop>81225</totalPop>
+                    <totalPop>83325</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2085">
-                    <totalPop>79538</totalPop>
+                    <totalPop>81755</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2090">
-                    <totalPop>77850</totalPop>
+                    <totalPop>80074</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2095">
-                    <totalPop>76163</totalPop>
+                    <totalPop>78315</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2100">
-                    <totalPop>74476</totalPop>
+                    <totalPop>76518</totalPop>
                 </populationMiniCAM>
             </demographics>
             <GDP>
@@ -1351,46 +1351,46 @@
                 <laborforce year="1975">0.5</laborforce>
                 <laborforce year="1990">0.5</laborforce>
                 <laborforce year="2005">0.5</laborforce>
-                <laborforce year="2010">0.460000149</laborforce>
-                <laborforce year="2015">0.474999877</laborforce>
-                <laborforce year="2020">0.409311184</laborforce>
-                <laborforce year="2025">0.466553439</laborforce>
-                <laborforce year="2030">0.526569429</laborforce>
-                <laborforce year="2035">0.586002159</laborforce>
-                <laborforce year="2040">0.642743643</laborforce>
-                <laborforce year="2045">0.687020001</laborforce>
-                <laborforce year="2050">0.715206314</laborforce>
-                <laborforce year="2055">0.723853603</laborforce>
-                <laborforce year="2060">0.724268189</laborforce>
-                <laborforce year="2065">0.716617739</laborforce>
-                <laborforce year="2070">0.703457468</laborforce>
-                <laborforce year="2075">0.683633471</laborforce>
-                <laborforce year="2080">0.658449542</laborforce>
-                <laborforce year="2085">0.626381911</laborforce>
-                <laborforce year="2090">0.590062147</laborforce>
-                <laborforce year="2095">0.551393678</laborforce>
-                <laborforce year="2100">0.518370916</laborforce>
-                <laborproductivity year="1990">0.01506</laborproductivity>
-                <laborproductivity year="2005">0.04194</laborproductivity>
-                <laborproductivity year="2010">0.0001</laborproductivity>
-                <laborproductivity year="2015">0.04787</laborproductivity>
-                <laborproductivity year="2020">0.099</laborproductivity>
-                <laborproductivity year="2025">0.03656</laborproductivity>
-                <laborproductivity year="2030">0.07265</laborproductivity>
-                <laborproductivity year="2035">0.07094</laborproductivity>
-                <laborproductivity year="2040">0.06922</laborproductivity>
-                <laborproductivity year="2045">0.06722</laborproductivity>
-                <laborproductivity year="2050">0.06565</laborproductivity>
-                <laborproductivity year="2055">0.06492</laborproductivity>
-                <laborproductivity year="2060">0.06278</laborproductivity>
-                <laborproductivity year="2065">0.06147</laborproductivity>
-                <laborproductivity year="2070">0.05968</laborproductivity>
-                <laborproductivity year="2075">0.0317</laborproductivity>
-                <laborproductivity year="2080">0.0307</laborproductivity>
-                <laborproductivity year="2085">0.0296</laborproductivity>
-                <laborproductivity year="2090">0.0284</laborproductivity>
-                <laborproductivity year="2095">0.027</laborproductivity>
-                <laborproductivity year="2100">0.0254</laborproductivity>
+                <laborforce year="2010">0.319999847</laborforce>
+                <laborforce year="2015">0.310000036</laborforce>
+                <laborforce year="2020">0.254355305</laborforce>
+                <laborforce year="2025">0.294897782</laborforce>
+                <laborforce year="2030">0.33828038</laborforce>
+                <laborforce year="2035">0.382239976</laborforce>
+                <laborforce year="2040">0.424887029</laborforce>
+                <laborforce year="2045">0.45942671</laborforce>
+                <laborforce year="2050">0.482905622</laborforce>
+                <laborforce year="2055">0.495601319</laborforce>
+                <laborforce year="2060">0.502139816</laborforce>
+                <laborforce year="2065">0.501534041</laborforce>
+                <laborforce year="2070">0.495416895</laborforce>
+                <laborforce year="2075">0.482931435</laborforce>
+                <laborforce year="2080">0.465062258</laborforce>
+                <laborforce year="2085">0.440890366</laborforce>
+                <laborforce year="2090">0.412518618</laborforce>
+                <laborforce year="2095">0.381585459</laborforce>
+                <laborforce year="2100">0.353893516</laborforce>
+                <laborproductivity year="1990">0.02406</laborproductivity>
+                <laborproductivity year="2005">0.04181</laborproductivity>
+                <laborproductivity year="2010">0.056281414</laborproductivity>
+                <laborproductivity year="2015">0.064589196</laborproductivity>
+                <laborproductivity year="2020">0.080666033</laborproductivity>
+                <laborproductivity year="2025">0.045657069</laborproductivity>
+                <laborproductivity year="2030">0.049809786</laborproductivity>
+                <laborproductivity year="2035">0.045005906</laborproductivity>
+                <laborproductivity year="2040">0.042165445</laborproductivity>
+                <laborproductivity year="2045">0.039695087</laborproductivity>
+                <laborproductivity year="2050">0.036991738</laborproductivity>
+                <laborproductivity year="2055">0.043124415</laborproductivity>
+                <laborproductivity year="2060">0.036923655</laborproductivity>
+                <laborproductivity year="2065">0.040959043</laborproductivity>
+                <laborproductivity year="2070">0.034285624</laborproductivity>
+                <laborproductivity year="2075">0.037957454</laborproductivity>
+                <laborproductivity year="2080">0.031099469</laborproductivity>
+                <laborproductivity year="2085">0.034876118</laborproductivity>
+                <laborproductivity year="2090">0.027787175</laborproductivity>
+                <laborproductivity year="2095">0.030435878</laborproductivity>
+                <laborproductivity year="2100">0.030104855</laborproductivity>
             </GDP>
         </region>
         <region name="HP">
@@ -1405,7 +1405,7 @@
                     <totalPop>6393</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2010">
-                    <totalPop>6786</totalPop>
+                    <totalPop>6865</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2015">
                     <totalPop>7158</totalPop>
@@ -1488,25 +1488,25 @@
                 <laborforce year="2100">0.297323582</laborforce>
                 <laborproductivity year="1990">0.02406</laborproductivity>
                 <laborproductivity year="2005">0.04181</laborproductivity>
-                <laborproductivity year="2010">0.06086</laborproductivity>
-                <laborproductivity year="2015">0.05302</laborproductivity>
-                <laborproductivity year="2020">0.05145</laborproductivity>
-                <laborproductivity year="2025">0.05007</laborproductivity>
-                <laborproductivity year="2030">0.04823</laborproductivity>
-                <laborproductivity year="2035">0.04642</laborproductivity>
-                <laborproductivity year="2040">0.04468</laborproductivity>
-                <laborproductivity year="2045">0.04253</laborproductivity>
-                <laborproductivity year="2050">0.04081</laborproductivity>
-                <laborproductivity year="2055">0.03993</laborproductivity>
-                <laborproductivity year="2060">0.03772</laborproductivity>
-                <laborproductivity year="2065">0.03634</laborproductivity>
-                <laborproductivity year="2070">0.03447</laborproductivity>
-                <laborproductivity year="2075">0.03346</laborproductivity>
-                <laborproductivity year="2080">0.03244</laborproductivity>
-                <laborproductivity year="2085">0.03189</laborproductivity>
-                <laborproductivity year="2090">0.03236</laborproductivity>
-                <laborproductivity year="2095">0.03241</laborproductivity>
-                <laborproductivity year="2100">0.03049</laborproductivity>
+                <laborproductivity year="2010">0.044312054</laborproductivity>
+                <laborproductivity year="2015">0.044621937</laborproductivity>
+                <laborproductivity year="2020">0.041668194</laborproductivity>
+                <laborproductivity year="2025">0.050049002</laborproductivity>
+                <laborproductivity year="2030">0.052704428</laborproductivity>
+                <laborproductivity year="2035">0.047580467</laborproductivity>
+                <laborproductivity year="2040">0.047805381</laborproductivity>
+                <laborproductivity year="2045">0.044003919</laborproductivity>
+                <laborproductivity year="2050">0.039963032</laborproductivity>
+                <laborproductivity year="2055">0.044847259</laborproductivity>
+                <laborproductivity year="2060">0.037266189</laborproductivity>
+                <laborproductivity year="2065">0.040013084</laborproductivity>
+                <laborproductivity year="2070">0.031957785</laborproductivity>
+                <laborproductivity year="2075">0.034313025</laborproductivity>
+                <laborproductivity year="2080">0.036227078</laborproductivity>
+                <laborproductivity year="2085">0.028497599</laborproductivity>
+                <laborproductivity year="2090">0.030215479</laborproductivity>
+                <laborproductivity year="2095">0.031506024</laborproductivity>
+                <laborproductivity year="2100">0.029799073</laborproductivity>
             </GDP>
         </region>
         <region name="HR">
@@ -1521,7 +1521,7 @@
                     <totalPop>22827</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2010">
-                    <totalPop>24930</totalPop>
+                    <totalPop>25351</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2015">
                     <totalPop>27455</totalPop>
@@ -1604,25 +1604,25 @@
                 <laborforce year="2100">0.112104141</laborforce>
                 <laborproductivity year="1990">0.02406</laborproductivity>
                 <laborproductivity year="2005">0.04181</laborproductivity>
-                <laborproductivity year="2010">0.06086</laborproductivity>
-                <laborproductivity year="2015">0.05302</laborproductivity>
-                <laborproductivity year="2020">0.05145</laborproductivity>
-                <laborproductivity year="2025">0.05007</laborproductivity>
-                <laborproductivity year="2030">0.04823</laborproductivity>
-                <laborproductivity year="2035">0.04642</laborproductivity>
-                <laborproductivity year="2040">0.04468</laborproductivity>
-                <laborproductivity year="2045">0.04253</laborproductivity>
-                <laborproductivity year="2050">0.04081</laborproductivity>
-                <laborproductivity year="2055">0.03993</laborproductivity>
-                <laborproductivity year="2060">0.03772</laborproductivity>
-                <laborproductivity year="2065">0.03634</laborproductivity>
-                <laborproductivity year="2070">0.03447</laborproductivity>
-                <laborproductivity year="2075">0.03346</laborproductivity>
-                <laborproductivity year="2080">0.03244</laborproductivity>
-                <laborproductivity year="2085">0.03189</laborproductivity>
-                <laborproductivity year="2090">0.03236</laborproductivity>
-                <laborproductivity year="2095">0.03241</laborproductivity>
-                <laborproductivity year="2100">0.03049</laborproductivity>
+                <laborproductivity year="2010">0.066877838</laborproductivity>
+                <laborproductivity year="2015">0.056434991</laborproductivity>
+                <laborproductivity year="2020">0.075010059</laborproductivity>
+                <laborproductivity year="2025">0.048847507</laborproductivity>
+                <laborproductivity year="2030">0.051182108</laborproductivity>
+                <laborproductivity year="2035">0.045785831</laborproductivity>
+                <laborproductivity year="2040">0.048134495</laborproductivity>
+                <laborproductivity year="2045">0.044443618</laborproductivity>
+                <laborproductivity year="2050">0.040513775</laborproductivity>
+                <laborproductivity year="2055">0.035461486</laborproductivity>
+                <laborproductivity year="2060">0.038042542</laborproductivity>
+                <laborproductivity year="2065">0.040906856</laborproductivity>
+                <laborproductivity year="2070">0.032960522</laborproductivity>
+                <laborproductivity year="2075">0.035435319</laborproductivity>
+                <laborproductivity year="2080">0.037470113</laborproductivity>
+                <laborproductivity year="2085">0.029850904</laborproductivity>
+                <laborproductivity year="2090">0.031690103</laborproductivity>
+                <laborproductivity year="2095">0.033103127</laborproductivity>
+                <laborproductivity year="2100">0.031513742</laborproductivity>
             </GDP>
         </region>
         <region name="JH">
@@ -1637,7 +1637,7 @@
                     <totalPop>29363</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2010">
-                    <totalPop>32384</totalPop>
+                    <totalPop>32988</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2015">
                     <totalPop>35800</totalPop>
@@ -1720,25 +1720,25 @@
                 <laborforce year="2100">0.300856975</laborforce>
                 <laborproductivity year="1990">0.02406</laborproductivity>
                 <laborproductivity year="2005">0.04181</laborproductivity>
-                <laborproductivity year="2010">0.06086</laborproductivity>
-                <laborproductivity year="2015">0.05302</laborproductivity>
-                <laborproductivity year="2020">0.05145</laborproductivity>
-                <laborproductivity year="2025">0.05007</laborproductivity>
-                <laborproductivity year="2030">0.04823</laborproductivity>
-                <laborproductivity year="2035">0.04642</laborproductivity>
-                <laborproductivity year="2040">0.04468</laborproductivity>
-                <laborproductivity year="2045">0.04253</laborproductivity>
-                <laborproductivity year="2050">0.04081</laborproductivity>
-                <laborproductivity year="2055">0.03993</laborproductivity>
-                <laborproductivity year="2060">0.03772</laborproductivity>
-                <laborproductivity year="2065">0.03634</laborproductivity>
-                <laborproductivity year="2070">0.03447</laborproductivity>
-                <laborproductivity year="2075">0.03346</laborproductivity>
-                <laborproductivity year="2080">0.03244</laborproductivity>
-                <laborproductivity year="2085">0.03189</laborproductivity>
-                <laborproductivity year="2090">0.03236</laborproductivity>
-                <laborproductivity year="2095">0.03241</laborproductivity>
-                <laborproductivity year="2100">0.03049</laborproductivity>
+                <laborproductivity year="2010">0.0533</laborproductivity>
+                <laborproductivity year="2015">0.017468132</laborproductivity>
+                <laborproductivity year="2020">0.023544076</laborproductivity>
+                <laborproductivity year="2025">0.051</laborproductivity>
+                <laborproductivity year="2030">0.044</laborproductivity>
+                <laborproductivity year="2035">0.048</laborproductivity>
+                <laborproductivity year="2040">0.044</laborproductivity>
+                <laborproductivity year="2045">0.04</laborproductivity>
+                <laborproductivity year="2050">0.037</laborproductivity>
+                <laborproductivity year="2055">0.042</laborproductivity>
+                <laborproductivity year="2060">0.035</laborproductivity>
+                <laborproductivity year="2065">0.038</laborproductivity>
+                <laborproductivity year="2070">0.03</laborproductivity>
+                <laborproductivity year="2075">0.033</laborproductivity>
+                <laborproductivity year="2080">0.035</laborproductivity>
+                <laborproductivity year="2085">0.027</laborproductivity>
+                <laborproductivity year="2090">0.029</laborproductivity>
+                <laborproductivity year="2095">0.031</laborproductivity>
+                <laborproductivity year="2100">0.03</laborproductivity>
             </GDP>
         </region>
         <region name="JK">
@@ -1753,7 +1753,7 @@
                     <totalPop>10860</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2010">
-                    <totalPop>12033</totalPop>
+                    <totalPop>12267</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2015">
                     <totalPop>12897</totalPop>
@@ -1836,25 +1836,25 @@
                 <laborforce year="2100">0.153903604</laborforce>
                 <laborproductivity year="1990">0.02406</laborproductivity>
                 <laborproductivity year="2005">0.04181</laborproductivity>
-                <laborproductivity year="2010">0.06086</laborproductivity>
-                <laborproductivity year="2015">0.05302</laborproductivity>
-                <laborproductivity year="2020">0.05145</laborproductivity>
-                <laborproductivity year="2025">0.05007</laborproductivity>
-                <laborproductivity year="2030">0.04823</laborproductivity>
-                <laborproductivity year="2035">0.04642</laborproductivity>
-                <laborproductivity year="2040">0.04468</laborproductivity>
-                <laborproductivity year="2045">0.04253</laborproductivity>
-                <laborproductivity year="2050">0.04081</laborproductivity>
-                <laborproductivity year="2055">0.03993</laborproductivity>
-                <laborproductivity year="2060">0.03772</laborproductivity>
-                <laborproductivity year="2065">0.03634</laborproductivity>
-                <laborproductivity year="2070">0.03447</laborproductivity>
-                <laborproductivity year="2075">0.03346</laborproductivity>
-                <laborproductivity year="2080">0.03244</laborproductivity>
-                <laborproductivity year="2085">0.03189</laborproductivity>
-                <laborproductivity year="2090">0.03236</laborproductivity>
-                <laborproductivity year="2095">0.03241</laborproductivity>
-                <laborproductivity year="2100">0.03049</laborproductivity>
+                <laborproductivity year="2010">0.023693938</laborproductivity>
+                <laborproductivity year="2015">0.065032528</laborproductivity>
+                <laborproductivity year="2020">0.075923059</laborproductivity>
+                <laborproductivity year="2025">0.053794079</laborproductivity>
+                <laborproductivity year="2030">0.054927411</laborproductivity>
+                <laborproductivity year="2035">0.048169547</laborproductivity>
+                <laborproductivity year="2040">0.048240335</laborproductivity>
+                <laborproductivity year="2045">0.044474992</laborproductivity>
+                <laborproductivity year="2050">0.040470377</laborproductivity>
+                <laborproductivity year="2055">0.035343258</laborproductivity>
+                <laborproductivity year="2060">0.037848126</laborproductivity>
+                <laborproductivity year="2065">0.040635092</laborproductivity>
+                <laborproductivity year="2070">0.032613783</laborproductivity>
+                <laborproductivity year="2075">0.035009769</laborproductivity>
+                <laborproductivity year="2080">0.036964819</laborproductivity>
+                <laborproductivity year="2085">0.029269968</laborproductivity>
+                <laborproductivity year="2090">0.031028667</laborproductivity>
+                <laborproductivity year="2095">0.032360364</laborproductivity>
+                <laborproductivity year="2100">0.030691742</laborproductivity>
             </GDP>
         </region>
         <region name="KA">
@@ -1869,7 +1869,7 @@
                     <totalPop>56149</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2010">
-                    <totalPop>60271</totalPop>
+                    <totalPop>61095</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2015">
                     <totalPop>64229</totalPop>
@@ -1952,25 +1952,25 @@
                 <laborforce year="2100">0.333104752</laborforce>
                 <laborproductivity year="1990">0.02406</laborproductivity>
                 <laborproductivity year="2005">0.04181</laborproductivity>
-                <laborproductivity year="2010">0.06086</laborproductivity>
-                <laborproductivity year="2015">0.05302</laborproductivity>
-                <laborproductivity year="2020">0.05145</laborproductivity>
-                <laborproductivity year="2025">0.05007</laborproductivity>
-                <laborproductivity year="2030">0.04823</laborproductivity>
-                <laborproductivity year="2035">0.04642</laborproductivity>
-                <laborproductivity year="2040">0.04468</laborproductivity>
-                <laborproductivity year="2045">0.04253</laborproductivity>
-                <laborproductivity year="2050">0.04081</laborproductivity>
-                <laborproductivity year="2055">0.03993</laborproductivity>
-                <laborproductivity year="2060">0.03772</laborproductivity>
-                <laborproductivity year="2065">0.03634</laborproductivity>
-                <laborproductivity year="2070">0.03447</laborproductivity>
-                <laborproductivity year="2075">0.03346</laborproductivity>
-                <laborproductivity year="2080">0.03244</laborproductivity>
-                <laborproductivity year="2085">0.03189</laborproductivity>
-                <laborproductivity year="2090">0.03236</laborproductivity>
-                <laborproductivity year="2095">0.03241</laborproductivity>
-                <laborproductivity year="2100">0.03049</laborproductivity>
+                <laborproductivity year="2010">0.002</laborproductivity>
+                <laborproductivity year="2015">0.064</laborproductivity>
+                <laborproductivity year="2020">0.051</laborproductivity>
+                <laborproductivity year="2025">0.048</laborproductivity>
+                <laborproductivity year="2030">0.051</laborproductivity>
+                <laborproductivity year="2035">0.045</laborproductivity>
+                <laborproductivity year="2040">0.048</laborproductivity>
+                <laborproductivity year="2045">0.044</laborproductivity>
+                <laborproductivity year="2050">0.04</laborproductivity>
+                <laborproductivity year="2055">0.035</laborproductivity>
+                <laborproductivity year="2060">0.038</laborproductivity>
+                <laborproductivity year="2065">0.041</laborproductivity>
+                <laborproductivity year="2070">0.033</laborproductivity>
+                <laborproductivity year="2075">0.035</laborproductivity>
+                <laborproductivity year="2080">0.037</laborproductivity>
+                <laborproductivity year="2085">0.029</laborproductivity>
+                <laborproductivity year="2090">0.031</laborproductivity>
+                <laborproductivity year="2095">0.032</laborproductivity>
+                <laborproductivity year="2100">0.031</laborproductivity>
             </GDP>
         </region>
         <region name="KL">
@@ -1985,7 +1985,7 @@
                     <totalPop>32467</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2010">
-                    <totalPop>33250</totalPop>
+                    <totalPop>33406</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2015">
                     <totalPop>34578</totalPop>
@@ -2068,25 +2068,25 @@
                 <laborforce year="2100">0.581899203</laborforce>
                 <laborproductivity year="1990">0.02406</laborproductivity>
                 <laborproductivity year="2005">0.04181</laborproductivity>
-                <laborproductivity year="2010">0.06086</laborproductivity>
-                <laborproductivity year="2015">0.05302</laborproductivity>
-                <laborproductivity year="2020">0.05145</laborproductivity>
-                <laborproductivity year="2025">0.05007</laborproductivity>
-                <laborproductivity year="2030">0.04823</laborproductivity>
-                <laborproductivity year="2035">0.04642</laborproductivity>
-                <laborproductivity year="2040">0.04468</laborproductivity>
-                <laborproductivity year="2045">0.04253</laborproductivity>
-                <laborproductivity year="2050">0.04081</laborproductivity>
-                <laborproductivity year="2055">0.03993</laborproductivity>
-                <laborproductivity year="2060">0.03772</laborproductivity>
-                <laborproductivity year="2065">0.03634</laborproductivity>
-                <laborproductivity year="2070">0.03447</laborproductivity>
-                <laborproductivity year="2075">0.03346</laborproductivity>
-                <laborproductivity year="2080">0.03244</laborproductivity>
-                <laborproductivity year="2085">0.03189</laborproductivity>
-                <laborproductivity year="2090">0.03236</laborproductivity>
-                <laborproductivity year="2095">0.03241</laborproductivity>
-                <laborproductivity year="2100">0.03049</laborproductivity>
+                <laborproductivity year="2010">0.027647946</laborproductivity>
+                <laborproductivity year="2015">0.049875082</laborproductivity>
+                <laborproductivity year="2020">0.044061041</laborproductivity>
+                <laborproductivity year="2025">0.047096992</laborproductivity>
+                <laborproductivity year="2030">0.049927461</laborproductivity>
+                <laborproductivity year="2035">0.04299944</laborproductivity>
+                <laborproductivity year="2040">0.048001263</laborproductivity>
+                <laborproductivity year="2045">0.044265608</laborproductivity>
+                <laborproductivity year="2050">0.040290795</laborproductivity>
+                <laborproductivity year="2055">0.035193916</laborproductivity>
+                <laborproductivity year="2060">0.037728178</laborproductivity>
+                <laborproductivity year="2065">0.040544922</laborproductivity>
+                <laborproductivity year="2070">0.032554436</laborproductivity>
+                <laborproductivity year="2075">0.034980784</laborproductivity>
+                <laborproductivity year="2080">0.036966643</laborproductivity>
+                <laborproductivity year="2085">0.029302735</laborproductivity>
+                <laborproductivity year="2090">0.03109275</laborproductivity>
+                <laborproductivity year="2095">0.032456114</laborproductivity>
+                <laborproductivity year="2100">0.030819054</laborproductivity>
             </GDP>
         </region>
         <region name="LA">
@@ -2101,7 +2101,7 @@
                     <totalPop>243</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2010">
-                    <totalPop>269</totalPop>
+                    <totalPop>274</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2015">
                     <totalPop>287</totalPop>
@@ -2333,7 +2333,7 @@
                     <totalPop>103077</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2010">
-                    <totalPop>110824</totalPop>
+                    <totalPop>112374</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2015">
                     <totalPop>118727</totalPop>
@@ -2416,25 +2416,25 @@
                 <laborforce year="2100">0.252540076</laborforce>
                 <laborproductivity year="1990">0.02406</laborproductivity>
                 <laborproductivity year="2005">0.04181</laborproductivity>
-                <laborproductivity year="2010">0.06086</laborproductivity>
-                <laborproductivity year="2015">0.05302</laborproductivity>
-                <laborproductivity year="2020">0.05145</laborproductivity>
-                <laborproductivity year="2025">0.05007</laborproductivity>
-                <laborproductivity year="2030">0.04823</laborproductivity>
-                <laborproductivity year="2035">0.04642</laborproductivity>
-                <laborproductivity year="2040">0.04468</laborproductivity>
-                <laborproductivity year="2045">0.04253</laborproductivity>
-                <laborproductivity year="2050">0.04081</laborproductivity>
-                <laborproductivity year="2055">0.03993</laborproductivity>
-                <laborproductivity year="2060">0.03772</laborproductivity>
-                <laborproductivity year="2065">0.03634</laborproductivity>
-                <laborproductivity year="2070">0.03447</laborproductivity>
-                <laborproductivity year="2075">0.03346</laborproductivity>
-                <laborproductivity year="2080">0.03244</laborproductivity>
-                <laborproductivity year="2085">0.03189</laborproductivity>
-                <laborproductivity year="2090">0.03236</laborproductivity>
-                <laborproductivity year="2095">0.03241</laborproductivity>
-                <laborproductivity year="2100">0.03049</laborproductivity>
+                <laborproductivity year="2010">0.044391152</laborproductivity>
+                <laborproductivity year="2015">0.072120464</laborproductivity>
+                <laborproductivity year="2020">0.051617211</laborproductivity>
+                <laborproductivity year="2025">0.049889064</laborproductivity>
+                <laborproductivity year="2030">0.052939103</laborproductivity>
+                <laborproductivity year="2035">0.048274549</laborproductivity>
+                <laborproductivity year="2040">0.040184067</laborproductivity>
+                <laborproductivity year="2045">0.046941816</laborproductivity>
+                <laborproductivity year="2050">0.043649304</laborproductivity>
+                <laborproductivity year="2055">0.039241062</laborproductivity>
+                <laborproductivity year="2060">0.042404321</laborproductivity>
+                <laborproductivity year="2065">0.035804235</laborproductivity>
+                <laborproductivity year="2070">0.038554323</laborproductivity>
+                <laborproductivity year="2075">0.03151782</laborproductivity>
+                <laborproductivity year="2080">0.03413513</laborproductivity>
+                <laborproductivity year="2085">0.027131756</laborproductivity>
+                <laborproductivity year="2090">0.029568606</laborproductivity>
+                <laborproductivity year="2095">0.031587392</laborproductivity>
+                <laborproductivity year="2100">0.030614896</laborproductivity>
             </GDP>
         </region>
         <region name="ML">
@@ -2449,7 +2449,7 @@
                     <totalPop>2578</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2010">
-                    <totalPop>2902</totalPop>
+                    <totalPop>2967</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2015">
                     <totalPop>3129</totalPop>
@@ -2532,25 +2532,25 @@
                 <laborforce year="2100">0.23346793</laborforce>
                 <laborproductivity year="1990">0.02406</laborproductivity>
                 <laborproductivity year="2005">0.04181</laborproductivity>
-                <laborproductivity year="2010">0.06086</laborproductivity>
-                <laborproductivity year="2015">0.05302</laborproductivity>
-                <laborproductivity year="2020">0.05145</laborproductivity>
-                <laborproductivity year="2025">0.05007</laborproductivity>
-                <laborproductivity year="2030">0.04823</laborproductivity>
-                <laborproductivity year="2035">0.04642</laborproductivity>
-                <laborproductivity year="2040">0.04468</laborproductivity>
-                <laborproductivity year="2045">0.04253</laborproductivity>
-                <laborproductivity year="2050">0.04081</laborproductivity>
-                <laborproductivity year="2055">0.03993</laborproductivity>
-                <laborproductivity year="2060">0.03772</laborproductivity>
-                <laborproductivity year="2065">0.03634</laborproductivity>
-                <laborproductivity year="2070">0.03447</laborproductivity>
-                <laborproductivity year="2075">0.03346</laborproductivity>
-                <laborproductivity year="2080">0.03244</laborproductivity>
-                <laborproductivity year="2085">0.03189</laborproductivity>
-                <laborproductivity year="2090">0.03236</laborproductivity>
-                <laborproductivity year="2095">0.03241</laborproductivity>
-                <laborproductivity year="2100">0.03049</laborproductivity>
+                <laborproductivity year="2010">0.040658283</laborproductivity>
+                <laborproductivity year="2015">0.039122835</laborproductivity>
+                <laborproductivity year="2020">0.043218488</laborproductivity>
+                <laborproductivity year="2025">0.054705403</laborproductivity>
+                <laborproductivity year="2030">0.047221202</laborproductivity>
+                <laborproductivity year="2035">0.051859598</laborproductivity>
+                <laborproductivity year="2040">0.043801741</laborproductivity>
+                <laborproductivity year="2045">0.040350885</laborproductivity>
+                <laborproductivity year="2050">0.036662064</laborproductivity>
+                <laborproductivity year="2055">0.041877639</laborproductivity>
+                <laborproductivity year="2060">0.034666888</laborproductivity>
+                <laborproductivity year="2065">0.037759813</laborproductivity>
+                <laborproductivity year="2070">0.030074954</laborproductivity>
+                <laborproductivity year="2075">0.03278353</laborproductivity>
+                <laborproductivity year="2080">0.035056833</laborproductivity>
+                <laborproductivity year="2085">0.027698934</laborproductivity>
+                <laborproductivity year="2090">0.029783707</laborproductivity>
+                <laborproductivity year="2095">0.031445637</laborproductivity>
+                <laborproductivity year="2100">0.030113354</laborproductivity>
             </GDP>
         </region>
         <region name="MN">
@@ -2565,7 +2565,7 @@
                     <totalPop>2519</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2010">
-                    <totalPop>2800</totalPop>
+                    <totalPop>2856</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2015">
                     <totalPop>3012</totalPop>
@@ -2648,25 +2648,25 @@
                 <laborforce year="2100">0.3496472</laborforce>
                 <laborproductivity year="1990">0.02406</laborproductivity>
                 <laborproductivity year="2005">0.04181</laborproductivity>
-                <laborproductivity year="2010">0.06086</laborproductivity>
-                <laborproductivity year="2015">0.05302</laborproductivity>
-                <laborproductivity year="2020">0.05145</laborproductivity>
-                <laborproductivity year="2025">0.05007</laborproductivity>
-                <laborproductivity year="2030">0.04823</laborproductivity>
-                <laborproductivity year="2035">0.04642</laborproductivity>
-                <laborproductivity year="2040">0.04468</laborproductivity>
-                <laborproductivity year="2045">0.04253</laborproductivity>
-                <laborproductivity year="2050">0.04081</laborproductivity>
-                <laborproductivity year="2055">0.03993</laborproductivity>
-                <laborproductivity year="2060">0.03772</laborproductivity>
-                <laborproductivity year="2065">0.03634</laborproductivity>
-                <laborproductivity year="2070">0.03447</laborproductivity>
-                <laborproductivity year="2075">0.03346</laborproductivity>
-                <laborproductivity year="2080">0.03244</laborproductivity>
-                <laborproductivity year="2085">0.03189</laborproductivity>
-                <laborproductivity year="2090">0.03236</laborproductivity>
-                <laborproductivity year="2095">0.03241</laborproductivity>
-                <laborproductivity year="2100">0.03049</laborproductivity>
+                <laborproductivity year="2010">0.019432751</laborproductivity>
+                <laborproductivity year="2015">0.07125821</laborproductivity>
+                <laborproductivity year="2020">0.069828505</laborproductivity>
+                <laborproductivity year="2025">0.045684683</laborproductivity>
+                <laborproductivity year="2030">0.03825775</laborproductivity>
+                <laborproductivity year="2035">0.041575606</laborproductivity>
+                <laborproductivity year="2040">0.040962237</laborproductivity>
+                <laborproductivity year="2045">0.046922946</laborproductivity>
+                <laborproductivity year="2050">0.042729842</laborproductivity>
+                <laborproductivity year="2055">0.037409138</laborproductivity>
+                <laborproductivity year="2060">0.039733753</laborproductivity>
+                <laborproductivity year="2065">0.032218752</laborproductivity>
+                <laborproductivity year="2070">0.034117178</laborproductivity>
+                <laborproductivity year="2075">0.036327411</laborproductivity>
+                <laborproductivity year="2080">0.02791615</laborproductivity>
+                <laborproductivity year="2085">0.03019889</laborproductivity>
+                <laborproductivity year="2090">0.031764413</laborproductivity>
+                <laborproductivity year="2095">0.032900672</laborproductivity>
+                <laborproductivity year="2100">0.031033206</laborproductivity>
             </GDP>
         </region>
         <region name="MP">
@@ -2681,7 +2681,7 @@
                     <totalPop>65260</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2010">
-                    <totalPop>71399</totalPop>
+                    <totalPop>72627</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2015">
                     <totalPop>78806</totalPop>
@@ -2764,25 +2764,25 @@
                 <laborforce year="2100">0.250747755</laborforce>
                 <laborproductivity year="1990">0.02406</laborproductivity>
                 <laborproductivity year="2005">0.04181</laborproductivity>
-                <laborproductivity year="2010">0.06086</laborproductivity>
-                <laborproductivity year="2015">0.05302</laborproductivity>
-                <laborproductivity year="2020">0.05145</laborproductivity>
-                <laborproductivity year="2025">0.05007</laborproductivity>
-                <laborproductivity year="2030">0.04823</laborproductivity>
-                <laborproductivity year="2035">0.04642</laborproductivity>
-                <laborproductivity year="2040">0.04468</laborproductivity>
-                <laborproductivity year="2045">0.04253</laborproductivity>
-                <laborproductivity year="2050">0.04081</laborproductivity>
-                <laborproductivity year="2055">0.03993</laborproductivity>
-                <laborproductivity year="2060">0.03772</laborproductivity>
-                <laborproductivity year="2065">0.03634</laborproductivity>
-                <laborproductivity year="2070">0.03447</laborproductivity>
-                <laborproductivity year="2075">0.03346</laborproductivity>
-                <laborproductivity year="2080">0.03244</laborproductivity>
-                <laborproductivity year="2085">0.03189</laborproductivity>
-                <laborproductivity year="2090">0.03236</laborproductivity>
-                <laborproductivity year="2095">0.03241</laborproductivity>
-                <laborproductivity year="2100">0.03049</laborproductivity>
+                <laborproductivity year="2010">0.058717682</laborproductivity>
+                <laborproductivity year="2015">0.056926455</laborproductivity>
+                <laborproductivity year="2020">0.094719402</laborproductivity>
+                <laborproductivity year="2025">0.047562097</laborproductivity>
+                <laborproductivity year="2030">0.051292621</laborproductivity>
+                <laborproductivity year="2035">0.045966809</laborproductivity>
+                <laborproductivity year="2040">0.040134118</laborproductivity>
+                <laborproductivity year="2045">0.046816967</laborproductivity>
+                <laborproductivity year="2050">0.043449543</laborproductivity>
+                <laborproductivity year="2055">0.038966483</laborproductivity>
+                <laborproductivity year="2060">0.042052314</laborproductivity>
+                <laborproductivity year="2065">0.035377543</laborproductivity>
+                <laborproductivity year="2070">0.038048409</laborproductivity>
+                <laborproductivity year="2075">0.030936942</laborproductivity>
+                <laborproductivity year="2080">0.033473322</laborproductivity>
+                <laborproductivity year="2085">0.036556641</laborproductivity>
+                <laborproductivity year="2090">0.028749268</laborproductivity>
+                <laborproductivity year="2095">0.030685141</laborproductivity>
+                <laborproductivity year="2100">0.0296322</laborproductivity>
             </GDP>
         </region>
         <region name="MZ">
@@ -2797,7 +2797,7 @@
                     <totalPop>972</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2010">
-                    <totalPop>1076</totalPop>
+                    <totalPop>1097</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2015">
                     <totalPop>1157</totalPop>
@@ -2880,25 +2880,25 @@
                 <laborforce year="2100">0.169569287</laborforce>
                 <laborproductivity year="1990">0.02406</laborproductivity>
                 <laborproductivity year="2005">0.04181</laborproductivity>
-                <laborproductivity year="2010">0.06086</laborproductivity>
-                <laborproductivity year="2015">0.05302</laborproductivity>
-                <laborproductivity year="2020">0.05145</laborproductivity>
-                <laborproductivity year="2025">0.05007</laborproductivity>
-                <laborproductivity year="2030">0.04823</laborproductivity>
-                <laborproductivity year="2035">0.04642</laborproductivity>
-                <laborproductivity year="2040">0.04468</laborproductivity>
-                <laborproductivity year="2045">0.04253</laborproductivity>
-                <laborproductivity year="2050">0.04081</laborproductivity>
-                <laborproductivity year="2055">0.03993</laborproductivity>
-                <laborproductivity year="2060">0.03772</laborproductivity>
-                <laborproductivity year="2065">0.03634</laborproductivity>
-                <laborproductivity year="2070">0.03447</laborproductivity>
-                <laborproductivity year="2075">0.03346</laborproductivity>
-                <laborproductivity year="2080">0.03244</laborproductivity>
-                <laborproductivity year="2085">0.03189</laborproductivity>
-                <laborproductivity year="2090">0.03236</laborproductivity>
-                <laborproductivity year="2095">0.03241</laborproductivity>
-                <laborproductivity year="2100">0.03049</laborproductivity>
+                <laborproductivity year="2010">0.056740657</laborproductivity>
+                <laborproductivity year="2015">0.106023448</laborproductivity>
+                <laborproductivity year="2020">0.085434224</laborproductivity>
+                <laborproductivity year="2025">0.046256691</laborproductivity>
+                <laborproductivity year="2030">0.038585894</laborproductivity>
+                <laborproductivity year="2035">0.04311961</laborproductivity>
+                <laborproductivity year="2040">0.040835505</laborproductivity>
+                <laborproductivity year="2045">0.046804146</laborproductivity>
+                <laborproductivity year="2050">0.042620206</laborproductivity>
+                <laborproductivity year="2055">0.037308913</laborproductivity>
+                <laborproductivity year="2060">0.039642289</laborproductivity>
+                <laborproductivity year="2065">0.03213694</laborproductivity>
+                <laborproductivity year="2070">0.034044279</laborproductivity>
+                <laborproductivity year="2075">0.03626353</laborproductivity>
+                <laborproductivity year="2080">0.027861975</laborproductivity>
+                <laborproductivity year="2085">0.030153871</laborproductivity>
+                <laborproductivity year="2090">0.031728762</laborproductivity>
+                <laborproductivity year="2095">0.032874496</laborproductivity>
+                <laborproductivity year="2100">0.031016667</laborproductivity>
             </GDP>
         </region>
         <region name="NL">
@@ -2913,7 +2913,7 @@
                     <totalPop>1986</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2010">
-                    <totalPop>1980</totalPop>
+                    <totalPop>1979</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2015">
                     <totalPop>2086</totalPop>
@@ -2996,25 +2996,25 @@
                 <laborforce year="2100">0.167916504</laborforce>
                 <laborproductivity year="1990">0.02406</laborproductivity>
                 <laborproductivity year="2005">0.04181</laborproductivity>
-                <laborproductivity year="2010">0.06086</laborproductivity>
-                <laborproductivity year="2015">0.05302</laborproductivity>
-                <laborproductivity year="2020">0.05145</laborproductivity>
-                <laborproductivity year="2025">0.05007</laborproductivity>
-                <laborproductivity year="2030">0.04823</laborproductivity>
-                <laborproductivity year="2035">0.04642</laborproductivity>
-                <laborproductivity year="2040">0.04468</laborproductivity>
-                <laborproductivity year="2045">0.04253</laborproductivity>
-                <laborproductivity year="2050">0.04081</laborproductivity>
-                <laborproductivity year="2055">0.03993</laborproductivity>
-                <laborproductivity year="2060">0.03772</laborproductivity>
-                <laborproductivity year="2065">0.03634</laborproductivity>
-                <laborproductivity year="2070">0.03447</laborproductivity>
-                <laborproductivity year="2075">0.03346</laborproductivity>
-                <laborproductivity year="2080">0.03244</laborproductivity>
-                <laborproductivity year="2085">0.03189</laborproductivity>
-                <laborproductivity year="2090">0.03236</laborproductivity>
-                <laborproductivity year="2095">0.03241</laborproductivity>
-                <laborproductivity year="2100">0.03049</laborproductivity>
+                <laborproductivity year="2010">0.102276726</laborproductivity>
+                <laborproductivity year="2015">0.028466944</laborproductivity>
+                <laborproductivity year="2020">0.064451168</laborproductivity>
+                <laborproductivity year="2025">0.050353586</laborproductivity>
+                <laborproductivity year="2030">0.042626939</laborproductivity>
+                <laborproductivity year="2035">0.046344939</laborproductivity>
+                <laborproductivity year="2040">0.042310355</laborproductivity>
+                <laborproductivity year="2045">0.038203842</laborproductivity>
+                <laborproductivity year="2050">0.043895866</laborproductivity>
+                <laborproductivity year="2055">0.038474976</laborproductivity>
+                <laborproductivity year="2060">0.040706332</laborproductivity>
+                <laborproductivity year="2065">0.033088601</laborproductivity>
+                <laborproductivity year="2070">0.034892182</laborproductivity>
+                <laborproductivity year="2075">0.037006473</laborproductivity>
+                <laborproductivity year="2080">0.028491983</laborproductivity>
+                <laborproductivity year="2085">0.030677351</laborproductivity>
+                <laborproductivity year="2090">0.032143268</laborproductivity>
+                <laborproductivity year="2095">0.03317881</laborproductivity>
+                <laborproductivity year="2100">0.031208932</laborproductivity>
             </GDP>
         </region>
         <region name="OD">
@@ -3029,7 +3029,7 @@
                     <totalPop>38873</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2010">
-                    <totalPop>41457</totalPop>
+                    <totalPop>41974</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2015">
                     <totalPop>43128</totalPop>
@@ -3112,25 +3112,25 @@
                 <laborforce year="2100">0.321107626</laborforce>
                 <laborproductivity year="1990">0.02406</laborproductivity>
                 <laborproductivity year="2005">0.04181</laborproductivity>
-                <laborproductivity year="2010">0.06086</laborproductivity>
-                <laborproductivity year="2015">0.05302</laborproductivity>
-                <laborproductivity year="2020">0.05145</laborproductivity>
-                <laborproductivity year="2025">0.05007</laborproductivity>
-                <laborproductivity year="2030">0.04823</laborproductivity>
-                <laborproductivity year="2035">0.04642</laborproductivity>
-                <laborproductivity year="2040">0.04468</laborproductivity>
-                <laborproductivity year="2045">0.04253</laborproductivity>
-                <laborproductivity year="2050">0.04081</laborproductivity>
-                <laborproductivity year="2055">0.03993</laborproductivity>
-                <laborproductivity year="2060">0.03772</laborproductivity>
-                <laborproductivity year="2065">0.03634</laborproductivity>
-                <laborproductivity year="2070">0.03447</laborproductivity>
-                <laborproductivity year="2075">0.03346</laborproductivity>
-                <laborproductivity year="2080">0.03244</laborproductivity>
-                <laborproductivity year="2085">0.03189</laborproductivity>
-                <laborproductivity year="2090">0.03236</laborproductivity>
-                <laborproductivity year="2095">0.03241</laborproductivity>
-                <laborproductivity year="2100">0.03049</laborproductivity>
+                <laborproductivity year="2010">0.047944512</laborproductivity>
+                <laborproductivity year="2015">0.053536588</laborproductivity>
+                <laborproductivity year="2020">0.099964666</laborproductivity>
+                <laborproductivity year="2025">0.051446367</laborproductivity>
+                <laborproductivity year="2030">0.054982595</laborproductivity>
+                <laborproductivity year="2035">0.050036682</laborproductivity>
+                <laborproductivity year="2040">0.040492969</laborproductivity>
+                <laborproductivity year="2045">0.047358968</laborproductivity>
+                <laborproductivity year="2050">0.044172517</laborproductivity>
+                <laborproductivity year="2055">0.039869737</laborproductivity>
+                <laborproductivity year="2060">0.033113633</laborproductivity>
+                <laborproductivity year="2065">0.036648558</laborproductivity>
+                <laborproductivity year="2070">0.039512151</laborproductivity>
+                <laborproductivity year="2075">0.032580876</laborproductivity>
+                <laborproductivity year="2080">0.035314163</laborproductivity>
+                <laborproductivity year="2085">0.028417155</laborproductivity>
+                <laborproductivity year="2090">0.030971192</laborproductivity>
+                <laborproductivity year="2095">0.033108617</laborproductivity>
+                <laborproductivity year="2100">0.032250426</laborproductivity>
             </GDP>
         </region>
         <region name="PB">
@@ -3145,7 +3145,7 @@
                     <totalPop>25713</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2010">
-                    <totalPop>27405</totalPop>
+                    <totalPop>27743</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2015">
                     <totalPop>29140</totalPop>
@@ -3228,25 +3228,25 @@
                 <laborforce year="2100">0.28740521</laborforce>
                 <laborproductivity year="1990">0.02406</laborproductivity>
                 <laborproductivity year="2005">0.04181</laborproductivity>
-                <laborproductivity year="2010">0.06086</laborproductivity>
-                <laborproductivity year="2015">0.05302</laborproductivity>
-                <laborproductivity year="2020">0.05145</laborproductivity>
-                <laborproductivity year="2025">0.05007</laborproductivity>
-                <laborproductivity year="2030">0.04823</laborproductivity>
-                <laborproductivity year="2035">0.04642</laborproductivity>
-                <laborproductivity year="2040">0.04468</laborproductivity>
-                <laborproductivity year="2045">0.04253</laborproductivity>
-                <laborproductivity year="2050">0.04081</laborproductivity>
-                <laborproductivity year="2055">0.03993</laborproductivity>
-                <laborproductivity year="2060">0.03772</laborproductivity>
-                <laborproductivity year="2065">0.03634</laborproductivity>
-                <laborproductivity year="2070">0.03447</laborproductivity>
-                <laborproductivity year="2075">0.03346</laborproductivity>
-                <laborproductivity year="2080">0.03244</laborproductivity>
-                <laborproductivity year="2085">0.03189</laborproductivity>
-                <laborproductivity year="2090">0.03236</laborproductivity>
-                <laborproductivity year="2095">0.03241</laborproductivity>
-                <laborproductivity year="2100">0.03049</laborproductivity>
+                <laborproductivity year="2010">0.059627001</laborproductivity>
+                <laborproductivity year="2015">0.052787353</laborproductivity>
+                <laborproductivity year="2020">0.056402722</laborproductivity>
+                <laborproductivity year="2025">0.049331625</laborproductivity>
+                <laborproductivity year="2030">0.052844448</laborproductivity>
+                <laborproductivity year="2035">0.048611737</laborproductivity>
+                <laborproductivity year="2040">0.040599527</laborproductivity>
+                <laborproductivity year="2045">0.037620782</laborproductivity>
+                <laborproductivity year="2050">0.044353051</laborproductivity>
+                <laborproductivity year="2055">0.040086691</laborproductivity>
+                <laborproductivity year="2060">0.033366428</laborproductivity>
+                <laborproductivity year="2065">0.036940014</laborproductivity>
+                <laborproductivity year="2070">0.029747274</laborproductivity>
+                <laborproductivity year="2075">0.032947944</laborproductivity>
+                <laborproductivity year="2080">0.035721337</laborproductivity>
+                <laborproductivity year="2085">0.028861127</laborproductivity>
+                <laborproductivity year="2090">0.031455713</laborproductivity>
+                <laborproductivity year="2095">0.033634201</laborproductivity>
+                <laborproductivity year="2100">0.032815586</laborproductivity>
             </GDP>
         </region>
         <region name="PC">
@@ -3261,7 +3261,7 @@
                     <totalPop>1084</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2010">
-                    <totalPop>1221</totalPop>
+                    <totalPop>1248</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2015">
                     <totalPop>1402</totalPop>
@@ -3344,25 +3344,25 @@
                 <laborforce year="2100">0.212690395</laborforce>
                 <laborproductivity year="1990">0.02406</laborproductivity>
                 <laborproductivity year="2005">0.04181</laborproductivity>
-                <laborproductivity year="2010">0.06086</laborproductivity>
-                <laborproductivity year="2015">0.05302</laborproductivity>
-                <laborproductivity year="2020">0.05145</laborproductivity>
-                <laborproductivity year="2025">0.05007</laborproductivity>
-                <laborproductivity year="2030">0.04823</laborproductivity>
-                <laborproductivity year="2035">0.04642</laborproductivity>
-                <laborproductivity year="2040">0.04468</laborproductivity>
-                <laborproductivity year="2045">0.04253</laborproductivity>
-                <laborproductivity year="2050">0.04081</laborproductivity>
-                <laborproductivity year="2055">0.03993</laborproductivity>
-                <laborproductivity year="2060">0.03772</laborproductivity>
-                <laborproductivity year="2065">0.03634</laborproductivity>
-                <laborproductivity year="2070">0.03447</laborproductivity>
-                <laborproductivity year="2075">0.03346</laborproductivity>
-                <laborproductivity year="2080">0.03244</laborproductivity>
-                <laborproductivity year="2085">0.03189</laborproductivity>
-                <laborproductivity year="2090">0.03236</laborproductivity>
-                <laborproductivity year="2095">0.03241</laborproductivity>
-                <laborproductivity year="2100">0.03049</laborproductivity>
+                <laborproductivity year="2010">0.048341175</laborproductivity>
+                <laborproductivity year="2015">0.047282149</laborproductivity>
+                <laborproductivity year="2020">0.032613013</laborproductivity>
+                <laborproductivity year="2025">0.042159501</laborproductivity>
+                <laborproductivity year="2030">0.033742348</laborproductivity>
+                <laborproductivity year="2035">0.036300974</laborproductivity>
+                <laborproductivity year="2040">0.043757097</laborproductivity>
+                <laborproductivity year="2045">0.040309391</laborproductivity>
+                <laborproductivity year="2050">0.036623737</laborproductivity>
+                <laborproductivity year="2055">0.041842228</laborproductivity>
+                <laborproductivity year="2060">0.034634853</laborproductivity>
+                <laborproductivity year="2065">0.03773085</laborproductivity>
+                <laborproductivity year="2070">0.030049372</laborproductivity>
+                <laborproductivity year="2075">0.032761092</laborproductivity>
+                <laborproductivity year="2080">0.035037595</laborproductivity>
+                <laborproductivity year="2085">0.027683088</laborproductivity>
+                <laborproductivity year="2090">0.029771147</laborproductivity>
+                <laborproductivity year="2095">0.031436405</laborproductivity>
+                <laborproductivity year="2100">0.030107515</laborproductivity>
             </GDP>
         </region>
         <region name="RJ">
@@ -3377,7 +3377,7 @@
                     <totalPop>61323</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2010">
-                    <totalPop>67344</totalPop>
+                    <totalPop>68548</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2015">
                     <totalPop>74240</totalPop>
@@ -3460,25 +3460,25 @@
                 <laborforce year="2100">0.246549975</laborforce>
                 <laborproductivity year="1990">0.02406</laborproductivity>
                 <laborproductivity year="2005">0.04181</laborproductivity>
-                <laborproductivity year="2010">0.06086</laborproductivity>
-                <laborproductivity year="2015">0.05302</laborproductivity>
-                <laborproductivity year="2020">0.05145</laborproductivity>
-                <laborproductivity year="2025">0.05007</laborproductivity>
-                <laborproductivity year="2030">0.04823</laborproductivity>
-                <laborproductivity year="2035">0.04642</laborproductivity>
-                <laborproductivity year="2040">0.04468</laborproductivity>
-                <laborproductivity year="2045">0.04253</laborproductivity>
-                <laborproductivity year="2050">0.04081</laborproductivity>
-                <laborproductivity year="2055">0.03993</laborproductivity>
-                <laborproductivity year="2060">0.03772</laborproductivity>
-                <laborproductivity year="2065">0.03634</laborproductivity>
-                <laborproductivity year="2070">0.03447</laborproductivity>
-                <laborproductivity year="2075">0.03346</laborproductivity>
-                <laborproductivity year="2080">0.03244</laborproductivity>
-                <laborproductivity year="2085">0.03189</laborproductivity>
-                <laborproductivity year="2090">0.03236</laborproductivity>
-                <laborproductivity year="2095">0.03241</laborproductivity>
-                <laborproductivity year="2100">0.03049</laborproductivity>
+                <laborproductivity year="2010">0.041889775</laborproductivity>
+                <laborproductivity year="2015">0.055517609</laborproductivity>
+                <laborproductivity year="2020">0.052879399</laborproductivity>
+                <laborproductivity year="2025">0.049385804</laborproductivity>
+                <laborproductivity year="2030">0.053198845</laborproductivity>
+                <laborproductivity year="2035">0.046700871</laborproductivity>
+                <laborproductivity year="2040">0.040222669</laborproductivity>
+                <laborproductivity year="2045">0.046993942</laborproductivity>
+                <laborproductivity year="2050">0.043714677</laborproductivity>
+                <laborproductivity year="2055">0.039319605</laborproductivity>
+                <laborproductivity year="2060">0.042496707</laborproductivity>
+                <laborproductivity year="2065">0.0359097</laborproductivity>
+                <laborproductivity year="2070">0.038673955</laborproductivity>
+                <laborproductivity year="2075">0.031650582</laborproductivity>
+                <laborproductivity year="2080">0.034282363</laborproductivity>
+                <laborproductivity year="2085">0.027292255</laborproductivity>
+                <laborproductivity year="2090">0.029743721</laborproductivity>
+                <laborproductivity year="2095">0.0317773</laborproductivity>
+                <laborproductivity year="2100">0.030819053</laborproductivity>
             </GDP>
         </region>
         <region name="SK">
@@ -3493,7 +3493,7 @@
                     <totalPop>569</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2010">
-                    <totalPop>604</totalPop>
+                    <totalPop>611</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2015">
                     <totalPop>644</totalPop>
@@ -3576,25 +3576,25 @@
                 <laborforce year="2100">0.195261961</laborforce>
                 <laborproductivity year="1990">0.02406</laborproductivity>
                 <laborproductivity year="2005">0.04181</laborproductivity>
-                <laborproductivity year="2010">0.06086</laborproductivity>
-                <laborproductivity year="2015">0.05302</laborproductivity>
-                <laborproductivity year="2020">0.05145</laborproductivity>
-                <laborproductivity year="2025">0.05007</laborproductivity>
-                <laborproductivity year="2030">0.04823</laborproductivity>
-                <laborproductivity year="2035">0.04642</laborproductivity>
-                <laborproductivity year="2040">0.04468</laborproductivity>
-                <laborproductivity year="2045">0.04253</laborproductivity>
-                <laborproductivity year="2050">0.04081</laborproductivity>
-                <laborproductivity year="2055">0.03993</laborproductivity>
-                <laborproductivity year="2060">0.03772</laborproductivity>
-                <laborproductivity year="2065">0.03634</laborproductivity>
-                <laborproductivity year="2070">0.03447</laborproductivity>
-                <laborproductivity year="2075">0.03346</laborproductivity>
-                <laborproductivity year="2080">0.03244</laborproductivity>
-                <laborproductivity year="2085">0.03189</laborproductivity>
-                <laborproductivity year="2090">0.03236</laborproductivity>
-                <laborproductivity year="2095">0.03241</laborproductivity>
-                <laborproductivity year="2100">0.03049</laborproductivity>
+                <laborproductivity year="2010">0.014659532</laborproductivity>
+                <laborproductivity year="2015">0.109904527</laborproductivity>
+                <laborproductivity year="2020">0.105207422</laborproductivity>
+                <laborproductivity year="2025">0.046799141</laborproductivity>
+                <laborproductivity year="2030">0.049414764</laborproductivity>
+                <laborproductivity year="2035">0.043069833</laborproductivity>
+                <laborproductivity year="2040">0.045978156</laborproductivity>
+                <laborproductivity year="2045">0.04237339</laborproductivity>
+                <laborproductivity year="2050">0.038529976</laborproductivity>
+                <laborproductivity year="2055">0.04360317</laborproductivity>
+                <laborproductivity year="2060">0.036227705</laborproductivity>
+                <laborproductivity year="2065">0.039170735</laborproductivity>
+                <laborproductivity year="2070">0.031320971</laborproductivity>
+                <laborproductivity year="2075">0.033876304</laborproductivity>
+                <laborproductivity year="2080">0.035993538</laborproductivity>
+                <laborproductivity year="2085">0.028470339</laborproductivity>
+                <laborproductivity year="2090">0.030395104</laborproductivity>
+                <laborproductivity year="2095">0.031894931</laborproductivity>
+                <laborproductivity year="2100">0.030397492</laborproductivity>
             </GDP>
         </region>
         <region name="TN">
@@ -3609,7 +3609,7 @@
                     <totalPop>66302</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2010">
-                    <totalPop>71173</totalPop>
+                    <totalPop>72147</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2015">
                     <totalPop>74635</totalPop>
@@ -3692,25 +3692,25 @@
                 <laborforce year="2100">0.518370916</laborforce>
                 <laborproductivity year="1990">0.02406</laborproductivity>
                 <laborproductivity year="2005">0.04181</laborproductivity>
-                <laborproductivity year="2010">0.06086</laborproductivity>
-                <laborproductivity year="2015">0.05302</laborproductivity>
-                <laborproductivity year="2020">0.05145</laborproductivity>
-                <laborproductivity year="2025">0.05007</laborproductivity>
-                <laborproductivity year="2030">0.04823</laborproductivity>
-                <laborproductivity year="2035">0.04642</laborproductivity>
-                <laborproductivity year="2040">0.04468</laborproductivity>
-                <laborproductivity year="2045">0.04253</laborproductivity>
-                <laborproductivity year="2050">0.04081</laborproductivity>
-                <laborproductivity year="2055">0.03993</laborproductivity>
-                <laborproductivity year="2060">0.03772</laborproductivity>
-                <laborproductivity year="2065">0.03634</laborproductivity>
-                <laborproductivity year="2070">0.03447</laborproductivity>
-                <laborproductivity year="2075">0.03346</laborproductivity>
-                <laborproductivity year="2080">0.03244</laborproductivity>
-                <laborproductivity year="2085">0.03189</laborproductivity>
-                <laborproductivity year="2090">0.03236</laborproductivity>
-                <laborproductivity year="2095">0.03241</laborproductivity>
-                <laborproductivity year="2100">0.03049</laborproductivity>
+                <laborproductivity year="2010">0.043978262</laborproductivity>
+                <laborproductivity year="2015">0.067977539</laborproductivity>
+                <laborproductivity year="2020">0.065685257</laborproductivity>
+                <laborproductivity year="2025">0.048970474</laborproductivity>
+                <laborproductivity year="2030">0.052724185</laborproductivity>
+                <laborproductivity year="2035">0.047398025</laborproductivity>
+                <laborproductivity year="2040">0.040184066</laborproductivity>
+                <laborproductivity year="2045">0.046941816</laborproductivity>
+                <laborproductivity year="2050">0.043649304</laborproductivity>
+                <laborproductivity year="2055">0.039241062</laborproductivity>
+                <laborproductivity year="2060">0.042404321</laborproductivity>
+                <laborproductivity year="2065">0.035804235</laborproductivity>
+                <laborproductivity year="2070">0.038554323</laborproductivity>
+                <laborproductivity year="2075">0.031517819</laborproductivity>
+                <laborproductivity year="2080">0.03413513</laborproductivity>
+                <laborproductivity year="2085">0.027131756</laborproductivity>
+                <laborproductivity year="2090">0.029568606</laborproductivity>
+                <laborproductivity year="2095">0.031587392</laborproductivity>
+                <laborproductivity year="2100">0.030614896</laborproductivity>
             </GDP>
         </region>
         <region name="TR">
@@ -3725,7 +3725,7 @@
                     <totalPop>3389</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2010">
-                    <totalPop>3626</totalPop>
+                    <totalPop>3674</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2015">
                     <totalPop>3874</totalPop>
@@ -3808,25 +3808,25 @@
                 <laborforce year="2100">0.260841799</laborforce>
                 <laborproductivity year="1990">0.02406</laborproductivity>
                 <laborproductivity year="2005">0.04181</laborproductivity>
-                <laborproductivity year="2010">0.06086</laborproductivity>
-                <laborproductivity year="2015">0.05302</laborproductivity>
-                <laborproductivity year="2020">0.05145</laborproductivity>
-                <laborproductivity year="2025">0.05007</laborproductivity>
-                <laborproductivity year="2030">0.04823</laborproductivity>
-                <laborproductivity year="2035">0.04642</laborproductivity>
-                <laborproductivity year="2040">0.04468</laborproductivity>
-                <laborproductivity year="2045">0.04253</laborproductivity>
-                <laborproductivity year="2050">0.04081</laborproductivity>
-                <laborproductivity year="2055">0.03993</laborproductivity>
-                <laborproductivity year="2060">0.03772</laborproductivity>
-                <laborproductivity year="2065">0.03634</laborproductivity>
-                <laborproductivity year="2070">0.03447</laborproductivity>
-                <laborproductivity year="2075">0.03346</laborproductivity>
-                <laborproductivity year="2080">0.03244</laborproductivity>
-                <laborproductivity year="2085">0.03189</laborproductivity>
-                <laborproductivity year="2090">0.03236</laborproductivity>
-                <laborproductivity year="2095">0.03241</laborproductivity>
-                <laborproductivity year="2100">0.03049</laborproductivity>
+                <laborproductivity year="2010">0.079225283</laborproductivity>
+                <laborproductivity year="2015">0.078812122</laborproductivity>
+                <laborproductivity year="2020">0.053981941</laborproductivity>
+                <laborproductivity year="2025">0.047572873</laborproductivity>
+                <laborproductivity year="2030">0.040066778</laborproductivity>
+                <laborproductivity year="2035">0.043081574</laborproductivity>
+                <laborproductivity year="2040">0.040896027</laborproductivity>
+                <laborproductivity year="2045">0.046860879</laborproductivity>
+                <laborproductivity year="2050">0.042672565</laborproductivity>
+                <laborproductivity year="2055">0.037356777</laborproductivity>
+                <laborproductivity year="2060">0.039685969</laborproductivity>
+                <laborproductivity year="2065">0.032176011</laborproductivity>
+                <laborproductivity year="2070">0.034079092</laborproductivity>
+                <laborproductivity year="2075">0.036294038</laborproductivity>
+                <laborproductivity year="2080">0.027887847</laborproductivity>
+                <laborproductivity year="2085">0.03017537</laborproductivity>
+                <laborproductivity year="2090">0.031745789</laborproductivity>
+                <laborproductivity year="2095">0.032886997</laborproductivity>
+                <laborproductivity year="2100">0.031024566</laborproductivity>
             </GDP>
         </region>
         <region name="TS">
@@ -3841,7 +3841,7 @@
                     <totalPop>38188</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2010">
-                    <totalPop>40197</totalPop>
+                    <totalPop>35004</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2015">
                     <totalPop>36462</totalPop>
@@ -3924,25 +3924,25 @@
                 <laborforce year="2100">0.373158291</laborforce>
                 <laborproductivity year="1990">0.02406</laborproductivity>
                 <laborproductivity year="2005">0.04181</laborproductivity>
-                <laborproductivity year="2010">0.06086</laborproductivity>
-                <laborproductivity year="2015">0.05302</laborproductivity>
-                <laborproductivity year="2020">0.05145</laborproductivity>
-                <laborproductivity year="2025">0.05007</laborproductivity>
-                <laborproductivity year="2030">0.04823</laborproductivity>
-                <laborproductivity year="2035">0.04642</laborproductivity>
-                <laborproductivity year="2040">0.04468</laborproductivity>
-                <laborproductivity year="2045">0.04253</laborproductivity>
-                <laborproductivity year="2050">0.04081</laborproductivity>
-                <laborproductivity year="2055">0.03993</laborproductivity>
-                <laborproductivity year="2060">0.03772</laborproductivity>
-                <laborproductivity year="2065">0.03634</laborproductivity>
-                <laborproductivity year="2070">0.03447</laborproductivity>
-                <laborproductivity year="2075">0.03346</laborproductivity>
-                <laborproductivity year="2080">0.03244</laborproductivity>
-                <laborproductivity year="2085">0.03189</laborproductivity>
-                <laborproductivity year="2090">0.03236</laborproductivity>
-                <laborproductivity year="2095">0.03241</laborproductivity>
-                <laborproductivity year="2100">0.03049</laborproductivity>
+                <laborproductivity year="2010">0.061025194</laborproductivity>
+                <laborproductivity year="2015">0.088161496</laborproductivity>
+                <laborproductivity year="2020">0.088771276</laborproductivity>
+                <laborproductivity year="2025">0.051755763</laborproductivity>
+                <laborproductivity year="2030">0.04564094</laborproductivity>
+                <laborproductivity year="2035">0.050226019</laborproductivity>
+                <laborproductivity year="2040">0.042613078</laborproductivity>
+                <laborproductivity year="2045">0.039246039</laborproductivity>
+                <laborproductivity year="2050">0.045599536</laborproductivity>
+                <laborproductivity year="2055">0.040934604</laborproductivity>
+                <laborproductivity year="2060">0.033813679</laborproductivity>
+                <laborproductivity year="2065">0.036988366</laborproductivity>
+                <laborproductivity year="2070">0.039485606</laborproductivity>
+                <laborproductivity year="2075">0.032185758</laborproductivity>
+                <laborproductivity year="2080">0.034544313</laborproductivity>
+                <laborproductivity year="2085">0.027276756</laborproductivity>
+                <laborproductivity year="2090">0.029449019</laborproductivity>
+                <laborproductivity year="2095">0.031199627</laborproductivity>
+                <laborproductivity year="2100">0.029957735</laborproductivity>
             </GDP>
         </region>
         <region name="UK">
@@ -3957,7 +3957,7 @@
                     <totalPop>9128</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2010">
-                    <totalPop>9926</totalPop>
+                    <totalPop>10086</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2015">
                     <totalPop>10755</totalPop>
@@ -4040,25 +4040,25 @@
                 <laborforce year="2100">0.149330455</laborforce>
                 <laborproductivity year="1990">0.02406</laborproductivity>
                 <laborproductivity year="2005">0.04181</laborproductivity>
-                <laborproductivity year="2010">0.06086</laborproductivity>
-                <laborproductivity year="2015">0.05302</laborproductivity>
-                <laborproductivity year="2020">0.05145</laborproductivity>
-                <laborproductivity year="2025">0.05007</laborproductivity>
-                <laborproductivity year="2030">0.04823</laborproductivity>
-                <laborproductivity year="2035">0.04642</laborproductivity>
-                <laborproductivity year="2040">0.04468</laborproductivity>
-                <laborproductivity year="2045">0.04253</laborproductivity>
-                <laborproductivity year="2050">0.04081</laborproductivity>
-                <laborproductivity year="2055">0.03993</laborproductivity>
-                <laborproductivity year="2060">0.03772</laborproductivity>
-                <laborproductivity year="2065">0.03634</laborproductivity>
-                <laborproductivity year="2070">0.03447</laborproductivity>
-                <laborproductivity year="2075">0.03346</laborproductivity>
-                <laborproductivity year="2080">0.03244</laborproductivity>
-                <laborproductivity year="2085">0.03189</laborproductivity>
-                <laborproductivity year="2090">0.03236</laborproductivity>
-                <laborproductivity year="2095">0.03241</laborproductivity>
-                <laborproductivity year="2100">0.03049</laborproductivity>
+                <laborproductivity year="2010">0.029760362</laborproductivity>
+                <laborproductivity year="2015">0.081434055</laborproductivity>
+                <laborproductivity year="2020">0.046680927</laborproductivity>
+                <laborproductivity year="2025">0.050398526</laborproductivity>
+                <laborproductivity year="2030">0.052674673</laborproductivity>
+                <laborproductivity year="2035">0.047633052</laborproductivity>
+                <laborproductivity year="2040">0.040059997</laborproductivity>
+                <laborproductivity year="2045">0.046077128</laborproductivity>
+                <laborproductivity year="2050">0.041949239</laborproductivity>
+                <laborproductivity year="2055">0.036695497</laborproductivity>
+                <laborproductivity year="2060">0.039082454</laborproductivity>
+                <laborproductivity year="2065">0.031636159</laborproductivity>
+                <laborproductivity year="2070">0.033598026</laborproductivity>
+                <laborproductivity year="2075">0.035872457</laborproductivity>
+                <laborproductivity year="2080">0.027530295</laborproductivity>
+                <laborproductivity year="2085">0.029878231</laborproductivity>
+                <laborproductivity year="2090">0.031510468</laborproductivity>
+                <laborproductivity year="2095">0.032714207</laborproductivity>
+                <laborproductivity year="2100">0.030915379</laborproductivity>
             </GDP>
         </region>
         <region name="UP">
@@ -4073,7 +4073,7 @@
                     <totalPop>179644</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2010">
-                    <totalPop>196451</totalPop>
+                    <totalPop>199812</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2015">
                     <totalPop>216087</totalPop>
@@ -4156,25 +4156,25 @@
                 <laborforce year="2100">0.410435266</laborforce>
                 <laborproductivity year="1990">0.02406</laborproductivity>
                 <laborproductivity year="2005">0.04181</laborproductivity>
-                <laborproductivity year="2010">0.06086</laborproductivity>
-                <laborproductivity year="2015">0.05302</laborproductivity>
-                <laborproductivity year="2020">0.05145</laborproductivity>
-                <laborproductivity year="2025">0.05007</laborproductivity>
-                <laborproductivity year="2030">0.04823</laborproductivity>
-                <laborproductivity year="2035">0.04642</laborproductivity>
-                <laborproductivity year="2040">0.04468</laborproductivity>
-                <laborproductivity year="2045">0.04253</laborproductivity>
-                <laborproductivity year="2050">0.04081</laborproductivity>
-                <laborproductivity year="2055">0.03993</laborproductivity>
-                <laborproductivity year="2060">0.03772</laborproductivity>
-                <laborproductivity year="2065">0.03634</laborproductivity>
-                <laborproductivity year="2070">0.03447</laborproductivity>
-                <laborproductivity year="2075">0.03346</laborproductivity>
-                <laborproductivity year="2080">0.03244</laborproductivity>
-                <laborproductivity year="2085">0.03189</laborproductivity>
-                <laborproductivity year="2090">0.03236</laborproductivity>
-                <laborproductivity year="2095">0.03241</laborproductivity>
-                <laborproductivity year="2100">0.03049</laborproductivity>
+                <laborproductivity year="2010">0.052722424</laborproductivity>
+                <laborproductivity year="2015">0.045559921</laborproductivity>
+                <laborproductivity year="2020">0.065095214</laborproductivity>
+                <laborproductivity year="2025">0.049695333</laborproductivity>
+                <laborproductivity year="2030">0.054540081</laborproductivity>
+                <laborproductivity year="2035">0.049139288</laborproductivity>
+                <laborproductivity year="2040">0.042088677</laborproductivity>
+                <laborproductivity year="2045">0.039592289</laborproductivity>
+                <laborproductivity year="2050">0.036862679</laborproductivity>
+                <laborproductivity year="2055">0.042967695</laborproductivity>
+                <laborproductivity year="2060">0.03674087</laborproductivity>
+                <laborproductivity year="2065">0.040748121</laborproductivity>
+                <laborproductivity year="2070">0.034048405</laborproductivity>
+                <laborproductivity year="2075">0.037691316</laborproductivity>
+                <laborproductivity year="2080">0.030806855</laborproductivity>
+                <laborproductivity year="2085">0.034553606</laborproductivity>
+                <laborproductivity year="2090">0.027438335</laborproductivity>
+                <laborproductivity year="2095">0.030057118</laborproductivity>
+                <laborproductivity year="2100">0.029697186</laborproductivity>
             </GDP>
         </region>
         <region name="WB">
@@ -4189,7 +4189,7 @@
                     <totalPop>84616</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2010">
-                    <totalPop>90166</totalPop>
+                    <totalPop>91276</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2015">
                     <totalPop>95079</totalPop>
@@ -4272,25 +4272,25 @@
                 <laborforce year="2100">0.467870722</laborforce>
                 <laborproductivity year="1990">0.02406</laborproductivity>
                 <laborproductivity year="2005">0.04181</laborproductivity>
-                <laborproductivity year="2010">0.06086</laborproductivity>
-                <laborproductivity year="2015">0.05302</laborproductivity>
-                <laborproductivity year="2020">0.05145</laborproductivity>
-                <laborproductivity year="2025">0.05007</laborproductivity>
-                <laborproductivity year="2030">0.04823</laborproductivity>
-                <laborproductivity year="2035">0.04642</laborproductivity>
-                <laborproductivity year="2040">0.04468</laborproductivity>
-                <laborproductivity year="2045">0.04253</laborproductivity>
-                <laborproductivity year="2050">0.04081</laborproductivity>
-                <laborproductivity year="2055">0.03993</laborproductivity>
-                <laborproductivity year="2060">0.03772</laborproductivity>
-                <laborproductivity year="2065">0.03634</laborproductivity>
-                <laborproductivity year="2070">0.03447</laborproductivity>
-                <laborproductivity year="2075">0.03346</laborproductivity>
-                <laborproductivity year="2080">0.03244</laborproductivity>
-                <laborproductivity year="2085">0.03189</laborproductivity>
-                <laborproductivity year="2090">0.03236</laborproductivity>
-                <laborproductivity year="2095">0.03241</laborproductivity>
-                <laborproductivity year="2100">0.03049</laborproductivity>
+                <laborproductivity year="2010">0.062508873</laborproductivity>
+                <laborproductivity year="2015">0.046012918</laborproductivity>
+                <laborproductivity year="2020">0.067013332</laborproductivity>
+                <laborproductivity year="2025">0.048516319</laborproductivity>
+                <laborproductivity year="2030">0.052245644</laborproductivity>
+                <laborproductivity year="2035">0.046448873</laborproductivity>
+                <laborproductivity year="2040">0.04043326</laborproductivity>
+                <laborproductivity year="2045">0.047278328</laborproductivity>
+                <laborproductivity year="2050">0.044071366</laborproductivity>
+                <laborproductivity year="2055">0.039748188</laborproductivity>
+                <laborproductivity year="2060">0.032972011</laborproductivity>
+                <laborproductivity year="2065">0.036485287</laborproductivity>
+                <laborproductivity year="2070">0.039326915</laborproductivity>
+                <laborproductivity year="2075">0.032375272</laborproductivity>
+                <laborproductivity year="2080">0.035086108</laborproductivity>
+                <laborproductivity year="2085">0.028168503</laborproductivity>
+                <laborproductivity year="2090">0.030699848</laborproductivity>
+                <laborproductivity year="2095">0.032814294</laborproductivity>
+                <laborproductivity year="2100">0.031933958</laborproductivity>
             </GDP>
         </region>
     </world>
