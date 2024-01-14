@@ -261,8 +261,8 @@
                 <market>AP</market>
                 <smooth-renewable-subresource name="onshore wind resource">
                     <maxSubResource fillout="1" year="1975">0.855</maxSubResource>
-                    <mid-price>8.59191012781482</mid-price>
-                    <curve-exponent>3.964099</curve-exponent>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="onshore">
                         <period year="1975">
                             <share-weight>1</share-weight>

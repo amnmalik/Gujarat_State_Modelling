@@ -4,7 +4,7 @@
 #' match up at year of overlap (the "base year").  What we do in these cases is
 #' we compute, for the later time series, ratios of GDPs in the future years to
 #' those in the base year.  We then multiply the future ratios by the past base
-#' year value.  That future time series can then be grafted onto the past
+#' year value.  That future time series  then be grafted onto the past
 #' without leaving a seam.
 #'
 #' In practice, the past is often a single time series, while the future is

@@ -194,7 +194,7 @@
 
 	</ScenarioComponents>
 	<Strings>
-		<Value name="scenarioName">LCOE_reflected_BAU</Value>
+		<Value name="scenarioName">BAU_2010</Value>
 		<Value name="debug-region">WB</Value>
 		<Value name="MAGICC-input-dir">../input/magicc/inputs</Value>
 		<Value name="MAGICC-output-dir">../output</Value>
