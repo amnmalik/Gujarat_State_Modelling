@@ -507,8 +507,8 @@
                 <market>AR</market>
                 <smooth-renewable-subresource name="global solar resource">
                     <maxSubResource fillout="1" year="1975">0.031</maxSubResource>
-                    <mid-price>0.894971993064188</mid-price>
-                    <curve-exponent>0.5</curve-exponent>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="global solar resource">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -754,8 +754,8 @@
                 <market>AR</market>
                 <smooth-renewable-subresource name="onshore wind resource">
                     <maxSubResource fillout="1" year="1975">0.07411</maxSubResource>
-                    <mid-price>8.59191012781482</mid-price>
-                    <curve-exponent>3.964099</curve-exponent>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="onshore">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -1000,8 +1000,8 @@
                 <market>AS</market>
                 <smooth-renewable-subresource name="global solar resource">
                     <maxSubResource fillout="1" year="1975">1.1884</maxSubResource>
-                    <mid-price>0.894971993064188</mid-price>
-                    <curve-exponent>0.5</curve-exponent>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="global solar resource">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -1247,8 +1247,8 @@
                 <market>AS</market>
                 <smooth-renewable-subresource name="onshore wind resource">
                     <maxSubResource fillout="1" year="1975">0.167</maxSubResource>
-                    <mid-price>8.59191012781482</mid-price>
-                    <curve-exponent>3.964099</curve-exponent>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="onshore">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -1492,9 +1492,9 @@
                 <price-unit>1975 $/GJ</price-unit>
                 <market>BR</market>
                 <smooth-renewable-subresource name="global solar resource">
-                    <maxSubResource fillout="1" year="1975">1.59</maxSubResource>
-                    <mid-price>0.894971993064188</mid-price>
-                    <curve-exponent>0.5</curve-exponent>
+                    <maxSubResource fillout="1" year="1975">2.59</maxSubResource>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="global solar resource">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -1740,8 +1740,8 @@
                 <market>BR</market>
                 <smooth-renewable-subresource name="onshore wind resource">
                     <maxSubResource fillout="1" year="1975">0.413</maxSubResource>
-                    <mid-price>8.59191012781482</mid-price>
-                    <curve-exponent>3.964099</curve-exponent>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="onshore">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -1985,9 +1985,9 @@
                 <price-unit>1975 $/GJ</price-unit>
                 <market>CG</market>
                 <smooth-renewable-subresource name="global solar resource">
-                    <maxSubResource fillout="1" year="1975">5.21</maxSubResource>
-                    <mid-price>0.894971993064188</mid-price>
-                    <curve-exponent>0.5</curve-exponent>
+                    <maxSubResource fillout="1" year="1975">0.0026</maxSubResource>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="global solar resource">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -2233,8 +2233,8 @@
                 <market>CG</market>
                 <smooth-renewable-subresource name="onshore wind resource">
                     <maxSubResource fillout="1" year="1975">0.827</maxSubResource>
-                    <mid-price>8.59191012781482</mid-price>
-                    <curve-exponent>3.964099</curve-exponent>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="onshore">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -2478,7 +2478,7 @@
                 <price-unit>1975 $/GJ</price-unit>
                 <market>DL</market>
                 <smooth-renewable-subresource name="global solar resource">
-                    <maxSubResource fillout="1" year="1975">0.04</maxSubResource>
+                    <maxSubResource fillout="1" year="1975">0.040</maxSubResource>
                     <mid-price>0.001</mid-price>
                     <curve-exponent>100</curve-exponent>
                     <technology name="global solar resource">
@@ -2725,9 +2725,9 @@
                 <price-unit>1975$/GJ</price-unit>
                 <market>DL</market>
                 <smooth-renewable-subresource name="onshore wind resource">
-                    <maxSubResource fillout="1" year="1975">0.004</maxSubResource>
-                    <mid-price>8.59191012781482</mid-price>
-                    <curve-exponent>3.964099</curve-exponent>
+                    <maxSubResource fillout="1" year="1975">0.0047</maxSubResource>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="onshore">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -2972,8 +2972,8 @@
                 <market>GA</market>
                 <smooth-renewable-subresource name="global solar resource">
                     <maxSubResource fillout="1" year="1975">0.1148</maxSubResource>
-                    <mid-price>0.894971993064188</mid-price>
-                    <curve-exponent>0.5</curve-exponent>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="global solar resource">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -3219,8 +3219,8 @@
                 <market>GA</market>
                 <smooth-renewable-subresource name="onshore wind resource">
                     <maxSubResource fillout="1" year="1975">0.0197</maxSubResource>
-                    <mid-price>8.59191012781482</mid-price>
-                    <curve-exponent>3.964099</curve-exponent>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="onshore">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -3464,9 +3464,9 @@
                 <price-unit>1975$/GJ</price-unit>
                 <market>GJ</market>
                 <smooth-renewable-subresource name="global solar resource">
-                    <maxSubResource fillout="1" year="1975">2.73</maxSubResource>
-                    <mid-price>0.894971993064188</mid-price>
-                    <curve-exponent>0.5</curve-exponent>
+                    <maxSubResource fillout="1" year="1975">6.730</maxSubResource>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="global solar resource">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -3712,8 +3712,8 @@
                 <market>GJ</market>
                 <smooth-renewable-subresource name="onshore wind resource">
                     <maxSubResource fillout="1" year="1975">1.083</maxSubResource>
-                    <mid-price>8.59191012781482</mid-price>
-                    <curve-exponent>3.964099</curve-exponent>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="onshore">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -3789,9 +3789,9 @@
                 <price-unit>1975$/GJ</price-unit>
                 <market>GJ</market>
                 <smooth-renewable-subresource name="offshore wind resource">
-                    <maxSubResource fillout="1" year="1975">0.39</maxSubResource>
-                    <mid-price>8.59191012781482</mid-price>
-                    <curve-exponent>3.964099</curve-exponent>
+                    <maxSubResource fillout="1" year="1975">1.083</maxSubResource>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="offshore">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -3957,7 +3957,7 @@
                 <price-unit>1975 $/GJ</price-unit>
                 <market>HR</market>
                 <smooth-renewable-subresource name="global solar resource">
-                    <maxSubResource fillout="1" year="1975">0.9</maxSubResource>
+                    <maxSubResource fillout="1" year="1975">1.382</maxSubResource>
                     <mid-price>0.001</mid-price>
                     <curve-exponent>100</curve-exponent>
                     <technology name="global solar resource">
@@ -4205,8 +4205,8 @@
                 <market>HR</market>
                 <smooth-renewable-subresource name="onshore wind resource">
                     <maxSubResource fillout="1" year="1975">0.22</maxSubResource>
-                    <mid-price>8.59191012781482</mid-price>
-                    <curve-exponent>3.964099</curve-exponent>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="onshore">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -4698,8 +4698,8 @@
                 <market>HP</market>
                 <smooth-renewable-subresource name="onshore wind resource">
                     <maxSubResource fillout="1" year="1975">0.212</maxSubResource>
-                    <mid-price>8.59191012781482</mid-price>
-                    <curve-exponent>3.964099</curve-exponent>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="onshore">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -5191,8 +5191,8 @@
                 <market>JK</market>
                 <smooth-renewable-subresource name="onshore wind resource">
                     <maxSubResource fillout="1" year="1975">1.255</maxSubResource>
-                    <mid-price>8.59191012781482</mid-price>
-                    <curve-exponent>3.964099</curve-exponent>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="onshore">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -5436,9 +5436,9 @@
                 <price-unit>1975 $/GJ</price-unit>
                 <market>JH</market>
                 <smooth-renewable-subresource name="global solar resource">
-                    <maxSubResource fillout="1" year="1975">0.5</maxSubResource>
-                    <mid-price>0.894971993064188</mid-price>
-                    <curve-exponent>0.5</curve-exponent>
+                    <maxSubResource fillout="1" year="1975">2.711</maxSubResource>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="global solar resource">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -5683,9 +5683,9 @@
                 <price-unit>1975$/GJ</price-unit>
                 <market>JH</market>
                 <smooth-renewable-subresource name="onshore wind resource">
-                    <maxSubResource fillout="1" year="1975">1.255</maxSubResource>
-                    <mid-price>8.59191012781482</mid-price>
-                    <curve-exponent>3.964099</curve-exponent>
+                    <maxSubResource fillout="1" year="1975">1.026</maxSubResource>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="onshore">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -6177,8 +6177,8 @@
                 <market>KA</market>
                 <smooth-renewable-subresource name="onshore wind resource">
                     <maxSubResource fillout="1" year="1975">0.948</maxSubResource>
-                    <mid-price>8.59191012781482</mid-price>
-                    <curve-exponent>3.964099</curve-exponent>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="onshore">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -6670,8 +6670,8 @@
                 <market>KL</market>
                 <smooth-renewable-subresource name="onshore wind resource">
                     <maxSubResource fillout="1" year="1975">0.07</maxSubResource>
-                    <mid-price>8.59191012781482</mid-price>
-                    <curve-exponent>3.964099</curve-exponent>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="onshore">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -6915,9 +6915,9 @@
                 <price-unit>1975 $/GJ</price-unit>
                 <market>MP</market>
                 <smooth-renewable-subresource name="global solar resource">
-                    <maxSubResource fillout="1" year="1975">6</maxSubResource>
-                    <mid-price>0.894971993064188</mid-price>
-                    <curve-exponent>0.5</curve-exponent>
+                    <maxSubResource fillout="1" year="1975">9.904</maxSubResource>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="global solar resource">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -7163,8 +7163,8 @@
                 <market>MP</market>
                 <smooth-renewable-subresource name="onshore wind resource">
                     <maxSubResource fillout="1" year="1975">1.63</maxSubResource>
-                    <mid-price>8.59191012781482</mid-price>
-                    <curve-exponent>3.964099</curve-exponent>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="onshore">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -7408,9 +7408,9 @@
                 <price-unit>1975$/GJ</price-unit>
                 <market>MH</market>
                 <smooth-renewable-subresource name="global solar resource">
-                    <maxSubResource fillout="1" year="1975">7.85</maxSubResource>
-                    <mid-price>0.894971993064188</mid-price>
-                    <curve-exponent>0.5</curve-exponent>
+                    <maxSubResource fillout="1" year="1975">10.85</maxSubResource>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="global solar resource">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -7656,8 +7656,8 @@
                 <market>MH</market>
                 <smooth-renewable-subresource name="onshore wind resource">
                     <maxSubResource fillout="1" year="1975">1.83</maxSubResource>
-                    <mid-price>8.59191012781482</mid-price>
-                    <curve-exponent>3.964099</curve-exponent>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="onshore">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -7902,8 +7902,8 @@
                 <market>MN</market>
                 <smooth-renewable-subresource name="global solar resource">
                     <maxSubResource fillout="1" year="1975">0.049</maxSubResource>
-                    <mid-price>0.894971993064188</mid-price>
-                    <curve-exponent>0.5</curve-exponent>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="global solar resource">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -8149,8 +8149,8 @@
                 <market>MN</market>
                 <smooth-renewable-subresource name="onshore wind resource">
                     <maxSubResource fillout="1" year="1975">0.007</maxSubResource>
-                    <mid-price>8.59191012781482</mid-price>
-                    <curve-exponent>3.964099</curve-exponent>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="onshore">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -8395,8 +8395,8 @@
                 <market>ML</market>
                 <smooth-renewable-subresource name="global solar resource">
                     <maxSubResource fillout="1" year="1975">0.116</maxSubResource>
-                    <mid-price>0.894971993064188</mid-price>
-                    <curve-exponent>0.5</curve-exponent>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="global solar resource">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -8642,8 +8642,8 @@
                 <market>ML</market>
                 <smooth-renewable-subresource name="onshore wind resource">
                     <maxSubResource fillout="1" year="1975">0.0039</maxSubResource>
-                    <mid-price>8.59191012781482</mid-price>
-                    <curve-exponent>3.964099</curve-exponent>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="onshore">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -8888,8 +8888,8 @@
                 <market>MZ</market>
                 <smooth-renewable-subresource name="global solar resource">
                     <maxSubResource fillout="1" year="1975">0.00073</maxSubResource>
-                    <mid-price>0.894971993064188</mid-price>
-                    <curve-exponent>0.5</curve-exponent>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="global solar resource">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -9134,9 +9134,9 @@
                 <price-unit>1975$/GJ</price-unit>
                 <market>MZ</market>
                 <smooth-renewable-subresource name="onshore wind resource">
-                    <maxSubResource fillout="1" year="1975">0.0001</maxSubResource>
-                    <mid-price>8.59191012781482</mid-price>
-                    <curve-exponent>3.964099</curve-exponent>
+                    <maxSubResource fillout="1" year="1975">0.0039</maxSubResource>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="onshore">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -9381,8 +9381,8 @@
                 <market>NL</market>
                 <smooth-renewable-subresource name="global solar resource">
                     <maxSubResource fillout="1" year="1975">0.0099</maxSubResource>
-                    <mid-price>0.894971993064188</mid-price>
-                    <curve-exponent>0.5</curve-exponent>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="global solar resource">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -9628,8 +9628,8 @@
                 <market>NL</market>
                 <smooth-renewable-subresource name="onshore wind resource">
                     <maxSubResource fillout="1" year="1975">0.002</maxSubResource>
-                    <mid-price>8.59191012781482</mid-price>
-                    <curve-exponent>3.964099</curve-exponent>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="onshore">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -9873,9 +9873,9 @@
                 <price-unit>1975$/GJ</price-unit>
                 <market>OD</market>
                 <smooth-renewable-subresource name="global solar resource">
-                    <maxSubResource fillout="1" year="1975">3.725</maxSubResource>
-                    <mid-price>0.894971993064188</mid-price>
-                    <curve-exponent>0.5</curve-exponent>
+                    <maxSubResource fillout="1" year="1975">4.725</maxSubResource>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="global solar resource">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -10121,8 +10121,8 @@
                 <market>OD</market>
                 <smooth-renewable-subresource name="onshore wind resource">
                     <maxSubResource fillout="1" year="1975">0.775</maxSubResource>
-                    <mid-price>8.59191012781482</mid-price>
-                    <curve-exponent>3.964099</curve-exponent>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="onshore">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -10613,9 +10613,9 @@
                 <price-unit>1975$/GJ</price-unit>
                 <market>PB</market>
                 <smooth-renewable-subresource name="onshore wind resource">
-                    <maxSubResource fillout="1" year="1975">0.24</maxSubResource>
-                    <mid-price>8.59191012781482</mid-price>
-                    <curve-exponent>3.964099</curve-exponent>
+                    <maxSubResource fillout="1" year="1975">0.242</maxSubResource>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="onshore">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -10859,7 +10859,7 @@
                 <price-unit>1975$/GJ</price-unit>
                 <market>RJ</market>
                 <smooth-renewable-subresource name="global solar resource">
-                    <maxSubResource fillout="1" year="1975">11</maxSubResource>
+                    <maxSubResource fillout="1" year="1975">20.50</maxSubResource>
                     <mid-price>0.001</mid-price>
                     <curve-exponent>100</curve-exponent>
                     <technology name="global solar resource">
@@ -11184,9 +11184,9 @@
                 <price-unit>1975$/GJ</price-unit>
                 <market>RJ</market>
                 <smooth-renewable-subresource name="offshore wind resource">
-                    <maxSubResource fillout="1" year="1975">0.0001</maxSubResource>
-                    <mid-price>8.59191012781482</mid-price>
-                    <curve-exponent>3.964099</curve-exponent>
+                    <maxSubResource fillout="1" year="1975">3.26</maxSubResource>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="offshore">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -11353,8 +11353,8 @@
                 <market>SK</market>
                 <smooth-renewable-subresource name="global solar resource">
                     <maxSubResource fillout="1" year="1975">0.0035</maxSubResource>
-                    <mid-price>0.894971993064188</mid-price>
-                    <curve-exponent>0.5</curve-exponent>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="global solar resource">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -11600,8 +11600,8 @@
                 <market>SK</market>
                 <smooth-renewable-subresource name="onshore wind resource">
                     <maxSubResource fillout="1" year="1975">0.018</maxSubResource>
-                    <mid-price>8.59191012781482</mid-price>
-                    <curve-exponent>3.964099</curve-exponent>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="onshore">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -12092,9 +12092,9 @@
                 <price-unit>1975$/GJ</price-unit>
                 <market>TN</market>
                 <smooth-renewable-subresource name="onshore wind resource">
-                    <maxSubResource fillout="1" year="1975">0.553</maxSubResource>
-                    <mid-price>8.59191012781482</mid-price>
-                    <curve-exponent>3.964099</curve-exponent>
+                    <maxSubResource fillout="1" year="1975">3.25</maxSubResource>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="onshore">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -12170,9 +12170,9 @@
                 <price-unit>1975$/GJ</price-unit>
                 <market>TN</market>
                 <smooth-renewable-subresource name="offshore wind resource">
-                    <maxSubResource fillout="1" year="1975">0.38</maxSubResource>
-                    <mid-price>8.59191012781482</mid-price>
-                    <curve-exponent>3.964099</curve-exponent>
+                    <maxSubResource fillout="1" year="1975">3.25</maxSubResource>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="offshore">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -12586,8 +12586,8 @@
                 <market>TS</market>
                 <smooth-renewable-subresource name="onshore wind resource">
                     <maxSubResource fillout="1" year="1975">0.59</maxSubResource>
-                    <mid-price>8.59191012781482</mid-price>
-                    <curve-exponent>3.964099</curve-exponent>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="onshore">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -12832,8 +12832,8 @@
                 <market>TR</market>
                 <smooth-renewable-subresource name="global solar resource">
                     <maxSubResource fillout="1" year="1975">0.0456</maxSubResource>
-                    <mid-price>0.894971993064188</mid-price>
-                    <curve-exponent>0.5</curve-exponent>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="global solar resource">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -13079,8 +13079,8 @@
                 <market>TR</market>
                 <smooth-renewable-subresource name="onshore wind resource">
                     <maxSubResource fillout="1" year="1975">0.0055</maxSubResource>
-                    <mid-price>8.59191012781482</mid-price>
-                    <curve-exponent>3.964099</curve-exponent>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="onshore">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -13324,7 +13324,7 @@
                 <price-unit>1975$/GJ</price-unit>
                 <market>UP</market>
                 <smooth-renewable-subresource name="global solar resource">
-                    <maxSubResource fillout="1" year="1975">1.92</maxSubResource>
+                    <maxSubResource fillout="1" year="1975">6.924</maxSubResource>
                     <mid-price>0.001</mid-price>
                     <curve-exponent>100</curve-exponent>
                     <technology name="global solar resource">
@@ -13572,8 +13572,8 @@
                 <market>UP</market>
                 <smooth-renewable-subresource name="onshore wind resource">
                     <maxSubResource fillout="1" year="1975">1.0974</maxSubResource>
-                    <mid-price>8.59191012781482</mid-price>
-                    <curve-exponent>3.964099</curve-exponent>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="onshore">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -14310,9 +14310,9 @@
                 <price-unit>1975 $/GJ</price-unit>
                 <market>WB</market>
                 <smooth-renewable-subresource name="global solar resource">
-                    <maxSubResource fillout="1" year="1975">2.24</maxSubResource>
-                    <mid-price>0.894971993064188</mid-price>
-                    <curve-exponent>0.5</curve-exponent>
+                    <maxSubResource fillout="1" year="1975">2.2458</maxSubResource>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="global solar resource">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -14558,8 +14558,8 @@
                 <market>WB</market>
                 <smooth-renewable-subresource name="onshore wind resource">
                     <maxSubResource fillout="1" year="1975">0.342</maxSubResource>
-                    <mid-price>8.59191012781482</mid-price>
-                    <curve-exponent>3.964099</curve-exponent>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="onshore">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -15051,8 +15051,8 @@
                 <market>CH</market>
                 <smooth-renewable-subresource name="onshore wind resource">
                     <maxSubResource fillout="1" year="1975">0.0007</maxSubResource>
-                    <mid-price>8.59191012781482</mid-price>
-                    <curve-exponent>3.964099</curve-exponent>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="onshore">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -15297,8 +15297,8 @@
                 <market>DD</market>
                 <smooth-renewable-subresource name="global solar resource">
                     <maxSubResource fillout="1" year="1975">0.018</maxSubResource>
-                    <mid-price>0.894971993064188</mid-price>
-                    <curve-exponent>0.5</curve-exponent>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="global solar resource">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -15544,8 +15544,8 @@
                 <market>DD</market>
                 <smooth-renewable-subresource name="onshore wind resource">
                     <maxSubResource fillout="1" year="1975">0.003</maxSubResource>
-                    <mid-price>8.59191012781482</mid-price>
-                    <curve-exponent>3.964099</curve-exponent>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="onshore">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -15789,9 +15789,9 @@
                 <price-unit>1975 $/GJ</price-unit>
                 <market>DN</market>
                 <smooth-renewable-subresource name="global solar resource">
-                    <maxSubResource fillout="1" year="1975">0.02</maxSubResource>
-                    <mid-price>0.894971993064188</mid-price>
-                    <curve-exponent>0.5</curve-exponent>
+                    <maxSubResource fillout="1" year="1975">0.0214</maxSubResource>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="global solar resource">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -16037,8 +16037,8 @@
                 <market>DN</market>
                 <smooth-renewable-subresource name="onshore wind resource">
                     <maxSubResource fillout="1" year="1975">0.0039</maxSubResource>
-                    <mid-price>8.59191012781482</mid-price>
-                    <curve-exponent>3.964099</curve-exponent>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="onshore">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -17023,8 +17023,8 @@
                 <market>LD</market>
                 <smooth-renewable-subresource name="onshore wind resource">
                     <maxSubResource fillout="1" year="1975">0.0001</maxSubResource>
-                    <mid-price>8.59191012781482</mid-price>
-                    <curve-exponent>3.964099</curve-exponent>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="onshore">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -17516,8 +17516,8 @@
                 <market>AN</market>
                 <smooth-renewable-subresource name="onshore wind resource">
                     <maxSubResource fillout="1" year="1975">0.0001</maxSubResource>
-                    <mid-price>8.59191012781482</mid-price>
-                    <curve-exponent>3.964099</curve-exponent>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="onshore">
                         <period year="1975">
                             <share-weight>1</share-weight>
@@ -18009,8 +18009,8 @@
                 <market>PC</market>
                 <smooth-renewable-subresource name="onshore wind resource">
                     <maxSubResource fillout="1" year="1975">0.002</maxSubResource>
-                    <mid-price>8.59191012781482</mid-price>
-                    <curve-exponent>3.964099</curve-exponent>
+                    <mid-price>0.001</mid-price>
+                    <curve-exponent>100</curve-exponent>
                     <technology name="onshore">
                         <period year="1975">
                             <share-weight>1</share-weight>
