@@ -194,7 +194,7 @@
 
 	</ScenarioComponents>
 	<Strings>
-		<Value name="scenarioName">BAU_solar_and_wind</Value>
+		<Value name="scenarioName">BAU_2010_calibrated</Value>
 		<Value name="debug-region">WB</Value>
 		<Value name="MAGICC-input-dir">../input/magicc/inputs</Value>
 		<Value name="MAGICC-output-dir">../output</Value>

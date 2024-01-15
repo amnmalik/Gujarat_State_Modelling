@@ -3789,7 +3789,7 @@
                 <price-unit>1975$/GJ</price-unit>
                 <market>GJ</market>
                 <smooth-renewable-subresource name="offshore wind resource">
-                    <maxSubResource fillout="1" year="1975">1.083</maxSubResource>
+                    <maxSubResource fillout="1" year="1975">0.397</maxSubResource>
                     <mid-price>0.001</mid-price>
                     <curve-exponent>100</curve-exponent>
                     <technology name="offshore">
@@ -12092,7 +12092,7 @@
                 <price-unit>1975$/GJ</price-unit>
                 <market>TN</market>
                 <smooth-renewable-subresource name="onshore wind resource">
-                    <maxSubResource fillout="1" year="1975">3.25</maxSubResource>
+                    <maxSubResource fillout="1" year="1975">0.553</maxSubResource>
                     <mid-price>0.001</mid-price>
                     <curve-exponent>100</curve-exponent>
                     <technology name="onshore">
@@ -12170,7 +12170,7 @@
                 <price-unit>1975$/GJ</price-unit>
                 <market>TN</market>
                 <smooth-renewable-subresource name="offshore wind resource">
-                    <maxSubResource fillout="1" year="1975">3.25</maxSubResource>
+                    <maxSubResource fillout="1" year="1975">0.38</maxSubResource>
                     <mid-price>0.001</mid-price>
                     <curve-exponent>100</curve-exponent>
                     <technology name="offshore">
