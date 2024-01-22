@@ -4,15 +4,11 @@
       <region name="AN">
          <ghgpolicy name="CO2">
             <market>AOI</market>
-            <constraint year="2025">760.51</constraint>
-            <constraint year="2030">902.20</constraint>
-            <constraint year="2035">1041.05</constraint>
-            <constraint year="2040">971.18</constraint>
-            <constraint year="2045">823.48</constraint>
-            <constraint year="2050">675.78</constraint>
-            <constraint year="2055">528.09</constraint>
-            <constraint year="2060">380.39</constraint>
-            <constraint year="2065">232.69</constraint>
+            <constraint year="2045">712.65</constraint>
+            <constraint year="2050">587.12</constraint>
+            <constraint year="2055">461.59</constraint>
+            <constraint year="2060">336.06</constraint>
+            <constraint year="2065">210.5</constraint>
             <constraint year="2070">85</constraint>
             <constraint year="2075">85</constraint>
             <constraint year="2080">85</constraint>

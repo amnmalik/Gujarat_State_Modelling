@@ -4,17 +4,13 @@
       <region name="Africa_Eastern">
          <ghgpolicy name="CO2">
             <market>row</market>
-            <constraint year="2025">9065.28</constraint>
-            <constraint year="2030">8241.16</constraint>
-            <constraint year="2035">7417.05</constraint>
-            <constraint year="2040">6592.933</constraint>
-            <constraint year="2045">5768.81</constraint>
-            <constraint year="2050">4944.7</constraint>
-            <constraint year="2055">4120.58</constraint>
-            <constraint year="2060">3296.46</constraint>
-            <constraint year="2065">2472.35</constraint>
-            <constraint year="2070">1648.23</constraint>
-            <constraint year="2075">824.11</constraint>
+            <constraint year="2045">5749.5</constraint>
+            <constraint year="2050">4928.16</constraint>
+            <constraint year="2055">4106.8</constraint>
+            <constraint year="2060">3285.44</constraint>
+            <constraint year="2065">2464.08</constraint>
+            <constraint year="2070">1642.7</constraint>
+            <constraint year="2075">821.36</constraint>
             <constraint year="2080">0.01</constraint>
             <constraint year="2085">0.01</constraint>
             <constraint year="2090">0.01</constraint>
