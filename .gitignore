@@ -3,34 +3,34 @@
 .RData
 .Ruserdata
 GCAM_State/exe/debugNZ_GJ_35-60.xml
-GCAM_State/exe/restart/
-GCAM_State/exe/restart/restart.0
-GCAM_State/exe/restart/restart.1
-GCAM_State/exe/restart/restart.10
-GCAM_State/exe/restart/restart.11
-GCAM_State/exe/restart/restart.12
-GCAM_State/exe/restart/restart.2
-GCAM_State/exe/restart/restart.3
-GCAM_State/exe/restart/restart.4
-GCAM_State/exe/restart/restart.5
-GCAM_State/exe/restart/restart.6
-GCAM_State/exe/restart/restart.7
-GCAM_State/exe/restart/restart.8
-GCAM_State/exe/restart/restart.9
-GCAM_State/exe/restart/restart.0
-GCAM_State\exe\debugDraft_2050.xml
-GCAM_State\exe\debugLCOE_2020
-GCAM_State\exe\debugLCOE_2020_4JAN
-GCAM_State\exe\debugLCOE_2050
-GCAM_State\exe\debugLCOE_2050_4JAN
-GCAM_State\exe\debugLCOE_2050_4JAN_2
-GCAM_State\exe\debugNZ_GJ_35-60
-GCAM_State\exe\debugNZ_GJ_40-70
-GCAM_State\exe\debugStates Calibration_Demand_Again_2010
-GCAM_State\exe\debugStates Calibration_Demand_Coal_2010
-GCAM_State\exe\debugStates Calibration_Demand2010_buildings
-GCAM_State\exe\debugStates Calibration_Demand2010_ind
-GCAM_State\exe\debugStates Calibration_Supply2010
+exe/restart/
+exe/restart/restart.0
+exe/restart/restart.1
+exe/restart/restart.10
+exe/restart/restart.11
+exe/restart/restart.12
+exe/restart/restart.2
+exe/restart/restart.3
+exe/restart/restart.4
+exe/restart/restart.5
+exe/restart/restart.6
+exe/restart/restart.7
+exe/restart/restart.8
+exe/restart/restart.9
+exe/restart/restart.0
+exe\debugDraft_2050.xml
+exe\debugLCOE_2020
+exe\debugLCOE_2020_4JAN
+exe\debugLCOE_2050
+exe\debugLCOE_2050_4JAN
+exe\debugLCOE_2050_4JAN_2
+exe\debugNZ_GJ_35-60
+exe\debugNZ_GJ_40-70
+exe\debugStates Calibration_Demand_Again_2010
+exe\debugStates Calibration_Demand_Coal_2010
+exe\debugStates Calibration_Demand2010_buildings
+exe\debugStates Calibration_Demand2010_ind
+exe\debugStates Calibration_Supply2010
 
 
 
