@@ -2145,7 +2145,7 @@
                 <income-elasticity year="2100">0.17281448</income-elasticity>
             </energy-final-demand>
             <energy-final-demand name="Paper and Pulp">
-                <income-elasticity year="2015">4</income-elasticity>
+                <income-elasticity year="2015">4.5</income-elasticity>
                 <income-elasticity year="2020">1</income-elasticity>
                 <income-elasticity year="2025">0.888442211</income-elasticity>
                 <income-elasticity year="2030">0.814070352</income-elasticity>
@@ -2165,7 +2165,7 @@
                 <income-elasticity year="2100">0.249246231</income-elasticity>
             </energy-final-demand>
             <energy-final-demand name="Food Processing">
-                <income-elasticity year="2015">1</income-elasticity>
+                <income-elasticity year="2015">1.5</income-elasticity>
                 <income-elasticity year="2020">0.270135747</income-elasticity>
                 <income-elasticity year="2025">0.24</income-elasticity>
                 <income-elasticity year="2030">0.219909502</income-elasticity>
