@@ -112,7 +112,7 @@
         <Value name = "Indus_FuelAdders">../input/gcamdata/xml/India/Exogenous/Industry/India_states_Fuel_adders.xml</Value>
         <Value name = "Indus_incomeelas">../input/gcamdata/xml/India/Exogenous/Industry/India_states_Industry_incomeelas_PD.xml</Value>
         <Value name = "Indus_fs_stubtech_coeff">../input/gcamdata/xml/India/Exogenous/Industry/India_states_FS_Stubtech_Coeff.xml</Value>
-		<!--Value name = "Indus_shareweights">../input/gcamdata/xml/India/Exogenous/Industry/India_states_industry_share-weights_GJ_modified.xml</Value-->
+		<Value name = "Indus_shareweights">../input/gcamdata/xml/India/Exogenous/Industry/India_states_industry_share-weights_GJ_modified.xml</Value>
 		<!--Value name = "Indus_shareweights_BAU">../input/gcamdata/xml/India/Exogenous/Industry/India_states_industry_share-weights_BAUforRJ.xml</Value-->
         <Value name = "Indus_shareweights_NZ">../input/gcamdata/xml/India/Exogenous/Industry/India_states_industry_share-weights_hydrogen.xml</Value>
 		<Value name = "India Industry Hydrogen">../input/gcamdata/xml/India/Exogenous/Industry/India_states_industry_share-weights_HH_for_all_States.xml</Value>		
@@ -195,7 +195,7 @@
 
 	</ScenarioComponents>
 	<Strings>
-		<Value name="scenarioName">Feb1AM</Value>
+		<Value name="scenarioName">Others_coal_chemFert</Value>
 		<Value name="debug-region">WB</Value>
 		<Value name="MAGICC-input-dir">../input/magicc/inputs</Value>
 		<Value name="MAGICC-output-dir">../output</Value>
@@ -219,7 +219,7 @@
 		<Value name="carbon-output-start-year">1705</Value>
 		<Value name="climateOutputInterval">5</Value>
 		<Value name="parallel-grain-size">50</Value>
-		<Value name="stop-period">5</Value>
+		<Value name="stop-period">4</Value>
 		<Value name="restart-period">-1</Value>
 	</Ints>
 	<Doubles>
