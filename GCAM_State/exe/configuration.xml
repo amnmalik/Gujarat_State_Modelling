@@ -159,7 +159,7 @@
          <!--Value name = "Bld_costadders">../input/gcamdata/xml/India/Exogenous/Building/Bld_cost_adders_PD_Changed.xml</Value-->
 
 		<Value name = "India low hydrogen cost">../input/gcamdata/xml/India/Others/India_hydrogen_cost_change_reference.xml</Value>
-		<Value name = "trn_India">../input/gcamdata/xml/India/GJ/HighHydrogen/transportation_India.xml</Value>
+		<!--Value name = "trn_India">../input/gcamdata/xml/India/GJ/HighHydrogen/transportation_India.xml</Value-->
 
          <!--Value name = "No Fossils Policy">../input/gcamdata/xml/India/India_state_level_tech_shrwt_NoNewFossils.xml</Value>
          <Value name = "No Fossils Policy_Indus">../input/gcamdata/xml/India/India_state_level_shrwt_NoNewFossils_Industry_NZ70.xml</Value-->
@@ -195,7 +195,7 @@
 
 	</ScenarioComponents>
 	<Strings>
-		<Value name="scenarioName">Others_coal_chemFert</Value>
+		<Value name="scenarioName">Draft</Value>
 		<Value name="debug-region">WB</Value>
 		<Value name="MAGICC-input-dir">../input/magicc/inputs</Value>
 		<Value name="MAGICC-output-dir">../output</Value>
