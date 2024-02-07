@@ -2045,7 +2045,7 @@
                 <income-elasticity year="2100">0.100995475</income-elasticity>
             </energy-final-demand>
             <energy-final-demand name="Chem_Fert">
-                <income-elasticity year="2015">3.5</income-elasticity>
+                <income-elasticity year="2015">4</income-elasticity>
                 <income-elasticity year="2020">0.585294118</income-elasticity>
                 <income-elasticity year="2025">0.52</income-elasticity>
                 <income-elasticity year="2030">0.476470588</income-elasticity>
