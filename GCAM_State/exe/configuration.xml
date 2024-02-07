@@ -195,7 +195,7 @@
 
 	</ScenarioComponents>
 	<Strings>
-		<Value name="scenarioName">Final_2010</Value>
+		<Value name="scenarioName">Transport</Value>
 		<Value name="debug-region">GJ</Value>
 		<Value name="MAGICC-input-dir">../input/magicc/inputs</Value>
 		<Value name="MAGICC-output-dir">../output</Value>
