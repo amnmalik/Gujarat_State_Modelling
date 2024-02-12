@@ -11,6 +11,7 @@
 # Files produced by data system
 outputs/
 xml/
+xml/All
 sample-generator/outputs/
 R/*.html
 Rplots.pdf
