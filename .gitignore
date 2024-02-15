@@ -31,6 +31,7 @@ exe\debugStates Calibration_Demand_Coal_2010
 exe\debugStates Calibration_Demand2010_buildings
 exe\debugStates Calibration_Demand2010_ind
 exe\debugStates Calibration_Supply2010
+GCAM_State/exe/*xml
 
 
 
@@ -56,3 +57,4 @@ GCAM_State/ModelInterface/logs/model_interface_log.txt
 GCAM_State/exe/configuration.xml
 GCAM_State/ModelInterface/logs/model_interface_log.txt
 GCAM_State/ModelInterface/model_interface.properties
+GCAM_State/exe/restart/restart.0

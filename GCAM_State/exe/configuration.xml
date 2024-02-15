@@ -93,7 +93,7 @@
       	<Value name = "elec_india">../input/gcamdata/xml/India/electricity_india.xml</Value>
 		<Value name = "elect_td_india">../input/gcamdata/xml/India/electd_india.xml</Value>   
               
-		<Value name = "ind_india">../input/gcamdata/xml/India/industry_india.xml</Value>
+		<!--Value name = "ind_india">../input/gcamdata/xml/India/industry_india.xml</Value-->
 		<Value name = "ind_india">../input/gcamdata/xml/India/cement_India.xml</Value>
 
 		<!--Value name = "bld">../input/gcamdata/xml/India/building_india_NewPD.xml</Value-->
@@ -109,10 +109,11 @@
 		<Value name = "Trad_Bio">../input/gcamdata/xml/India/agg_tradbio_india.xml</Value>
         <Value name = "Trad_Bio">../input/gcamdata/xml/India/tradbio_resource_india.xml</Value>
         
+		<Value name = "ind_india">../input/gcamdata/xml/India/industry_india.xml</Value>
         <Value name = "Indus_FuelAdders">../input/gcamdata/xml/India/Exogenous/Industry/India_states_Fuel_adders.xml</Value>
         <Value name = "Indus_incomeelas">../input/gcamdata/xml/India/Exogenous/Industry/India_states_Industry_incomeelas_PD.xml</Value>
         <Value name = "Indus_fs_stubtech_coeff">../input/gcamdata/xml/India/Exogenous/Industry/India_states_FS_Stubtech_Coeff.xml</Value>
-		<Value name = "Indus_shareweights">../input/gcamdata/xml/India/Exogenous/Industry/India_states_industry_share-weights_GJ_modified.xml</Value>
+		<!--Value name = "Indus_shareweights">../input/gcamdata/xml/India/Exogenous/Industry/India_states_industry_share-weights_GJ_modified.xml</Value-->
 		<!--Value name = "Indus_shareweights_BAU">../input/gcamdata/xml/India/Exogenous/Industry/India_states_industry_share-weights_BAUforRJ.xml</Value-->
         <Value name = "Indus_shareweights_NZ">../input/gcamdata/xml/India/Exogenous/Industry/India_states_industry_share-weights_hydrogen.xml</Value>
 		<Value name = "India Industry Hydrogen">../input/gcamdata/xml/India/Exogenous/Industry/India_states_industry_share-weights_HH_for_all_States.xml</Value>		
@@ -181,6 +182,7 @@
 
 		<!--Value name = "Exo Flrspc">../input/gcamdata/xml/India/Exogenous/Building/Bld_exo_flrspc.xml</Value-->
 
+
 <!--Net-zero constraints for GJ-->
 		<!--Value name = "GHG_market_constraints_2035_2060_GJ">../input/gcamdata/xml/India/GJNZ/GHG_market_constraints_2035_2060_GJ.xml</Value-->		
   		<!--Value name = "India All States Curved without Land Use ">../input/gcamdata/xml/India/GJNZ/GHG_market_constraints_2040_2070_state_AllIndia_Curved_withoutland.xml</Value-->
@@ -195,7 +197,7 @@
 
 	</ScenarioComponents>
 	<Strings>
-		<Value name="scenarioName">2015Cal</Value>
+		<Value name="scenarioName">EB_new_anurag3</Value>
 		<Value name="debug-region">GJ</Value>
 		<Value name="MAGICC-input-dir">../input/magicc/inputs</Value>
 		<Value name="MAGICC-output-dir">../output</Value>
@@ -219,7 +221,7 @@
 		<Value name="carbon-output-start-year">1705</Value>
 		<Value name="climateOutputInterval">5</Value>
 		<Value name="parallel-grain-size">50</Value>
-		<Value name="stop-period">4</Value>
+		<Value name="stop-period">5</Value>
 		<Value name="restart-period">-1</Value>
 	</Ints>
 	<Doubles>
