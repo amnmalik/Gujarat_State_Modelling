@@ -1,7 +1,7 @@
-INPUT_TABLE,,,,,,
-Variable ID,,,,,,
-RegionTechCost,,,,,,
-,,,,,,
+INPUT_TABLE
+Variable ID
+RegionTechCost
+
 Region,sector.name,subsector.name,technology,year,minicam.non.energy.input,input.cost
 AN,Agriculture,Agriculture,Agriculture,2010,non-energy,45.26159516
 AP,Agriculture,Agriculture,Agriculture,2010,non-energy,45.26159516
@@ -2767,7 +2767,7 @@ MN,Chem_Fert_enuse,coal,coal,2015,non-energy,218.5445048
 MP,Chem_Fert_enuse,coal,coal,2015,non-energy,219.0667848
 MZ,Chem_Fert_enuse,coal,coal,2015,non-energy,218.5445048
 NL,Chem_Fert_enuse,coal,coal,2015,non-energy,218.5445048
-OD,Chem_Fert_enuse,coal,coal,2015,non-energy,340.5193062
+OD,Chem_Fert_enuse,coal,coal,2015,non-energy,80
 PB,Chem_Fert_enuse,coal,coal,2015,non-energy,218.6819448
 PC,Chem_Fert_enuse,coal,coal,2015,non-energy,219.0773648
 RJ,Chem_Fert_enuse,coal,coal,2015,non-energy,218.6819448
@@ -2815,43 +2815,43 @@ TS,Chem_Fert_enuse,coal,coal cogen,2015,non-energy,549.3675735
 UK,Chem_Fert_enuse,coal,coal cogen,2015,non-energy,537.4382077
 UP,Chem_Fert_enuse,coal,coal cogen,2015,non-energy,700.27856
 WB,Chem_Fert_enuse,coal,coal cogen,2015,non-energy,549.1464835
-AN,Chem_Fert_enuse,gas,gas,2015,non-energy,244.8511238
-AP,Chem_Fert_enuse,gas,gas,2015,non-energy,244.8511238
-AR,Chem_Fert_enuse,gas,gas,2015,non-energy,244.8270038
-AS,Chem_Fert_enuse,gas,gas,2015,non-energy,244.8270038
-BR,Chem_Fert_enuse,gas,gas,2015,non-energy,244.5378638
-CG,Chem_Fert_enuse,gas,gas,2015,non-energy,244.7862138
-CH,Chem_Fert_enuse,gas,gas,2015,non-energy,244.6281938
-DD,Chem_Fert_enuse,gas,gas,2015,non-energy,244.7862138
-DL,Chem_Fert_enuse,gas,gas,2015,non-energy,244.6281938
-DN,Chem_Fert_enuse,gas,gas,2015,non-energy,244.7862138
-GA,Chem_Fert_enuse,gas,gas,2015,non-energy,244.7862138
-GJ,Chem_Fert_enuse,gas,gas,2015,non-energy,248.0465694
-HP,Chem_Fert_enuse,gas,gas,2015,non-energy,244.6281938
-HR,Chem_Fert_enuse,gas,gas,2015,non-energy,244.6281938
-JH,Chem_Fert_enuse,gas,gas,2015,non-energy,244.5378638
-JK,Chem_Fert_enuse,gas,gas,2015,non-energy,244.6281938
-KA,Chem_Fert_enuse,gas,gas,2015,non-energy,244.8511238
-KL,Chem_Fert_enuse,gas,gas,2015,non-energy,244.8511238
-LA,Chem_Fert_enuse,gas,gas,2015,non-energy,244.6281938
-LD,Chem_Fert_enuse,gas,gas,2015,non-energy,244.8511238
-MH,Chem_Fert_enuse,gas,gas,2015,non-energy,244.7862138
-ML,Chem_Fert_enuse,gas,gas,2015,non-energy,244.8270038
-MN,Chem_Fert_enuse,gas,gas,2015,non-energy,244.8270038
-MP,Chem_Fert_enuse,gas,gas,2015,non-energy,244.7862138
-MZ,Chem_Fert_enuse,gas,gas,2015,non-energy,244.8270038
-NL,Chem_Fert_enuse,gas,gas,2015,non-energy,244.8270038
-OD,Chem_Fert_enuse,gas,gas,2015,non-energy,380.7761644
-PB,Chem_Fert_enuse,gas,gas,2015,non-energy,244.6281938
-PC,Chem_Fert_enuse,gas,gas,2015,non-energy,244.8511238
-RJ,Chem_Fert_enuse,gas,gas,2015,non-energy,244.6281938
-SK,Chem_Fert_enuse,gas,gas,2015,non-energy,244.5378638
-TN,Chem_Fert_enuse,gas,gas,2015,non-energy,289.4388802
-TR,Chem_Fert_enuse,gas,gas,2015,non-energy,244.8270038
-TS,Chem_Fert_enuse,gas,gas,2015,non-energy,244.8511238
-UK,Chem_Fert_enuse,gas,gas,2015,non-energy,245.4082002
-UP,Chem_Fert_enuse,gas,gas,2015,non-energy,307.5437544
-WB,Chem_Fert_enuse,gas,gas,2015,non-energy,244.5378638
+AN,Chem_Fert_enuse,gas,gas,2015,non-energy,1000
+AP,Chem_Fert_enuse,gas,gas,2015,non-energy,318.3064609
+AR,Chem_Fert_enuse,gas,gas,2015,non-energy,318.2751049
+AS,Chem_Fert_enuse,gas,gas,2015,non-energy,200
+BR,Chem_Fert_enuse,gas,gas,2015,non-energy,317.8992229
+CG,Chem_Fert_enuse,gas,gas,2015,non-energy,318.2220779
+CH,Chem_Fert_enuse,gas,gas,2015,non-energy,318.0166519
+DD,Chem_Fert_enuse,gas,gas,2015,non-energy,1000
+DL,Chem_Fert_enuse,gas,gas,2015,non-energy,318.0166519
+DN,Chem_Fert_enuse,gas,gas,2015,non-energy,318.2220779
+GA,Chem_Fert_enuse,gas,gas,2015,non-energy,318.2220779
+GJ,Chem_Fert_enuse,gas,gas,2015,non-energy,100
+HP,Chem_Fert_enuse,gas,gas,2015,non-energy,318.0166519
+HR,Chem_Fert_enuse,gas,gas,2015,non-energy,150
+JH,Chem_Fert_enuse,gas,gas,2015,non-energy,317.8992229
+JK,Chem_Fert_enuse,gas,gas,2015,non-energy,1500
+KA,Chem_Fert_enuse,gas,gas,2015,non-energy,318.3064609
+KL,Chem_Fert_enuse,gas,gas,2015,non-energy,318.3064609
+LA,Chem_Fert_enuse,gas,gas,2015,non-energy,318.0166519
+LD,Chem_Fert_enuse,gas,gas,2015,non-energy,318.3064609
+MH,Chem_Fert_enuse,gas,gas,2015,non-energy,250
+ML,Chem_Fert_enuse,gas,gas,2015,non-energy,318.2751049
+MN,Chem_Fert_enuse,gas,gas,2015,non-energy,318.2751049
+MP,Chem_Fert_enuse,gas,gas,2015,non-energy,318.2220779
+MZ,Chem_Fert_enuse,gas,gas,2015,non-energy,318.2751049
+NL,Chem_Fert_enuse,gas,gas,2015,non-energy,318.2751049
+OD,Chem_Fert_enuse,gas,gas,2015,non-energy,495.0090137
+PB,Chem_Fert_enuse,gas,gas,2015,non-energy,318.0166519
+PC,Chem_Fert_enuse,gas,gas,2015,non-energy,318.3064609
+RJ,Chem_Fert_enuse,gas,gas,2015,non-energy,100
+SK,Chem_Fert_enuse,gas,gas,2015,non-energy,317.8992229
+TN,Chem_Fert_enuse,gas,gas,2015,non-energy,1500
+TR,Chem_Fert_enuse,gas,gas,2015,non-energy,1500
+TS,Chem_Fert_enuse,gas,gas,2015,non-energy,318.3064609
+UK,Chem_Fert_enuse,gas,gas,2015,non-energy,319.0306603
+UP,Chem_Fert_enuse,gas,gas,2015,non-energy,250
+WB,Chem_Fert_enuse,gas,gas,2015,non-energy,317.8992229
 AN,Chem_Fert_enuse,gas,gas cogen,2015,non-energy,617.9308798
 AP,Chem_Fert_enuse,gas,gas cogen,2015,non-energy,617.9308798
 AR,Chem_Fert_enuse,gas,gas cogen,2015,non-energy,617.9067598
@@ -2983,10 +2983,10 @@ KA,Chem_Fert_enuse,refined liquids,refined liquids,2015,non-energy,230.8493656
 KL,Chem_Fert_enuse,refined liquids,refined liquids,2015,non-energy,230.8493656
 LA,Chem_Fert_enuse,refined liquids,refined liquids,2015,non-energy,230.8493656
 LD,Chem_Fert_enuse,refined liquids,refined liquids,2015,non-energy,230.8493656
-MH,Chem_Fert_enuse,refined liquids,refined liquids,2015,non-energy,230.8493656
+MH,Chem_Fert_enuse,refined liquids,refined liquids,2015,non-energy,600
 ML,Chem_Fert_enuse,refined liquids,refined liquids,2015,non-energy,230.8493656
 MN,Chem_Fert_enuse,refined liquids,refined liquids,2015,non-energy,230.8493656
-MP,Chem_Fert_enuse,refined liquids,refined liquids,2015,non-energy,230.8493656
+MP,Chem_Fert_enuse,refined liquids,refined liquids,2015,non-energy,5
 MZ,Chem_Fert_enuse,refined liquids,refined liquids,2015,non-energy,230.8493656
 NL,Chem_Fert_enuse,refined liquids,refined liquids,2015,non-energy,230.8493656
 OD,Chem_Fert_enuse,refined liquids,refined liquids,2015,non-energy,353.3223165
@@ -2994,12 +2994,12 @@ PB,Chem_Fert_enuse,refined liquids,refined liquids,2015,non-energy,230.8493656
 PC,Chem_Fert_enuse,refined liquids,refined liquids,2015,non-energy,230.8493656
 RJ,Chem_Fert_enuse,refined liquids,refined liquids,2015,non-energy,230.8493656
 SK,Chem_Fert_enuse,refined liquids,refined liquids,2015,non-energy,230.8493656
-TN,Chem_Fert_enuse,refined liquids,refined liquids,2015,non-energy,274.5732746
+TN,Chem_Fert_enuse,refined liquids,refined liquids,2015,non-energy,5000
 TR,Chem_Fert_enuse,refined liquids,refined liquids,2015,non-energy,230.8493656
 TS,Chem_Fert_enuse,refined liquids,refined liquids,2015,non-energy,230.8493656
-UK,Chem_Fert_enuse,refined liquids,refined liquids,2015,non-energy,229.5745255
+UK,Chem_Fert_enuse,refined liquids,refined liquids,2015,non-energy,1
 UP,Chem_Fert_enuse,refined liquids,refined liquids,2015,non-energy,284.2546568
-WB,Chem_Fert_enuse,refined liquids,refined liquids,2015,non-energy,230.8493656
+WB,Chem_Fert_enuse,refined liquids,refined liquids,2015,non-energy,500
 AN,Chem_Fert_enuse,refined liquids,refined liquids cogen,2015,non-energy,580.6816241
 AP,Chem_Fert_enuse,refined liquids,refined liquids cogen,2015,non-energy,580.6816241
 AR,Chem_Fert_enuse,refined liquids,refined liquids cogen,2015,non-energy,580.6816241
@@ -3285,7 +3285,7 @@ MN,Iron and Steel_enuse,coal,coal,2015,non-energy,650.5436044
 MP,Iron and Steel_enuse,coal,coal,2015,non-energy,651.0658844
 MZ,Iron and Steel_enuse,coal,coal,2015,non-energy,650.5436044
 NL,Iron and Steel_enuse,coal,coal,2015,non-energy,650.5436044
-OD,Iron and Steel_enuse,coal,coal,2015,non-energy,637.7865282
+OD,Iron and Steel_enuse,coal,coal,2015,non-energy,580
 PB,Iron and Steel_enuse,coal,coal,2015,non-energy,650.6810444
 PC,Iron and Steel_enuse,coal,coal,2015,non-energy,651.0764644
 RJ,Iron and Steel_enuse,coal,coal,2015,non-energy,650.6810444
@@ -3333,43 +3333,43 @@ TS,Iron and Steel_enuse,coal,coal cogen,2015,non-energy,1629.365198
 UK,Iron and Steel_enuse,coal,coal cogen,2015,non-energy,1641.137927
 UP,Iron and Steel_enuse,coal,coal cogen,2015,non-energy,1667.45048
 WB,Iron and Steel_enuse,coal,coal cogen,2015,non-energy,1629.144108
-AN,Iron and Steel_enuse,gas,gas,2015,non-energy,676.8502234
-AP,Iron and Steel_enuse,gas,gas,2015,non-energy,676.8502234
-AR,Iron and Steel_enuse,gas,gas,2015,non-energy,676.8261034
-AS,Iron and Steel_enuse,gas,gas,2015,non-energy,676.8261034
-BR,Iron and Steel_enuse,gas,gas,2015,non-energy,676.5369634
-CG,Iron and Steel_enuse,gas,gas,2015,non-energy,676.7853134
-CH,Iron and Steel_enuse,gas,gas,2015,non-energy,676.6272934
-DD,Iron and Steel_enuse,gas,gas,2015,non-energy,676.7853134
-DL,Iron and Steel_enuse,gas,gas,2015,non-energy,676.6272934
-DN,Iron and Steel_enuse,gas,gas,2015,non-energy,676.7853134
-GA,Iron and Steel_enuse,gas,gas,2015,non-energy,676.7853134
-GJ,Iron and Steel_enuse,gas,gas,2015,non-energy,683.4696772
-HP,Iron and Steel_enuse,gas,gas,2015,non-energy,676.6272934
-HR,Iron and Steel_enuse,gas,gas,2015,non-energy,676.6272934
-JH,Iron and Steel_enuse,gas,gas,2015,non-energy,676.5369634
-JK,Iron and Steel_enuse,gas,gas,2015,non-energy,676.6272934
-KA,Iron and Steel_enuse,gas,gas,2015,non-energy,676.8502234
-KL,Iron and Steel_enuse,gas,gas,2015,non-energy,676.8502234
-LA,Iron and Steel_enuse,gas,gas,2015,non-energy,676.6272934
-LD,Iron and Steel_enuse,gas,gas,2015,non-energy,676.8502234
-MH,Iron and Steel_enuse,gas,gas,2015,non-energy,676.7853134
-ML,Iron and Steel_enuse,gas,gas,2015,non-energy,676.8261034
-MN,Iron and Steel_enuse,gas,gas,2015,non-energy,676.8261034
-MP,Iron and Steel_enuse,gas,gas,2015,non-energy,676.7853134
-MZ,Iron and Steel_enuse,gas,gas,2015,non-energy,676.8261034
-NL,Iron and Steel_enuse,gas,gas,2015,non-energy,676.8261034
-OD,Iron and Steel_enuse,gas,gas,2015,non-energy,678.0433866
-PB,Iron and Steel_enuse,gas,gas,2015,non-energy,676.6272934
-PC,Iron and Steel_enuse,gas,gas,2015,non-energy,676.8502234
-RJ,Iron and Steel_enuse,gas,gas,2015,non-energy,676.6272934
-SK,Iron and Steel_enuse,gas,gas,2015,non-energy,676.5369634
-TN,Iron and Steel_enuse,gas,gas,2015,non-energy,682.2301868
-TR,Iron and Steel_enuse,gas,gas,2015,non-energy,676.8261034
-TS,Iron and Steel_enuse,gas,gas,2015,non-energy,676.8502234
-UK,Iron and Steel_enuse,gas,gas,2015,non-energy,686.8879762
-UP,Iron and Steel_enuse,gas,gas,2015,non-energy,676.3356678
-WB,Iron and Steel_enuse,gas,gas,2015,non-energy,676.5369634
+AN,Iron and Steel_enuse,gas,gas,2015,non-energy,2000
+AP,Iron and Steel_enuse,gas,gas,2015,non-energy,879.9052904
+AR,Iron and Steel_enuse,gas,gas,2015,non-energy,879.8739344
+AS,Iron and Steel_enuse,gas,gas,2015,non-energy,879.8739344
+BR,Iron and Steel_enuse,gas,gas,2015,non-energy,879.4980524
+CG,Iron and Steel_enuse,gas,gas,2015,non-energy,879.8209074
+CH,Iron and Steel_enuse,gas,gas,2015,non-energy,879.6154814
+DD,Iron and Steel_enuse,gas,gas,2015,non-energy,2000
+DL,Iron and Steel_enuse,gas,gas,2015,non-energy,879.6154814
+DN,Iron and Steel_enuse,gas,gas,2015,non-energy,879.8209074
+GA,Iron and Steel_enuse,gas,gas,2015,non-energy,879.8209074
+GJ,Iron and Steel_enuse,gas,gas,2015,non-energy,600
+HP,Iron and Steel_enuse,gas,gas,2015,non-energy,879.6154814
+HR,Iron and Steel_enuse,gas,gas,2015,non-energy,500
+JH,Iron and Steel_enuse,gas,gas,2015,non-energy,879.4980524
+JK,Iron and Steel_enuse,gas,gas,2015,non-energy,3000
+KA,Iron and Steel_enuse,gas,gas,2015,non-energy,879.9052904
+KL,Iron and Steel_enuse,gas,gas,2015,non-energy,879.9052904
+LA,Iron and Steel_enuse,gas,gas,2015,non-energy,879.6154814
+LD,Iron and Steel_enuse,gas,gas,2015,non-energy,879.9052904
+MH,Iron and Steel_enuse,gas,gas,2015,non-energy,450
+ML,Iron and Steel_enuse,gas,gas,2015,non-energy,879.8739344
+MN,Iron and Steel_enuse,gas,gas,2015,non-energy,879.8739344
+MP,Iron and Steel_enuse,gas,gas,2015,non-energy,879.8209074
+MZ,Iron and Steel_enuse,gas,gas,2015,non-energy,879.8739344
+NL,Iron and Steel_enuse,gas,gas,2015,non-energy,879.8739344
+OD,Iron and Steel_enuse,gas,gas,2015,non-energy,881.4564026
+PB,Iron and Steel_enuse,gas,gas,2015,non-energy,879.6154814
+PC,Iron and Steel_enuse,gas,gas,2015,non-energy,879.9052904
+RJ,Iron and Steel_enuse,gas,gas,2015,non-energy,300
+SK,Iron and Steel_enuse,gas,gas,2015,non-energy,879.4980524
+TN,Iron and Steel_enuse,gas,gas,2015,non-energy,2000
+TR,Iron and Steel_enuse,gas,gas,2015,non-energy,3000
+TS,Iron and Steel_enuse,gas,gas,2015,non-energy,879.9052904
+UK,Iron and Steel_enuse,gas,gas,2015,non-energy,892.9543691
+UP,Iron and Steel_enuse,gas,gas,2015,non-energy,600
+WB,Iron and Steel_enuse,gas,gas,2015,non-energy,879.4980524
 AN,Iron and Steel_enuse,gas,gas cogen,2015,non-energy,1697.928505
 AP,Iron and Steel_enuse,gas,gas cogen,2015,non-energy,1697.928505
 AR,Iron and Steel_enuse,gas,gas cogen,2015,non-energy,1697.904385
@@ -3501,10 +3501,10 @@ KA,Iron and Steel_enuse,refined liquids,refined liquids,2015,non-energy,662.8484
 KL,Iron and Steel_enuse,refined liquids,refined liquids,2015,non-energy,662.8484154
 LA,Iron and Steel_enuse,refined liquids,refined liquids,2015,non-energy,662.8484154
 LD,Iron and Steel_enuse,refined liquids,refined liquids,2015,non-energy,662.8484154
-MH,Iron and Steel_enuse,refined liquids,refined liquids,2015,non-energy,662.8484154
+MH,Iron and Steel_enuse,refined liquids,refined liquids,2015,non-energy,700
 ML,Iron and Steel_enuse,refined liquids,refined liquids,2015,non-energy,662.8484154
 MN,Iron and Steel_enuse,refined liquids,refined liquids,2015,non-energy,662.8484154
-MP,Iron and Steel_enuse,refined liquids,refined liquids,2015,non-energy,662.8484154
+MP,Iron and Steel_enuse,refined liquids,refined liquids,2015,non-energy,-1
 MZ,Iron and Steel_enuse,refined liquids,refined liquids,2015,non-energy,662.8484154
 NL,Iron and Steel_enuse,refined liquids,refined liquids,2015,non-energy,662.8484154
 OD,Iron and Steel_enuse,refined liquids,refined liquids,2015,non-energy,650.5889276
@@ -3512,10 +3512,10 @@ PB,Iron and Steel_enuse,refined liquids,refined liquids,2015,non-energy,662.8484
 PC,Iron and Steel_enuse,refined liquids,refined liquids,2015,non-energy,662.8484154
 RJ,Iron and Steel_enuse,refined liquids,refined liquids,2015,non-energy,662.8484154
 SK,Iron and Steel_enuse,refined liquids,refined liquids,2015,non-energy,662.8484154
-TN,Iron and Steel_enuse,refined liquids,refined liquids,2015,non-energy,667.364928
+TN,Iron and Steel_enuse,refined liquids,refined liquids,2015,non-energy,6000
 TR,Iron and Steel_enuse,refined liquids,refined liquids,2015,non-energy,662.8484154
 TS,Iron and Steel_enuse,refined liquids,refined liquids,2015,non-energy,662.8484154
-UK,Iron and Steel_enuse,refined liquids,refined liquids,2015,non-energy,671.0544134
+UK,Iron and Steel_enuse,refined liquids,refined liquids,2015,non-energy,-1
 UP,Iron and Steel_enuse,refined liquids,refined liquids,2015,non-energy,732.3967917
 WB,Iron and Steel_enuse,refined liquids,refined liquids,2015,non-energy,662.8484154
 AN,Iron and Steel_enuse,refined liquids,refined liquids cogen,2015,non-energy,1660.679249
@@ -3692,7 +3692,7 @@ MN,Non-Ferrous Metals_enuse,coal,coal,2015,non-energy,3280.108442
 MP,Non-Ferrous Metals_enuse,coal,coal,2015,non-energy,3280.635722
 MZ,Non-Ferrous Metals_enuse,coal,coal,2015,non-energy,3280.108442
 NL,Non-Ferrous Metals_enuse,coal,coal,2015,non-energy,3280.108442
-OD,Non-Ferrous Metals_enuse,coal,coal,2015,non-energy,3245.104774
+OD,Non-Ferrous Metals_enuse,coal,coal,2015,non-energy,800
 PB,Non-Ferrous Metals_enuse,coal,coal,2015,non-energy,3280.247882
 PC,Non-Ferrous Metals_enuse,coal,coal,2015,non-energy,3280.646302
 RJ,Non-Ferrous Metals_enuse,coal,coal,2015,non-energy,3280.247882
@@ -3740,43 +3740,43 @@ TS,Non-Ferrous Metals_enuse,coal,coal cogen,2015,non-energy,8203.281244
 UK,Non-Ferrous Metals_enuse,coal,coal cogen,2015,non-energy,8202.672545
 UP,Non-Ferrous Metals_enuse,coal,coal cogen,2015,non-energy,8141.799011
 WB,Non-Ferrous Metals_enuse,coal,coal cogen,2015,non-energy,8203.060154
-AN,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,3306.42106
-AP,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,3306.42106
-AR,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,3306.39694
-AS,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,3306.39694
-BR,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,3306.1068
-CG,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,3306.35615
-CH,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,3306.19713
-DD,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,3306.35615
-DL,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,3306.19713
-DN,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,3306.35615
-GA,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,3306.35615
-GJ,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,3315.591804
-HP,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,3306.19713
-HR,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,3306.19713
-JH,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,3306.1068
-JK,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,3306.19713
-KA,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,3306.42106
-KL,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,3306.42106
-LA,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,3306.19713
-LD,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,3306.42106
-MH,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,3306.35615
-ML,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,3306.39694
-MN,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,3306.39694
-MP,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,3306.35615
-MZ,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,3306.39694
-NL,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,3306.39694
-OD,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,3285.360632
-PB,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,3306.19713
-PC,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,3306.42106
-RJ,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,3306.19713
-SK,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,3306.1068
-TN,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,3303.427832
-TR,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,3306.39694
-TS,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,3306.42106
-UK,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,3311.50367
-UP,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,3284.154116
-WB,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,3306.1068
+AN,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,8000
+AP,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,4298.347378
+AR,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,4298.316022
+AS,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,2000
+BR,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,4297.93884
+CG,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,4298.262995
+CH,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,4298.056269
+DD,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,8000
+DL,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,4298.056269
+DN,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,4298.262995
+GA,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,4298.262995
+GJ,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,2500
+HP,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,4298.056269
+HR,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,2800
+JH,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,4297.93884
+JK,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,8000
+KA,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,4298.347378
+KL,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,4298.347378
+LA,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,4298.056269
+LD,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,4298.347378
+MH,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,3000
+ML,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,4298.316022
+MN,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,4298.316022
+MP,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,4298.262995
+MZ,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,4298.316022
+NL,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,4298.316022
+OD,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,4270.968822
+PB,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,4298.056269
+PC,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,4298.347378
+RJ,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,1000
+SK,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,4297.93884
+TN,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,8000
+TR,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,8000
+TS,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,4298.347378
+UK,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,4304.954771
+UP,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,3000
+WB,Non-Ferrous Metals_enuse,gas,gas,2015,non-energy,4297.93884
 AN,Non-Ferrous Metals_enuse,gas,gas cogen,2015,non-energy,8271.84455
 AP,Non-Ferrous Metals_enuse,gas,gas cogen,2015,non-energy,8271.84455
 AR,Non-Ferrous Metals_enuse,gas,gas cogen,2015,non-energy,8271.82043
@@ -3908,10 +3908,10 @@ KA,Non-Ferrous Metals_enuse,refined liquids,refined liquids,2015,non-energy,3292
 KL,Non-Ferrous Metals_enuse,refined liquids,refined liquids,2015,non-energy,3292.414834
 LA,Non-Ferrous Metals_enuse,refined liquids,refined liquids,2015,non-energy,3292.414834
 LD,Non-Ferrous Metals_enuse,refined liquids,refined liquids,2015,non-energy,3292.414834
-MH,Non-Ferrous Metals_enuse,refined liquids,refined liquids,2015,non-energy,3292.414834
+MH,Non-Ferrous Metals_enuse,refined liquids,refined liquids,2015,non-energy,6000
 ML,Non-Ferrous Metals_enuse,refined liquids,refined liquids,2015,non-energy,3292.414834
 MN,Non-Ferrous Metals_enuse,refined liquids,refined liquids,2015,non-energy,3292.414834
-MP,Non-Ferrous Metals_enuse,refined liquids,refined liquids,2015,non-energy,3292.414834
+MP,Non-Ferrous Metals_enuse,refined liquids,refined liquids,2015,non-energy,-1
 MZ,Non-Ferrous Metals_enuse,refined liquids,refined liquids,2015,non-energy,3292.414834
 NL,Non-Ferrous Metals_enuse,refined liquids,refined liquids,2015,non-energy,3292.414834
 OD,Non-Ferrous Metals_enuse,refined liquids,refined liquids,2015,non-energy,3257.911051
@@ -3919,12 +3919,12 @@ PB,Non-Ferrous Metals_enuse,refined liquids,refined liquids,2015,non-energy,3292
 PC,Non-Ferrous Metals_enuse,refined liquids,refined liquids,2015,non-energy,3292.414834
 RJ,Non-Ferrous Metals_enuse,refined liquids,refined liquids,2015,non-energy,3292.414834
 SK,Non-Ferrous Metals_enuse,refined liquids,refined liquids,2015,non-energy,3292.414834
-TN,Non-Ferrous Metals_enuse,refined liquids,refined liquids,2015,non-energy,3288.55925
+TN,Non-Ferrous Metals_enuse,refined liquids,refined liquids,2015,non-energy,10000
 TR,Non-Ferrous Metals_enuse,refined liquids,refined liquids,2015,non-energy,3292.414834
 TS,Non-Ferrous Metals_enuse,refined liquids,refined liquids,2015,non-energy,3292.414834
-UK,Non-Ferrous Metals_enuse,refined liquids,refined liquids,2015,non-energy,3295.66826
+UK,Non-Ferrous Metals_enuse,refined liquids,refined liquids,2015,non-energy,-1
 UP,Non-Ferrous Metals_enuse,refined liquids,refined liquids,2015,non-energy,3260.862837
-WB,Non-Ferrous Metals_enuse,refined liquids,refined liquids,2015,non-energy,3292.414834
+WB,Non-Ferrous Metals_enuse,refined liquids,refined liquids,2015,non-energy,6000
 AN,Non-Ferrous Metals_enuse,refined liquids,refined liquids cogen,2015,non-energy,8234.595295
 AP,Non-Ferrous Metals_enuse,refined liquids,refined liquids cogen,2015,non-energy,8234.595295
 AR,Non-Ferrous Metals_enuse,refined liquids,refined liquids cogen,2015,non-energy,8234.595295
@@ -4099,7 +4099,7 @@ MN,Other Industries_enuse,coal,coal,2015,non-energy,1458.676216
 MP,Other Industries_enuse,coal,coal,2015,non-energy,1459.193496
 MZ,Other Industries_enuse,coal,coal,2015,non-energy,1458.676216
 NL,Other Industries_enuse,coal,coal,2015,non-energy,1458.676216
-OD,Other Industries_enuse,coal,coal,2015,non-energy,1722.030526
+OD,Other Industries_enuse,coal,coal,2015,non-energy,680
 PB,Other Industries_enuse,coal,coal,2015,non-energy,1458.815656
 PC,Other Industries_enuse,coal,coal,2015,non-energy,1459.204076
 RJ,Other Industries_enuse,coal,coal,2015,non-energy,1458.815656
@@ -4147,43 +4147,43 @@ TS,Other Industries_enuse,coal,coal cogen,2015,non-energy,3649.690962
 UK,Other Industries_enuse,coal,coal cogen,2015,non-energy,3322.093168
 UP,Other Industries_enuse,coal,coal cogen,2015,non-energy,3863.170395
 WB,Other Industries_enuse,coal,coal cogen,2015,non-energy,3649.469872
-AN,Other Industries_enuse,gas,gas,2015,non-energy,1484.978834
-AP,Other Industries_enuse,gas,gas,2015,non-energy,1484.978834
-AR,Other Industries_enuse,gas,gas,2015,non-energy,1484.954714
-AS,Other Industries_enuse,gas,gas,2015,non-energy,1484.954714
-BR,Other Industries_enuse,gas,gas,2015,non-energy,1484.664574
-CG,Other Industries_enuse,gas,gas,2015,non-energy,1484.913924
-CH,Other Industries_enuse,gas,gas,2015,non-energy,1484.754904
-DD,Other Industries_enuse,gas,gas,2015,non-energy,1484.913924
-DL,Other Industries_enuse,gas,gas,2015,non-energy,1484.754904
-DN,Other Industries_enuse,gas,gas,2015,non-energy,1484.913924
-GA,Other Industries_enuse,gas,gas,2015,non-energy,1484.913924
-GJ,Other Industries_enuse,gas,gas,2015,non-energy,1484.18419
-HP,Other Industries_enuse,gas,gas,2015,non-energy,1484.754904
-HR,Other Industries_enuse,gas,gas,2015,non-energy,1484.754904
-JH,Other Industries_enuse,gas,gas,2015,non-energy,1484.664574
-JK,Other Industries_enuse,gas,gas,2015,non-energy,1484.754904
-KA,Other Industries_enuse,gas,gas,2015,non-energy,1484.978834
-KL,Other Industries_enuse,gas,gas,2015,non-energy,1484.978834
-LA,Other Industries_enuse,gas,gas,2015,non-energy,1484.754904
-LD,Other Industries_enuse,gas,gas,2015,non-energy,1484.978834
-MH,Other Industries_enuse,gas,gas,2015,non-energy,1484.913924
-ML,Other Industries_enuse,gas,gas,2015,non-energy,1484.954714
-MN,Other Industries_enuse,gas,gas,2015,non-energy,1484.954714
-MP,Other Industries_enuse,gas,gas,2015,non-energy,1484.913924
-MZ,Other Industries_enuse,gas,gas,2015,non-energy,1484.954714
-NL,Other Industries_enuse,gas,gas,2015,non-energy,1484.954714
-OD,Other Industries_enuse,gas,gas,2015,non-energy,1762.286384
-PB,Other Industries_enuse,gas,gas,2015,non-energy,1484.754904
-PC,Other Industries_enuse,gas,gas,2015,non-energy,1484.978834
-RJ,Other Industries_enuse,gas,gas,2015,non-energy,1484.754904
-SK,Other Industries_enuse,gas,gas,2015,non-energy,1484.664574
-TN,Other Industries_enuse,gas,gas,2015,non-energy,1432.039388
-TR,Other Industries_enuse,gas,gas,2015,non-energy,1484.954714
-TS,Other Industries_enuse,gas,gas,2015,non-energy,1484.978834
-UK,Other Industries_enuse,gas,gas,2015,non-energy,1359.270168
-UP,Other Industries_enuse,gas,gas,2015,non-energy,1572.701222
-WB,Other Industries_enuse,gas,gas,2015,non-energy,1484.664574
+AN,Other Industries_enuse,gas,gas,2015,non-energy,5000
+AP,Other Industries_enuse,gas,gas,2015,non-energy,1930.472484
+AR,Other Industries_enuse,gas,gas,2015,non-energy,1930.441128
+AS,Other Industries_enuse,gas,gas,2015,non-energy,1000
+BR,Other Industries_enuse,gas,gas,2015,non-energy,1930.063946
+CG,Other Industries_enuse,gas,gas,2015,non-energy,1930.388101
+CH,Other Industries_enuse,gas,gas,2015,non-energy,1930.181375
+DD,Other Industries_enuse,gas,gas,2015,non-energy,5000
+DL,Other Industries_enuse,gas,gas,2015,non-energy,1930.181375
+DN,Other Industries_enuse,gas,gas,2015,non-energy,1930.388101
+GA,Other Industries_enuse,gas,gas,2015,non-energy,1930.388101
+GJ,Other Industries_enuse,gas,gas,2015,non-energy,1600
+HP,Other Industries_enuse,gas,gas,2015,non-energy,1930.181375
+HR,Other Industries_enuse,gas,gas,2015,non-energy,1000
+JH,Other Industries_enuse,gas,gas,2015,non-energy,1930.063946
+JK,Other Industries_enuse,gas,gas,2015,non-energy,5000
+KA,Other Industries_enuse,gas,gas,2015,non-energy,1930.472484
+KL,Other Industries_enuse,gas,gas,2015,non-energy,1930.472484
+LA,Other Industries_enuse,gas,gas,2015,non-energy,1930.181375
+LD,Other Industries_enuse,gas,gas,2015,non-energy,1930.472484
+MH,Other Industries_enuse,gas,gas,2015,non-energy,1000
+ML,Other Industries_enuse,gas,gas,2015,non-energy,1930.441128
+MN,Other Industries_enuse,gas,gas,2015,non-energy,1930.441128
+MP,Other Industries_enuse,gas,gas,2015,non-energy,1930.388101
+MZ,Other Industries_enuse,gas,gas,2015,non-energy,1930.441128
+NL,Other Industries_enuse,gas,gas,2015,non-energy,1930.441128
+OD,Other Industries_enuse,gas,gas,2015,non-energy,2290.972299
+PB,Other Industries_enuse,gas,gas,2015,non-energy,1930.181375
+PC,Other Industries_enuse,gas,gas,2015,non-energy,1930.472484
+RJ,Other Industries_enuse,gas,gas,2015,non-energy,500
+SK,Other Industries_enuse,gas,gas,2015,non-energy,1930.063946
+TN,Other Industries_enuse,gas,gas,2015,non-energy,5000
+TR,Other Industries_enuse,gas,gas,2015,non-energy,5000
+TS,Other Industries_enuse,gas,gas,2015,non-energy,1930.472484
+UK,Other Industries_enuse,gas,gas,2015,non-energy,1767.051218
+UP,Other Industries_enuse,gas,gas,2015,non-energy,1000
+WB,Other Industries_enuse,gas,gas,2015,non-energy,1930.063946
 AN,Other Industries_enuse,gas,gas cogen,2015,non-energy,3718.254268
 AP,Other Industries_enuse,gas,gas cogen,2015,non-energy,3718.254268
 AR,Other Industries_enuse,gas,gas cogen,2015,non-energy,3718.230148
@@ -4315,10 +4315,10 @@ KA,Other Industries_enuse,refined liquids,refined liquids,2015,non-energy,1470.9
 KL,Other Industries_enuse,refined liquids,refined liquids,2015,non-energy,1470.978721
 LA,Other Industries_enuse,refined liquids,refined liquids,2015,non-energy,1470.978721
 LD,Other Industries_enuse,refined liquids,refined liquids,2015,non-energy,1470.978721
-MH,Other Industries_enuse,refined liquids,refined liquids,2015,non-energy,1470.978721
+MH,Other Industries_enuse,refined liquids,refined liquids,2015,non-energy,3000
 ML,Other Industries_enuse,refined liquids,refined liquids,2015,non-energy,1470.978721
 MN,Other Industries_enuse,refined liquids,refined liquids,2015,non-energy,1470.978721
-MP,Other Industries_enuse,refined liquids,refined liquids,2015,non-energy,1470.978721
+MP,Other Industries_enuse,refined liquids,refined liquids,2015,non-energy,-1
 MZ,Other Industries_enuse,refined liquids,refined liquids,2015,non-energy,1470.978721
 NL,Other Industries_enuse,refined liquids,refined liquids,2015,non-energy,1470.978721
 OD,Other Industries_enuse,refined liquids,refined liquids,2015,non-energy,1734.828926
@@ -4326,12 +4326,12 @@ PB,Other Industries_enuse,refined liquids,refined liquids,2015,non-energy,1470.9
 PC,Other Industries_enuse,refined liquids,refined liquids,2015,non-energy,1470.978721
 RJ,Other Industries_enuse,refined liquids,refined liquids,2015,non-energy,1470.978721
 SK,Other Industries_enuse,refined liquids,refined liquids,2015,non-energy,1470.978721
-TN,Other Industries_enuse,refined liquids,refined liquids,2015,non-energy,1417.175028
+TN,Other Industries_enuse,refined liquids,refined liquids,2015,non-energy,6000
 TR,Other Industries_enuse,refined liquids,refined liquids,2015,non-energy,1470.978721
 TS,Other Industries_enuse,refined liquids,refined liquids,2015,non-energy,1470.978721
-UK,Other Industries_enuse,refined liquids,refined liquids,2015,non-energy,1343.43651
+UK,Other Industries_enuse,refined liquids,refined liquids,2015,non-energy,-1
 UP,Other Industries_enuse,refined liquids,refined liquids,2015,non-energy,1549.411391
-WB,Other Industries_enuse,refined liquids,refined liquids,2015,non-energy,1470.978721
+WB,Other Industries_enuse,refined liquids,refined liquids,2015,non-energy,2500
 AN,Other Industries_enuse,refined liquids,refined liquids cogen,2015,non-energy,3681.005013
 AP,Other Industries_enuse,refined liquids,refined liquids cogen,2015,non-energy,3681.005013
 AR,Other Industries_enuse,refined liquids,refined liquids cogen,2015,non-energy,3681.005013
@@ -4506,7 +4506,7 @@ MN,Paper and Pulp_enuse,coal,coal,2015,non-energy,594.7346512
 MP,Paper and Pulp_enuse,coal,coal,2015,non-energy,595.2579312
 MZ,Paper and Pulp_enuse,coal,coal,2015,non-energy,594.7346512
 NL,Paper and Pulp_enuse,coal,coal,2015,non-energy,594.7346512
-OD,Paper and Pulp_enuse,coal,coal,2015,non-energy,574.8802424
+OD,Paper and Pulp_enuse,coal,coal,2015,non-energy,50
 PB,Paper and Pulp_enuse,coal,coal,2015,non-energy,594.8730912
 PC,Paper and Pulp_enuse,coal,coal,2015,non-energy,595.2685112
 RJ,Paper and Pulp_enuse,coal,coal,2015,non-energy,594.8730912
@@ -4554,43 +4554,43 @@ TS,Paper and Pulp_enuse,coal,coal cogen,2015,non-energy,1489.845257
 UK,Paper and Pulp_enuse,coal,coal cogen,2015,non-energy,1457.338659
 UP,Paper and Pulp_enuse,coal,coal cogen,2015,non-energy,1502.681332
 WB,Paper and Pulp_enuse,coal,coal cogen,2015,non-energy,1489.624167
-AN,Paper and Pulp_enuse,gas,gas,2015,non-energy,621.0422704
-AP,Paper and Pulp_enuse,gas,gas,2015,non-energy,621.0422704
-AR,Paper and Pulp_enuse,gas,gas,2015,non-energy,621.0181504
-AS,Paper and Pulp_enuse,gas,gas,2015,non-energy,621.0181504
-BR,Paper and Pulp_enuse,gas,gas,2015,non-energy,620.7290104
-CG,Paper and Pulp_enuse,gas,gas,2015,non-energy,620.9773604
-CH,Paper and Pulp_enuse,gas,gas,2015,non-energy,620.8193404
-DD,Paper and Pulp_enuse,gas,gas,2015,non-energy,620.9773604
-DL,Paper and Pulp_enuse,gas,gas,2015,non-energy,620.8193404
-DN,Paper and Pulp_enuse,gas,gas,2015,non-energy,620.9773604
-GA,Paper and Pulp_enuse,gas,gas,2015,non-energy,620.9773604
-GJ,Paper and Pulp_enuse,gas,gas,2015,non-energy,608.9861532
-HP,Paper and Pulp_enuse,gas,gas,2015,non-energy,620.8193404
-HR,Paper and Pulp_enuse,gas,gas,2015,non-energy,620.8193404
-JH,Paper and Pulp_enuse,gas,gas,2015,non-energy,620.7290104
-JK,Paper and Pulp_enuse,gas,gas,2015,non-energy,620.8193404
-KA,Paper and Pulp_enuse,gas,gas,2015,non-energy,621.0422704
-KL,Paper and Pulp_enuse,gas,gas,2015,non-energy,621.0422704
-LA,Paper and Pulp_enuse,gas,gas,2015,non-energy,620.8193404
-LD,Paper and Pulp_enuse,gas,gas,2015,non-energy,621.0422704
-MH,Paper and Pulp_enuse,gas,gas,2015,non-energy,620.9773604
-ML,Paper and Pulp_enuse,gas,gas,2015,non-energy,621.0181504
-MN,Paper and Pulp_enuse,gas,gas,2015,non-energy,621.0181504
-MP,Paper and Pulp_enuse,gas,gas,2015,non-energy,620.9773604
-MZ,Paper and Pulp_enuse,gas,gas,2015,non-energy,621.0181504
-NL,Paper and Pulp_enuse,gas,gas,2015,non-energy,621.0181504
-OD,Paper and Pulp_enuse,gas,gas,2015,non-energy,615.1371008
-PB,Paper and Pulp_enuse,gas,gas,2015,non-energy,620.8193404
-PC,Paper and Pulp_enuse,gas,gas,2015,non-energy,621.0422704
-RJ,Paper and Pulp_enuse,gas,gas,2015,non-energy,620.8193404
-SK,Paper and Pulp_enuse,gas,gas,2015,non-energy,620.7290104
-TN,Paper and Pulp_enuse,gas,gas,2015,non-energy,621.0893258
-TR,Paper and Pulp_enuse,gas,gas,2015,non-energy,621.0181504
-TS,Paper and Pulp_enuse,gas,gas,2015,non-energy,621.0422704
-UK,Paper and Pulp_enuse,gas,gas,2015,non-energy,613.3675614
-UP,Paper and Pulp_enuse,gas,gas,2015,non-energy,628.5049718
-WB,Paper and Pulp_enuse,gas,gas,2015,non-energy,620.7290104
+AN,Paper and Pulp_enuse,gas,gas,2015,non-energy,1800
+AP,Paper and Pulp_enuse,gas,gas,2015,non-energy,807.3549515
+AR,Paper and Pulp_enuse,gas,gas,2015,non-energy,807.3235955
+AS,Paper and Pulp_enuse,gas,gas,2015,non-energy,500
+BR,Paper and Pulp_enuse,gas,gas,2015,non-energy,806.9477135
+CG,Paper and Pulp_enuse,gas,gas,2015,non-energy,807.2705685
+CH,Paper and Pulp_enuse,gas,gas,2015,non-energy,807.0651425
+DD,Paper and Pulp_enuse,gas,gas,2015,non-energy,2000
+DL,Paper and Pulp_enuse,gas,gas,2015,non-energy,807.0651425
+DN,Paper and Pulp_enuse,gas,gas,2015,non-energy,807.2705685
+GA,Paper and Pulp_enuse,gas,gas,2015,non-energy,807.2705685
+GJ,Paper and Pulp_enuse,gas,gas,2015,non-energy,500
+HP,Paper and Pulp_enuse,gas,gas,2015,non-energy,807.0651425
+HR,Paper and Pulp_enuse,gas,gas,2015,non-energy,500
+JH,Paper and Pulp_enuse,gas,gas,2015,non-energy,806.9477135
+JK,Paper and Pulp_enuse,gas,gas,2015,non-energy,2000
+KA,Paper and Pulp_enuse,gas,gas,2015,non-energy,807.3549515
+KL,Paper and Pulp_enuse,gas,gas,2015,non-energy,807.3549515
+LA,Paper and Pulp_enuse,gas,gas,2015,non-energy,807.0651425
+LD,Paper and Pulp_enuse,gas,gas,2015,non-energy,807.3549515
+MH,Paper and Pulp_enuse,gas,gas,2015,non-energy,450
+ML,Paper and Pulp_enuse,gas,gas,2015,non-energy,807.3235955
+MN,Paper and Pulp_enuse,gas,gas,2015,non-energy,807.3235955
+MP,Paper and Pulp_enuse,gas,gas,2015,non-energy,807.2705685
+MZ,Paper and Pulp_enuse,gas,gas,2015,non-energy,807.3235955
+NL,Paper and Pulp_enuse,gas,gas,2015,non-energy,807.3235955
+OD,Paper and Pulp_enuse,gas,gas,2015,non-energy,799.678231
+PB,Paper and Pulp_enuse,gas,gas,2015,non-energy,807.0651425
+PC,Paper and Pulp_enuse,gas,gas,2015,non-energy,807.3549515
+RJ,Paper and Pulp_enuse,gas,gas,2015,non-energy,350
+SK,Paper and Pulp_enuse,gas,gas,2015,non-energy,806.9477135
+TN,Paper and Pulp_enuse,gas,gas,2015,non-energy,1800
+TR,Paper and Pulp_enuse,gas,gas,2015,non-energy,1800
+TS,Paper and Pulp_enuse,gas,gas,2015,non-energy,807.3549515
+UK,Paper and Pulp_enuse,gas,gas,2015,non-energy,797.3778298
+UP,Paper and Pulp_enuse,gas,gas,2015,non-energy,500
+WB,Paper and Pulp_enuse,gas,gas,2015,non-energy,806.9477135
 AN,Paper and Pulp_enuse,gas,gas cogen,2015,non-energy,1558.408563
 AP,Paper and Pulp_enuse,gas,gas cogen,2015,non-energy,1558.408563
 AR,Paper and Pulp_enuse,gas,gas cogen,2015,non-energy,1558.384443
@@ -4722,10 +4722,10 @@ KA,Paper and Pulp_enuse,refined liquids,refined liquids,2015,non-energy,607.0404
 KL,Paper and Pulp_enuse,refined liquids,refined liquids,2015,non-energy,607.0404389
 LA,Paper and Pulp_enuse,refined liquids,refined liquids,2015,non-energy,607.0404389
 LD,Paper and Pulp_enuse,refined liquids,refined liquids,2015,non-energy,607.0404389
-MH,Paper and Pulp_enuse,refined liquids,refined liquids,2015,non-energy,607.0404389
+MH,Paper and Pulp_enuse,refined liquids,refined liquids,2015,non-energy,1400
 ML,Paper and Pulp_enuse,refined liquids,refined liquids,2015,non-energy,607.0404389
 MN,Paper and Pulp_enuse,refined liquids,refined liquids,2015,non-energy,607.0404389
-MP,Paper and Pulp_enuse,refined liquids,refined liquids,2015,non-energy,607.0404389
+MP,Paper and Pulp_enuse,refined liquids,refined liquids,2015,non-energy,5
 MZ,Paper and Pulp_enuse,refined liquids,refined liquids,2015,non-energy,607.0404389
 NL,Paper and Pulp_enuse,refined liquids,refined liquids,2015,non-energy,607.0404389
 OD,Paper and Pulp_enuse,refined liquids,refined liquids,2015,non-energy,587.6832847
@@ -4733,12 +4733,12 @@ PB,Paper and Pulp_enuse,refined liquids,refined liquids,2015,non-energy,607.0404
 PC,Paper and Pulp_enuse,refined liquids,refined liquids,2015,non-energy,607.0404389
 RJ,Paper and Pulp_enuse,refined liquids,refined liquids,2015,non-energy,607.0404389
 SK,Paper and Pulp_enuse,refined liquids,refined liquids,2015,non-energy,607.0404389
-TN,Paper and Pulp_enuse,refined liquids,refined liquids,2015,non-energy,606.2234975
+TN,Paper and Pulp_enuse,refined liquids,refined liquids,2015,non-energy,3000
 TR,Paper and Pulp_enuse,refined liquids,refined liquids,2015,non-energy,607.0404389
 TS,Paper and Pulp_enuse,refined liquids,refined liquids,2015,non-energy,607.0404389
-UK,Paper and Pulp_enuse,refined liquids,refined liquids,2015,non-energy,597.534706
+UK,Paper and Pulp_enuse,refined liquids,refined liquids,2015,non-energy,1
 UP,Paper and Pulp_enuse,refined liquids,refined liquids,2015,non-energy,605.2157655
-WB,Paper and Pulp_enuse,refined liquids,refined liquids,2015,non-energy,607.0404389
+WB,Paper and Pulp_enuse,refined liquids,refined liquids,2015,non-energy,750
 AN,Paper and Pulp_enuse,refined liquids,refined liquids cogen,2015,non-energy,1521.159307
 AP,Paper and Pulp_enuse,refined liquids,refined liquids cogen,2015,non-energy,1521.159307
 AR,Paper and Pulp_enuse,refined liquids,refined liquids cogen,2015,non-energy,1521.159307
@@ -47352,7 +47352,7 @@ MN,process heat cement,coal,coal,2015,non-energy,38.3382955
 MP,process heat cement,coal,coal,2015,non-energy,38.8655755
 MZ,process heat cement,coal,coal,2015,non-energy,38.3382955
 NL,process heat cement,coal,coal,2015,non-energy,38.3382955
-OD,process heat cement,coal,coal,2015,non-energy,29.40121279
+OD,process heat cement,coal,coal,2015,non-energy,20
 PB,process heat cement,coal,coal,2015,non-energy,38.4777355
 PC,process heat cement,coal,coal,2015,non-energy,38.8761555
 RJ,process heat cement,coal,coal,2015,non-energy,38.4777355
@@ -47363,43 +47363,43 @@ TS,process heat cement,coal,coal,2015,non-energy,38.8761555
 UK,process heat cement,coal,coal,2015,non-energy,46.08792156
 UP,process heat cement,coal,coal,2015,non-energy,46.99029153
 WB,process heat cement,coal,coal,2015,non-energy,38.6550655
-AN,process heat cement,gas,gas,2015,non-energy,64.57382004
-AP,process heat cement,gas,gas,2015,non-energy,64.57382004
-AR,process heat cement,gas,gas,2015,non-energy,64.54970004
-AS,process heat cement,gas,gas,2015,non-energy,64.54970004
-BR,process heat cement,gas,gas,2015,non-energy,64.25956004
-CG,process heat cement,gas,gas,2015,non-energy,64.50891004
-CH,process heat cement,gas,gas,2015,non-energy,64.34989004
-DD,process heat cement,gas,gas,2015,non-energy,64.50891004
-DL,process heat cement,gas,gas,2015,non-energy,64.34989004
-DN,process heat cement,gas,gas,2015,non-energy,64.50891004
-GA,process heat cement,gas,gas,2015,non-energy,64.50891004
-GJ,process heat cement,gas,gas,2015,non-energy,60.12387522
-HP,process heat cement,gas,gas,2015,non-energy,64.34989004
-HR,process heat cement,gas,gas,2015,non-energy,64.34989004
-JH,process heat cement,gas,gas,2015,non-energy,64.25956004
-JK,process heat cement,gas,gas,2015,non-energy,64.34989004
-KA,process heat cement,gas,gas,2015,non-energy,64.57382004
-KL,process heat cement,gas,gas,2015,non-energy,64.57382004
-LA,process heat cement,gas,gas,2015,non-energy,64.34989004
-LD,process heat cement,gas,gas,2015,non-energy,64.57382004
-MH,process heat cement,gas,gas,2015,non-energy,64.50891004
-ML,process heat cement,gas,gas,2015,non-energy,64.54970004
-MN,process heat cement,gas,gas,2015,non-energy,64.54970004
-MP,process heat cement,gas,gas,2015,non-energy,64.50891004
-MZ,process heat cement,gas,gas,2015,non-energy,64.54970004
-NL,process heat cement,gas,gas,2015,non-energy,64.54970004
-OD,process heat cement,gas,gas,2015,non-energy,69.58284192
-PB,process heat cement,gas,gas,2015,non-energy,64.34989004
-PC,process heat cement,gas,gas,2015,non-energy,64.57382004
-RJ,process heat cement,gas,gas,2015,non-energy,64.34989004
-SK,process heat cement,gas,gas,2015,non-energy,64.25956004
-TN,process heat cement,gas,gas,2015,non-energy,72.04179631
-TR,process heat cement,gas,gas,2015,non-energy,64.54970004
-TS,process heat cement,gas,gas,2015,non-energy,64.57382004
-UK,process heat cement,gas,gas,2015,non-energy,77.35245765
-UP,process heat cement,gas,gas,2015,non-energy,75.25446372
-WB,process heat cement,gas,gas,2015,non-energy,64.25956004
+AN,process heat cement,gas,gas,2015,non-energy,200
+AP,process heat cement,gas,gas,2015,non-energy,83.94596605
+AR,process heat cement,gas,gas,2015,non-energy,83.91461005
+AS,process heat cement,gas,gas,2015,non-energy,83.91461005
+BR,process heat cement,gas,gas,2015,non-energy,83.53742805
+CG,process heat cement,gas,gas,2015,non-energy,83.86158305
+CH,process heat cement,gas,gas,2015,non-energy,83.65485705
+DD,process heat cement,gas,gas,2015,non-energy,300
+DL,process heat cement,gas,gas,2015,non-energy,83.65485705
+DN,process heat cement,gas,gas,2015,non-energy,83.86158305
+GA,process heat cement,gas,gas,2015,non-energy,83.86158305
+GJ,process heat cement,gas,gas,2015,non-energy,50
+HP,process heat cement,gas,gas,2015,non-energy,83.65485705
+HR,process heat cement,gas,gas,2015,non-energy,25
+JH,process heat cement,gas,gas,2015,non-energy,83.53742805
+JK,process heat cement,gas,gas,2015,non-energy,300
+KA,process heat cement,gas,gas,2015,non-energy,83.94596605
+KL,process heat cement,gas,gas,2015,non-energy,83.94596605
+LA,process heat cement,gas,gas,2015,non-energy,83.65485705
+LD,process heat cement,gas,gas,2015,non-energy,83.94596605
+MH,process heat cement,gas,gas,2015,non-energy,83.86158305
+ML,process heat cement,gas,gas,2015,non-energy,83.91461005
+MN,process heat cement,gas,gas,2015,non-energy,83.91461005
+MP,process heat cement,gas,gas,2015,non-energy,83.86158305
+MZ,process heat cement,gas,gas,2015,non-energy,83.91461005
+NL,process heat cement,gas,gas,2015,non-energy,83.91461005
+OD,process heat cement,gas,gas,2015,non-energy,90.4576945
+PB,process heat cement,gas,gas,2015,non-energy,83.65485705
+PC,process heat cement,gas,gas,2015,non-energy,83.94596605
+RJ,process heat cement,gas,gas,2015,non-energy,50
+SK,process heat cement,gas,gas,2015,non-energy,83.53742805
+TN,process heat cement,gas,gas,2015,non-energy,300
+TR,process heat cement,gas,gas,2015,non-energy,300
+TS,process heat cement,gas,gas,2015,non-energy,83.94596605
+UK,process heat cement,gas,gas,2015,non-energy,100.5581949
+UP,process heat cement,gas,gas,2015,non-energy,50
+WB,process heat cement,gas,gas,2015,non-energy,83.53742805
 AN,process heat cement,refined liquids,refined liquids,2015,non-energy,50.94457375
 AP,process heat cement,refined liquids,refined liquids,2015,non-energy,50.94457375
 AR,process heat cement,refined liquids,refined liquids,2015,non-energy,50.94457375
@@ -47420,7 +47420,7 @@ KA,process heat cement,refined liquids,refined liquids,2015,non-energy,50.944573
 KL,process heat cement,refined liquids,refined liquids,2015,non-energy,50.94457375
 LA,process heat cement,refined liquids,refined liquids,2015,non-energy,50.94457375
 LD,process heat cement,refined liquids,refined liquids,2015,non-energy,50.94457375
-MH,process heat cement,refined liquids,refined liquids,2015,non-energy,50.94457375
+MH,process heat cement,refined liquids,refined liquids,2015,non-energy,200
 ML,process heat cement,refined liquids,refined liquids,2015,non-energy,50.94457375
 MN,process heat cement,refined liquids,refined liquids,2015,non-energy,50.94457375
 MP,process heat cement,refined liquids,refined liquids,2015,non-energy,50.94457375
@@ -47431,10 +47431,10 @@ PB,process heat cement,refined liquids,refined liquids,2015,non-energy,50.944573
 PC,process heat cement,refined liquids,refined liquids,2015,non-energy,50.94457375
 RJ,process heat cement,refined liquids,refined liquids,2015,non-energy,50.94457375
 SK,process heat cement,refined liquids,refined liquids,2015,non-energy,50.94457375
-TN,process heat cement,refined liquids,refined liquids,2015,non-energy,57.54858084
+TN,process heat cement,refined liquids,refined liquids,2015,non-energy,100
 TR,process heat cement,refined liquids,refined liquids,2015,non-energy,50.94457375
 TS,process heat cement,refined liquids,refined liquids,2015,non-energy,50.94457375
-UK,process heat cement,refined liquids,refined liquids,2015,non-energy,61.89229796
+UK,process heat cement,refined liquids,refined liquids,2015,non-energy,1
 UP,process heat cement,refined liquids,refined liquids,2015,non-energy,52.33865832
 WB,process heat cement,refined liquids,refined liquids,2015,non-energy,50.94457375
 AN,process heat cement,biomass,biomass,2020,non-energy,28.0921056

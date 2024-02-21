@@ -1533,7 +1533,7 @@ GA,Chem_Fert,2085,0.152352941
 GA,Chem_Fert,2090,0.150588235
 GA,Chem_Fert,2095,0.148235294
 GA,Chem_Fert,2100,0.145882353
-GJ,Chem_Fert,2015,0.65
+GJ,Chem_Fert,2015,0.75
 GJ,Chem_Fert,2020,0.585294118
 GJ,Chem_Fert,2025,0.52
 GJ,Chem_Fert,2030,0.476470588
@@ -4197,7 +4197,7 @@ GA,Other Industries,2085,0.180479638
 GA,Other Industries,2090,0.17838914
 GA,Other Industries,2095,0.17560181
 GA,Other Industries,2100,0.17281448
-GJ,Other Industries,2015,0.77
+GJ,Other Industries,2015,1.14
 GJ,Other Industries,2020,0.693348416
 GJ,Other Industries,2025,0.616
 GJ,Other Industries,2030,0.564434389

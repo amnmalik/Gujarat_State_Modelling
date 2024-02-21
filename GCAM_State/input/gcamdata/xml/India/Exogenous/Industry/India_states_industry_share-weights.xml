@@ -196,6 +196,28 @@
                     </interpolation-rule>
                 </subsector>
             </supplysector>
+            <supplysector name="Agriculture_enuse">
+                <subsector name="refined liquids">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2020">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2095" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+            </supplysector>
         </region>
         <region name="AP">
             <supplysector name="Chem_Fert_enuse">
@@ -388,6 +410,28 @@
                         from-year="2095" to-year="2100">
                         <from-value>0.0001</from-value>
                         <to-value>0.0001</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+            </supplysector>
+            <supplysector name="Agriculture_enuse">
+                <subsector name="refined liquids">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2020">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2095" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                 </subsector>
@@ -588,6 +632,28 @@
                     </interpolation-rule>
                 </subsector>
             </supplysector>
+            <supplysector name="Agriculture_enuse">
+                <subsector name="refined liquids">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2020">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2095" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+            </supplysector>
         </region>
         <region name="AS">
             <supplysector name="Chem_Fert_enuse">
@@ -780,6 +846,28 @@
                         from-year="2095" to-year="2100">
                         <from-value>0.0001</from-value>
                         <to-value>0.0001</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+            </supplysector>
+            <supplysector name="Agriculture_enuse">
+                <subsector name="refined liquids">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2020">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2095" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                 </subsector>
@@ -980,6 +1068,28 @@
                     </interpolation-rule>
                 </subsector>
             </supplysector>
+            <supplysector name="Agriculture_enuse">
+                <subsector name="refined liquids">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2020">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2095" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+            </supplysector>
         </region>
         <region name="CG">
             <supplysector name="Chem_Fert_enuse">
@@ -1172,6 +1282,28 @@
                         from-year="2095" to-year="2100">
                         <from-value>0.0001</from-value>
                         <to-value>0.0001</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+            </supplysector>
+            <supplysector name="Agriculture_enuse">
+                <subsector name="refined liquids">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2020">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2095" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                 </subsector>
@@ -1372,6 +1504,28 @@
                     </interpolation-rule>
                 </subsector>
             </supplysector>
+            <supplysector name="Agriculture_enuse">
+                <subsector name="refined liquids">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2020">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2095" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+            </supplysector>
         </region>
         <region name="DD">
             <supplysector name="Chem_Fert_enuse">
@@ -1564,6 +1718,28 @@
                         from-year="2095" to-year="2100">
                         <from-value>0.0001</from-value>
                         <to-value>0.0001</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+            </supplysector>
+            <supplysector name="Agriculture_enuse">
+                <subsector name="refined liquids">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2020">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2095" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                 </subsector>
@@ -1764,6 +1940,28 @@
                     </interpolation-rule>
                 </subsector>
             </supplysector>
+            <supplysector name="Agriculture_enuse">
+                <subsector name="refined liquids">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2020">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2095" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+            </supplysector>
         </region>
         <region name="DN">
             <supplysector name="Chem_Fert_enuse">
@@ -1956,6 +2154,28 @@
                         from-year="2095" to-year="2100">
                         <from-value>0.0001</from-value>
                         <to-value>0.0001</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+            </supplysector>
+            <supplysector name="Agriculture_enuse">
+                <subsector name="refined liquids">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2020">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2095" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                 </subsector>
@@ -2156,6 +2376,28 @@
                     </interpolation-rule>
                 </subsector>
             </supplysector>
+            <supplysector name="Agriculture_enuse">
+                <subsector name="refined liquids">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2020">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2095" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+            </supplysector>
         </region>
         <region name="GJ">
             <supplysector name="Chem_Fert_enuse">
@@ -2291,6 +2533,106 @@
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                 </subsector>
+                <subsector name="biomass">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2015">
+                        <from-value>1</from-value>
+                        <to-value>1.02</to-value>
+                        <interpolation-function name="linear"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2020">
+                        <from-value>1.02</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="linear"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2020" to-year="2100">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+                <subsector name="coal">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2015">
+                        <from-value>0.601</from-value>
+                        <to-value>0.58</to-value>
+                        <interpolation-function name="linear"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2020">
+                        <from-value>0.58</from-value>
+                        <to-value>0.601</to-value>
+                        <interpolation-function name="linear"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2020" to-year="2100">
+                        <from-value>0.601</from-value>
+                        <to-value>0.601</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+                <subsector name="electricity">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2015">
+                        <from-value>0.22</from-value>
+                        <to-value>0.05</to-value>
+                        <interpolation-function name="linear"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2020">
+                        <from-value>0.05</from-value>
+                        <to-value>0.22</to-value>
+                        <interpolation-function name="linear"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2020" to-year="2100">
+                        <from-value>0.22</from-value>
+                        <to-value>0.22</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+                <subsector name="gas">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2015">
+                        <from-value>0.866</from-value>
+                        <to-value>0.069</to-value>
+                        <interpolation-function name="linear"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2020">
+                        <from-value>0.069</from-value>
+                        <to-value>0.866</to-value>
+                        <interpolation-function name="linear"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2020" to-year="2100">
+                        <from-value>0.866</from-value>
+                        <to-value>0.866</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+                <subsector name="refined liquids">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2015">
+                        <from-value>0.069</from-value>
+                        <to-value>0.9</to-value>
+                        <interpolation-function name="linear"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2020">
+                        <from-value>0.9</from-value>
+                        <to-value>0.069</to-value>
+                        <interpolation-function name="linear"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2020" to-year="2100">
+                        <from-value>0.069</from-value>
+                        <to-value>0.069</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
             </supplysector>
             <supplysector name="Paper and Pulp_enuse">
                 <subsector name="hydrogen">
@@ -2373,8 +2715,8 @@
                     <interpolation-rule apply-to="share-weight"
                         from-year="2010" to-year="2015">
                         <from-value>0.5</from-value>
-                        <to-value>0.5</to-value>
-                        <interpolation-function name="fixed"/>
+                        <to-value>0.05</to-value>
+                        <interpolation-function name="linear"/>
                     </interpolation-rule>
                     <interpolation-rule apply-to="share-weight"
                         from-year="2010" to-year="2100">
@@ -2394,6 +2736,28 @@
                         from-year="2010" to-year="2100">
                         <from-value>0.0642555</from-value>
                         <to-value>0.0642555</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+            </supplysector>
+            <supplysector name="Agriculture_enuse">
+                <subsector name="refined liquids">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2020">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2100">
+                        <from-value>0.1</from-value>
+                        <to-value>0.1</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2095" to-year="2100">
+                        <from-value>0.1</from-value>
+                        <to-value>0.1</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                 </subsector>
@@ -2594,6 +2958,28 @@
                     </interpolation-rule>
                 </subsector>
             </supplysector>
+            <supplysector name="Agriculture_enuse">
+                <subsector name="refined liquids">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2020">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2095" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+            </supplysector>
         </region>
         <region name="HR">
             <supplysector name="Chem_Fert_enuse">
@@ -2786,6 +3172,28 @@
                         from-year="2095" to-year="2100">
                         <from-value>0.0001</from-value>
                         <to-value>0.0001</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+            </supplysector>
+            <supplysector name="Agriculture_enuse">
+                <subsector name="refined liquids">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2020">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2095" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                 </subsector>
@@ -2986,6 +3394,28 @@
                     </interpolation-rule>
                 </subsector>
             </supplysector>
+            <supplysector name="Agriculture_enuse">
+                <subsector name="refined liquids">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2020">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2095" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+            </supplysector>
         </region>
         <region name="JK">
             <supplysector name="Chem_Fert_enuse">
@@ -3178,6 +3608,28 @@
                         from-year="2095" to-year="2100">
                         <from-value>0.0001</from-value>
                         <to-value>0.0001</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+            </supplysector>
+            <supplysector name="Agriculture_enuse">
+                <subsector name="refined liquids">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2020">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2095" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                 </subsector>
@@ -3378,6 +3830,28 @@
                     </interpolation-rule>
                 </subsector>
             </supplysector>
+            <supplysector name="Agriculture_enuse">
+                <subsector name="refined liquids">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2020">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2095" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+            </supplysector>
         </region>
         <region name="KL">
             <supplysector name="Chem_Fert_enuse">
@@ -3570,6 +4044,28 @@
                         from-year="2095" to-year="2100">
                         <from-value>0.0001</from-value>
                         <to-value>0.0001</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+            </supplysector>
+            <supplysector name="Agriculture_enuse">
+                <subsector name="refined liquids">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2020">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2095" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                 </subsector>
@@ -3770,6 +4266,28 @@
                     </interpolation-rule>
                 </subsector>
             </supplysector>
+            <supplysector name="Agriculture_enuse">
+                <subsector name="refined liquids">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2020">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2095" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+            </supplysector>
         </region>
         <region name="LD">
             <supplysector name="Chem_Fert_enuse">
@@ -3962,6 +4480,28 @@
                         from-year="2095" to-year="2100">
                         <from-value>0.0001</from-value>
                         <to-value>0.0001</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+            </supplysector>
+            <supplysector name="Agriculture_enuse">
+                <subsector name="refined liquids">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2020">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2095" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                 </subsector>
@@ -4162,6 +4702,28 @@
                     </interpolation-rule>
                 </subsector>
             </supplysector>
+            <supplysector name="Agriculture_enuse">
+                <subsector name="refined liquids">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2020">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2095" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+            </supplysector>
         </region>
         <region name="ML">
             <supplysector name="Chem_Fert_enuse">
@@ -4354,6 +4916,28 @@
                         from-year="2095" to-year="2100">
                         <from-value>0.0001</from-value>
                         <to-value>0.0001</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+            </supplysector>
+            <supplysector name="Agriculture_enuse">
+                <subsector name="refined liquids">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2020">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2095" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                 </subsector>
@@ -4554,6 +5138,28 @@
                     </interpolation-rule>
                 </subsector>
             </supplysector>
+            <supplysector name="Agriculture_enuse">
+                <subsector name="refined liquids">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2020">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2095" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+            </supplysector>
         </region>
         <region name="MP">
             <supplysector name="Chem_Fert_enuse">
@@ -4746,6 +5352,28 @@
                         from-year="2095" to-year="2100">
                         <from-value>0.0001</from-value>
                         <to-value>0.0001</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+            </supplysector>
+            <supplysector name="Agriculture_enuse">
+                <subsector name="refined liquids">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2020">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2095" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                 </subsector>
@@ -4946,6 +5574,28 @@
                     </interpolation-rule>
                 </subsector>
             </supplysector>
+            <supplysector name="Agriculture_enuse">
+                <subsector name="refined liquids">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2020">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2095" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+            </supplysector>
         </region>
         <region name="NL">
             <supplysector name="Chem_Fert_enuse">
@@ -5138,6 +5788,28 @@
                         from-year="2095" to-year="2100">
                         <from-value>0.0001</from-value>
                         <to-value>0.0001</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+            </supplysector>
+            <supplysector name="Agriculture_enuse">
+                <subsector name="refined liquids">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2020">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2095" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                 </subsector>
@@ -5384,6 +6056,28 @@
                     </interpolation-rule>
                 </subsector>
             </supplysector>
+            <supplysector name="Agriculture_enuse">
+                <subsector name="refined liquids">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2020">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2095" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+            </supplysector>
         </region>
         <region name="PB">
             <supplysector name="Chem_Fert_enuse">
@@ -5576,6 +6270,28 @@
                         from-year="2095" to-year="2100">
                         <from-value>0.0001</from-value>
                         <to-value>0.0001</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+            </supplysector>
+            <supplysector name="Agriculture_enuse">
+                <subsector name="refined liquids">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2020">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2095" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                 </subsector>
@@ -5776,6 +6492,28 @@
                     </interpolation-rule>
                 </subsector>
             </supplysector>
+            <supplysector name="Agriculture_enuse">
+                <subsector name="refined liquids">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2020">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2095" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+            </supplysector>
         </region>
         <region name="RJ">
             <supplysector name="Chem_Fert_enuse">
@@ -5972,6 +6710,28 @@
                     </interpolation-rule>
                 </subsector>
             </supplysector>
+            <supplysector name="Agriculture_enuse">
+                <subsector name="refined liquids">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2020">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2095" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+            </supplysector>
         </region>
         <region name="SK">
             <supplysector name="Chem_Fert_enuse">
@@ -6164,6 +6924,28 @@
                         from-year="2095" to-year="2100">
                         <from-value>0.0001</from-value>
                         <to-value>0.0001</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+            </supplysector>
+            <supplysector name="Agriculture_enuse">
+                <subsector name="refined liquids">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2020">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2095" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                 </subsector>
@@ -6411,73 +7193,23 @@
                 </subsector>
             </supplysector>
             <supplysector name="Agriculture_enuse">
-                <subsector name="electricity">
-                    <interpolation-rule apply-to="share-weight"
-                        from-year="2010" to-year="2020">
-                        <from-value>0.9</from-value>
-                        <to-value>0.9</to-value>
-                        <interpolation-function name="fixed"/>
-                    </interpolation-rule>
-                    <interpolation-rule apply-to="share-weight"
-                        from-year="2015" to-year="2100">
-                        <from-value>0.9</from-value>
-                        <to-value>1</to-value>
-                        <interpolation-function name="linear"/>
-                    </interpolation-rule>
-                    <interpolation-rule apply-to="share-weight"
-                        from-year="2095" to-year="2100">
-                        <from-value>1</from-value>
-                        <to-value>1</to-value>
-                        <interpolation-function name="fixed"/>
-                    </interpolation-rule>
-                </subsector>
                 <subsector name="refined liquids">
                     <interpolation-rule apply-to="share-weight"
                         from-year="2010" to-year="2020">
-                        <from-value>35</from-value>
-                        <to-value>35</to-value>
-                        <interpolation-function name="fixed"/>
-                    </interpolation-rule>
-                     <interpolation-rule apply-to="share-weight"
-                        from-year="2015" to-year="2025">
-                        <from-value>0.05</from-value>
-                        <to-value>0.05</to-value>
-                        <interpolation-function name="fixed"/>
-                    </interpolation-rule>
-                    <interpolation-rule apply-to="share-weight"
-                        from-year="2020" to-year="2030">
-                        <from-value>0.04</from-value>
-                        <to-value>0.04</to-value>
-                        <interpolation-function name="fixed"/>
-                    </interpolation-rule>
-                    <interpolation-rule apply-to="share-weight"
-                        from-year="2025" to-year="2035">
-                        <from-value>0.03</from-value>
-                        <to-value>0.03</to-value>
-                        <interpolation-function name="fixed"/>
-                    </interpolation-rule>
-                    <interpolation-rule apply-to="share-weight"
-                        from-year="2030" to-year="2040">
-                        <from-value>0.02</from-value>
-                        <to-value>0.02</to-value>
-                        <interpolation-function name="fixed"/>
-                    </interpolation-rule>
-                    <interpolation-rule apply-to="share-weight"
-                        from-year="2035" to-year="2045">
                         <from-value>0.01</from-value>
                         <to-value>0.01</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <interpolation-rule apply-to="share-weight"
-                        from-year="2040" to-year="2050">
-                        <from-value>0.005</from-value>
-                        <to-value>0.005</to-value>
+                        from-year="2015" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <interpolation-rule apply-to="share-weight"
-                        from-year="2045" to-year="2100">
-                        <from-value>0</from-value>
-                        <to-value>0</to-value>
+                        from-year="2095" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                 </subsector>
@@ -6678,6 +7410,28 @@
                     </interpolation-rule>
                 </subsector>
             </supplysector>
+            <supplysector name="Agriculture_enuse">
+                <subsector name="refined liquids">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2020">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2095" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+            </supplysector>
         </region>
         <region name="TS">
             <supplysector name="Chem_Fert_enuse">
@@ -6870,6 +7624,28 @@
                         from-year="2095" to-year="2100">
                         <from-value>0.0001</from-value>
                         <to-value>0.0001</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+            </supplysector>
+            <supplysector name="Agriculture_enuse">
+                <subsector name="refined liquids">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2020">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2095" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                 </subsector>
@@ -7098,6 +7874,28 @@
                 <subsector name="refined liquids">
                     <interpolation-rule apply-to="share-weight"
                         from-year="2010" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+            </supplysector>
+            <supplysector name="Agriculture_enuse">
+                <subsector name="refined liquids">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2020">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2095" to-year="2100">
                         <from-value>0.01</from-value>
                         <to-value>0.01</to-value>
                         <interpolation-function name="fixed"/>
@@ -7334,6 +8132,28 @@
                     </interpolation-rule>
                 </subsector>
             </supplysector>
+            <supplysector name="Agriculture_enuse">
+                <subsector name="refined liquids">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2020">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2095" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+            </supplysector>
         </region>
         <region name="WB">
             <supplysector name="Chem_Fert_enuse">
@@ -7526,6 +8346,28 @@
                         from-year="2095" to-year="2100">
                         <from-value>0.0001</from-value>
                         <to-value>0.0001</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+            </supplysector>
+            <supplysector name="Agriculture_enuse">
+                <subsector name="refined liquids">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2020">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2095" to-year="2100">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                 </subsector>

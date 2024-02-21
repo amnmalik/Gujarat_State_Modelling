@@ -81,7 +81,7 @@
  
         <!--Value name = "Elec Revise Lifetime">../input/gcamdata/xml/India/Exogenous/Electricity/electricity_revised_lifetime.xml</Value-->
 
-      <Value name = "socio_india">../input/gcamdata/xml/India/socioeconomics_india.xml</Value>
+      <Value name = "socio_india">../input/gcamdata/xml/India/Labor_productivity_india_2020.xml</Value>
 		<Value name = "interest_india">../input/gcamdata/xml/India/interest_rate_india.xml</Value>
 		<Value name = "resource_india">../input/gcamdata/xml/India/resources_india_MS_ZK.xml</Value>
         <!--Value name = "resource_india">../input/gcamdata/xml/India/resources_india_NorthernGrid_CurveExp100.xml</Value-->                                                                                                                                           
@@ -113,11 +113,12 @@
         <Value name = "Indus_FuelAdders">../input/gcamdata/xml/India/Exogenous/Industry/India_states_Fuel_adders.xml</Value>
         <Value name = "Indus_incomeelas">../input/gcamdata/xml/India/Exogenous/Industry/India_states_Industry_incomeelas_PD.xml</Value>
         <Value name = "Indus_fs_stubtech_coeff">../input/gcamdata/xml/India/Exogenous/Industry/India_states_FS_Stubtech_Coeff.xml</Value>
-		<!--Value name = "Indus_shareweights">../input/gcamdata/xml/India/Exogenous/Industry/India_states_industry_share-weights_GJ_modified.xml</Value-->
+		<Value name = "Indus_shareweights">../input/gcamdata/xml/India/Exogenous/Industry/India_states_industry_share-weights.xml</Value>
 		<!--Value name = "Indus_shareweights_BAU">../input/gcamdata/xml/India/Exogenous/Industry/India_states_industry_share-weights_BAUforRJ.xml</Value-->
         <Value name = "Indus_shareweights_NZ">../input/gcamdata/xml/India/Exogenous/Industry/India_states_industry_share-weights_hydrogen.xml</Value>
 		<Value name = "India Industry Hydrogen">../input/gcamdata/xml/India/Exogenous/Industry/India_states_industry_share-weights_HH_for_all_States.xml</Value>		
         <Value name = "Indus_nonenergy">../input/gcamdata/xml/India/Exogenous/Industry/India_states_Non_Energy_Cost.xml</Value>
+		<Value name = "Indus_shareweights">../input/gcamdata/xml/India/Exogenous/Industry/India_states_industry_share-weights_GJ_modified.xml</Value>
 		<!--Value name = "Indus_shareweights">../input/gcamdata/xml/India/Exogenous/Industry/India_states_Enuse_FSuse_Coeff.xml</Value-->
 
 		<Value name = "Trn_fueladders">../input/gcamdata/xml/India/Exogenous/Transportation/India_states_trn_Fuel_adders.xml</Value>       
@@ -197,7 +198,7 @@
 
 	</ScenarioComponents>
 	<Strings>
-		<Value name="scenarioName">EB_new_anurag3</Value>
+		<Value name="scenarioName">2020_cal_gdp1</Value>
 		<Value name="debug-region">GJ</Value>
 		<Value name="MAGICC-input-dir">../input/magicc/inputs</Value>
 		<Value name="MAGICC-output-dir">../output</Value>

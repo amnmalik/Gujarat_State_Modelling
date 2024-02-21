@@ -1,7 +1,7 @@
-INPUT_TABLE,,,,,,
-Variable ID,,,,,,
-RegionFuelAdder,,,,,,
-,,,,,,
+INPUT_TABLE
+Variable ID
+RegionFuelAdder
+
 region,supplysector,subsector,technology,year,minicam-non-energy-input,input-cost
 AN,comm cooking,electricity,electric cooking,1990,non-energy,0.005804491
 AP,comm cooking,electricity,electric cooking,1990,non-energy,0.005804491
@@ -7525,7 +7525,7 @@ DD,resid rural cooking,biomass,biomass,2020,non-energy,-10.28953433
 DL,resid rural cooking,biomass,biomass,2020,non-energy,-10.28953433
 DN,resid rural cooking,biomass,biomass,2020,non-energy,-10.28953433
 GA,resid rural cooking,biomass,biomass,2020,non-energy,-10.28953433
-GJ,comm hvac,electricity,heating-cooling appl,2020,non-energy,8
+GJ,comm hvac,electricity,heating-cooling appl,2020,non-energy,10
 HP,resid rural cooking,biomass,biomass,2020,non-energy,-10.28953433
 HR,resid rural cooking,biomass,biomass,2020,non-energy,-10.28953433
 JH,resid rural cooking,biomass,biomass,2020,non-energy,-10.28953433
@@ -7599,7 +7599,7 @@ DD,resid rural cooking,electricity,electricity,2020,non-energy,0.164900316
 DL,resid rural cooking,electricity,electricity,2020,non-energy,0.164900316
 DN,resid rural cooking,electricity,electricity,2020,non-energy,0.164900316
 GA,resid rural cooking,electricity,electricity,2020,non-energy,0.164900316
-GJ,comm others,electricity,electricity based others,2020,non-energy,180
+GJ,comm others,electricity,electricity based others,2020,non-energy,200
 HP,resid rural cooking,electricity,electricity,2020,non-energy,0.164900316
 HR,resid rural cooking,electricity,electricity,2020,non-energy,0.164900316
 JH,resid rural cooking,electricity,electricity,2020,non-energy,0.164900316
@@ -7636,7 +7636,7 @@ DD,resid rural cooking,gas,gas-based cooking,2020,non-energy,-4.445696528
 DL,resid rural cooking,gas,gas-based cooking,2020,non-energy,-3.157810719
 DN,resid rural cooking,gas,gas-based cooking,2020,non-energy,-3.538790445
 GA,resid rural cooking,gas,gas-based cooking,2020,non-energy,-4.125919832
-GJ,comm ref,electricity,electricity based ref,2020,non-energy,9
+GJ,comm ref,electricity,electricity based ref,2020,non-energy,10
 HP,resid rural cooking,gas,gas-based cooking,2020,non-energy,-3.268199832
 HR,resid rural cooking,gas,gas-based cooking,2020,non-energy,-3.104174597
 JH,resid rural cooking,gas,gas-based cooking,2020,non-energy,-2.662549832
@@ -8080,7 +8080,7 @@ DD,resid urban apploth,coal,Coal-based app,2020,non-energy,-1.854362888
 DL,resid urban apploth,coal,Coal-based app,2020,non-energy,-3.185024395
 DN,resid urban apploth,coal,Coal-based app,2020,non-energy,-2.315955225
 GA,resid urban apploth,coal,Coal-based app,2020,non-energy,-1.531097799
-GJ,resid urban cooling,electricity,air conditioner (hi-eff),2020,non-energy,1.7
+GJ,resid urban cooling,electricity,air conditioner (hi-eff),2020,non-energy,2
 HP,resid urban apploth,coal,Coal-based app,2020,non-energy,-2.686017833
 HR,resid urban apploth,coal,Coal-based app,2020,non-energy,-2.663245638
 JH,resid urban apploth,coal,Coal-based app,2020,non-energy,-2.779270762
@@ -8117,7 +8117,7 @@ DD,resid urban apploth,electricity,Elec-based app,2020,non-energy,10
 DL,resid urban apploth,electricity,Elec-based app,2020,non-energy,10
 DN,resid urban apploth,electricity,Elec-based app,2020,non-energy,10
 GA,resid urban apploth,electricity,Elec-based app,2020,non-energy,10
-GJ,resid urban cooling,electricity,air conditioner (lo-eff),2020,non-energy,1.5
+GJ,resid urban cooling,electricity,air conditioner (lo-eff),2020,non-energy,1.8
 HP,resid urban apploth,electricity,Elec-based app,2020,non-energy,10
 HR,resid urban apploth,electricity,Elec-based app,2020,non-energy,10
 JH,resid urban apploth,electricity,Elec-based app,2020,non-energy,10
