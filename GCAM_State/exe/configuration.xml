@@ -198,7 +198,7 @@
 
 	</ScenarioComponents>
 	<Strings>
-		<Value name="scenarioName">2020_cal_gdp1</Value>
+		<Value name="scenarioName">2020_cal_ind11</Value>
 		<Value name="debug-region">GJ</Value>
 		<Value name="MAGICC-input-dir">../input/magicc/inputs</Value>
 		<Value name="MAGICC-output-dir">../output</Value>

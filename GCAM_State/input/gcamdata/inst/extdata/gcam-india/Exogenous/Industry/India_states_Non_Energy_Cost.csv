@@ -1,7 +1,7 @@
-INPUT_TABLE
-Variable ID
-RegionTechCost
-
+INPUT_TABLE,,,,,,
+Variable ID,,,,,,
+RegionTechCost,,,,,,
+,,,,,,
 Region,sector.name,subsector.name,technology,year,minicam.non.energy.input,input.cost
 AN,Agriculture,Agriculture,Agriculture,2010,non-energy,45.26159516
 AP,Agriculture,Agriculture,Agriculture,2010,non-energy,45.26159516
@@ -4824,7 +4824,7 @@ DD,Agriculture_enuse,electricity,electricity,2020,non-energy,-2.09002
 DL,Agriculture_enuse,electricity,electricity,2020,non-energy,-5.45164
 DN,Agriculture_enuse,electricity,electricity,2020,non-energy,-2.09002
 GA,Agriculture_enuse,electricity,electricity,2020,non-energy,-0.74735
-GJ,Agriculture_enuse,electricity,electricity,2020,non-energy,-3.974731317
+GJ,Chem_Fert_enuse,biomass,biomass,2020,non-energy,209.1419518
 HP,Agriculture_enuse,electricity,electricity,2020,non-energy,-0.86205
 HR,Agriculture_enuse,electricity,electricity,2020,non-energy,-2.51909
 JH,Agriculture_enuse,electricity,electricity,2020,non-energy,-1.36828
@@ -4861,7 +4861,7 @@ DD,Agriculture_enuse,refined liquids,refined liquids,2020,non-energy,2.984989691
 DL,Agriculture_enuse,refined liquids,refined liquids,2020,non-energy,2.984989691
 DN,Agriculture_enuse,refined liquids,refined liquids,2020,non-energy,2.984989691
 GA,Agriculture_enuse,refined liquids,refined liquids,2020,non-energy,2.984989691
-GJ,Agriculture_enuse,refined liquids,refined liquids,2020,non-energy,3.346131238
+GJ,Iron and Steel_enuse,biomass,biomass,2020,non-energy,644.5650057
 HP,Agriculture_enuse,refined liquids,refined liquids,2020,non-energy,2.984989691
 HR,Agriculture_enuse,refined liquids,refined liquids,2020,non-energy,2.984989691
 JH,Agriculture_enuse,refined liquids,refined liquids,2020,non-energy,2.984989691
@@ -4898,7 +4898,7 @@ DD,Agriculture_enuse,refined liquids,refined liquids cogen,2020,non-energy,11.02
 DL,Agriculture_enuse,refined liquids,refined liquids cogen,2020,non-energy,11.02068423
 DN,Agriculture_enuse,refined liquids,refined liquids cogen,2020,non-energy,11.02068423
 GA,Agriculture_enuse,refined liquids,refined liquids cogen,2020,non-energy,11.02068423
-GJ,Agriculture_enuse,refined liquids,refined liquids cogen,2020,non-energy,11.92353809
+GJ,Non-Ferrous Metals_enuse,biomass,biomass,2020,non-energy,3276.684569
 HP,Agriculture_enuse,refined liquids,refined liquids cogen,2020,non-energy,11.02068423
 HR,Agriculture_enuse,refined liquids,refined liquids cogen,2020,non-energy,11.02068423
 JH,Agriculture_enuse,refined liquids,refined liquids cogen,2020,non-energy,11.02068423
@@ -4935,7 +4935,7 @@ DD,Chem_Fert,Chem_Fert,Chem_Fert,2020,non-energy,2045.593287
 DL,Chem_Fert,Chem_Fert,Chem_Fert,2020,non-energy,2045.593287
 DN,Chem_Fert,Chem_Fert,Chem_Fert,2020,non-energy,2045.593287
 GA,Chem_Fert,Chem_Fert,Chem_Fert,2020,non-energy,2045.593287
-GJ,Chem_Fert,Chem_Fert,Chem_Fert,2020,non-energy,2073.835538
+GJ,Other Industries_enuse,biomass,biomass,2020,non-energy,1430
 HP,Chem_Fert,Chem_Fert,Chem_Fert,2020,non-energy,2045.593287
 HR,Chem_Fert,Chem_Fert,Chem_Fert,2020,non-energy,2045.593287
 JH,Chem_Fert,Chem_Fert,Chem_Fert,2020,non-energy,2045.593287
@@ -4972,7 +4972,7 @@ DD,Chem_Fert_enuse,biomass,biomass,2020,non-energy,208.3068975
 DL,Chem_Fert_enuse,biomass,biomass,2020,non-energy,208.3068975
 DN,Chem_Fert_enuse,biomass,biomass,2020,non-energy,208.3068975
 GA,Chem_Fert_enuse,biomass,biomass,2020,non-energy,208.3068975
-GJ,Chem_Fert_enuse,biomass,biomass,2020,non-energy,209.1419518
+GJ,Paper and Pulp_enuse,biomass,biomass,2020,non-energy,570.0817437
 HP,Chem_Fert_enuse,biomass,biomass,2020,non-energy,208.3068975
 HR,Chem_Fert_enuse,biomass,biomass,2020,non-energy,208.3068975
 JH,Chem_Fert_enuse,biomass,biomass,2020,non-energy,208.3068975
@@ -5009,7 +5009,7 @@ DD,Chem_Fert_enuse,biomass,biomass cogen,2020,non-energy,524.7139987
 DL,Chem_Fert_enuse,biomass,biomass cogen,2020,non-energy,524.7139987
 DN,Chem_Fert_enuse,biomass,biomass cogen,2020,non-energy,524.7139987
 GA,Chem_Fert_enuse,biomass,biomass cogen,2020,non-energy,524.7139987
-GJ,Chem_Fert_enuse,biomass,biomass cogen,2020,non-energy,526.8016345
+GJ,process heat cement,biomass,biomass,2020,non-energy,21.28144737
 HP,Chem_Fert_enuse,biomass,biomass cogen,2020,non-energy,524.7139987
 HR,Chem_Fert_enuse,biomass,biomass cogen,2020,non-energy,524.7139987
 JH,Chem_Fert_enuse,biomass,biomass cogen,2020,non-energy,524.7139987
@@ -5046,7 +5046,7 @@ DD,Chem_Fert_enuse,coal,coal,2020,non-energy,219.0803674
 DL,Chem_Fert_enuse,coal,coal,2020,non-energy,218.6925274
 DN,Chem_Fert_enuse,coal,coal,2020,non-energy,219.0803674
 GA,Chem_Fert_enuse,coal,coal,2020,non-energy,219.0803674
-GJ,Chem_Fert_enuse,coal,coal,2020,non-energy,214.3509087
+GJ,Chem_Fert_enuse,biomass,biomass cogen,2020,non-energy,526.8016345
 HP,Chem_Fert_enuse,coal,coal,2020,non-energy,218.6925274
 HR,Chem_Fert_enuse,coal,coal,2020,non-energy,218.6925274
 JH,Chem_Fert_enuse,coal,coal,2020,non-energy,218.8698574
@@ -5083,7 +5083,7 @@ DD,Chem_Fert_enuse,coal,coal cogen,2020,non-energy,549.3569935
 DL,Chem_Fert_enuse,coal,coal cogen,2020,non-energy,548.9691535
 DN,Chem_Fert_enuse,coal,coal cogen,2020,non-energy,549.3569935
 GA,Chem_Fert_enuse,coal,coal cogen,2020,non-energy,549.3569935
-GJ,Chem_Fert_enuse,coal,coal cogen,2020,non-energy,537.5333468
+GJ,Iron and Steel_enuse,biomass,biomass cogen,2020,non-energy,1615.359269
 HP,Chem_Fert_enuse,coal,coal cogen,2020,non-energy,548.9691535
 HR,Chem_Fert_enuse,coal,coal cogen,2020,non-energy,548.9691535
 JH,Chem_Fert_enuse,coal,coal cogen,2020,non-energy,549.1464835
@@ -5120,7 +5120,7 @@ DD,Chem_Fert_enuse,electricity,electricity,2020,non-energy,284.1213374
 DL,Chem_Fert_enuse,electricity,electricity,2020,non-energy,280.6806374
 DN,Chem_Fert_enuse,electricity,electricity,2020,non-energy,284.1213374
 GA,Chem_Fert_enuse,electricity,electricity,2020,non-energy,285.4643374
-GJ,Chem_Fert_enuse,electricity,electricity,2020,non-energy,296.702767
+GJ,Non-Ferrous Metals_enuse,biomass,biomass cogen,2020,non-energy,8195.658178
 HP,Chem_Fert_enuse,electricity,electricity,2020,non-energy,285.2696374
 HR,Chem_Fert_enuse,electricity,electricity,2020,non-energy,283.6126374
 JH,Chem_Fert_enuse,electricity,electricity,2020,non-energy,284.5344374
@@ -5157,7 +5157,7 @@ DD,Chem_Fert_enuse,gas,gas,2020,non-energy,244.7862138
 DL,Chem_Fert_enuse,gas,gas,2020,non-energy,244.6281938
 DN,Chem_Fert_enuse,gas,gas,2020,non-energy,244.7862138
 GA,Chem_Fert_enuse,gas,gas,2020,non-energy,244.7862138
-GJ,Chem_Fert_enuse,gas,gas,2020,non-energy,248.0465694
+GJ,Other Industries_enuse,biomass,biomass cogen,2020,non-energy,3617.13616
 HP,Chem_Fert_enuse,gas,gas,2020,non-energy,244.6281938
 HR,Chem_Fert_enuse,gas,gas,2020,non-energy,244.6281938
 JH,Chem_Fert_enuse,gas,gas,2020,non-energy,244.5378638
@@ -5194,7 +5194,7 @@ DD,Chem_Fert_enuse,gas,gas cogen,2020,non-energy,617.8659698
 DL,Chem_Fert_enuse,gas,gas cogen,2020,non-energy,617.7069498
 DN,Chem_Fert_enuse,gas,gas cogen,2020,non-energy,617.8659698
 GA,Chem_Fert_enuse,gas,gas cogen,2020,non-energy,617.8659698
-GJ,Chem_Fert_enuse,gas,gas cogen,2020,non-energy,626.0176642
+GJ,Paper and Pulp_enuse,biomass,biomass cogen,2020,non-energy,1429.151114
 HP,Chem_Fert_enuse,gas,gas cogen,2020,non-energy,617.7069498
 HR,Chem_Fert_enuse,gas,gas cogen,2020,non-energy,617.7069498
 JH,Chem_Fert_enuse,gas,gas cogen,2020,non-energy,617.6166198
@@ -5231,7 +5231,7 @@ DD,Chem_Fert_enuse,hydrogen,hydrogen,2020,non-energy,268.7615119
 DL,Chem_Fert_enuse,hydrogen,hydrogen,2020,non-energy,268.7615119
 DN,Chem_Fert_enuse,hydrogen,hydrogen,2020,non-energy,268.7615119
 GA,Chem_Fert_enuse,hydrogen,hydrogen,2020,non-energy,268.7615119
-GJ,Chem_Fert_enuse,hydrogen,hydrogen,2020,non-energy,272.0221897
+GJ,cement,cement,cement,2020,non-energy,508.9575355
 HP,Chem_Fert_enuse,hydrogen,hydrogen,2020,non-energy,268.7615119
 HR,Chem_Fert_enuse,hydrogen,hydrogen,2020,non-energy,268.7615119
 JH,Chem_Fert_enuse,hydrogen,hydrogen,2020,non-energy,268.7615119
@@ -5268,7 +5268,7 @@ DD,Chem_Fert_enuse,hydrogen,hydrogen cogen,2020,non-energy,671.9037798
 DL,Chem_Fert_enuse,hydrogen,hydrogen cogen,2020,non-energy,671.9037798
 DN,Chem_Fert_enuse,hydrogen,hydrogen cogen,2020,non-energy,671.9037798
 GA,Chem_Fert_enuse,hydrogen,hydrogen cogen,2020,non-energy,671.9037798
-GJ,Chem_Fert_enuse,hydrogen,hydrogen cogen,2020,non-energy,680.0554742
+GJ,cement,cement,cement CCS,2020,non-energy,1017.915071
 HP,Chem_Fert_enuse,hydrogen,hydrogen cogen,2020,non-energy,671.9037798
 HR,Chem_Fert_enuse,hydrogen,hydrogen cogen,2020,non-energy,671.9037798
 JH,Chem_Fert_enuse,hydrogen,hydrogen cogen,2020,non-energy,671.9037798
@@ -5305,7 +5305,7 @@ DD,Chem_Fert_enuse,refined liquids,refined liquids,2020,non-energy,230.8493656
 DL,Chem_Fert_enuse,refined liquids,refined liquids,2020,non-energy,230.8493656
 DN,Chem_Fert_enuse,refined liquids,refined liquids,2020,non-energy,230.8493656
 GA,Chem_Fert_enuse,refined liquids,refined liquids,2020,non-energy,230.8493656
-GJ,Chem_Fert_enuse,refined liquids,refined liquids,2020,non-energy,235.8657573
+GJ,Chem_Fert,Chem_Fert,Chem_Fert,2020,non-energy,2073.835538
 HP,Chem_Fert_enuse,refined liquids,refined liquids,2020,non-energy,230.8493656
 HR,Chem_Fert_enuse,refined liquids,refined liquids,2020,non-energy,230.8493656
 JH,Chem_Fert_enuse,refined liquids,refined liquids,2020,non-energy,230.8493656
@@ -5342,7 +5342,7 @@ DD,Chem_Fert_enuse,refined liquids,refined liquids cogen,2020,non-energy,580.681
 DL,Chem_Fert_enuse,refined liquids,refined liquids cogen,2020,non-energy,580.6816241
 DN,Chem_Fert_enuse,refined liquids,refined liquids cogen,2020,non-energy,580.6816241
 GA,Chem_Fert_enuse,refined liquids,refined liquids cogen,2020,non-energy,580.6816241
-GJ,Chem_Fert_enuse,refined liquids,refined liquids cogen,2020,non-energy,593.2226033
+GJ,Chem_Fert_enuse,coal,coal,2020,non-energy,214.3509087
 HP,Chem_Fert_enuse,refined liquids,refined liquids cogen,2020,non-energy,580.6816241
 HR,Chem_Fert_enuse,refined liquids,refined liquids cogen,2020,non-energy,580.6816241
 JH,Chem_Fert_enuse,refined liquids,refined liquids cogen,2020,non-energy,580.6816241
@@ -5379,7 +5379,7 @@ DD,Fisheries,Fisheries,Fisheries,2020,non-energy,44.62489032
 DL,Fisheries,Fisheries,Fisheries,2020,non-energy,44.62489032
 DN,Fisheries,Fisheries,Fisheries,2020,non-energy,44.62489032
 GA,Fisheries,Fisheries,Fisheries,2020,non-energy,44.62489032
-GJ,Fisheries,Fisheries,Fisheries,2020,non-energy,47.63319941
+GJ,Iron and Steel_enuse,coal,coal,2020,non-energy,720
 HP,Fisheries,Fisheries,Fisheries,2020,non-energy,44.62489032
 HR,Fisheries,Fisheries,Fisheries,2020,non-energy,44.62489032
 JH,Fisheries,Fisheries,Fisheries,2020,non-energy,44.62489032
@@ -5416,7 +5416,7 @@ DD,Fisheries_enuse,refined liquids,refined liquids,2020,non-energy,2.984989691
 DL,Fisheries_enuse,refined liquids,refined liquids,2020,non-energy,2.984989691
 DN,Fisheries_enuse,refined liquids,refined liquids,2020,non-energy,2.984989691
 GA,Fisheries_enuse,refined liquids,refined liquids,2020,non-energy,2.984989691
-GJ,Fisheries_enuse,refined liquids,refined liquids,2020,non-energy,3.346131238
+GJ,Non-Ferrous Metals_enuse,coal,coal,2020,non-energy,3281.893526
 HP,Fisheries_enuse,refined liquids,refined liquids,2020,non-energy,2.984989691
 HR,Fisheries_enuse,refined liquids,refined liquids,2020,non-energy,2.984989691
 JH,Fisheries_enuse,refined liquids,refined liquids,2020,non-energy,2.984989691
@@ -5453,7 +5453,7 @@ DD,Fisheries_enuse,refined liquids,refined liquids cogen,2020,non-energy,11.0206
 DL,Fisheries_enuse,refined liquids,refined liquids cogen,2020,non-energy,11.02068423
 DN,Fisheries_enuse,refined liquids,refined liquids cogen,2020,non-energy,11.02068423
 GA,Fisheries_enuse,refined liquids,refined liquids cogen,2020,non-energy,11.02068423
-GJ,Fisheries_enuse,refined liquids,refined liquids cogen,2020,non-energy,11.92353809
+GJ,Other Industries_enuse,coal,coal,2020,non-energy,1450.484719
 HP,Fisheries_enuse,refined liquids,refined liquids cogen,2020,non-energy,11.02068423
 HR,Fisheries_enuse,refined liquids,refined liquids cogen,2020,non-energy,11.02068423
 JH,Fisheries_enuse,refined liquids,refined liquids cogen,2020,non-energy,11.02068423
@@ -5490,7 +5490,7 @@ DD,Iron and Steel,Iron and Steel,Iron and Steel,2020,non-energy,5644.145371
 DL,Iron and Steel,Iron and Steel,Iron and Steel,2020,non-energy,5644.145371
 DN,Iron and Steel,Iron and Steel,Iron and Steel,2020,non-energy,5644.145371
 GA,Iron and Steel,Iron and Steel,Iron and Steel,2020,non-energy,5644.145371
-GJ,Iron and Steel,Iron and Steel,Iron and Steel,2020,non-energy,5700.909577
+GJ,Paper and Pulp_enuse,coal,coal,2020,non-energy,575.2907006
 HP,Iron and Steel,Iron and Steel,Iron and Steel,2020,non-energy,5644.145371
 HR,Iron and Steel,Iron and Steel,Iron and Steel,2020,non-energy,5644.145371
 JH,Iron and Steel,Iron and Steel,Iron and Steel,2020,non-energy,5644.145371
@@ -5527,7 +5527,7 @@ DD,Iron and Steel_enuse,biomass,biomass,2020,non-energy,640.3059473
 DL,Iron and Steel_enuse,biomass,biomass,2020,non-energy,640.3059473
 DN,Iron and Steel_enuse,biomass,biomass,2020,non-energy,640.3059473
 GA,Iron and Steel_enuse,biomass,biomass,2020,non-energy,640.3059473
-GJ,Iron and Steel_enuse,biomass,biomass,2020,non-energy,644.5650057
+GJ,process heat cement,coal,coal,2020,non-energy,26.49040425
 HP,Iron and Steel_enuse,biomass,biomass,2020,non-energy,640.3059473
 HR,Iron and Steel_enuse,biomass,biomass,2020,non-energy,640.3059473
 JH,Iron and Steel_enuse,biomass,biomass,2020,non-energy,640.3059473
@@ -5564,7 +5564,7 @@ DD,Iron and Steel_enuse,biomass,biomass cogen,2020,non-energy,1604.711623
 DL,Iron and Steel_enuse,biomass,biomass cogen,2020,non-energy,1604.711623
 DN,Iron and Steel_enuse,biomass,biomass cogen,2020,non-energy,1604.711623
 GA,Iron and Steel_enuse,biomass,biomass cogen,2020,non-energy,1604.711623
-GJ,Iron and Steel_enuse,biomass,biomass cogen,2020,non-energy,1615.359269
+GJ,Chem_Fert_enuse,coal,coal cogen,2020,non-energy,537.5333468
 HP,Iron and Steel_enuse,biomass,biomass cogen,2020,non-energy,1604.711623
 HR,Iron and Steel_enuse,biomass,biomass cogen,2020,non-energy,1604.711623
 JH,Iron and Steel_enuse,biomass,biomass cogen,2020,non-energy,1604.711623
@@ -5601,7 +5601,7 @@ DD,Iron and Steel_enuse,coal,coal,2020,non-energy,651.0794172
 DL,Iron and Steel_enuse,coal,coal,2020,non-energy,650.6915772
 DN,Iron and Steel_enuse,coal,coal,2020,non-energy,651.0794172
 GA,Iron and Steel_enuse,coal,coal,2020,non-energy,651.0794172
-GJ,Iron and Steel_enuse,coal,coal,2020,non-energy,649.7739626
+GJ,Iron and Steel_enuse,coal,coal cogen,2020,non-energy,1626.090981
 HP,Iron and Steel_enuse,coal,coal,2020,non-energy,650.6915772
 HR,Iron and Steel_enuse,coal,coal,2020,non-energy,650.6915772
 JH,Iron and Steel_enuse,coal,coal,2020,non-energy,650.8689072
@@ -5638,7 +5638,7 @@ DD,Iron and Steel_enuse,coal,coal cogen,2020,non-energy,1629.354618
 DL,Iron and Steel_enuse,coal,coal cogen,2020,non-energy,1628.966778
 DN,Iron and Steel_enuse,coal,coal cogen,2020,non-energy,1629.354618
 GA,Iron and Steel_enuse,coal,coal cogen,2020,non-energy,1629.354618
-GJ,Iron and Steel_enuse,coal,coal cogen,2020,non-energy,1626.090981
+GJ,Non-Ferrous Metals_enuse,coal,coal cogen,2020,non-energy,8206.38989
 HP,Iron and Steel_enuse,coal,coal cogen,2020,non-energy,1628.966778
 HR,Iron and Steel_enuse,coal,coal cogen,2020,non-energy,1628.966778
 JH,Iron and Steel_enuse,coal,coal cogen,2020,non-energy,1629.144108
@@ -5675,7 +5675,7 @@ DD,Iron and Steel_enuse,electricity,electricity,2020,non-energy,716.120437
 DL,Iron and Steel_enuse,electricity,electricity,2020,non-energy,712.679737
 DN,Iron and Steel_enuse,electricity,electricity,2020,non-energy,716.120437
 GA,Iron and Steel_enuse,electricity,electricity,2020,non-energy,717.463437
-GJ,Iron and Steel_enuse,electricity,electricity,2020,non-energy,732.1258748
+GJ,Other Industries_enuse,coal,coal cogen,2020,non-energy,3627.867873
 HP,Iron and Steel_enuse,electricity,electricity,2020,non-energy,717.268737
 HR,Iron and Steel_enuse,electricity,electricity,2020,non-energy,715.611737
 JH,Iron and Steel_enuse,electricity,electricity,2020,non-energy,716.532537
@@ -5712,7 +5712,7 @@ DD,Iron and Steel_enuse,gas,gas,2020,non-energy,676.7853134
 DL,Iron and Steel_enuse,gas,gas,2020,non-energy,676.6272934
 DN,Iron and Steel_enuse,gas,gas,2020,non-energy,676.7853134
 GA,Iron and Steel_enuse,gas,gas,2020,non-energy,676.7853134
-GJ,Iron and Steel_enuse,gas,gas,2020,non-energy,683.4696772
+GJ,Paper and Pulp_enuse,coal,coal cogen,2020,non-energy,1439.882827
 HP,Iron and Steel_enuse,gas,gas,2020,non-energy,676.6272934
 HR,Iron and Steel_enuse,gas,gas,2020,non-energy,676.6272934
 JH,Iron and Steel_enuse,gas,gas,2020,non-energy,676.5369634
@@ -5749,7 +5749,7 @@ DD,Iron and Steel_enuse,gas,gas cogen,2020,non-energy,1697.863595
 DL,Iron and Steel_enuse,gas,gas cogen,2020,non-energy,1697.704575
 DN,Iron and Steel_enuse,gas,gas cogen,2020,non-energy,1697.863595
 GA,Iron and Steel_enuse,gas,gas cogen,2020,non-energy,1697.863595
-GJ,Iron and Steel_enuse,gas,gas cogen,2020,non-energy,1714.575299
+GJ,Agriculture_enuse,electricity,electricity,2020,non-energy,15
 HP,Iron and Steel_enuse,gas,gas cogen,2020,non-energy,1697.704575
 HR,Iron and Steel_enuse,gas,gas cogen,2020,non-energy,1697.704575
 JH,Iron and Steel_enuse,gas,gas cogen,2020,non-energy,1697.614245
@@ -5786,7 +5786,7 @@ DD,Iron and Steel_enuse,hydrogen,hydrogen,2020,non-energy,700.7605617
 DL,Iron and Steel_enuse,hydrogen,hydrogen,2020,non-energy,700.7605617
 DN,Iron and Steel_enuse,hydrogen,hydrogen,2020,non-energy,700.7605617
 GA,Iron and Steel_enuse,hydrogen,hydrogen,2020,non-energy,700.7605617
-GJ,Iron and Steel_enuse,hydrogen,hydrogen,2020,non-energy,707.4452436
+GJ,Chem_Fert_enuse,electricity,electricity,2020,non-energy,296.702767
 HP,Iron and Steel_enuse,hydrogen,hydrogen,2020,non-energy,700.7605617
 HR,Iron and Steel_enuse,hydrogen,hydrogen,2020,non-energy,700.7605617
 JH,Iron and Steel_enuse,hydrogen,hydrogen,2020,non-energy,700.7605617
@@ -5823,7 +5823,7 @@ DD,Iron and Steel_enuse,hydrogen,hydrogen cogen,2020,non-energy,1751.901405
 DL,Iron and Steel_enuse,hydrogen,hydrogen cogen,2020,non-energy,1751.901405
 DN,Iron and Steel_enuse,hydrogen,hydrogen cogen,2020,non-energy,1751.901405
 GA,Iron and Steel_enuse,hydrogen,hydrogen cogen,2020,non-energy,1751.901405
-GJ,Iron and Steel_enuse,hydrogen,hydrogen cogen,2020,non-energy,1768.613109
+GJ,Iron and Steel_enuse,electricity,electricity,2020,non-energy,732.1258748
 HP,Iron and Steel_enuse,hydrogen,hydrogen cogen,2020,non-energy,1751.901405
 HR,Iron and Steel_enuse,hydrogen,hydrogen cogen,2020,non-energy,1751.901405
 JH,Iron and Steel_enuse,hydrogen,hydrogen cogen,2020,non-energy,1751.901405
@@ -5860,7 +5860,7 @@ DD,Iron and Steel_enuse,refined liquids,refined liquids,2020,non-energy,662.8484
 DL,Iron and Steel_enuse,refined liquids,refined liquids,2020,non-energy,662.8484154
 DN,Iron and Steel_enuse,refined liquids,refined liquids,2020,non-energy,662.8484154
 GA,Iron and Steel_enuse,refined liquids,refined liquids,2020,non-energy,662.8484154
-GJ,Iron and Steel_enuse,refined liquids,refined liquids,2020,non-energy,671.2888112
+GJ,Non-Ferrous Metals_enuse,electricity,electricity,2020,non-energy,3364.246002
 HP,Iron and Steel_enuse,refined liquids,refined liquids,2020,non-energy,662.8484154
 HR,Iron and Steel_enuse,refined liquids,refined liquids,2020,non-energy,662.8484154
 JH,Iron and Steel_enuse,refined liquids,refined liquids,2020,non-energy,662.8484154
@@ -5897,7 +5897,7 @@ DD,Iron and Steel_enuse,refined liquids,refined liquids cogen,2020,non-energy,16
 DL,Iron and Steel_enuse,refined liquids,refined liquids cogen,2020,non-energy,1660.679249
 DN,Iron and Steel_enuse,refined liquids,refined liquids cogen,2020,non-energy,1660.679249
 GA,Iron and Steel_enuse,refined liquids,refined liquids cogen,2020,non-energy,1660.679249
-GJ,Iron and Steel_enuse,refined liquids,refined liquids cogen,2020,non-energy,1681.780238
+GJ,Other Industries_enuse,electricity,electricity,2020,non-energy,1532.838388
 HP,Iron and Steel_enuse,refined liquids,refined liquids cogen,2020,non-energy,1660.679249
 HR,Iron and Steel_enuse,refined liquids,refined liquids cogen,2020,non-energy,1660.679249
 JH,Iron and Steel_enuse,refined liquids,refined liquids cogen,2020,non-energy,1660.679249
@@ -5934,7 +5934,7 @@ DD,Non-Ferrous Metals,Non-Ferrous Metals,Non-Ferrous Metals,2020,non-energy,2754
 DL,Non-Ferrous Metals,Non-Ferrous Metals,Non-Ferrous Metals,2020,non-energy,27548.43364
 DN,Non-Ferrous Metals,Non-Ferrous Metals,Non-Ferrous Metals,2020,non-energy,27548.43364
 GA,Non-Ferrous Metals,Non-Ferrous Metals,Non-Ferrous Metals,2020,non-energy,27548.43364
-GJ,Non-Ferrous Metals,Non-Ferrous Metals,Non-Ferrous Metals,2020,non-energy,27626.46554
+GJ,Paper and Pulp_enuse,electricity,electricity,2020,non-energy,657.6423508
 HP,Non-Ferrous Metals,Non-Ferrous Metals,Non-Ferrous Metals,2020,non-energy,27548.43364
 HR,Non-Ferrous Metals,Non-Ferrous Metals,Non-Ferrous Metals,2020,non-energy,27548.43364
 JH,Non-Ferrous Metals,Non-Ferrous Metals,Non-Ferrous Metals,2020,non-energy,27548.43364
@@ -5971,7 +5971,7 @@ DD,Non-Ferrous Metals_enuse,biomass,biomass,2020,non-energy,3269.872366
 DL,Non-Ferrous Metals_enuse,biomass,biomass,2020,non-energy,3269.872366
 DN,Non-Ferrous Metals_enuse,biomass,biomass,2020,non-energy,3269.872366
 GA,Non-Ferrous Metals_enuse,biomass,biomass,2020,non-energy,3269.872366
-GJ,Non-Ferrous Metals_enuse,biomass,biomass,2020,non-energy,3276.684569
+GJ,Fisheries,Fisheries,Fisheries,2020,non-energy,47.63319941
 HP,Non-Ferrous Metals_enuse,biomass,biomass,2020,non-energy,3269.872366
 HR,Non-Ferrous Metals_enuse,biomass,biomass,2020,non-energy,3269.872366
 JH,Non-Ferrous Metals_enuse,biomass,biomass,2020,non-energy,3269.872366
@@ -6008,7 +6008,7 @@ DD,Non-Ferrous Metals_enuse,biomass,biomass cogen,2020,non-energy,8178.627669
 DL,Non-Ferrous Metals_enuse,biomass,biomass cogen,2020,non-energy,8178.627669
 DN,Non-Ferrous Metals_enuse,biomass,biomass cogen,2020,non-energy,8178.627669
 GA,Non-Ferrous Metals_enuse,biomass,biomass cogen,2020,non-energy,8178.627669
-GJ,Non-Ferrous Metals_enuse,biomass,biomass cogen,2020,non-energy,8195.658178
+GJ,Chem_Fert_enuse,gas,gas,2020,non-energy,248.0465694
 HP,Non-Ferrous Metals_enuse,biomass,biomass cogen,2020,non-energy,8178.627669
 HR,Non-Ferrous Metals_enuse,biomass,biomass cogen,2020,non-energy,8178.627669
 JH,Non-Ferrous Metals_enuse,biomass,biomass cogen,2020,non-energy,8178.627669
@@ -6045,7 +6045,7 @@ DD,Non-Ferrous Metals_enuse,coal,coal,2020,non-energy,3280.645836
 DL,Non-Ferrous Metals_enuse,coal,coal,2020,non-energy,3280.257996
 DN,Non-Ferrous Metals_enuse,coal,coal,2020,non-energy,3280.645836
 GA,Non-Ferrous Metals_enuse,coal,coal,2020,non-energy,3280.645836
-GJ,Non-Ferrous Metals_enuse,coal,coal,2020,non-energy,3281.893526
+GJ,Iron and Steel_enuse,gas,gas,2020,non-energy,683.4696772
 HP,Non-Ferrous Metals_enuse,coal,coal,2020,non-energy,3280.257996
 HR,Non-Ferrous Metals_enuse,coal,coal,2020,non-energy,3280.257996
 JH,Non-Ferrous Metals_enuse,coal,coal,2020,non-energy,3280.435326
@@ -6082,7 +6082,7 @@ DD,Non-Ferrous Metals_enuse,coal,coal cogen,2020,non-energy,8203.270664
 DL,Non-Ferrous Metals_enuse,coal,coal cogen,2020,non-energy,8202.882824
 DN,Non-Ferrous Metals_enuse,coal,coal cogen,2020,non-energy,8203.270664
 GA,Non-Ferrous Metals_enuse,coal,coal cogen,2020,non-energy,8203.270664
-GJ,Non-Ferrous Metals_enuse,coal,coal cogen,2020,non-energy,8206.38989
+GJ,Non-Ferrous Metals_enuse,gas,gas,2020,non-energy,3315.591804
 HP,Non-Ferrous Metals_enuse,coal,coal cogen,2020,non-energy,8202.882824
 HR,Non-Ferrous Metals_enuse,coal,coal cogen,2020,non-energy,8202.882824
 JH,Non-Ferrous Metals_enuse,coal,coal cogen,2020,non-energy,8203.060154
@@ -6119,7 +6119,7 @@ DD,Non-Ferrous Metals_enuse,electricity,electricity,2020,non-energy,3345.683274
 DL,Non-Ferrous Metals_enuse,electricity,electricity,2020,non-energy,3342.250574
 DN,Non-Ferrous Metals_enuse,electricity,electricity,2020,non-energy,3345.683274
 GA,Non-Ferrous Metals_enuse,electricity,electricity,2020,non-energy,3347.033274
-GJ,Non-Ferrous Metals_enuse,electricity,electricity,2020,non-energy,3364.246002
+GJ,Other Industries_enuse,gas,gas,2020,non-energy,1500
 HP,Non-Ferrous Metals_enuse,electricity,electricity,2020,non-energy,3346.830574
 HR,Non-Ferrous Metals_enuse,electricity,electricity,2020,non-energy,3345.180574
 JH,Non-Ferrous Metals_enuse,electricity,electricity,2020,non-energy,3346.098374
@@ -6156,7 +6156,7 @@ DD,Non-Ferrous Metals_enuse,gas,gas,2020,non-energy,3306.35615
 DL,Non-Ferrous Metals_enuse,gas,gas,2020,non-energy,3306.19713
 DN,Non-Ferrous Metals_enuse,gas,gas,2020,non-energy,3306.35615
 GA,Non-Ferrous Metals_enuse,gas,gas,2020,non-energy,3306.35615
-GJ,Non-Ferrous Metals_enuse,gas,gas,2020,non-energy,3315.591804
+GJ,Paper and Pulp_enuse,gas,gas,2020,non-energy,608.9861532
 HP,Non-Ferrous Metals_enuse,gas,gas,2020,non-energy,3306.19713
 HR,Non-Ferrous Metals_enuse,gas,gas,2020,non-energy,3306.19713
 JH,Non-Ferrous Metals_enuse,gas,gas,2020,non-energy,3306.1068
@@ -6193,7 +6193,7 @@ DD,Non-Ferrous Metals_enuse,gas,gas cogen,2020,non-energy,8271.77964
 DL,Non-Ferrous Metals_enuse,gas,gas cogen,2020,non-energy,8271.62062
 DN,Non-Ferrous Metals_enuse,gas,gas cogen,2020,non-energy,8271.77964
 GA,Non-Ferrous Metals_enuse,gas,gas cogen,2020,non-energy,8271.77964
-GJ,Non-Ferrous Metals_enuse,gas,gas cogen,2020,non-energy,8294.874207
+GJ,process heat cement,gas,gas,2020,non-energy,60.12387522
 HP,Non-Ferrous Metals_enuse,gas,gas cogen,2020,non-energy,8271.62062
 HR,Non-Ferrous Metals_enuse,gas,gas cogen,2020,non-energy,8271.62062
 JH,Non-Ferrous Metals_enuse,gas,gas cogen,2020,non-energy,8271.53029
@@ -6230,7 +6230,7 @@ DD,Non-Ferrous Metals_enuse,hydrogen,hydrogen,2020,non-energy,3330.32698
 DL,Non-Ferrous Metals_enuse,hydrogen,hydrogen,2020,non-energy,3330.32698
 DN,Non-Ferrous Metals_enuse,hydrogen,hydrogen,2020,non-energy,3330.32698
 GA,Non-Ferrous Metals_enuse,hydrogen,hydrogen,2020,non-energy,3330.32698
-GJ,Non-Ferrous Metals_enuse,hydrogen,hydrogen,2020,non-energy,3339.564807
+GJ,Chem_Fert_enuse,gas,gas cogen,2020,non-energy,626.0176642
 HP,Non-Ferrous Metals_enuse,hydrogen,hydrogen,2020,non-energy,3330.32698
 HR,Non-Ferrous Metals_enuse,hydrogen,hydrogen,2020,non-energy,3330.32698
 JH,Non-Ferrous Metals_enuse,hydrogen,hydrogen,2020,non-energy,3330.32698
@@ -6267,7 +6267,7 @@ DD,Non-Ferrous Metals_enuse,hydrogen,hydrogen cogen,2020,non-energy,8325.81745
 DL,Non-Ferrous Metals_enuse,hydrogen,hydrogen cogen,2020,non-energy,8325.81745
 DN,Non-Ferrous Metals_enuse,hydrogen,hydrogen cogen,2020,non-energy,8325.81745
 GA,Non-Ferrous Metals_enuse,hydrogen,hydrogen cogen,2020,non-energy,8325.81745
-GJ,Non-Ferrous Metals_enuse,hydrogen,hydrogen cogen,2020,non-energy,8348.912017
+GJ,Iron and Steel_enuse,gas,gas cogen,2020,non-energy,1714.575299
 HP,Non-Ferrous Metals_enuse,hydrogen,hydrogen cogen,2020,non-energy,8325.81745
 HR,Non-Ferrous Metals_enuse,hydrogen,hydrogen cogen,2020,non-energy,8325.81745
 JH,Non-Ferrous Metals_enuse,hydrogen,hydrogen cogen,2020,non-energy,8325.81745
@@ -6304,7 +6304,7 @@ DD,Non-Ferrous Metals_enuse,refined liquids,refined liquids,2020,non-energy,3292
 DL,Non-Ferrous Metals_enuse,refined liquids,refined liquids,2020,non-energy,3292.414834
 DN,Non-Ferrous Metals_enuse,refined liquids,refined liquids,2020,non-energy,3292.414834
 GA,Non-Ferrous Metals_enuse,refined liquids,refined liquids,2020,non-energy,3292.414834
-GJ,Non-Ferrous Metals_enuse,refined liquids,refined liquids,2020,non-energy,3303.408375
+GJ,Non-Ferrous Metals_enuse,gas,gas cogen,2020,non-energy,8294.874207
 HP,Non-Ferrous Metals_enuse,refined liquids,refined liquids,2020,non-energy,3292.414834
 HR,Non-Ferrous Metals_enuse,refined liquids,refined liquids,2020,non-energy,3292.414834
 JH,Non-Ferrous Metals_enuse,refined liquids,refined liquids,2020,non-energy,3292.414834
@@ -6341,7 +6341,7 @@ DD,Non-Ferrous Metals_enuse,refined liquids,refined liquids cogen,2020,non-energ
 DL,Non-Ferrous Metals_enuse,refined liquids,refined liquids cogen,2020,non-energy,8234.595295
 DN,Non-Ferrous Metals_enuse,refined liquids,refined liquids cogen,2020,non-energy,8234.595295
 GA,Non-Ferrous Metals_enuse,refined liquids,refined liquids cogen,2020,non-energy,8234.595295
-GJ,Non-Ferrous Metals_enuse,refined liquids,refined liquids cogen,2020,non-energy,8262.079147
+GJ,Other Industries_enuse,gas,gas cogen,2020,non-energy,3716.35219
 HP,Non-Ferrous Metals_enuse,refined liquids,refined liquids cogen,2020,non-energy,8234.595295
 HR,Non-Ferrous Metals_enuse,refined liquids,refined liquids cogen,2020,non-energy,8234.595295
 JH,Non-Ferrous Metals_enuse,refined liquids,refined liquids cogen,2020,non-energy,8234.595295
@@ -6378,7 +6378,7 @@ DD,Other Industries,Other Industries,Other Industries,2020,non-energy,12375.8708
 DL,Other Industries,Other Industries,Other Industries,2020,non-energy,12375.87082
 DN,Other Industries,Other Industries,Other Industries,2020,non-energy,12375.87082
 GA,Other Industries,Other Industries,Other Industries,2020,non-energy,12375.87082
-GJ,Other Industries,Other Industries,Other Industries,2020,non-energy,12370.83018
+GJ,Paper and Pulp_enuse,gas,gas cogen,2020,non-energy,1528.367144
 HP,Other Industries,Other Industries,Other Industries,2020,non-energy,12375.87082
 HR,Other Industries,Other Industries,Other Industries,2020,non-energy,12375.87082
 JH,Other Industries,Other Industries,Other Industries,2020,non-energy,12375.87082
@@ -6415,7 +6415,7 @@ DD,Other Industries_enuse,biomass,biomass,2020,non-energy,1448.436253
 DL,Other Industries_enuse,biomass,biomass,2020,non-energy,1448.436253
 DN,Other Industries_enuse,biomass,biomass,2020,non-energy,1448.436253
 GA,Other Industries_enuse,biomass,biomass,2020,non-energy,1448.436253
-GJ,Other Industries_enuse,biomass,biomass,2020,non-energy,1445.275762
+GJ,Chem_Fert_enuse,hydrogen,hydrogen,2020,non-energy,272.0221897
 HP,Other Industries_enuse,biomass,biomass,2020,non-energy,1448.436253
 HR,Other Industries_enuse,biomass,biomass,2020,non-energy,1448.436253
 JH,Other Industries_enuse,biomass,biomass,2020,non-energy,1448.436253
@@ -6452,7 +6452,7 @@ DD,Other Industries_enuse,biomass,biomass cogen,2020,non-energy,3625.037387
 DL,Other Industries_enuse,biomass,biomass cogen,2020,non-energy,3625.037387
 DN,Other Industries_enuse,biomass,biomass cogen,2020,non-energy,3625.037387
 GA,Other Industries_enuse,biomass,biomass cogen,2020,non-energy,3625.037387
-GJ,Other Industries_enuse,biomass,biomass cogen,2020,non-energy,3617.13616
+GJ,Iron and Steel_enuse,hydrogen,hydrogen,2020,non-energy,707.4452436
 HP,Other Industries_enuse,biomass,biomass cogen,2020,non-energy,3625.037387
 HR,Other Industries_enuse,biomass,biomass cogen,2020,non-energy,3625.037387
 JH,Other Industries_enuse,biomass,biomass cogen,2020,non-energy,3625.037387
@@ -6489,7 +6489,7 @@ DD,Other Industries_enuse,coal,coal,2020,non-energy,1459.209723
 DL,Other Industries_enuse,coal,coal,2020,non-energy,1458.821883
 DN,Other Industries_enuse,coal,coal,2020,non-energy,1459.209723
 GA,Other Industries_enuse,coal,coal,2020,non-energy,1459.209723
-GJ,Other Industries_enuse,coal,coal,2020,non-energy,1450.484719
+GJ,Non-Ferrous Metals_enuse,hydrogen,hydrogen,2020,non-energy,3339.564807
 HP,Other Industries_enuse,coal,coal,2020,non-energy,1458.821883
 HR,Other Industries_enuse,coal,coal,2020,non-energy,1458.821883
 JH,Other Industries_enuse,coal,coal,2020,non-energy,1458.999213
@@ -6526,7 +6526,7 @@ DD,Other Industries_enuse,coal,coal cogen,2020,non-energy,3649.680382
 DL,Other Industries_enuse,coal,coal cogen,2020,non-energy,3649.292542
 DN,Other Industries_enuse,coal,coal cogen,2020,non-energy,3649.680382
 GA,Other Industries_enuse,coal,coal cogen,2020,non-energy,3649.680382
-GJ,Other Industries_enuse,coal,coal cogen,2020,non-energy,3627.867873
+GJ,Other Industries_enuse,hydrogen,hydrogen,2020,non-energy,1508.156
 HP,Other Industries_enuse,coal,coal cogen,2020,non-energy,3649.292542
 HR,Other Industries_enuse,coal,coal cogen,2020,non-energy,3649.292542
 JH,Other Industries_enuse,coal,coal cogen,2020,non-energy,3649.469872
@@ -6563,7 +6563,7 @@ DD,Other Industries_enuse,electricity,electricity,2020,non-energy,1524.251048
 DL,Other Industries_enuse,electricity,electricity,2020,non-energy,1520.808348
 DN,Other Industries_enuse,electricity,electricity,2020,non-energy,1524.251048
 GA,Other Industries_enuse,electricity,electricity,2020,non-energy,1525.591048
-GJ,Other Industries_enuse,electricity,electricity,2020,non-energy,1532.838388
+GJ,Paper and Pulp_enuse,hydrogen,hydrogen,2020,non-energy,632.9619816
 HP,Other Industries_enuse,electricity,electricity,2020,non-energy,1525.398348
 HR,Other Industries_enuse,electricity,electricity,2020,non-energy,1523.738348
 JH,Other Industries_enuse,electricity,electricity,2020,non-energy,1524.666148
@@ -6600,7 +6600,7 @@ DD,Other Industries_enuse,gas,gas,2020,non-energy,1484.913924
 DL,Other Industries_enuse,gas,gas,2020,non-energy,1484.754904
 DN,Other Industries_enuse,gas,gas,2020,non-energy,1484.913924
 GA,Other Industries_enuse,gas,gas,2020,non-energy,1484.913924
-GJ,Other Industries_enuse,gas,gas,2020,non-energy,1484.18419
+GJ,Chem_Fert_enuse,hydrogen,hydrogen cogen,2020,non-energy,680.0554742
 HP,Other Industries_enuse,gas,gas,2020,non-energy,1484.754904
 HR,Other Industries_enuse,gas,gas,2020,non-energy,1484.754904
 JH,Other Industries_enuse,gas,gas,2020,non-energy,1484.664574
@@ -6637,7 +6637,7 @@ DD,Other Industries_enuse,gas,gas cogen,2020,non-energy,3718.189358
 DL,Other Industries_enuse,gas,gas cogen,2020,non-energy,3718.030338
 DN,Other Industries_enuse,gas,gas cogen,2020,non-energy,3718.189358
 GA,Other Industries_enuse,gas,gas cogen,2020,non-energy,3718.189358
-GJ,Other Industries_enuse,gas,gas cogen,2020,non-energy,3716.35219
+GJ,Iron and Steel_enuse,hydrogen,hydrogen cogen,2020,non-energy,1768.613109
 HP,Other Industries_enuse,gas,gas cogen,2020,non-energy,3718.030338
 HR,Other Industries_enuse,gas,gas cogen,2020,non-energy,3718.030338
 JH,Other Industries_enuse,gas,gas cogen,2020,non-energy,3717.940008
@@ -6674,7 +6674,7 @@ DD,Other Industries_enuse,hydrogen,hydrogen,2020,non-energy,1508.890867
 DL,Other Industries_enuse,hydrogen,hydrogen,2020,non-energy,1508.890867
 DN,Other Industries_enuse,hydrogen,hydrogen,2020,non-energy,1508.890867
 GA,Other Industries_enuse,hydrogen,hydrogen,2020,non-energy,1508.890867
-GJ,Other Industries_enuse,hydrogen,hydrogen,2020,non-energy,1508.156
+GJ,Non-Ferrous Metals_enuse,hydrogen,hydrogen cogen,2020,non-energy,8348.912017
 HP,Other Industries_enuse,hydrogen,hydrogen,2020,non-energy,1508.890867
 HR,Other Industries_enuse,hydrogen,hydrogen,2020,non-energy,1508.890867
 JH,Other Industries_enuse,hydrogen,hydrogen,2020,non-energy,1508.890867
@@ -6748,7 +6748,7 @@ DD,Other Industries_enuse,refined liquids,refined liquids,2020,non-energy,1470.9
 DL,Other Industries_enuse,refined liquids,refined liquids,2020,non-energy,1470.978721
 DN,Other Industries_enuse,refined liquids,refined liquids,2020,non-energy,1470.978721
 GA,Other Industries_enuse,refined liquids,refined liquids,2020,non-energy,1470.978721
-GJ,Other Industries_enuse,refined liquids,refined liquids,2020,non-energy,1471.999568
+GJ,Paper and Pulp_enuse,hydrogen,hydrogen cogen,2020,non-energy,1582.404954
 HP,Other Industries_enuse,refined liquids,refined liquids,2020,non-energy,1470.978721
 HR,Other Industries_enuse,refined liquids,refined liquids,2020,non-energy,1470.978721
 JH,Other Industries_enuse,refined liquids,refined liquids,2020,non-energy,1470.978721
@@ -6785,7 +6785,7 @@ DD,Other Industries_enuse,refined liquids,refined liquids cogen,2020,non-energy,
 DL,Other Industries_enuse,refined liquids,refined liquids cogen,2020,non-energy,3681.005013
 DN,Other Industries_enuse,refined liquids,refined liquids cogen,2020,non-energy,3681.005013
 GA,Other Industries_enuse,refined liquids,refined liquids cogen,2020,non-energy,3681.005013
-GJ,Other Industries_enuse,refined liquids,refined liquids cogen,2020,non-energy,3683.557129
+GJ,Iron and Steel,Iron and Steel,Iron and Steel,2020,non-energy,5700.909577
 HP,Other Industries_enuse,refined liquids,refined liquids cogen,2020,non-energy,3681.005013
 HR,Other Industries_enuse,refined liquids,refined liquids cogen,2020,non-energy,3681.005013
 JH,Other Industries_enuse,refined liquids,refined liquids cogen,2020,non-energy,3681.005013
@@ -6822,7 +6822,7 @@ DD,Paper and Pulp,Paper and Pulp,Paper and Pulp,2020,non-energy,5179.264927
 DL,Paper and Pulp,Paper and Pulp,Paper and Pulp,2020,non-energy,5179.264927
 DN,Paper and Pulp,Paper and Pulp,Paper and Pulp,2020,non-energy,5179.264927
 GA,Paper and Pulp,Paper and Pulp,Paper and Pulp,2020,non-energy,5179.264927
-GJ,Paper and Pulp,Paper and Pulp,Paper and Pulp,2020,non-energy,5080.464004
+GJ,Non-Ferrous Metals,Non-Ferrous Metals,Non-Ferrous Metals,2020,non-energy,27626.46554
 HP,Paper and Pulp,Paper and Pulp,Paper and Pulp,2020,non-energy,5179.264927
 HR,Paper and Pulp,Paper and Pulp,Paper and Pulp,2020,non-energy,5179.264927
 JH,Paper and Pulp,Paper and Pulp,Paper and Pulp,2020,non-energy,5179.264927
@@ -6859,7 +6859,7 @@ DD,Paper and Pulp_enuse,biomass,biomass,2020,non-energy,584.4979707
 DL,Paper and Pulp_enuse,biomass,biomass,2020,non-energy,584.4979707
 DN,Paper and Pulp_enuse,biomass,biomass,2020,non-energy,584.4979707
 GA,Paper and Pulp_enuse,biomass,biomass,2020,non-energy,584.4979707
-GJ,Paper and Pulp_enuse,biomass,biomass,2020,non-energy,570.0817437
+GJ,Other Industries,Other Industries,Other Industries,2020,non-energy,12370.83018
 HP,Paper and Pulp_enuse,biomass,biomass,2020,non-energy,584.4979707
 HR,Paper and Pulp_enuse,biomass,biomass,2020,non-energy,584.4979707
 JH,Paper and Pulp_enuse,biomass,biomass,2020,non-energy,584.4979707
@@ -6896,7 +6896,7 @@ DD,Paper and Pulp_enuse,biomass,biomass cogen,2020,non-energy,1465.191682
 DL,Paper and Pulp_enuse,biomass,biomass cogen,2020,non-energy,1465.191682
 DN,Paper and Pulp_enuse,biomass,biomass cogen,2020,non-energy,1465.191682
 GA,Paper and Pulp_enuse,biomass,biomass cogen,2020,non-energy,1465.191682
-GJ,Paper and Pulp_enuse,biomass,biomass cogen,2020,non-energy,1429.151114
+GJ,Paper and Pulp,Paper and Pulp,Paper and Pulp,2020,non-energy,5080.464004
 HP,Paper and Pulp_enuse,biomass,biomass cogen,2020,non-energy,1465.191682
 HR,Paper and Pulp_enuse,biomass,biomass cogen,2020,non-energy,1465.191682
 JH,Paper and Pulp_enuse,biomass,biomass cogen,2020,non-energy,1465.191682
@@ -6933,7 +6933,7 @@ DD,Paper and Pulp_enuse,coal,coal,2020,non-energy,595.2714406
 DL,Paper and Pulp_enuse,coal,coal,2020,non-energy,594.8836006
 DN,Paper and Pulp_enuse,coal,coal,2020,non-energy,595.2714406
 GA,Paper and Pulp_enuse,coal,coal,2020,non-energy,595.2714406
-GJ,Paper and Pulp_enuse,coal,coal,2020,non-energy,575.2907006
+GJ,Agriculture_enuse,refined liquids,refined liquids,2020,non-energy,3.346131238
 HP,Paper and Pulp_enuse,coal,coal,2020,non-energy,594.8836006
 HR,Paper and Pulp_enuse,coal,coal,2020,non-energy,594.8836006
 JH,Paper and Pulp_enuse,coal,coal,2020,non-energy,595.0609306
@@ -6970,7 +6970,7 @@ DD,Paper and Pulp_enuse,coal,coal cogen,2020,non-energy,1489.834677
 DL,Paper and Pulp_enuse,coal,coal cogen,2020,non-energy,1489.446837
 DN,Paper and Pulp_enuse,coal,coal cogen,2020,non-energy,1489.834677
 GA,Paper and Pulp_enuse,coal,coal cogen,2020,non-energy,1489.834677
-GJ,Paper and Pulp_enuse,coal,coal cogen,2020,non-energy,1439.882827
+GJ,Chem_Fert_enuse,refined liquids,refined liquids,2020,non-energy,235.8657573
 HP,Paper and Pulp_enuse,coal,coal cogen,2020,non-energy,1489.446837
 HR,Paper and Pulp_enuse,coal,coal cogen,2020,non-energy,1489.446837
 JH,Paper and Pulp_enuse,coal,coal cogen,2020,non-energy,1489.624167
@@ -7007,7 +7007,7 @@ DD,Paper and Pulp_enuse,electricity,electricity,2020,non-energy,660.312484
 DL,Paper and Pulp_enuse,electricity,electricity,2020,non-energy,656.871784
 DN,Paper and Pulp_enuse,electricity,electricity,2020,non-energy,660.312484
 GA,Paper and Pulp_enuse,electricity,electricity,2020,non-energy,661.655484
-GJ,Paper and Pulp_enuse,electricity,electricity,2020,non-energy,657.6423508
+GJ,Fisheries_enuse,refined liquids,refined liquids,2020,non-energy,3.346131238
 HP,Paper and Pulp_enuse,electricity,electricity,2020,non-energy,661.460784
 HR,Paper and Pulp_enuse,electricity,electricity,2020,non-energy,659.803784
 JH,Paper and Pulp_enuse,electricity,electricity,2020,non-energy,660.724584
@@ -7044,7 +7044,7 @@ DD,Paper and Pulp_enuse,gas,gas,2020,non-energy,620.9773604
 DL,Paper and Pulp_enuse,gas,gas,2020,non-energy,620.8193404
 DN,Paper and Pulp_enuse,gas,gas,2020,non-energy,620.9773604
 GA,Paper and Pulp_enuse,gas,gas,2020,non-energy,620.9773604
-GJ,Paper and Pulp_enuse,gas,gas,2020,non-energy,608.9861532
+GJ,Iron and Steel_enuse,refined liquids,refined liquids,2020,non-energy,671.2888112
 HP,Paper and Pulp_enuse,gas,gas,2020,non-energy,620.8193404
 HR,Paper and Pulp_enuse,gas,gas,2020,non-energy,620.8193404
 JH,Paper and Pulp_enuse,gas,gas,2020,non-energy,620.7290104
@@ -7081,7 +7081,7 @@ DD,Paper and Pulp_enuse,gas,gas cogen,2020,non-energy,1558.343653
 DL,Paper and Pulp_enuse,gas,gas cogen,2020,non-energy,1558.184633
 DN,Paper and Pulp_enuse,gas,gas cogen,2020,non-energy,1558.343653
 GA,Paper and Pulp_enuse,gas,gas cogen,2020,non-energy,1558.343653
-GJ,Paper and Pulp_enuse,gas,gas cogen,2020,non-energy,1528.367144
+GJ,Non-Ferrous Metals_enuse,refined liquids,refined liquids,2020,non-energy,3303.408375
 HP,Paper and Pulp_enuse,gas,gas cogen,2020,non-energy,1558.184633
 HR,Paper and Pulp_enuse,gas,gas cogen,2020,non-energy,1558.184633
 JH,Paper and Pulp_enuse,gas,gas cogen,2020,non-energy,1558.094303
@@ -7118,7 +7118,7 @@ DD,Paper and Pulp_enuse,hydrogen,hydrogen,2020,non-energy,644.9525852
 DL,Paper and Pulp_enuse,hydrogen,hydrogen,2020,non-energy,644.9525852
 DN,Paper and Pulp_enuse,hydrogen,hydrogen,2020,non-energy,644.9525852
 GA,Paper and Pulp_enuse,hydrogen,hydrogen,2020,non-energy,644.9525852
-GJ,Paper and Pulp_enuse,hydrogen,hydrogen,2020,non-energy,632.9619816
+GJ,Other Industries_enuse,refined liquids,refined liquids,2020,non-energy,1500
 HP,Paper and Pulp_enuse,hydrogen,hydrogen,2020,non-energy,644.9525852
 HR,Paper and Pulp_enuse,hydrogen,hydrogen,2020,non-energy,644.9525852
 JH,Paper and Pulp_enuse,hydrogen,hydrogen,2020,non-energy,644.9525852
@@ -7155,7 +7155,7 @@ DD,Paper and Pulp_enuse,hydrogen,hydrogen cogen,2020,non-energy,1612.381463
 DL,Paper and Pulp_enuse,hydrogen,hydrogen cogen,2020,non-energy,1612.381463
 DN,Paper and Pulp_enuse,hydrogen,hydrogen cogen,2020,non-energy,1612.381463
 GA,Paper and Pulp_enuse,hydrogen,hydrogen cogen,2020,non-energy,1612.381463
-GJ,Paper and Pulp_enuse,hydrogen,hydrogen cogen,2020,non-energy,1582.404954
+GJ,Paper and Pulp_enuse,refined liquids,refined liquids,2020,non-energy,596.8055492
 HP,Paper and Pulp_enuse,hydrogen,hydrogen cogen,2020,non-energy,1612.381463
 HR,Paper and Pulp_enuse,hydrogen,hydrogen cogen,2020,non-energy,1612.381463
 JH,Paper and Pulp_enuse,hydrogen,hydrogen cogen,2020,non-energy,1612.381463
@@ -7192,7 +7192,7 @@ DD,Paper and Pulp_enuse,refined liquids,refined liquids,2020,non-energy,607.0404
 DL,Paper and Pulp_enuse,refined liquids,refined liquids,2020,non-energy,607.0404389
 DN,Paper and Pulp_enuse,refined liquids,refined liquids,2020,non-energy,607.0404389
 GA,Paper and Pulp_enuse,refined liquids,refined liquids,2020,non-energy,607.0404389
-GJ,Paper and Pulp_enuse,refined liquids,refined liquids,2020,non-energy,596.8055492
+GJ,process heat cement,refined liquids,refined liquids,2020,non-energy,48.31525288
 HP,Paper and Pulp_enuse,refined liquids,refined liquids,2020,non-energy,607.0404389
 HR,Paper and Pulp_enuse,refined liquids,refined liquids,2020,non-energy,607.0404389
 JH,Paper and Pulp_enuse,refined liquids,refined liquids,2020,non-energy,607.0404389
@@ -7229,7 +7229,7 @@ DD,Paper and Pulp_enuse,refined liquids,refined liquids cogen,2020,non-energy,15
 DL,Paper and Pulp_enuse,refined liquids,refined liquids cogen,2020,non-energy,1521.159307
 DN,Paper and Pulp_enuse,refined liquids,refined liquids cogen,2020,non-energy,1521.159307
 GA,Paper and Pulp_enuse,refined liquids,refined liquids cogen,2020,non-energy,1521.159307
-GJ,Paper and Pulp_enuse,refined liquids,refined liquids cogen,2020,non-energy,1495.572083
+GJ,Agriculture_enuse,refined liquids,refined liquids cogen,2020,non-energy,11.92353809
 HP,Paper and Pulp_enuse,refined liquids,refined liquids cogen,2020,non-energy,1521.159307
 HR,Paper and Pulp_enuse,refined liquids,refined liquids cogen,2020,non-energy,1521.159307
 JH,Paper and Pulp_enuse,refined liquids,refined liquids cogen,2020,non-energy,1521.159307
@@ -47448,7 +47448,7 @@ DD,process heat cement,biomass,biomass,2020,non-energy,28.0921056
 DL,process heat cement,biomass,biomass,2020,non-energy,28.0921056
 DN,process heat cement,biomass,biomass,2020,non-energy,28.0921056
 GA,process heat cement,biomass,biomass,2020,non-energy,28.0921056
-GJ,process heat cement,biomass,biomass,2020,non-energy,21.28144737
+GJ,Chem_Fert_enuse,refined liquids,refined liquids cogen,2020,non-energy,593.2226033
 HP,process heat cement,biomass,biomass,2020,non-energy,28.0921056
 HR,process heat cement,biomass,biomass,2020,non-energy,28.0921056
 JH,process heat cement,biomass,biomass,2020,non-energy,28.0921056
@@ -47485,7 +47485,7 @@ DD,process heat cement,coal,coal,2020,non-energy,38.8655755
 DL,process heat cement,coal,coal,2020,non-energy,38.4777355
 DN,process heat cement,coal,coal,2020,non-energy,38.8655755
 GA,process heat cement,coal,coal,2020,non-energy,38.8655755
-GJ,process heat cement,coal,coal,2020,non-energy,26.49040425
+GJ,Fisheries_enuse,refined liquids,refined liquids cogen,2020,non-energy,11.92353809
 HP,process heat cement,coal,coal,2020,non-energy,38.4777355
 HR,process heat cement,coal,coal,2020,non-energy,38.4777355
 JH,process heat cement,coal,coal,2020,non-energy,38.6550655
@@ -47522,7 +47522,7 @@ DD,process heat cement,gas,gas,2020,non-energy,64.50891004
 DL,process heat cement,gas,gas,2020,non-energy,64.34989004
 DN,process heat cement,gas,gas,2020,non-energy,64.50891004
 GA,process heat cement,gas,gas,2020,non-energy,64.50891004
-GJ,process heat cement,gas,gas,2020,non-energy,60.12387522
+GJ,Iron and Steel_enuse,refined liquids,refined liquids cogen,2020,non-energy,1681.780238
 HP,process heat cement,gas,gas,2020,non-energy,64.34989004
 HR,process heat cement,gas,gas,2020,non-energy,64.34989004
 JH,process heat cement,gas,gas,2020,non-energy,64.25956004
@@ -47559,7 +47559,7 @@ DD,process heat cement,refined liquids,refined liquids,2020,non-energy,50.944573
 DL,process heat cement,refined liquids,refined liquids,2020,non-energy,50.94457375
 DN,process heat cement,refined liquids,refined liquids,2020,non-energy,50.94457375
 GA,process heat cement,refined liquids,refined liquids,2020,non-energy,50.94457375
-GJ,process heat cement,refined liquids,refined liquids,2020,non-energy,48.31525288
+GJ,Non-Ferrous Metals_enuse,refined liquids,refined liquids cogen,2020,non-energy,8262.079147
 HP,process heat cement,refined liquids,refined liquids,2020,non-energy,50.94457375
 HR,process heat cement,refined liquids,refined liquids,2020,non-energy,50.94457375
 JH,process heat cement,refined liquids,refined liquids,2020,non-energy,50.94457375
@@ -50075,7 +50075,7 @@ DD,cement,cement,cement,2020,non-energy,544.4040703
 DL,cement,cement,cement,2020,non-energy,544.4040703
 DN,cement,cement,cement,2020,non-energy,544.4040703
 GA,cement,cement,cement,2020,non-energy,544.4040703
-GJ,cement,cement,cement,2020,non-energy,508.9575355
+GJ,Other Industries_enuse,refined liquids,refined liquids cogen,2020,non-energy,3683.557129
 HP,cement,cement,cement,2020,non-energy,544.4040703
 HR,cement,cement,cement,2020,non-energy,544.4040703
 JH,cement,cement,cement,2020,non-energy,544.4040703
@@ -50112,7 +50112,7 @@ DD,cement,cement,cement CCS,2020,non-energy,1088.808141
 DL,cement,cement,cement CCS,2020,non-energy,1088.808141
 DN,cement,cement,cement CCS,2020,non-energy,1088.808141
 GA,cement,cement,cement CCS,2020,non-energy,1088.808141
-GJ,cement,cement,cement CCS,2020,non-energy,1017.915071
+GJ,Paper and Pulp_enuse,refined liquids,refined liquids cogen,2020,non-energy,1495.572083
 HP,cement,cement,cement CCS,2020,non-energy,1088.808141
 HR,cement,cement,cement CCS,2020,non-energy,1088.808141
 JH,cement,cement,cement CCS,2020,non-energy,1088.808141

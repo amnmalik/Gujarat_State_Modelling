@@ -202,7 +202,7 @@ GA,Agriculture,2090,0.069502262
 GA,Agriculture,2095,0.06841629
 GA,Agriculture,2100,0.067330317
 GJ,Agriculture,2015,0.3
-GJ,Agriculture,2020,0.270135747
+GJ,Agriculture,2020,0.05
 GJ,Agriculture,2025,0.24
 GJ,Agriculture,2030,0.219909502
 GJ,Agriculture,2035,0.198733032
@@ -868,7 +868,7 @@ GA,cement,2090,0.104253394
 GA,cement,2095,0.102624434
 GA,cement,2100,0.100995475
 GJ,cement,2015,0.45
-GJ,cement,2020,0.40520362
+GJ,cement,2020,0.155
 GJ,cement,2025,0.36
 GJ,cement,2030,0.329864253
 GJ,cement,2035,0.298099548
@@ -1534,7 +1534,7 @@ GA,Chem_Fert,2090,0.150588235
 GA,Chem_Fert,2095,0.148235294
 GA,Chem_Fert,2100,0.145882353
 GJ,Chem_Fert,2015,0.75
-GJ,Chem_Fert,2020,0.585294118
+GJ,Chem_Fert,2020,0.04
 GJ,Chem_Fert,2025,0.52
 GJ,Chem_Fert,2030,0.476470588
 GJ,Chem_Fert,2035,0.430588235
@@ -2866,7 +2866,7 @@ GA,Iron and Steel,2090,0.185339367
 GA,Iron and Steel,2095,0.182443439
 GA,Iron and Steel,2100,0.179547511
 GJ,Iron and Steel,2015,1
-GJ,Iron and Steel,2020,0.900452489
+GJ,Iron and Steel,2020,0.1
 GJ,Iron and Steel,2025,0.8
 GJ,Iron and Steel,2030,0.733031674
 GJ,Iron and Steel,2035,0.662443439
@@ -4198,7 +4198,7 @@ GA,Other Industries,2090,0.17838914
 GA,Other Industries,2095,0.17560181
 GA,Other Industries,2100,0.17281448
 GJ,Other Industries,2015,1.14
-GJ,Other Industries,2020,0.693348416
+GJ,Other Industries,2020,0.5
 GJ,Other Industries,2025,0.616
 GJ,Other Industries,2030,0.564434389
 GJ,Other Industries,2035,0.510081448
@@ -4864,7 +4864,7 @@ GA,Paper and Pulp,2090,0.257286432
 GA,Paper and Pulp,2095,0.253266332
 GA,Paper and Pulp,2100,0.249246231
 GJ,Paper and Pulp,2015,2
-GJ,Paper and Pulp,2020,1
+GJ,Paper and Pulp,2020,0.05
 GJ,Paper and Pulp,2025,0.888442211
 GJ,Paper and Pulp,2030,0.814070352
 GJ,Paper and Pulp,2035,0.735678392
