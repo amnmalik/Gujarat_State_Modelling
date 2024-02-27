@@ -121,10 +121,10 @@
 		<Value name = "Indus_shareweights">../input/gcamdata/xml/India/Exogenous/Industry/India_states_industry_share-weights_GJ_modified.xml</Value>
 		<!--Value name = "Indus_shareweights">../input/gcamdata/xml/India/Exogenous/Industry/India_states_Enuse_FSuse_Coeff.xml</Value-->
 
-		<Value name = "Trn_fueladders">../input/gcamdata/xml/India/Exogenous/Transportation/India_states_trn_Fuel_adders.xml</Value>       
+		<Value name = "Trn_fueladders">../input/gcamdata/xml/India/Exogenous/Transportation/India_states_trn_Fuel_adders.xml</Value>
+		<Value name = "Trn_incomeelas">../input/gcamdata/xml/India/Exogenous/Transportation/India_states_transport_subsector_share-weights_GJ.xml</Value>       
 		<Value name = "Trn_shareweights">../input/gcamdata/xml/India/Exogenous/Transportation/India_states_transport_share-weights.xml</Value>
         <Value name = "Trn_incomeelas">../input/gcamdata/xml/India/Exogenous/Transportation/India_states_transport_incomeelas.xml</Value>
-        <!--Value name = "Trn_incomeelas">../input/gcamdata/xml/India/Exogenous/Transportation/India_states_transport_subsector_share-weights_GJ.xml</Value-->
         
         <!--Value name = "Trn_shareweights_FCEV">../input/gcamdata/xml/India/RJNZ2070/HH/India_states_transport_share-weights_FCEV.xml</Value-->
 	
@@ -198,7 +198,7 @@
 
 	</ScenarioComponents>
 	<Strings>
-		<Value name="scenarioName">2020_cal_ind11</Value>
+		<Value name="scenarioName">2020_cal_tnp15</Value>
 		<Value name="debug-region">GJ</Value>
 		<Value name="MAGICC-input-dir">../input/magicc/inputs</Value>
 		<Value name="MAGICC-output-dir">../output</Value>
