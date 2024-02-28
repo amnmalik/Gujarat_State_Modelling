@@ -666,25 +666,13 @@
                 <subsector name="nuclear">
                     <technology name="Gen_II_LWR">
                         <interpolation-rule apply-to="share-weight"
-                            from-year="2010" to-year="2025">
-                            <from-value>0</from-value>
-                            <to-value>0</to-value>
+                            from-year="2015" to-year="2050">
+                            <from-value>0.25</from-value>
+                            <to-value>0.25</to-value>
                             <interpolation-function name="fixed"/>
                         </interpolation-rule>
                         <interpolation-rule apply-to="share-weight"
-                            from-year="2020" to-year="2050">
-                            <from-value>0</from-value>
-                            <to-value>0.5</to-value>
-                            <interpolation-function name="linear"/>
-                        </interpolation-rule>
-                        <interpolation-rule apply-to="share-weight"
-                            from-year="2045" to-year="2100">
-                            <from-value>0.5</from-value>
-                            <to-value>0.5</to-value>
-                            <interpolation-function name="fixed"/>
-                        </interpolation-rule>
-                        <interpolation-rule apply-to="share-weight"
-                            from-year="2095" to-year="2100">
+                            from-year="2050" to-year="2100">
                             <from-value>0.5</from-value>
                             <to-value>0.5</to-value>
                             <interpolation-function name="fixed"/>
@@ -712,7 +700,7 @@
                 <subsector name="coal">
                     <technology name="coal (IGCC)">
                         <interpolation-rule apply-to="share-weight"
-                            from-year="2025" to-year="2100">
+                            from-year="2015" to-year="2100">
                             <from-value>1</from-value>
                             <to-value>1</to-value>
                             <interpolation-function name="fixed"/>
