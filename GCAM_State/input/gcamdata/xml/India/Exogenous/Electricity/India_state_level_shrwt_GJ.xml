@@ -6,40 +6,40 @@
                 <subsector name="solar">
                     <interpolation-rule apply-to="share-weight"
                         from-year="2010" to-year="2100">
-                        <from-value>1</from-value>
-                        <to-value>1</to-value>
+                        <from-value>0.15</from-value>
+                        <to-value>0.15</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                 </subsector>
                 <subsector name="wind">
                     <interpolation-rule apply-to="share-weight"
                         from-year="2010" to-year="2100">
-                        <from-value>1</from-value>
-                        <to-value>1</to-value>
+                        <from-value>0.3</from-value>
+                        <to-value>0.3</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
 				</subsector>
                 <subsector name="coal">
                     <interpolation-rule apply-to="share-weight"
                         from-year="2010" to-year="2100">
-                        <from-value>1</from-value>
-                        <to-value>1</to-value>
+                        <from-value>4</from-value>
+                        <to-value>4</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
 				</subsector>
                 <subsector name="gas">
                     <interpolation-rule apply-to="share-weight"
                         from-year="2010" to-year="2100">
-                        <from-value>1</from-value>
-                        <to-value>1</to-value>
+                        <from-value>0.5</from-value>
+                        <to-value>0.5</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
 				</subsector>
                 <subsector name="nuclear">
                     <interpolation-rule apply-to="share-weight"
                         from-year="2010" to-year="2100">
-                        <from-value>0.5</from-value>
-                        <to-value>0.5</to-value>
+                        <from-value>0.25</from-value>
+                        <to-value>0.25</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                 </subsector>

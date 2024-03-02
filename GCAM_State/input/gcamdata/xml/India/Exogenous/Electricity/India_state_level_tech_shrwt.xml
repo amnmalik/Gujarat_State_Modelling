@@ -666,16 +666,16 @@
                 <subsector name="nuclear">
                     <technology name="Gen_II_LWR">
                         <interpolation-rule apply-to="share-weight"
-                            from-year="2015" to-year="2050">
-                            <from-value>1</from-value>
-                            <to-value>1</to-value>
+                            from-year="2010" to-year="2050">
+                            <from-value>0.25</from-value>
+                            <to-value>0.25</to-value>
                             <interpolation-function name="fixed"/>
                         </interpolation-rule>
                         <interpolation-rule apply-to="share-weight"
                             from-year="2050" to-year="2100">
-                            <from-value>0.5</from-value>
+                            <from-value>0.25</from-value>
                             <to-value>0.5</to-value>
-                            <interpolation-function name="fixed"/>
+                            <interpolation-function name="linear"/>
                         </interpolation-rule>
                     </technology>
                     <technology name="Gen_III">
@@ -691,8 +691,8 @@
                     <technology name="gas (steam/CT)">
                         <interpolation-rule apply-to="share-weight"
                             from-year="2010" to-year="2100">
-                            <from-value>1</from-value>
-                            <to-value>1</to-value>
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
                             <interpolation-function name="fixed"/>
                         </interpolation-rule>
                     </technology>
@@ -701,8 +701,8 @@
                     <technology name="coal (IGCC)">
                         <interpolation-rule apply-to="share-weight"
                             from-year="2010" to-year="2100">
-                            <from-value>1</from-value>
-                            <to-value>1</to-value>
+                            <from-value>4</from-value>
+                            <to-value>4</to-value>
                             <interpolation-function name="fixed"/>
                         </interpolation-rule>
                     </technology>
@@ -1447,6 +1447,16 @@
                 </subsector>
                 <subsector name="coal">
                     <technology name="coal (IGCC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+				<subsector name="wind">
+                    <technology name="offshore">
                         <interpolation-rule apply-to="share-weight"
                             from-year="2010" to-year="2100">
                             <from-value>0</from-value>
