@@ -30,16 +30,16 @@
                 <subsector name="gas">
                     <interpolation-rule apply-to="share-weight"
                         from-year="2010" to-year="2100">
-                        <from-value>0.5</from-value>
-                        <to-value>0.5</to-value>
+                        <from-value>0.08</from-value>
+                        <to-value>0.08</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
 				</subsector>
                 <subsector name="nuclear">
                     <interpolation-rule apply-to="share-weight"
                         from-year="2010" to-year="2100">
-                        <from-value>0.25</from-value>
-                        <to-value>0.25</to-value>
+                        <from-value>0.1</from-value>
+                        <to-value>0.1</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                 </subsector>

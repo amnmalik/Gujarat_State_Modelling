@@ -667,8 +667,8 @@
                     <technology name="Gen_II_LWR">
                         <interpolation-rule apply-to="share-weight"
                             from-year="2010" to-year="2050">
-                            <from-value>0.25</from-value>
-                            <to-value>0.25</to-value>
+                            <from-value>0.1</from-value>
+                            <to-value>0.1</to-value>
                             <interpolation-function name="fixed"/>
                         </interpolation-rule>
                         <interpolation-rule apply-to="share-weight"
@@ -691,8 +691,16 @@
                     <technology name="gas (steam/CT)">
                         <interpolation-rule apply-to="share-weight"
                             from-year="2010" to-year="2100">
-                            <from-value>0.5</from-value>
-                            <to-value>0.5</to-value>
+                            <from-value>0.08</from-value>
+                            <to-value>0.08</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                    <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
                             <interpolation-function name="fixed"/>
                         </interpolation-rule>
                     </technology>
@@ -1249,8 +1257,16 @@
                     <technology name="gas (CC)">
                         <interpolation-rule apply-to="share-weight"
                             from-year="2010" to-year="2100">
-                            <from-value>1</from-value>
-                            <to-value>1</to-value>
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                    <technology name="gas (steam/CT)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0.08</from-value>
+                            <to-value>0.08</to-value>
                             <interpolation-function name="fixed"/>
                         </interpolation-rule>
                     </technology>
@@ -1259,8 +1275,16 @@
                     <technology name="coal (IGCC)">
                         <interpolation-rule apply-to="share-weight"
                             from-year="2010" to-year="2100">
-                            <from-value>0.7</from-value>
-                            <to-value>0.7</to-value>
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+ 					</technology>
+				<technology name="coal (conv pul)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
                             <interpolation-function name="fixed"/>
                         </interpolation-rule>
                     </technology>
@@ -1439,14 +1463,30 @@
                     <technology name="gas (CC)">
                         <interpolation-rule apply-to="share-weight"
                             from-year="2010" to-year="2100">
-                            <from-value>1</from-value>
-                            <to-value>1</to-value>
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                    <technology name="gas (steam/CT)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0.08</from-value>
+                            <to-value>0.08</to-value>
                             <interpolation-function name="fixed"/>
                         </interpolation-rule>
                     </technology>
                 </subsector>
                 <subsector name="coal">
                     <technology name="coal (IGCC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                    <technology name="coal (conv pul)">
                         <interpolation-rule apply-to="share-weight"
                             from-year="2010" to-year="2100">
                             <from-value>0</from-value>
