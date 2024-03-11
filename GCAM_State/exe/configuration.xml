@@ -199,7 +199,7 @@
 
 	</ScenarioComponents>
 	<Strings>
-		<Value name="scenarioName">BAU_calibration</Value>
+		<Value name="scenarioName">GJ_BAU_elasticity</Value>
 		<Value name="debug-region">GJ</Value>
 		<Value name="MAGICC-input-dir">../input/magicc/inputs</Value>
 		<Value name="MAGICC-output-dir">../output</Value>
@@ -223,7 +223,7 @@
 		<Value name="carbon-output-start-year">1705</Value>
 		<Value name="climateOutputInterval">5</Value>
 		<Value name="parallel-grain-size">50</Value>
-		<Value name="stop-period">5</Value>
+		<Value name="stop-period">21</Value>
 		<Value name="restart-period">-1</Value>
 	</Ints>
 	<Doubles>
