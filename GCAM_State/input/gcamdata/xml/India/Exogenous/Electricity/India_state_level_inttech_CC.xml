@@ -11182,7 +11182,7 @@
                         <period year="2015">
                             <input-capital name="capital">
                                 <capital-overnight>166.4577995</capital-overnight>
-                                <fixed-charge-rate>0.073192419</fixed-charge-rate>
+                                <fixed-charge-rate>0.08</fixed-charge-rate>
                             </input-capital>
                         </period>
                         <period year="2020">
@@ -12814,7 +12814,7 @@
                         <period year="2015">
                             <input-capital name="capital">
                                 <capital-overnight>215.1425582</capital-overnight>
-                                <fixed-charge-rate>0.073192419</fixed-charge-rate>
+                                <fixed-charge-rate>0.08</fixed-charge-rate>
                             </input-capital>
                         </period>
                         <period year="2020">
