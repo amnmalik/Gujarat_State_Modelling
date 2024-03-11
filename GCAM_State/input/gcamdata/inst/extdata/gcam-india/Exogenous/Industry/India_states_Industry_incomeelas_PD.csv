@@ -1,7 +1,7 @@
-INPUT_TABLE,,,
-Variable ID,,,
-IncomeElasticity,,,
-,,,
+INPUT_TABLE
+Variable ID
+IncomeElasticity
+
 region,energy.final.demand,year,income.elasticity
 AN,Agriculture,2015,0.3
 AN,Agriculture,2020,0.270135747
@@ -203,22 +203,22 @@ GA,Agriculture,2095,0.06841629
 GA,Agriculture,2100,0.067330317
 GJ,Agriculture,2015,0.3
 GJ,Agriculture,2020,0.05
-GJ,Agriculture,2025,0.24
-GJ,Agriculture,2030,0.219909502
-GJ,Agriculture,2035,0.198733032
-GJ,Agriculture,2040,0.176742081
-GJ,Agriculture,2045,0.154751131
-GJ,Agriculture,2050,0.133303167
-GJ,Agriculture,2055,0.11321267
-GJ,Agriculture,2060,0.095565611
-GJ,Agriculture,2065,0.08959276
-GJ,Agriculture,2070,0.084434389
-GJ,Agriculture,2075,0.079276018
-GJ,Agriculture,2080,0.074660633
-GJ,Agriculture,2085,0.070316742
-GJ,Agriculture,2090,0.069502262
-GJ,Agriculture,2095,0.06841629
-GJ,Agriculture,2100,0.067330317
+GJ,Agriculture,2025,0.73
+GJ,Agriculture,2030,0.71
+GJ,Agriculture,2035,0.69
+GJ,Agriculture,2040,0.67
+GJ,Agriculture,2045,0.65
+GJ,Agriculture,2050,0.63
+GJ,Agriculture,2055,0.61
+GJ,Agriculture,2060,0.59
+GJ,Agriculture,2065,0.57
+GJ,Agriculture,2070,0.55
+GJ,Agriculture,2075,0.53
+GJ,Agriculture,2080,0.52
+GJ,Agriculture,2085,0.50
+GJ,Agriculture,2090,0.48
+GJ,Agriculture,2095,0.47
+GJ,Agriculture,2100,0.45
 HP,Agriculture,2015,0.3
 HP,Agriculture,2020,0.270135747
 HP,Agriculture,2025,0.24
@@ -869,22 +869,22 @@ GA,cement,2095,0.102624434
 GA,cement,2100,0.100995475
 GJ,cement,2015,0.45
 GJ,cement,2020,0.155
-GJ,cement,2025,0.36
-GJ,cement,2030,0.329864253
-GJ,cement,2035,0.298099548
-GJ,cement,2040,0.265113122
-GJ,cement,2045,0.232126697
-GJ,cement,2050,0.199954751
-GJ,cement,2055,0.169819005
-GJ,cement,2060,0.143348416
-GJ,cement,2065,0.13438914
-GJ,cement,2070,0.126651584
-GJ,cement,2075,0.118914027
-GJ,cement,2080,0.11199095
-GJ,cement,2085,0.105475113
-GJ,cement,2090,0.104253394
-GJ,cement,2095,0.102624434
-GJ,cement,2100,0.100995475
+GJ,cement,2025,0.73
+GJ,cement,2030,0.71
+GJ,cement,2035,0.69
+GJ,cement,2040,0.67
+GJ,cement,2045,0.65
+GJ,cement,2050,0.63
+GJ,cement,2055,0.61
+GJ,cement,2060,0.59
+GJ,cement,2065,0.57
+GJ,cement,2070,0.55
+GJ,cement,2075,0.53
+GJ,cement,2080,0.52
+GJ,cement,2085,0.50
+GJ,cement,2090,0.48
+GJ,cement,2095,0.47
+GJ,cement,2100,0.45
 HP,cement,2015,0.45
 HP,cement,2020,0.40520362
 HP,cement,2025,0.36
@@ -1535,22 +1535,22 @@ GA,Chem_Fert,2095,0.148235294
 GA,Chem_Fert,2100,0.145882353
 GJ,Chem_Fert,2015,0.75
 GJ,Chem_Fert,2020,0.04
-GJ,Chem_Fert,2025,0.52
-GJ,Chem_Fert,2030,0.476470588
-GJ,Chem_Fert,2035,0.430588235
-GJ,Chem_Fert,2040,0.382941176
-GJ,Chem_Fert,2045,0.335294118
-GJ,Chem_Fert,2050,0.288823529
-GJ,Chem_Fert,2055,0.245294118
-GJ,Chem_Fert,2060,0.207058824
-GJ,Chem_Fert,2065,0.194117647
-GJ,Chem_Fert,2070,0.182941176
-GJ,Chem_Fert,2075,0.171764706
-GJ,Chem_Fert,2080,0.161764706
-GJ,Chem_Fert,2085,0.152352941
-GJ,Chem_Fert,2090,0.150588235
-GJ,Chem_Fert,2095,0.148235294
-GJ,Chem_Fert,2100,0.145882353
+GJ,Chem_Fert,2025,0.73
+GJ,Chem_Fert,2030,0.71
+GJ,Chem_Fert,2035,0.69
+GJ,Chem_Fert,2040,0.67
+GJ,Chem_Fert,2045,0.65
+GJ,Chem_Fert,2050,0.63
+GJ,Chem_Fert,2055,0.61
+GJ,Chem_Fert,2060,0.59
+GJ,Chem_Fert,2065,0.57
+GJ,Chem_Fert,2070,0.55
+GJ,Chem_Fert,2075,0.53
+GJ,Chem_Fert,2080,0.52
+GJ,Chem_Fert,2085,0.50
+GJ,Chem_Fert,2090,0.48
+GJ,Chem_Fert,2095,0.47
+GJ,Chem_Fert,2100,0.45
 HP,Chem_Fert,2015,0.65
 HP,Chem_Fert,2020,0.585294118
 HP,Chem_Fert,2025,0.52
@@ -2201,22 +2201,22 @@ GA,Fisheries,2095,0.125657237
 GA,Fisheries,2100,0.123662678
 GJ,Fisheries,2015,0.550997011
 GJ,Fisheries,2020,0.49614663
-GJ,Fisheries,2025,0.440797609
-GJ,Fisheries,2030,0.403898261
-GJ,Fisheries,2035,0.365004355
-GJ,Fisheries,2040,0.324614529
-GJ,Fisheries,2045,0.284224703
-GJ,Fisheries,2050,0.244832156
-GJ,Fisheries,2055,0.207932809
-GJ,Fisheries,2060,0.17552122
-GJ,Fisheries,2065,0.164551144
-GJ,Fisheries,2070,0.155076987
-GJ,Fisheries,2075,0.14560283
-GJ,Fisheries,2080,0.137125953
-GJ,Fisheries,2085,0.129147716
-GJ,Fisheries,2090,0.127651796
-GJ,Fisheries,2095,0.125657237
-GJ,Fisheries,2100,0.123662678
+GJ,Fisheries,2025,0.73
+GJ,Fisheries,2030,0.71
+GJ,Fisheries,2035,0.69
+GJ,Fisheries,2040,0.67
+GJ,Fisheries,2045,0.65
+GJ,Fisheries,2050,0.63
+GJ,Fisheries,2055,0.61
+GJ,Fisheries,2060,0.59
+GJ,Fisheries,2065,0.57
+GJ,Fisheries,2070,0.55
+GJ,Fisheries,2075,0.53
+GJ,Fisheries,2080,0.52
+GJ,Fisheries,2085,0.50
+GJ,Fisheries,2090,0.48
+GJ,Fisheries,2095,0.47
+GJ,Fisheries,2100,0.45
 HP,Fisheries,2015,0.550997011
 HP,Fisheries,2020,0.49614663
 HP,Fisheries,2025,0.440797609
@@ -2867,22 +2867,22 @@ GA,Iron and Steel,2095,0.182443439
 GA,Iron and Steel,2100,0.179547511
 GJ,Iron and Steel,2015,1
 GJ,Iron and Steel,2020,0.1
-GJ,Iron and Steel,2025,0.8
-GJ,Iron and Steel,2030,0.733031674
-GJ,Iron and Steel,2035,0.662443439
-GJ,Iron and Steel,2040,0.589140271
-GJ,Iron and Steel,2045,0.515837104
-GJ,Iron and Steel,2050,0.444343891
-GJ,Iron and Steel,2055,0.377375566
-GJ,Iron and Steel,2060,0.318552036
-GJ,Iron and Steel,2065,0.298642534
-GJ,Iron and Steel,2070,0.281447964
-GJ,Iron and Steel,2075,0.264253394
-GJ,Iron and Steel,2080,0.248868778
-GJ,Iron and Steel,2085,0.23438914
-GJ,Iron and Steel,2090,0.231674208
-GJ,Iron and Steel,2095,0.228054299
-GJ,Iron and Steel,2100,0.224434389
+GJ,Iron and Steel,2025,0.73
+GJ,Iron and Steel,2030,0.71
+GJ,Iron and Steel,2035,0.69
+GJ,Iron and Steel,2040,0.67
+GJ,Iron and Steel,2045,0.65
+GJ,Iron and Steel,2050,0.63
+GJ,Iron and Steel,2055,0.61
+GJ,Iron and Steel,2060,0.59
+GJ,Iron and Steel,2065,0.57
+GJ,Iron and Steel,2070,0.55
+GJ,Iron and Steel,2075,0.53
+GJ,Iron and Steel,2080,0.52
+GJ,Iron and Steel,2085,0.50
+GJ,Iron and Steel,2090,0.48
+GJ,Iron and Steel,2095,0.47
+GJ,Iron and Steel,2100,0.45
 HP,Iron and Steel,2015,0.78
 HP,Iron and Steel,2020,0.702352941
 HP,Iron and Steel,2025,0.624
@@ -3533,22 +3533,22 @@ GA,Non-Ferrous Metals,2095,0.253266332
 GA,Non-Ferrous Metals,2100,0.249246231
 GJ,Non-Ferrous Metals,2015,3
 GJ,Non-Ferrous Metals,2020,1
-GJ,Non-Ferrous Metals,2025,0.888442211
-GJ,Non-Ferrous Metals,2030,0.814070352
-GJ,Non-Ferrous Metals,2035,0.735678392
-GJ,Non-Ferrous Metals,2040,0.654271357
-GJ,Non-Ferrous Metals,2045,0.572864322
-GJ,Non-Ferrous Metals,2050,0.493467337
-GJ,Non-Ferrous Metals,2055,0.419095477
-GJ,Non-Ferrous Metals,2060,0.353768844
-GJ,Non-Ferrous Metals,2065,0.331658291
-GJ,Non-Ferrous Metals,2070,0.312562814
-GJ,Non-Ferrous Metals,2075,0.293467337
-GJ,Non-Ferrous Metals,2080,0.27638191
-GJ,Non-Ferrous Metals,2085,0.260301508
-GJ,Non-Ferrous Metals,2090,0.257286432
-GJ,Non-Ferrous Metals,2095,0.253266332
-GJ,Non-Ferrous Metals,2100,0.249246231
+GJ,Non-Ferrous Metals,2025,0.73
+GJ,Non-Ferrous Metals,2030,0.71
+GJ,Non-Ferrous Metals,2035,0.69
+GJ,Non-Ferrous Metals,2040,0.67
+GJ,Non-Ferrous Metals,2045,0.65
+GJ,Non-Ferrous Metals,2050,0.63
+GJ,Non-Ferrous Metals,2055,0.61
+GJ,Non-Ferrous Metals,2060,0.59
+GJ,Non-Ferrous Metals,2065,0.57
+GJ,Non-Ferrous Metals,2070,0.55
+GJ,Non-Ferrous Metals,2075,0.53
+GJ,Non-Ferrous Metals,2080,0.52
+GJ,Non-Ferrous Metals,2085,0.50
+GJ,Non-Ferrous Metals,2090,0.48
+GJ,Non-Ferrous Metals,2095,0.47
+GJ,Non-Ferrous Metals,2100,0.45
 HP,Non-Ferrous Metals,2015,3.3
 HP,Non-Ferrous Metals,2020,1
 HP,Non-Ferrous Metals,2025,0.888442211
@@ -4199,22 +4199,22 @@ GA,Other Industries,2095,0.17560181
 GA,Other Industries,2100,0.17281448
 GJ,Other Industries,2015,1.14
 GJ,Other Industries,2020,0.5
-GJ,Other Industries,2025,0.616
-GJ,Other Industries,2030,0.564434389
-GJ,Other Industries,2035,0.510081448
-GJ,Other Industries,2040,0.453638009
-GJ,Other Industries,2045,0.39719457
-GJ,Other Industries,2050,0.342144796
-GJ,Other Industries,2055,0.290579186
-GJ,Other Industries,2060,0.245285068
-GJ,Other Industries,2065,0.229954751
-GJ,Other Industries,2070,0.216714932
-GJ,Other Industries,2075,0.203475113
-GJ,Other Industries,2080,0.191628959
-GJ,Other Industries,2085,0.180479638
-GJ,Other Industries,2090,0.17838914
-GJ,Other Industries,2095,0.17560181
-GJ,Other Industries,2100,0.17281448
+GJ,Other Industries,2025,0.73
+GJ,Other Industries,2030,0.71
+GJ,Other Industries,2035,0.69
+GJ,Other Industries,2040,0.67
+GJ,Other Industries,2045,0.65
+GJ,Other Industries,2050,0.63
+GJ,Other Industries,2055,0.61
+GJ,Other Industries,2060,0.59
+GJ,Other Industries,2065,0.57
+GJ,Other Industries,2070,0.55
+GJ,Other Industries,2075,0.53
+GJ,Other Industries,2080,0.52
+GJ,Other Industries,2085,0.50
+GJ,Other Industries,2090,0.48
+GJ,Other Industries,2095,0.47
+GJ,Other Industries,2100,0.45
 HP,Other Industries,2015,0.77
 HP,Other Industries,2020,0.693348416
 HP,Other Industries,2025,0.616
@@ -4865,22 +4865,22 @@ GA,Paper and Pulp,2095,0.253266332
 GA,Paper and Pulp,2100,0.249246231
 GJ,Paper and Pulp,2015,2
 GJ,Paper and Pulp,2020,0.05
-GJ,Paper and Pulp,2025,0.888442211
-GJ,Paper and Pulp,2030,0.814070352
-GJ,Paper and Pulp,2035,0.735678392
-GJ,Paper and Pulp,2040,0.654271357
-GJ,Paper and Pulp,2045,0.572864322
-GJ,Paper and Pulp,2050,0.493467337
-GJ,Paper and Pulp,2055,0.419095477
-GJ,Paper and Pulp,2060,0.353768844
-GJ,Paper and Pulp,2065,0.331658291
-GJ,Paper and Pulp,2070,0.312562814
-GJ,Paper and Pulp,2075,0.293467337
-GJ,Paper and Pulp,2080,0.27638191
-GJ,Paper and Pulp,2085,0.260301508
-GJ,Paper and Pulp,2090,0.257286432
-GJ,Paper and Pulp,2095,0.253266332
-GJ,Paper and Pulp,2100,0.249246231
+GJ,Paper and Pulp,2025,0.73
+GJ,Paper and Pulp,2030,0.71
+GJ,Paper and Pulp,2035,0.69
+GJ,Paper and Pulp,2040,0.67
+GJ,Paper and Pulp,2045,0.65
+GJ,Paper and Pulp,2050,0.63
+GJ,Paper and Pulp,2055,0.61
+GJ,Paper and Pulp,2060,0.59
+GJ,Paper and Pulp,2065,0.57
+GJ,Paper and Pulp,2070,0.55
+GJ,Paper and Pulp,2075,0.53
+GJ,Paper and Pulp,2080,0.52
+GJ,Paper and Pulp,2085,0.50
+GJ,Paper and Pulp,2090,0.48
+GJ,Paper and Pulp,2095,0.47
+GJ,Paper and Pulp,2100,0.45
 HP,Paper and Pulp,2015,3
 HP,Paper and Pulp,2020,1
 HP,Paper and Pulp,2025,0.888442211
@@ -5531,22 +5531,22 @@ GA,Food Processing,2095,0.06841629
 GA,Food Processing,2100,0.067330317
 GJ,Food Processing,2015,0.3
 GJ,Food Processing,2020,0.270135747
-GJ,Food Processing,2025,0.24
-GJ,Food Processing,2030,0.219909502
-GJ,Food Processing,2035,0.198733032
-GJ,Food Processing,2040,0.176742081
-GJ,Food Processing,2045,0.154751131
-GJ,Food Processing,2050,0.133303167
-GJ,Food Processing,2055,0.11321267
-GJ,Food Processing,2060,0.095565611
-GJ,Food Processing,2065,0.08959276
-GJ,Food Processing,2070,0.084434389
-GJ,Food Processing,2075,0.079276018
-GJ,Food Processing,2080,0.074660633
-GJ,Food Processing,2085,0.070316742
-GJ,Food Processing,2090,0.069502262
-GJ,Food Processing,2095,0.06841629
-GJ,Food Processing,2100,0.067330317
+GJ,Food Processing,2025,0.73
+GJ,Food Processing,2030,0.71
+GJ,Food Processing,2035,0.69
+GJ,Food Processing,2040,0.67
+GJ,Food Processing,2045,0.65
+GJ,Food Processing,2050,0.63
+GJ,Food Processing,2055,0.61
+GJ,Food Processing,2060,0.59
+GJ,Food Processing,2065,0.57
+GJ,Food Processing,2070,0.55
+GJ,Food Processing,2075,0.53
+GJ,Food Processing,2080,0.52
+GJ,Food Processing,2085,0.50
+GJ,Food Processing,2090,0.48
+GJ,Food Processing,2095,0.47
+GJ,Food Processing,2100,0.45
 HP,Food Processing,2015,0.3
 HP,Food Processing,2020,0.270135747
 HP,Food Processing,2025,0.24
