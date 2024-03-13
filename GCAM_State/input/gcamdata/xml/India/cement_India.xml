@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><scenario>
+<?xml version="1.0" encoding="UTF-8"?>
+<scenario>
     <world>
         <region name="India">
             <unlimited-resource delete="1" name="limestone"/>
@@ -29,7 +30,8 @@
                         <logit-exponent fillout="1" year="1975">-12</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="cement">
@@ -687,7 +689,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="biomass">
@@ -820,7 +823,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="coal">
@@ -953,7 +957,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="gas">
@@ -1086,7 +1091,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="refined liquids">
@@ -1283,7 +1289,8 @@
                         <logit-exponent fillout="1" year="1975">-12</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="cement">
@@ -1941,7 +1948,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="biomass">
@@ -2074,7 +2082,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="coal">
@@ -2207,7 +2216,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="gas">
@@ -2340,7 +2350,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="refined liquids">
@@ -2537,7 +2548,8 @@
                         <logit-exponent fillout="1" year="1975">-12</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="cement">
@@ -3195,7 +3207,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="biomass">
@@ -3328,7 +3341,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="coal">
@@ -3461,7 +3475,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="gas">
@@ -3594,7 +3609,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="refined liquids">
@@ -3791,7 +3807,8 @@
                         <logit-exponent fillout="1" year="1975">-12</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="cement">
@@ -4449,7 +4466,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="biomass">
@@ -4582,7 +4600,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="coal">
@@ -4715,7 +4734,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="gas">
@@ -4848,7 +4868,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="refined liquids">
@@ -5045,7 +5066,8 @@
                         <logit-exponent fillout="1" year="1975">-12</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="cement">
@@ -5703,7 +5725,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="biomass">
@@ -5836,7 +5859,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="coal">
@@ -5969,7 +5993,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="gas">
@@ -6102,7 +6127,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="refined liquids">
@@ -6299,7 +6325,8 @@
                         <logit-exponent fillout="1" year="1975">-12</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="cement">
@@ -6957,7 +6984,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="biomass">
@@ -7090,7 +7118,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="coal">
@@ -7223,7 +7252,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="gas">
@@ -7356,7 +7386,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="refined liquids">
@@ -7553,7 +7584,8 @@
                         <logit-exponent fillout="1" year="1975">-12</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="cement">
@@ -8211,7 +8243,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="biomass">
@@ -8344,7 +8377,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="coal">
@@ -8477,7 +8511,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="gas">
@@ -8610,7 +8645,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="refined liquids">
@@ -8807,7 +8843,8 @@
                         <logit-exponent fillout="1" year="1975">-12</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="cement">
@@ -9465,7 +9502,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="biomass">
@@ -9598,7 +9636,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="coal">
@@ -9731,7 +9770,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="gas">
@@ -9864,7 +9904,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="refined liquids">
@@ -10061,7 +10102,8 @@
                         <logit-exponent fillout="1" year="1975">-12</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="cement">
@@ -10719,7 +10761,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="biomass">
@@ -10852,7 +10895,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="coal">
@@ -10985,7 +11029,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="gas">
@@ -11118,7 +11163,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="refined liquids">
@@ -11315,7 +11361,8 @@
                         <logit-exponent fillout="1" year="1975">-12</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="cement">
@@ -11973,7 +12020,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="biomass">
@@ -12106,7 +12154,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="coal">
@@ -12239,7 +12288,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="gas">
@@ -12372,7 +12422,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="refined liquids">
@@ -12569,7 +12620,8 @@
                         <logit-exponent fillout="1" year="1975">-12</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="cement">
@@ -13227,7 +13279,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="biomass">
@@ -13360,7 +13413,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="coal">
@@ -13493,7 +13547,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="gas">
@@ -13626,7 +13681,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="refined liquids">
@@ -13823,7 +13879,8 @@
                         <logit-exponent fillout="1" year="1975">-12</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="cement">
@@ -14481,7 +14538,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="biomass">
@@ -14614,7 +14672,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="coal">
@@ -14747,7 +14806,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="gas">
@@ -14880,7 +14940,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="refined liquids">
@@ -15077,7 +15138,8 @@
                         <logit-exponent fillout="1" year="1975">-12</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="cement">
@@ -15735,7 +15797,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="biomass">
@@ -15868,7 +15931,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="coal">
@@ -16001,7 +16065,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="gas">
@@ -16134,7 +16199,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="refined liquids">
@@ -16331,7 +16397,8 @@
                         <logit-exponent fillout="1" year="1975">-12</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="cement">
@@ -16989,7 +17056,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="biomass">
@@ -17122,7 +17190,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="coal">
@@ -17255,7 +17324,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="gas">
@@ -17388,7 +17458,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="refined liquids">
@@ -17585,7 +17656,8 @@
                         <logit-exponent fillout="1" year="1975">-12</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="cement">
@@ -18243,7 +18315,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="biomass">
@@ -18376,7 +18449,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="coal">
@@ -18509,7 +18583,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="gas">
@@ -18642,7 +18717,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="refined liquids">
@@ -18839,7 +18915,8 @@
                         <logit-exponent fillout="1" year="1975">-12</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="cement">
@@ -19497,7 +19574,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="biomass">
@@ -19630,7 +19708,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="coal">
@@ -19763,7 +19842,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="gas">
@@ -19896,7 +19976,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="refined liquids">
@@ -20093,7 +20174,8 @@
                         <logit-exponent fillout="1" year="1975">-12</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="cement">
@@ -20751,7 +20833,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="biomass">
@@ -20884,7 +20967,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="coal">
@@ -21017,7 +21101,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="gas">
@@ -21150,7 +21235,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="refined liquids">
@@ -21347,7 +21433,8 @@
                         <logit-exponent fillout="1" year="1975">-12</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="cement">
@@ -22005,7 +22092,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="biomass">
@@ -22138,7 +22226,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="coal">
@@ -22271,7 +22360,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="gas">
@@ -22404,7 +22494,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="refined liquids">
@@ -22601,7 +22692,8 @@
                         <logit-exponent fillout="1" year="1975">-12</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="cement">
@@ -23259,7 +23351,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="biomass">
@@ -23392,7 +23485,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="coal">
@@ -23525,7 +23619,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="gas">
@@ -23658,7 +23753,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="refined liquids">
@@ -23855,7 +23951,8 @@
                         <logit-exponent fillout="1" year="1975">-12</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="cement">
@@ -24513,7 +24610,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="biomass">
@@ -24646,7 +24744,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="coal">
@@ -24779,7 +24878,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="gas">
@@ -24912,7 +25012,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="refined liquids">
@@ -25109,7 +25210,8 @@
                         <logit-exponent fillout="1" year="1975">-12</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="cement">
@@ -25767,7 +25869,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="biomass">
@@ -25900,7 +26003,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="coal">
@@ -26033,7 +26137,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="gas">
@@ -26166,7 +26271,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="refined liquids">
@@ -26363,7 +26469,8 @@
                         <logit-exponent fillout="1" year="1975">-12</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="cement">
@@ -27021,7 +27128,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="biomass">
@@ -27154,7 +27262,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="coal">
@@ -27287,7 +27396,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="gas">
@@ -27420,7 +27530,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="refined liquids">
@@ -27617,7 +27728,8 @@
                         <logit-exponent fillout="1" year="1975">-12</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="cement">
@@ -28275,7 +28387,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="biomass">
@@ -28408,7 +28521,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="coal">
@@ -28541,7 +28655,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="gas">
@@ -28674,7 +28789,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="refined liquids">
@@ -28871,7 +28987,8 @@
                         <logit-exponent fillout="1" year="1975">-12</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="cement">
@@ -29529,7 +29646,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="biomass">
@@ -29662,7 +29780,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="coal">
@@ -29795,7 +29914,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="gas">
@@ -29928,7 +30048,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="refined liquids">
@@ -30125,7 +30246,8 @@
                         <logit-exponent fillout="1" year="1975">-12</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="cement">
@@ -30783,7 +30905,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="biomass">
@@ -30916,7 +31039,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="coal">
@@ -31049,7 +31173,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="gas">
@@ -31182,7 +31307,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="refined liquids">
@@ -31379,7 +31505,8 @@
                         <logit-exponent fillout="1" year="1975">-12</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="cement">
@@ -32037,7 +32164,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="biomass">
@@ -32170,7 +32298,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="coal">
@@ -32303,7 +32432,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="gas">
@@ -32436,7 +32566,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="refined liquids">
@@ -32633,7 +32764,8 @@
                         <logit-exponent fillout="1" year="1975">-12</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="cement">
@@ -33291,7 +33423,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="biomass">
@@ -33424,7 +33557,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="coal">
@@ -33557,7 +33691,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="gas">
@@ -33690,7 +33825,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="refined liquids">
@@ -33887,7 +34023,8 @@
                         <logit-exponent fillout="1" year="1975">-12</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="cement">
@@ -34545,7 +34682,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="biomass">
@@ -34678,7 +34816,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="coal">
@@ -34811,7 +34950,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="gas">
@@ -34944,7 +35084,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="refined liquids">
@@ -35141,7 +35282,8 @@
                         <logit-exponent fillout="1" year="1975">-12</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="cement">
@@ -35799,7 +35941,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="biomass">
@@ -35932,7 +36075,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="coal">
@@ -36065,7 +36209,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="gas">
@@ -36198,7 +36343,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="refined liquids">
@@ -36395,7 +36541,8 @@
                         <logit-exponent fillout="1" year="1975">-12</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="cement">
@@ -37053,7 +37200,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="biomass">
@@ -37186,7 +37334,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="coal">
@@ -37319,7 +37468,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="gas">
@@ -37452,7 +37602,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="refined liquids">
@@ -37649,7 +37800,8 @@
                         <logit-exponent fillout="1" year="1975">-12</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="cement">
@@ -38307,7 +38459,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="biomass">
@@ -38440,7 +38593,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="coal">
@@ -38573,7 +38727,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="gas">
@@ -38706,7 +38861,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="refined liquids">
@@ -38903,7 +39059,8 @@
                         <logit-exponent fillout="1" year="1975">-12</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="cement">
@@ -39561,7 +39718,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="biomass">
@@ -39694,7 +39852,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="coal">
@@ -39827,7 +39986,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="gas">
@@ -39960,7 +40120,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="refined liquids">
@@ -40157,7 +40318,8 @@
                         <logit-exponent fillout="1" year="1975">-12</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="cement">
@@ -40815,7 +40977,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="biomass">
@@ -40948,7 +41111,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="coal">
@@ -41081,7 +41245,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="gas">
@@ -41214,7 +41379,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="refined liquids">
@@ -41411,7 +41577,8 @@
                         <logit-exponent fillout="1" year="1975">-12</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="cement">
@@ -42069,7 +42236,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="biomass">
@@ -42202,7 +42370,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="coal">
@@ -42335,7 +42504,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="gas">
@@ -42468,7 +42638,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="refined liquids">
@@ -42665,7 +42836,8 @@
                         <logit-exponent fillout="1" year="1975">-12</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="cement">
@@ -43323,7 +43495,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="biomass">
@@ -43456,7 +43629,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="coal">
@@ -43589,7 +43763,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="gas">
@@ -43722,7 +43897,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="refined liquids">
@@ -43919,7 +44095,8 @@
                         <logit-exponent fillout="1" year="1975">-12</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="cement">
@@ -44577,7 +44754,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="biomass">
@@ -44710,7 +44888,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="coal">
@@ -44843,7 +45022,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="gas">
@@ -44976,7 +45156,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="refined liquids">
@@ -45173,7 +45354,8 @@
                         <logit-exponent fillout="1" year="1975">-12</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="cement">
@@ -45831,7 +46013,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="biomass">
@@ -45964,7 +46147,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="coal">
@@ -46097,7 +46281,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="gas">
@@ -46230,7 +46415,8 @@
                         <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                     </relative-cost-logit>
                     <share-weight fillout="1" year="1975">1</share-weight>
-                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <stub-technology name="refined liquids">
