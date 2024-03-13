@@ -2165,7 +2165,7 @@
                 <income-elasticity year="2100">0.45</income-elasticity>
             </energy-final-demand>
             <energy-final-demand name="Food Processing">
-                <income-elasticity year="2015">0.3</income-elasticity>
+                <income-elasticity year="2015">4.01</income-elasticity>
                 <income-elasticity year="2020">0.270135747</income-elasticity>
                <income-elasticity year="2025">0.74</income-elasticity>
                 <income-elasticity year="2030">0.72</income-elasticity>
