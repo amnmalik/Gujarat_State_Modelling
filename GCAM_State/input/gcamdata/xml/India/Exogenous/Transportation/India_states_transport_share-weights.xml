@@ -4006,6 +4006,20 @@
                             <interpolation-function name="linear"/>
                         </interpolation-rule>
                     </tranTechnology>
+  				<tranTechnology name="Liquids">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2020">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+						<interpolation-rule apply-to="share-weight"
+                            from-year="2020" to-year="2100">
+                            <from-value>0.798</from-value>
+                            <to-value>0.798</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </tranTechnology>
                 </tranSubsector>
 				<tranSubsector name="Ship Domestic">
                     <tranTechnology name="Liquids">

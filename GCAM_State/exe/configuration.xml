@@ -199,7 +199,7 @@
 
 	</ScenarioComponents>
 	<Strings>
-		<Value name="scenarioName">Bld_bio_gas_elec</Value>
+		<Value name="scenarioName">Lashmi</Value>
 		<Value name="debug-region">GJ</Value>
 		<Value name="MAGICC-input-dir">../input/magicc/inputs</Value>
 		<Value name="MAGICC-output-dir">../output</Value>
