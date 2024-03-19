@@ -143,11 +143,11 @@
 
  		<!--Value name = "Elec_Grid_weight">../input/gcamdata/xml/India/Exogenous/Electricity/India_state_level_grid_shrwt.xml</Value-->
         <Value name = "Elec_Grid_weight_V2">../input/gcamdata/xml/India/Exogenous/Electricity/India_state_level_grid_shrwt_V2.xml</Value>
-      	<Value name = "Elec_subsector_weight">../input/gcamdata/xml/India/Exogenous/Electricity/India_state_level_shrwt_GJ.xml</Value>
+		<Value name = "Elec_subsector_shareweight">../input/gcamdata/xml/India/Exogenous/Electricity/India_state_level_shrwt_GJ_Default.xml</Value>
+      	<!--Value name = "Elec_subsector_weight">../input/gcamdata/xml/India/Exogenous/Electricity/India_state_level_shrwt_GJ.xml</Value-->
       	<Value name = "Elec_subsector_weight">../input/gcamdata/xml/India/Exogenous/Electricity/India_state_level_tech_shrwt.xml</Value>      
    	  <!--Value name = "Elec_subsector_weight">../input/gcamdata/xml/India/Exogenous/Electricity/India_state_level_tech_shrwt_wind_GJ.xml</Value-->
       	<Value name = "Elec TD">../input/gcamdata/xml/India/Exogenous/Electricity/India_state_level_tdcoeff.xml</Value>     
-	    <!--Value name = "Elec_subsector_shareweight">../input/gcamdata/xml/India/Exogenous/Electricity/India_state_level_shrwt_RJ.xml</Value-->
         <!--Value name = "PV Cost of elec gen adjustment for the Northern Grid ">../input/gcamdata/xml/India/Exogenous/Electricity/India_states_elec_costs_PVonly.xml</Value-->
 		<!--Value name = "Elec_FuelAdders">../input/gcamdata/xml/India/Exogenous/Electricity/India_states_elec_Fuel_adders.xml</Value--> 
    
@@ -199,7 +199,7 @@
 
 	</ScenarioComponents>
 	<Strings>
-		<Value name="scenarioName">Saraswathi</Value>
+		<Value name="scenarioName">OM-MHcoalonshore</Value>
 		<Value name="debug-region">GJ</Value>
 		<Value name="MAGICC-input-dir">../input/magicc/inputs</Value>
 		<Value name="MAGICC-output-dir">../output</Value>
@@ -223,7 +223,7 @@
 		<Value name="carbon-output-start-year">1705</Value>
 		<Value name="climateOutputInterval">5</Value>
 		<Value name="parallel-grain-size">50</Value>
-		<Value name="stop-period">5</Value>
+		<Value name="stop-period">9</Value>
 		<Value name="restart-period">-1</Value>
 	</Ints>
 	<Doubles>
