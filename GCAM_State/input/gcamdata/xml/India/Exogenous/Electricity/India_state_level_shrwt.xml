@@ -2975,13 +2975,19 @@
             <supplysector name="electricity">
                 <subsector name="biomass">
                     <interpolation-rule apply-to="share-weight"
-                        from-year="2010" to-year="2020">
-                        <from-value>0.1</from-value>
-                        <to-value>0.1</to-value>
+                        from-year="2010" to-year="2015">
+                        <from-value>0.057</from-value>
+                        <to-value>0.057</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+					<interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2020">
+                        <from-value>0.112</from-value>
+                        <to-value>0.112</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <interpolation-rule apply-to="share-weight"
-                        from-year="2015" to-year="2100">
+                        from-year="2020" to-year="2100">
                         <from-value>0.1</from-value>
                         <to-value>0.5</to-value>
                         <interpolation-function name="linear"/>
@@ -3035,13 +3041,19 @@
                 </subsector>
                 <subsector name="refined liquids">
                     <interpolation-rule apply-to="share-weight"
-                        from-year="2010" to-year="2020">
-                        <from-value>1</from-value>
-                        <to-value>1</to-value>
+                        from-year="2010" to-year="2015">
+                        <from-value>73.13</from-value>
+                        <to-value>73.13</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+				<interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2020">
+                        <from-value>68.84</from-value>
+                        <to-value>68.84</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <interpolation-rule apply-to="share-weight"
-                        from-year="2015" to-year="2100">
+                        from-year="2020" to-year="2100">
                         <from-value>1</from-value>
                         <to-value>0</to-value>
                         <interpolation-function name="linear"/>
@@ -3055,13 +3067,19 @@
                 </subsector>
                 <subsector name="coal">
                     <interpolation-rule apply-to="share-weight"
-                        from-year="2010" to-year="2020">
-                        <from-value>0.04</from-value>
-                        <to-value>0.04</to-value>
+                        from-year="2010" to-year="2015">
+                        <from-value>2.5</from-value>
+                        <to-value>2.5</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
+				<interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2020">
+                        <from-value>0.01</from-value>
+                        <to-value>0.01</to-value>
+                        <interpolation-function name="fixed"/>
+					</interpolation-rule>
                     <interpolation-rule apply-to="share-weight"
-                        from-year="2015" to-year="2025">
+                        from-year="2020" to-year="2025">
                         <from-value>0.04</from-value>
                         <to-value>0.04</to-value>
                         <interpolation-function name="fixed"/>
@@ -3076,12 +3094,12 @@
                 <subsector name="gas">
                     <interpolation-rule apply-to="share-weight"
                         from-year="2010" to-year="2020">
-                        <from-value>0.3</from-value>
-                        <to-value>0.3</to-value>
+                        <from-value>0</from-value>
+                        <to-value>0</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <interpolation-rule apply-to="share-weight"
-                        from-year="2015" to-year="2025">
+                        from-year="2020" to-year="2025">
                         <from-value>0.3</from-value>
                         <to-value>0.3</to-value>
                         <interpolation-function name="fixed"/>
@@ -3107,13 +3125,19 @@
                 </subsector>
                 <subsector name="solar">
                     <interpolation-rule apply-to="share-weight"
-                        from-year="2010" to-year="2020">
-                        <from-value>0</from-value>
-                        <to-value>0</to-value>
+                        from-year="2010" to-year="2015">
+                        <from-value>0.039</from-value>
+                        <to-value>0.039</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
+				<interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2020">
+                        <from-value>0.03</from-value>
+                        <to-value>0.03</to-value>
+                        <interpolation-function name="fixed"/>
+					</interpolation-rule>
                     <interpolation-rule apply-to="share-weight"
-                        from-year="2015" to-year="2025">
+                        from-year="2020" to-year="2025">
                         <from-value>0.01</from-value>
                         <to-value>0.01</to-value>
                         <interpolation-function name="fixed"/>
@@ -3139,13 +3163,19 @@
                 </subsector>
                 <subsector name="wind">
                     <interpolation-rule apply-to="share-weight"
-                        from-year="2010" to-year="2020">
-                        <from-value>0.01</from-value>
-                        <to-value>0.01</to-value>
+                        from-year="2010" to-year="2015">
+                        <from-value>0.09</from-value>
+                        <to-value>0.09</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
+				<interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2020">
+                        <from-value>0.17</from-value>
+                        <to-value>0.17</to-value>
+                        <interpolation-function name="fixed"/>
+					</interpolation-rule>
                     <interpolation-rule apply-to="share-weight"
-                        from-year="2015" to-year="2025">
+                        from-year="2020" to-year="2025">
                         <from-value>0.01</from-value>
                         <to-value>0.01</to-value>
                         <interpolation-function name="fixed"/>
@@ -3171,13 +3201,19 @@
                 </subsector>
                 <subsector name="nuclear">
                     <interpolation-rule apply-to="share-weight"
-                        from-year="2010" to-year="2020">
-                        <from-value>0.01</from-value>
-                        <to-value>0.01</to-value>
+                        from-year="2010" to-year="2015">
+                        <from-value>0.07</from-value>
+                        <to-value>0.07</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
+				<interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2020">
+                        <from-value>0.18</from-value>
+                        <to-value>0.18</to-value>
+                        <interpolation-function name="fixed"/>
+					</interpolation-rule>
                     <interpolation-rule apply-to="share-weight"
-                        from-year="2015" to-year="2025">
+                        from-year="2020" to-year="2025">
                         <from-value>0.0270588</from-value>
                         <to-value>0.0270588</to-value>
                         <interpolation-function name="fixed"/>
