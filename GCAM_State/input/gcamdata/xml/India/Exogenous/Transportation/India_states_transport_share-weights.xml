@@ -4060,7 +4060,7 @@
                             <interpolation-function name="linear"/>
                         </interpolation-rule>
                     </tranTechnology>
-					<tranTechnology name="Liquids">
+  				<tranTechnology name="Liquids">
                         <interpolation-rule apply-to="share-weight"
                             from-year="2010" to-year="2020">
                             <from-value>0.5</from-value>
