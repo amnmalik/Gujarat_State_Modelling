@@ -19,41 +19,43 @@ Didn't find builder for profit rate query going to use defaults
 Didn't find builder for profit rate in a specified land use region query going to use defaults
 Didn't find builder for land leaf shares query going to use defaults
 Didn't find builder for land leaf shares in a specified land use region query going to use defaults
+About to perform query: collection()/singleQueryListCache/cache[@id=-638751883]/text()
+Time : 11
+About to perform query: collection()/singleQueryListCache/cache[@id=-1762434599]/text()
+Time : 6
+About to perform query: collection()/singleQueryListCache/cache[@id=1888165601]/text()
+Time : 8
+Before Function: 1711212951320
+About to perform query: collection()/scenario[ (@name='coal' and @date='2024-23-3T20:51:57+05:30') ]/world/region[ (@name='GJ') ]/*[@type='sector' and (@name='electricity')]/*[@type='subsector']/cost/text()
+In Function: 1711212951320
+After build Tree: 1711212951333
+After Add table: 1711212951333
+Before Function: 1711213021635
+About to perform query: collection()/scenario[ (@name='coal' and @date='2024-23-3T20:51:57+05:30') ]/world/region[ (@name='CG') or (@name='DD') or (@name='DN') or (@name='GA') or (@name='GJ') or (@name='MH') or (@name='MP') ]/*[@type='sector' and (@name='electricity')]/*[@type='subsector']/cost/text()
+In Function: 1711213021635
+After build Tree: 1711213021724
+After Add table: 1711213021724
+Before Function: 1711213147288
+About to perform query: collection()/scenario[ (@name='coal' and @date='2024-23-3T20:51:57+05:30') ]/world/region[ (@name='CG') or (@name='DD') or (@name='DN') or (@name='GA') or (@name='GJ') or (@name='MH') or (@name='MP') ]/*[@type='sector' and (@name='electricity' or @name='elect_td_bld')]/*[@type='subsector']/
+              *[@type='technology' and not(@name='elect_td_bld')]/cost/text()
+In Function: 1711213147288
+After build Tree: 1711213147417
+After Add table: 1711213147417
 About to perform query: collection()/singleQueryListCache/cache[@id=1402312530]/text()
-Time : 4
-Before Function: 1709885818985
-About to perform query: collection()/scenario[ (@name='solar_seven' and @date='2024-8-3T12:16:39+06:030') ]/world/region[ (@name='GJ') ]/*[@type='sector' (:collapse:)]//
+Time : 0
+Before Function: 1711213158625
+About to perform query: collection()/scenario[ (@name='coal' and @date='2024-23-3T20:51:57+05:30') ]/world/region[ (@name='GJ') ]/*[@type='sector' (:collapse:)]//
                *[@type='technology' (:collapse:) and not (@name='elect_td_bld')]/
                *[@type='output' (:collapse:)  and (@name='electricity' or @name='elect_td_bld')]/
                physical-output/node()
-In Function: 1709885818986
-After build Tree: 1709885819067
-After Add table: 1709885819067
-About to perform query: collection()/singleQueryListCache/cache[@id=118729936]/text()
-Time : 3
-Before Function: 1709885822901
-About to perform query: collection()/scenario[ (@name='solar_seven' and @date='2024-8-3T12:16:39+06:030') ]/world/region[ (@name='GJ') ]/*[@type='sector' (:collapse:) and (@name='electricity' or @name='elect_td_bld')]/
-               *[@type='subsector' and not (@name='elect_td_bld')]//*[@type='output']/
+In Function: 1711213158629
+After build Tree: 1711213158741
+After Add table: 1711213158741
+Before Function: 1711213166105
+About to perform query: collection()/scenario[ (@name='RV' and @date='2024-22-3T08:35:05+05:30') or (@name='coal' and @date='2024-23-3T20:51:57+05:30') ]/world/region[ (@name='GJ') ]/*[@type='sector' (:collapse:)]//
+               *[@type='technology' (:collapse:) and not (@name='elect_td_bld')]/
+               *[@type='output' (:collapse:)  and (@name='electricity' or @name='elect_td_bld')]/
                physical-output/node()
-In Function: 1709885822902
-After build Tree: 1709885822931
-After Add table: 1709885822931
-Before Function: 1709891056925
-About to perform query: collection()/scenario[ (@name='wind_sixth' and @date='2024-8-3T10:41:41+05:30') ]/world/region[ (@name='GJ') ]/*[@type='sector' (:collapse:) and (@name='electricity' or @name='elect_td_bld')]/
-               *[@type='subsector' and not (@name='elect_td_bld')]//*[@type='output']/
-               physical-output/node()
-In Function: 1709891056926
-After build Tree: 1709891056962
-After Add table: 1709891056962
-Before Function: 1709894520864
-About to perform query: collection()/scenario[ (@name='solar_seven' and @date='2024-8-3T12:16:39+06:030') ]/world/region[ (@name='GJ') ]/*[@type='sector' (:collapse:) and (@name='electricity' or @name='elect_td_bld')]/
-               *[@type='subsector' and not (@name='elect_td_bld')]//*[@type='output']/
-               physical-output/node()
-In Function: 1709894520864
-After build Tree: 1709894520906
-After Add table: 1709894520906
-Caught the window closing
-Doing remove because of control
-Doing remove because of control
-Doing remove because of control
-Doing remove because of control
+In Function: 1711213166107
+After build Tree: 1711213166248
+After Add table: 1711213166248
