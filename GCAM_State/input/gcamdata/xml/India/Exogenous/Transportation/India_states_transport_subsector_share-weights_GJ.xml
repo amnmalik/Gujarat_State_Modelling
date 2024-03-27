@@ -6,8 +6,8 @@
                 <tranSubsector name="Freight Rail">
                     <interpolation-rule apply-to="share-weight"
                         from-year="2010" to-year="2015">
-                        <from-value>0.7</from-value>
-                        <to-value>0.7</to-value>
+                        <from-value>0.4</from-value>
+                        <to-value>0.4</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
 					<interpolation-rule apply-to="share-weight"
@@ -26,8 +26,8 @@
 				 <tranSubsector name="Ship Domestic">
                     <interpolation-rule apply-to="share-weight"
                         from-year="2010" to-year="2015">
-                        <from-value>0.06</from-value>
-                        <to-value>0.06</to-value>
+                        <from-value>0.1</from-value>
+                        <to-value>0.1</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
 					<interpolation-rule apply-to="share-weight"
@@ -48,8 +48,8 @@
                 <tranSubsector name="Passenger Rail">
                     <interpolation-rule apply-to="share-weight"
                         from-year="2010" to-year="2015">
-                        <from-value>0.016</from-value>
-                        <to-value>0.016</to-value>
+                        <from-value>0.008</from-value>
+                        <to-value>0.008</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
 					<interpolation-rule apply-to="share-weight"
@@ -68,8 +68,8 @@
 				<tranSubsector name="Air Domestic">
                     <interpolation-rule apply-to="share-weight"
                         from-year="2010" to-year="2015">
-                        <from-value>0.01</from-value>
-                        <to-value>0.01</to-value>
+                        <from-value>0.014</from-value>
+                        <to-value>0.014</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
 					<interpolation-rule apply-to="share-weight"
