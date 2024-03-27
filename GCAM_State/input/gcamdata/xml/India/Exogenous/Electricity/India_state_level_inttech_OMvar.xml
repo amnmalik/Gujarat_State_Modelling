@@ -8128,7 +8128,7 @@
                         </period>
                         <period year="2015">
                             <input-OM-var name="OM-var">
-                                <OM-var>2.34</OM-var>
+                                <OM-var>4.5</OM-var>
                             </input-OM-var>
                         </period>
                         <period year="2020">
@@ -9712,7 +9712,7 @@
                         </period>
                         <period year="2015">
                             <input-OM-var name="OM-var">
-                                <OM-var>0.36</OM-var>
+                                <OM-var>1.08</OM-var>
                             </input-OM-var>
                         </period>
                         <period year="2020">
