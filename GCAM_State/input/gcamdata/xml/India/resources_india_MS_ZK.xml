@@ -1985,7 +1985,7 @@
                 <price-unit>1975 $/GJ</price-unit>
                 <market>CG</market>
                 <smooth-renewable-subresource name="global solar resource">
-                    <maxSubResource fillout="1" year="1975">0.0026</maxSubResource>
+                    <maxSubResource fillout="1" year="1975">5.22</maxSubResource>
                     <mid-price>0.001</mid-price>
                     <curve-exponent>100</curve-exponent>
                     <technology name="global solar resource">
@@ -15296,7 +15296,7 @@
                 <price-unit>1975 $/GJ</price-unit>
                 <market>DD</market>
                 <smooth-renewable-subresource name="global solar resource">
-                    <maxSubResource fillout="1" year="1975">0.018</maxSubResource>
+                    <maxSubResource fillout="1" year="1975">0.02</maxSubResource>
                     <mid-price>0.001</mid-price>
                     <curve-exponent>100</curve-exponent>
                     <technology name="global solar resource">
