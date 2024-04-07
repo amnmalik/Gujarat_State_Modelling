@@ -705,7 +705,7 @@
                 <income-elasticity year="2100">1</income-elasticity>
             </energy-final-demand>
             <energy-final-demand name="trn_freight">
-                <income-elasticity year="2015">0.0000001</income-elasticity>
+                <income-elasticity year="2015">0.6</income-elasticity>
                 <income-elasticity year="2020">0.0000001</income-elasticity>
                 <income-elasticity year="2025">0.8</income-elasticity>
                 <income-elasticity year="2030">0.8</income-elasticity>
@@ -725,7 +725,7 @@
                 <income-elasticity year="2100">0.8</income-elasticity>
             </energy-final-demand>
 			<energy-final-demand name="trn_freight_road">
-                <income-elasticity year="2015">0.35</income-elasticity>
+                <income-elasticity year="2015">0.59</income-elasticity>
                 <income-elasticity year="2020">0.65</income-elasticity>
                 <income-elasticity year="2025">0.8</income-elasticity>
                 <income-elasticity year="2030">0.8</income-elasticity>
