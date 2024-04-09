@@ -19,21 +19,4 @@ Didn't find builder for profit rate query going to use defaults
 Didn't find builder for profit rate in a specified land use region query going to use defaults
 Didn't find builder for land leaf shares query going to use defaults
 Didn't find builder for land leaf shares in a specified land use region query going to use defaults
-About to perform query: collection()/singleQueryListCache/cache[@id=-1421281580]/text()
-Time : 0
-Before Function: 1712654929906
-About to perform query: collection()/scenario[ (@name='GDP_fut_cal_bau4' and @date='2024-1-4T20:18:10+06:030') ]/world/region[ (@name='GJ') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]//
-               *[@type='output' (:collapse:)]/physical-output[
-                      @unit='million pass-km' or @unit='million ton-km']/node()
-In Function: 1712654929906
-After build Tree: 1712654930014
-After Add table: 1712654930014
-About to perform query: collection()/singleQueryListCache/cache[@id=593830562]/text()
-Time : 8
-Before Function: 1712654976999
-About to perform query: collection()/scenario[ (@name='GDP_fut_cal_bau4' and @date='2024-1-4T20:18:10+06:030') ]/world/region[ (@name='GJ') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/
-               *[@type='subsector']//*[@type='output' (:collapse:) and not(@name='CAFEcredit')]/
-               physical-output/node()
-In Function: 1712654976999
-After build Tree: 1712654977040
-After Add table: 1712654977040
+
