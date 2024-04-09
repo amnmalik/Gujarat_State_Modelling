@@ -3911,7 +3911,7 @@
                         </interpolation-rule>
                         <interpolation-rule apply-to="share-weight"
                             from-year="2025" to-year="2050">
-                            <from-value>0.02</from-value>
+                            <from-value>0.01</from-value>
                             <to-value>0.2</to-value>
                             <interpolation-function name="linear"/>
                         </interpolation-rule>

@@ -18,6 +18,20 @@
                     </interpolation-rule>
                     <interpolation-rule apply-to="share-weight"
                         from-year="2020" to-year="2100">
+                        <from-value>0.111</from-value>
+                        <to-value>0.111</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </tranSubsector>
+				<tranSubsector name="road">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2020">
+                        <from-value>2.69</from-value>
+                        <to-value>2.69</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2020" to-year="2100">
                         <from-value>1</from-value>
                         <to-value>1</to-value>
                         <interpolation-function name="fixed"/>
@@ -32,15 +46,15 @@
                     </interpolation-rule>
 					<interpolation-rule apply-to="share-weight"
                         from-year="2015" to-year="2020">
-                        <from-value>0.87</from-value>
-                        <to-value>0.87</to-value>
+                        <from-value>0.08</from-value>
+                        <to-value>0.08</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <interpolation-rule apply-to="share-weight"
                         from-year="2020" to-year="2100">
-                        <from-value>0.107</from-value>
-                        <to-value>0.107</to-value>
-                        <interpolation-function name="linear"/>
+                        <from-value>0.016</from-value>
+                        <to-value>0.016</to-value>
+                        <interpolation-function name="fixed"/>
                     </interpolation-rule>
                 </tranSubsector>
             </supplysector>
@@ -60,9 +74,9 @@
                     </interpolation-rule>
                     <interpolation-rule apply-to="share-weight"
                         from-year="2020" to-year="2100">
-                        <from-value>0.016</from-value>
-                        <to-value>0.016</to-value>
-                        <interpolation-function name="linear"/>
+                        <from-value>0.013</from-value>
+                        <to-value>0.013</to-value>
+                        <interpolation-function name="fixed"/>
                     </interpolation-rule>
                 </tranSubsector>
 				<tranSubsector name="Air Domestic">
@@ -85,6 +99,22 @@
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                 </tranSubsector>
+				<tranSubsector name="Cycle">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
+                        <from-value>0.034</from-value>
+                        <to-value>0.034</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </tranSubsector>
+				<tranSubsector name="Walk">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
+                        <from-value>0.619</from-value>
+                        <to-value>0.619</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </tranSubsector>
             </supplysector>
 			<supplysector name="trn_freight_road">
                 <tranSubsector name="Truck">
@@ -98,16 +128,6 @@
                         from-year="2020" to-year="2100">
                         <from-value>1</from-value>
                         <to-value>1</to-value>
-                        <interpolation-function name="fixed"/>
-                    </interpolation-rule>
-                </tranSubsector>
-            </supplysector>
-			<supplysector name="trn_freight">
-                <tranSubsector name="Ship Domestic">
-                    <interpolation-rule apply-to="share-weight"
-                        from-year="2015" to-year="2020">
-                        <from-value>0.08</from-value>
-                        <to-value>0.08</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                 </tranSubsector>
@@ -145,6 +165,16 @@
                 </tranSubsector>
             </supplysector>
 			<supplysector name="trn_pass_road_LDV">
+				<tranSubsector name="LDV_3W">
+					<interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
+                        <from-value>0.011</from-value>
+                        <to-value>0.011</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </tranSubsector>
+            </supplysector>
+			<supplysector name="trn_pass_road_LDV">
 				<tranSubsector name="4W">
                     <interpolation-rule apply-to="share-weight"
                         from-year="2010" to-year="2020">
@@ -154,8 +184,8 @@
                     </interpolation-rule>
 					<interpolation-rule apply-to="share-weight"
                         from-year="2020" to-year="2100">
-                        <from-value>142</from-value>
-                        <to-value>142</to-value>
+                        <from-value>140.158</from-value>
+                        <to-value>140.158</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                 </tranSubsector>
