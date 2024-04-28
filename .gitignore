@@ -3,7 +3,7 @@
 .RData
 .Ruserdata
 GCAM_State/exe/debugNZ_GJ_35-60.xml
-exe/restart/
+exe
 exe/restart/restart.0
 exe/restart/restart.1
 exe/restart/restart.10
@@ -31,7 +31,7 @@ exe\debugStates Calibration_Demand_Coal_2010
 exe\debugStates Calibration_Demand2010_buildings
 exe\debugStates Calibration_Demand2010_ind
 exe\debugStates Calibration_Supply2010
-GCAM_State/exe/*xml
+GCAM_State/exe
 
 
 
