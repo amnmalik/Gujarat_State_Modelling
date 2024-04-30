@@ -115,6 +115,78 @@
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                 </tranSubsector>
+			</supplysector>
+			<supplysector name="trn_pass_road">
+                <tranSubsector name="LDV">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
+                        <from-value>1.0</from-value>
+                        <to-value>1.0</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </tranSubsector>
+				<tranSubsector name="Bus">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2020" to-year="2025">
+                        <from-value>0.0025</from-value>
+                        <to-value>0.0025</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+				<interpolation-rule apply-to="share-weight"
+                        from-year="2025" to-year="2030">
+                        <from-value>0.004</from-value>
+                        <to-value>0.004</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+				<interpolation-rule apply-to="share-weight"
+                        from-year="2030" to-year="2035">
+                        <from-value>0.0045</from-value>
+                        <to-value>0.0045</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+			<interpolation-rule apply-to="share-weight"
+                        from-year="2035" to-year="2040">
+                        <from-value>0.007</from-value>
+                        <to-value>0.007</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+			<interpolation-rule apply-to="share-weight"
+                        from-year="2040" to-year="2045">
+                        <from-value>0.012</from-value>
+                        <to-value>0.012</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+				<interpolation-rule apply-to="share-weight"
+                        from-year="2045" to-year="2050">
+                        <from-value>0.014</from-value>
+                        <to-value>0.014</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+				<interpolation-rule apply-to="share-weight"
+                        from-year="2050" to-year="2055">
+                        <from-value>0.035</from-value>
+                        <to-value>0.035</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+				<interpolation-rule apply-to="share-weight"
+                        from-year="2055" to-year="2060">
+                        <from-value>0.06</from-value>
+                        <to-value>0.06</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+				<interpolation-rule apply-to="share-weight"
+                        from-year="2060" to-year="2065">
+                        <from-value>0.09</from-value>
+                        <to-value>0.09</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+			<interpolation-rule apply-to="share-weight"
+                        from-year="2065" to-year="2070">
+                        <from-value>0.099</from-value>
+                        <to-value>0.099</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </tranSubsector>
             </supplysector>
 			<supplysector name="trn_freight_road">
                 <tranSubsector name="Truck">
@@ -141,9 +213,9 @@
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
 					<interpolation-rule apply-to="share-weight"
-                        from-year="2020" to-year="2100">
-                        <from-value>1</from-value>
-                        <to-value>1</to-value>
+                        from-year="2020" to-year="2070">
+                        <from-value>140.158</from-value>
+                        <to-value>140.158</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                 </tranSubsector>
