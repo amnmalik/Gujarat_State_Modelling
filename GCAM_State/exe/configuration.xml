@@ -34,6 +34,7 @@
 		<Value name = "cement_income_elas">../input/gcamdata/xml/All/cement_incelas_gssp2.xml</Value>
 		<Value name = "fertilizer_energy">../input/gcamdata/xml/All/en_Fert.xml</Value>
 		<Value name = "hddcdd">../input/gcamdata/xml/All/HDDCDD_constdd_no_GCM.xml</Value>
+		<Value name = "hddcdd">../input/gcamdata/xml/India/HDDCDD_constdds_india.xml</Value>
 		<Value name = "building">../input/gcamdata/xml/All/building_det.xml</Value>
 		<Value name = "transportation">../input/gcamdata/xml/All/transportation_UCD_CORE.xml</Value>
 		<Value name = "carbon_content">../input/gcamdata/xml/All/Ccoef.xml</Value>
@@ -199,7 +200,7 @@
 
 	</ScenarioComponents>
 	<Strings>
-		<Value name="scenarioName">SOLAR</Value>
+		<Value name="scenarioName">CDD_Joy_fut_calb1</Value>
 		<Value name="debug-region">GJ</Value>
 		<Value name="MAGICC-input-dir">../input/magicc/inputs</Value>
 		<Value name="MAGICC-output-dir">../output</Value>
@@ -223,8 +224,8 @@
 		<Value name="carbon-output-start-year">1705</Value>
 		<Value name="climateOutputInterval">5</Value>
 		<Value name="parallel-grain-size">50</Value>
-		<Value name="stop-period">6</Value>
-		<Value name="restart-period">3</Value>
+		<Value name="stop-period">15</Value>
+		<Value name="restart-period">-1</Value>
 	</Ints>
 	<Doubles>
 	</Doubles>
