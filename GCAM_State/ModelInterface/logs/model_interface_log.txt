@@ -19,21 +19,28 @@ Didn't find builder for profit rate query going to use defaults
 Didn't find builder for profit rate in a specified land use region query going to use defaults
 Didn't find builder for land leaf shares query going to use defaults
 Didn't find builder for land leaf shares in a specified land use region query going to use defaults
-About to perform query: collection()/singleQueryListCache/cache[@id=254632596]/text()
-Time : 3
+About to perform query: collection()/singleQueryListCache/cache[@id=-1235412779]/text()
+Time : 7
 About to perform query: collection()/singleQueryListCache/cache[@id=593830562]/text()
-Time : 2
-Before Function: 1715676174583
-About to perform query: collection()/scenario[ (@name='only-LDV' and @date='2024-14-5T10:07:19+06:030') ]/world/region[ (@name='GJ') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/
+Time : 1
+Before Function: 1715697810312
+About to perform query: collection()/scenario[ (@name='speed28in2070' and @date='2024-13-5T11:50:30+05:30') ]/world/region[ (@name='GJ') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/
                *[@type='subsector']//*[@type='output' (:collapse:) and not(@name='CAFEcredit')]/
                physical-output/node()
-In Function: 1715676174584
-After build Tree: 1715676174641
-After Add table: 1715676174641
-About to perform query: collection()/singleQueryListCache/cache[@id=-331555363]/text()
-Time : 1
-Before Function: 1715676341575
-About to perform query: collection()/scenario[ (@name='only-LDV' and @date='2024-14-5T10:07:19+06:030') ]/world/region[ (@name='GJ') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/*[@type='subsector']/share-weight/text()
-In Function: 1715676341575
-After build Tree: 1715676341591
-After Add table: 1715676341591
+In Function: 1715697810313
+After build Tree: 1715697810416
+After Add table: 1715697810416
+About to perform query: collection()/singleQueryListCache/cache[@id=-1394635668]/text()
+Time : 2
+About to perform query: collection()/singleQueryListCache/cache[@id=-1961143988]/text()
+Time : 2
+About to perform query: collection()/singleQueryListCache/cache[@id=788658499]/text()
+Time : 2
+Before Function: 1715697828761
+About to perform query: collection()/scenario[ (@name='speed28in2070' and @date='2024-13-5T11:50:30+05:30') ]/world/region[ (@name='GJ') ]/demographics/populationMiniCAM/total-population/node()
+In Function: 1715697828762
+After build Tree: 1715697828775
+After Add table: 1715697828775
+Caught the window closing
+Doing remove because of control
+Doing remove because of control
