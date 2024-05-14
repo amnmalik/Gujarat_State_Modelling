@@ -12,8 +12,8 @@
                     </interpolation-rule>
 					<interpolation-rule apply-to="share-weight"
                         from-year="2015" to-year="2020">
-                        <from-value>0.3</from-value>
-                        <to-value>0.3</to-value>
+                        <from-value>0.1</from-value>
+                        <to-value>0.1</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <interpolation-rule apply-to="share-weight"
@@ -46,8 +46,8 @@
                     </interpolation-rule>
 					<interpolation-rule apply-to="share-weight"
                         from-year="2015" to-year="2020">
-                        <from-value>0.08</from-value>
-                        <to-value>0.08</to-value>
+                        <from-value>0.03</from-value>
+                        <to-value>0.03</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <interpolation-rule apply-to="share-weight"
@@ -88,8 +88,8 @@
                     </interpolation-rule>
 					<interpolation-rule apply-to="share-weight"
                         from-year="2015" to-year="2020">
-                        <from-value>0.006</from-value>
-                        <to-value>0.006</to-value>
+                        <from-value>0.005</from-value>
+                        <to-value>0.005</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <interpolation-rule apply-to="share-weight"
@@ -151,9 +151,15 @@
 			<supplysector name="trn_pass_road_LDV_2W">
 				<tranSubsector name="LDV_2W">
                     <interpolation-rule apply-to="share-weight"
-                        from-year="2010" to-year="2020">
+                        from-year="2010" to-year="2015">
                         <from-value>3</from-value>
                         <to-value>3</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+					<interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2020">
+                        <from-value>2.9</from-value>
+                        <to-value>2.9</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
 					<interpolation-rule apply-to="share-weight"
@@ -164,17 +170,49 @@
                     </interpolation-rule>
                 </tranSubsector>
             </supplysector>
-			<supplysector name="trn_pass_road_LDV">
-				<tranSubsector name="LDV_3W">
+			<supplysector name="trn_pass_road">
+				<tranSubsector name="Bus">
 					<interpolation-rule apply-to="share-weight"
-                        from-year="2010" to-year="2100">
-                        <from-value>0.011</from-value>
-                        <to-value>0.011</to-value>
+                        from-year="2010" to-year="2015">
+                        <from-value>0.001</from-value>
+                        <to-value>0.001</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+					<interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2020">
+                        <from-value>0.0028</from-value>
+                        <to-value>0.0028</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+					<interpolation-rule apply-to="share-weight"
+                        from-year="2020" to-year="2100">
+                        <from-value>0.001</from-value>
+                        <to-value>0.001</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                 </tranSubsector>
             </supplysector>
 			<supplysector name="trn_pass_road_LDV">
+				<tranSubsector name="LDV_3W">
+					<interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2015">
+                        <from-value>0.011</from-value>
+                        <to-value>0.011</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2020">
+                        <from-value>0.0001</from-value>
+                        <to-value>0.0001</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2020" to-year="2100">
+                        <from-value>0.011</from-value>
+                        <to-value>0.011</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </tranSubsector>
 				<tranSubsector name="4W">
                     <interpolation-rule apply-to="share-weight"
                         from-year="2010" to-year="2020">
@@ -191,9 +229,15 @@
                 </tranSubsector>
 				<tranSubsector name="2W">
                     <interpolation-rule apply-to="share-weight"
-                        from-year="2010" to-year="2020">
+                        from-year="2010" to-year="2015">
                         <from-value>3</from-value>
                         <to-value>3</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2015" to-year="2020">
+                        <from-value>2.75</from-value>
+                        <to-value>2.75</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
 					<interpolation-rule apply-to="share-weight"
