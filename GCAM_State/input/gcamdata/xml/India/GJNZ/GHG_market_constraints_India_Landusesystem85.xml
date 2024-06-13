@@ -4,8 +4,8 @@
       <region name="India">
          <ghgpolicy name="CO2">
             <market>IndiaLand</market>
-            <constraint year="2025">-85</constraint>
-            <constraint year="2030">-85</constraint>
+            <!--constraint year="2025">-85</constraint-->
+            <!--constraint year="2030">-85</constraint-->
             <constraint year="2035">-85</constraint>
             <constraint year="2040">-85</constraint>
             <constraint year="2045">-85</constraint>

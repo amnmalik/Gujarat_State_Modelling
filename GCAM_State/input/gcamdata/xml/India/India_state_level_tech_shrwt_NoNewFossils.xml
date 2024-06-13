@@ -42,6 +42,12 @@
                 <subsector name="gas">
                     <technology name="gas (CC)">
                         <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2030">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
                             from-year="2025" to-year="2100">
                             <from-value>0</from-value>
                             <to-value>0</to-value>
@@ -135,6 +141,12 @@
                 </subsector>
                 <subsector name="gas">
                     <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2030">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
                         <interpolation-rule apply-to="share-weight"
                             from-year="2025" to-year="2100">
                             <from-value>0</from-value>
@@ -230,6 +242,12 @@
                 <subsector name="gas">
                     <technology name="gas (CC)">
                         <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2030">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
                             from-year="2025" to-year="2100">
                             <from-value>0</from-value>
                             <to-value>0</to-value>
@@ -324,6 +342,12 @@
                 <subsector name="gas">
                     <technology name="gas (CC)">
                         <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2030">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
                             from-year="2025" to-year="2100">
                             <from-value>0</from-value>
                             <to-value>0</to-value>
@@ -390,27 +414,27 @@
                         <interpolation-rule apply-to="share-weight"
                             from-year="2020" to-year="2050">
                             <from-value>0</from-value>
-                            <to-value>0.5</to-value>
+                            <to-value>0</to-value>
                             <interpolation-function name="linear"/>
                         </interpolation-rule>
                         <interpolation-rule apply-to="share-weight"
                             from-year="2045" to-year="2100">
-                            <from-value>0.5</from-value>
-                            <to-value>0.5</to-value>
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
                             <interpolation-function name="fixed"/>
                         </interpolation-rule>
                         <interpolation-rule apply-to="share-weight"
                             from-year="2095" to-year="2100">
-                            <from-value>0.5</from-value>
-                            <to-value>0.5</to-value>
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
                             <interpolation-function name="fixed"/>
                         </interpolation-rule>
                     </technology>
                     <technology name="Gen_III">
                         <interpolation-rule apply-to="share-weight"
                             from-year="2010" to-year="2100">
-                            <from-value>0.5</from-value>
-                            <to-value>0.5</to-value>
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
                             <interpolation-function name="fixed"/>
                         </interpolation-rule>
                     </technology>
@@ -418,7 +442,13 @@
                 <subsector name="gas">
                     <technology name="gas (CC)">
                         <interpolation-rule apply-to="share-weight"
-                            from-year="2025" to-year="2100">
+                            from-year="2010" to-year="2040">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2035" to-year="2100">
                             <from-value>0</from-value>
                             <to-value>0</to-value>
                             <interpolation-function name="fixed"/>
@@ -444,7 +474,7 @@
                     </technology>
                     <technology name="coal (conv pul)">
                         <interpolation-rule apply-to="share-weight"
-                            from-year="2025" to-year="2100">
+                            from-year="2030" to-year="2100">
                             <from-value>0</from-value>
                             <to-value>0</to-value>
                             <interpolation-function name="fixed"/>
@@ -511,6 +541,12 @@
                 </subsector>
                 <subsector name="gas">
                     <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2030">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
                         <interpolation-rule apply-to="share-weight"
                             from-year="2025" to-year="2100">
                             <from-value>0</from-value>
@@ -606,6 +642,12 @@
                 <subsector name="gas">
                     <technology name="gas (CC)">
                         <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2030">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
                             from-year="2025" to-year="2100">
                             <from-value>0</from-value>
                             <to-value>0</to-value>
@@ -699,6 +741,12 @@
                 </subsector>
                 <subsector name="gas">
                     <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2030">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
                         <interpolation-rule apply-to="share-weight"
                             from-year="2025" to-year="2100">
                             <from-value>0</from-value>
@@ -794,6 +842,12 @@
                 <subsector name="gas">
                     <technology name="gas (CC)">
                         <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2030">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
                             from-year="2025" to-year="2100">
                             <from-value>0</from-value>
                             <to-value>0</to-value>
@@ -887,6 +941,12 @@
                 </subsector>
                 <subsector name="gas">
                     <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2030">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
                         <interpolation-rule apply-to="share-weight"
                             from-year="2025" to-year="2100">
                             <from-value>0</from-value>
@@ -982,6 +1042,12 @@
                 <subsector name="gas">
                     <technology name="gas (CC)">
                         <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2030">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
                             from-year="2025" to-year="2100">
                             <from-value>0</from-value>
                             <to-value>0</to-value>
@@ -1037,42 +1103,6 @@
         </region>
         <region name="GJ">
             <supplysector name="electricity">
-                <subsector name="nuclear">
-                    <technology name="Gen_II_LWR">
-                        <interpolation-rule apply-to="share-weight"
-                            from-year="2010" to-year="2025">
-                            <from-value>0</from-value>
-                            <to-value>0</to-value>
-                            <interpolation-function name="fixed"/>
-                        </interpolation-rule>
-                        <interpolation-rule apply-to="share-weight"
-                            from-year="2020" to-year="2050">
-                            <from-value>0</from-value>
-                            <to-value>0.5</to-value>
-                            <interpolation-function name="linear"/>
-                        </interpolation-rule>
-                        <interpolation-rule apply-to="share-weight"
-                            from-year="2045" to-year="2100">
-                            <from-value>0.5</from-value>
-                            <to-value>0.5</to-value>
-                            <interpolation-function name="fixed"/>
-                        </interpolation-rule>
-                        <interpolation-rule apply-to="share-weight"
-                            from-year="2095" to-year="2100">
-                            <from-value>0.5</from-value>
-                            <to-value>0.5</to-value>
-                            <interpolation-function name="fixed"/>
-                        </interpolation-rule>
-                    </technology>
-                    <technology name="Gen_III">
-                        <interpolation-rule apply-to="share-weight"
-                            from-year="2010" to-year="2100">
-                            <from-value>0.5</from-value>
-                            <to-value>0.5</to-value>
-                            <interpolation-function name="fixed"/>
-                        </interpolation-rule>
-                    </technology>
-                </subsector>
                 <subsector name="gas">
                     <technology name="gas (CC)">
                         <interpolation-rule apply-to="share-weight"
@@ -1084,7 +1114,7 @@
                     </technology>
                     <technology name="gas (steam/CT)">
                         <interpolation-rule apply-to="share-weight"
-                            from-year="2025" to-year="2100">
+                            from-year="2030" to-year="2100">
                             <from-value>0</from-value>
                             <to-value>0</to-value>
                             <interpolation-function name="fixed"/>
@@ -1093,32 +1123,20 @@
                 </subsector>
                 <subsector name="coal">
                     <technology name="coal (IGCC)">
+						<interpolation-rule apply-to="share-weight"
+                            from-year="2020" to-year="2030">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
                         <interpolation-rule apply-to="share-weight"
-                            from-year="2010" to-year="2100">
+                            from-year="2030" to-year="2100">
                             <from-value>0</from-value>
                             <to-value>0</to-value>
                             <interpolation-function name="fixed"/>
                         </interpolation-rule>
                     </technology>
                     <technology name="coal (conv pul)">
-                        <interpolation-rule apply-to="share-weight"
-                            from-year="2025" to-year="2100">
-                            <from-value>0</from-value>
-                            <to-value>0</to-value>
-                            <interpolation-function name="fixed"/>
-                        </interpolation-rule>
-                    </technology>
-                </subsector>
-                <subsector name="refined liquids">
-                    <technology name="refined liquids (CC)">
-                        <interpolation-rule apply-to="share-weight"
-                            from-year="2025" to-year="2100">
-                            <from-value>0</from-value>
-                            <to-value>0</to-value>
-                            <interpolation-function name="fixed"/>
-                        </interpolation-rule>
-                    </technology>
-                    <technology name="refined liquids (steam/CT)">
                         <interpolation-rule apply-to="share-weight"
                             from-year="2025" to-year="2100">
                             <from-value>0</from-value>
@@ -1169,6 +1187,12 @@
                 </subsector>
                 <subsector name="gas">
                     <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2030">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
                         <interpolation-rule apply-to="share-weight"
                             from-year="2025" to-year="2100">
                             <from-value>0</from-value>
@@ -1264,6 +1288,12 @@
                 <subsector name="gas">
                     <technology name="gas (CC)">
                         <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2030">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
                             from-year="2025" to-year="2100">
                             <from-value>0</from-value>
                             <to-value>0</to-value>
@@ -1357,6 +1387,12 @@
                 </subsector>
                 <subsector name="gas">
                     <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2030">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
                         <interpolation-rule apply-to="share-weight"
                             from-year="2025" to-year="2100">
                             <from-value>0</from-value>
@@ -1452,6 +1488,12 @@
                 <subsector name="gas">
                     <technology name="gas (CC)">
                         <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2030">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
                             from-year="2025" to-year="2100">
                             <from-value>0</from-value>
                             <to-value>0</to-value>
@@ -1545,6 +1587,12 @@
                 </subsector>
                 <subsector name="gas">
                     <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2030">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
                         <interpolation-rule apply-to="share-weight"
                             from-year="2025" to-year="2100">
                             <from-value>0</from-value>
@@ -1640,6 +1688,12 @@
                 <subsector name="gas">
                     <technology name="gas (CC)">
                         <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2030">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
                             from-year="2025" to-year="2100">
                             <from-value>0</from-value>
                             <to-value>0</to-value>
@@ -1733,6 +1787,12 @@
                 </subsector>
                 <subsector name="gas">
                     <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2030">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
                         <interpolation-rule apply-to="share-weight"
                             from-year="2025" to-year="2100">
                             <from-value>0</from-value>
@@ -1828,6 +1888,12 @@
                 <subsector name="gas">
                     <technology name="gas (CC)">
                         <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2030">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
                             from-year="2025" to-year="2100">
                             <from-value>0</from-value>
                             <to-value>0</to-value>
@@ -1921,6 +1987,12 @@
                 </subsector>
                 <subsector name="gas">
                     <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2030">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
                         <interpolation-rule apply-to="share-weight"
                             from-year="2025" to-year="2100">
                             <from-value>0</from-value>
@@ -2016,6 +2088,12 @@
                 <subsector name="gas">
                     <technology name="gas (CC)">
                         <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2030">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
                             from-year="2025" to-year="2100">
                             <from-value>0</from-value>
                             <to-value>0</to-value>
@@ -2109,6 +2187,12 @@
                 </subsector>
                 <subsector name="gas">
                     <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2030">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
                         <interpolation-rule apply-to="share-weight"
                             from-year="2025" to-year="2100">
                             <from-value>0</from-value>
@@ -2204,6 +2288,12 @@
                 <subsector name="gas">
                     <technology name="gas (CC)">
                         <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2030">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
                             from-year="2025" to-year="2100">
                             <from-value>0</from-value>
                             <to-value>0</to-value>
@@ -2297,6 +2387,12 @@
                 </subsector>
                 <subsector name="gas">
                     <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2030">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
                         <interpolation-rule apply-to="share-weight"
                             from-year="2025" to-year="2100">
                             <from-value>0</from-value>
@@ -2392,6 +2488,12 @@
                 <subsector name="gas">
                     <technology name="gas (CC)">
                         <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2030">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
                             from-year="2025" to-year="2100">
                             <from-value>0</from-value>
                             <to-value>0</to-value>
@@ -2485,6 +2587,12 @@
                 </subsector>
                 <subsector name="gas">
                     <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2030">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
                         <interpolation-rule apply-to="share-weight"
                             from-year="2025" to-year="2100">
                             <from-value>0</from-value>
@@ -2580,6 +2688,12 @@
                 <subsector name="gas">
                     <technology name="gas (CC)">
                         <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2030">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
                             from-year="2025" to-year="2100">
                             <from-value>0</from-value>
                             <to-value>0</to-value>
@@ -2673,6 +2787,12 @@
                 </subsector>
                 <subsector name="gas">
                     <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2030">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
                         <interpolation-rule apply-to="share-weight"
                             from-year="2025" to-year="2100">
                             <from-value>0</from-value>
@@ -2768,6 +2888,12 @@
                 <subsector name="gas">
                     <technology name="gas (CC)">
                         <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2030">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
                             from-year="2025" to-year="2100">
                             <from-value>0</from-value>
                             <to-value>0</to-value>
@@ -2861,6 +2987,12 @@
                 </subsector>
                 <subsector name="gas">
                     <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2030">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
                         <interpolation-rule apply-to="share-weight"
                             from-year="2025" to-year="2100">
                             <from-value>0</from-value>
@@ -2956,6 +3088,12 @@
                 <subsector name="gas">
                     <technology name="gas (CC)">
                         <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2030">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
                             from-year="2025" to-year="2100">
                             <from-value>0</from-value>
                             <to-value>0</to-value>
@@ -2982,7 +3120,7 @@
                     </technology>
                     <technology name="coal (conv pul)">
                         <interpolation-rule apply-to="share-weight"
-                            from-year="2025" to-year="2100">
+                            from-year="2030" to-year="2100">
                             <from-value>0</from-value>
                             <to-value>0</to-value>
                             <interpolation-function name="fixed"/>
@@ -3049,6 +3187,12 @@
                 </subsector>
                 <subsector name="gas">
                     <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2030">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
                         <interpolation-rule apply-to="share-weight"
                             from-year="2025" to-year="2100">
                             <from-value>0</from-value>
@@ -3144,6 +3288,12 @@
                 <subsector name="gas">
                     <technology name="gas (CC)">
                         <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2030">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
                             from-year="2025" to-year="2100">
                             <from-value>0</from-value>
                             <to-value>0</to-value>
@@ -3237,6 +3387,12 @@
                 </subsector>
                 <subsector name="gas">
                     <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2030">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
                         <interpolation-rule apply-to="share-weight"
                             from-year="2025" to-year="2100">
                             <from-value>0</from-value>
@@ -3332,6 +3488,12 @@
                 <subsector name="gas">
                     <technology name="gas (CC)">
                         <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2030">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
                             from-year="2025" to-year="2100">
                             <from-value>0</from-value>
                             <to-value>0</to-value>
@@ -3425,6 +3587,12 @@
                 </subsector>
                 <subsector name="gas">
                     <technology name="gas (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2030">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
                         <interpolation-rule apply-to="share-weight"
                             from-year="2025" to-year="2100">
                             <from-value>0</from-value>
