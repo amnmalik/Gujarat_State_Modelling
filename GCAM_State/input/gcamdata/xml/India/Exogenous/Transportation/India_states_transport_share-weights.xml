@@ -4015,9 +4015,23 @@
                         </interpolation-rule>
 						<interpolation-rule apply-to="share-weight"
                             from-year="2020" to-year="2100">
-                            <from-value>0.65</from-value>
-                            <to-value>0.51</to-value>
-                            <interpolation-function name="linear"/>
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </tranTechnology>
+                    <tranTechnology name="Liquids">
+						<interpolation-rule apply-to="share-weight"
+                            from-year="2020" to-year="2025">
+                            <from-value>0.1</from-value>
+                            <to-value>0.1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+						<interpolation-rule apply-to="share-weight"
+                            from-year="2025" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
                         </interpolation-rule>
                     </tranTechnology>
                 </tranSubsector>
@@ -4054,10 +4068,10 @@
                             <interpolation-function name="fixed"/>
                         </interpolation-rule>
 						<interpolation-rule apply-to="share-weight"
-                            from-year="2020" to-year="2100">
-                            <from-value>0.48</from-value>
+                            from-year="2025" to-year="2100">
+                            <from-value>1</from-value>
                             <to-value>1</to-value>
-                            <interpolation-function name="linear"/>
+                            <interpolation-function name="fixed"/>
                         </interpolation-rule>
                     </tranTechnology>
   				<tranTechnology name="Liquids">
@@ -4068,9 +4082,15 @@
                             <interpolation-function name="fixed"/>
                         </interpolation-rule>
 						<interpolation-rule apply-to="share-weight"
-                            from-year="2020" to-year="2100">
-                            <from-value>0.798</from-value>
-                            <to-value>0.798</to-value>
+                            from-year="2020" to-year="2025">
+                            <from-value>0.1</from-value>
+                            <to-value>0.1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+						<interpolation-rule apply-to="share-weight"
+                            from-year="2025" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
                             <interpolation-function name="fixed"/>
                         </interpolation-rule>
                     </tranTechnology>
