@@ -4,9 +4,9 @@
       <region name="GJ">
          <ghgpolicy name="CO2">
             <market>GJ</market>
-            <constraint year="2035">94.866</constraint>
-			<constraint year="2040">67.244</constraint>
-            <constraint year="2045">39.622</constraint>
+            <constraint year="2035">89.49</constraint>
+			<constraint year="2040">63.66</constraint>
+            <constraint year="2045">37.83</constraint>
             <constraint year="2050">12</constraint>
             <constraint year="2055">12</constraint>
             <constraint year="2060">12</constraint>
