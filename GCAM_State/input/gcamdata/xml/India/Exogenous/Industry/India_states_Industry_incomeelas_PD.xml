@@ -2006,7 +2006,7 @@
         <region name="GJ">
             <energy-final-demand name="Agriculture">
                 <income-elasticity year="2015">0.3</income-elasticity>
-                <income-elasticity year="2020">0.05</income-elasticity>
+                <income-elasticity year="2020">0.008</income-elasticity>
                 <income-elasticity year="2025">0.71</income-elasticity>
                 <income-elasticity year="2030">0.70</income-elasticity>
                 <income-elasticity year="2035">0.68</income-elasticity>

@@ -2749,13 +2749,13 @@
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <interpolation-rule apply-to="share-weight"
-                        from-year="2015" to-year="2100">
-                        <from-value>0.1</from-value>
-                        <to-value>0.1</to-value>
+                        from-year="2015" to-year="2020">
+                        <from-value>0.001</from-value>
+                        <to-value>0.001</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <interpolation-rule apply-to="share-weight"
-                        from-year="2095" to-year="2100">
+                        from-year="2025" to-year="2100">
                         <from-value>0.1</from-value>
                         <to-value>0.1</to-value>
                         <interpolation-function name="fixed"/>
