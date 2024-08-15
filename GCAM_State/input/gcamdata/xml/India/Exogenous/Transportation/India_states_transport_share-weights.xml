@@ -3936,34 +3936,16 @@
                             <interpolation-function name="fixed"/>
                         </interpolation-rule>
                         <interpolation-rule apply-to="share-weight"
-                            from-year="2020" to-year="2025">
-                            <from-value>0.001</from-value>
-                            <to-value>0.001</to-value>
-                            <interpolation-function name="fixed"/>
-                        </interpolation-rule>
-                        <interpolation-rule apply-to="share-weight"
-                            from-year="2025" to-year="2030">
-                            <from-value>0.04</from-value>
-                            <to-value>0.04</to-value>
-                            <interpolation-function name="fixed"/>
-                        </interpolation-rule>
-                        <interpolation-rule apply-to="share-weight"
-                            from-year="2030" to-year="2050">
-                            <from-value>0.04</from-value>
-                            <to-value>0.3</to-value>
+                            from-year="2020" to-year="2050">
+                            <from-value>0.1</from-value>
+                            <to-value>1</to-value>
                             <interpolation-function name="linear"/>
-                        </interpolation-rule>
-                        <interpolation-rule apply-to="share-weight"
-                            from-year="2045" to-year="2050">
-                            <from-value>0.3</from-value>
-                            <to-value>0.3</to-value>
-                            <interpolation-function name="fixed"/>
                         </interpolation-rule>
                         <interpolation-rule apply-to="share-weight"
                             from-year="2050" to-year="2100">
-                            <from-value>0.3</from-value>
+                            <from-value>1</from-value>
                             <to-value>1</to-value>
-                            <interpolation-function name="linear"/>
+                            <interpolation-function name="fixed"/>
                         </interpolation-rule>
                     </tranTechnology>
                 </tranSubsector>
