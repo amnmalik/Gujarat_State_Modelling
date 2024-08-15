@@ -6502,7 +6502,19 @@
                             <interpolation-function name="linear"/>
                         </interpolation-rule>
                         <interpolation-rule apply-to="share-weight"
-                            from-year="2095" to-year="2100">
+                            from-year="2020" to-year="2050">
+                            <from-value>0.5</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2045" to-year="2050">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2050" to-year="2100">
                             <from-value>1</from-value>
                             <to-value>1</to-value>
                             <interpolation-function name="fixed"/>
