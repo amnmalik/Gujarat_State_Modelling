@@ -2366,15 +2366,15 @@
                     </interpolation-rule>
 					<interpolation-rule apply-to="share-weight"
                         from-year="2015" to-year="2020">
-                        <from-value>0.155</from-value>
-                        <to-value>0.155</to-value>
+                        <from-value>0.56</from-value>
+                        <to-value>0.56</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <interpolation-rule apply-to="share-weight"
                         from-year="2020" to-year="2100">
-                        <from-value>0.155</from-value>
+                        <from-value>0.5</from-value>
                         <to-value>0.5</to-value>
-                        <interpolation-function name="linear"/>
+                        <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <interpolation-rule apply-to="share-weight"
                         from-year="2095" to-year="2100">
@@ -2392,13 +2392,13 @@
                     </interpolation-rule>
 					<interpolation-rule apply-to="share-weight"
                         from-year="2015" to-year="2020">
-                        <from-value>0.65</from-value>
-                        <to-value>0.65</to-value>
+                        <from-value>0.75</from-value>
+                        <to-value>0.75</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <interpolation-rule apply-to="share-weight"
                         from-year="2020" to-year="2100">
-                        <from-value>0.65</from-value>
+                        <from-value>0.75</from-value>
                         <to-value>1.2</to-value>
                         <interpolation-function name="linear"/>
                     </interpolation-rule>
@@ -2412,13 +2412,13 @@
 						</interpolation-rule>
                     <interpolation-rule apply-to="share-weight"
                         from-year="2015" to-year="2020">
-                        <from-value>0.02</from-value>
-                        <to-value>0.02</to-value>
+                        <from-value>0.025</from-value>
+                        <to-value>0.025</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
 					<interpolation-rule apply-to="share-weight"
                         from-year="2020" to-year="2100">
-                        <from-value>0.2</from-value>
+                        <from-value>0.025</from-value>
                         <to-value>0.02</to-value>
                         <interpolation-function name="linear"/>
                     </interpolation-rule>
@@ -2432,13 +2432,13 @@
 						</interpolation-rule>
 					<interpolation-rule apply-to="share-weight"
                         from-year="2015" to-year="2020">
-                        <from-value>0.975</from-value>
-                        <to-value>0.975</to-value>
+                        <from-value>0.37</from-value>
+                        <to-value>0.37</to-value>
                         <interpolation-function name="fixed"/>
 						</interpolation-rule>
                     <interpolation-rule apply-to="share-weight"
                         from-year="2020" to-year="2100">
-                        <from-value>0.975</from-value>
+                        <from-value>0.38</from-value>
                         <to-value>1</to-value>                        
 						<interpolation-function name="linear"/>
                     </interpolation-rule>
@@ -2452,13 +2452,13 @@
 						</interpolation-rule>
                     <interpolation-rule apply-to="share-weight"
                         from-year="2015" to-year="2020">
-                        <from-value>0.36</from-value>
-                        <to-value>0.36</to-value>
+                        <from-value>0.22</from-value>
+                        <to-value>0.22</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
 					<interpolation-rule apply-to="share-weight"
                         from-year="2020" to-year="2100">
-                        <from-value>0.36</from-value>
+                        <from-value>0.26</from-value>
                         <to-value>0.22</to-value>
                         <interpolation-function name="linear"/>
                     </interpolation-rule>
