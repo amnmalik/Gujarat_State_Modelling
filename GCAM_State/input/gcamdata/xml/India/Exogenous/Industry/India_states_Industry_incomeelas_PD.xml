@@ -2046,7 +2046,7 @@
             </energy-final-demand>
             <energy-final-demand name="Chem_Fert">
                 <income-elasticity year="2015">0.75</income-elasticity>
-                <income-elasticity year="2020">0.04</income-elasticity>
+                <income-elasticity year="2020">0.01</income-elasticity>
               <income-elasticity year="2025">0.71</income-elasticity>
                 <income-elasticity year="2030">0.70</income-elasticity>
                 <income-elasticity year="2035">0.68</income-elasticity>
@@ -2126,7 +2126,7 @@
             </energy-final-demand>
             <energy-final-demand name="Other Industries">
                 <income-elasticity year="2015">1.14</income-elasticity>
-                <income-elasticity year="2020">1.14</income-elasticity>
+                <income-elasticity year="2020">0.78</income-elasticity>
                  <income-elasticity year="2025">0.71</income-elasticity>
                 <income-elasticity year="2030">0.70</income-elasticity>
                 <income-elasticity year="2035">0.68</income-elasticity>
