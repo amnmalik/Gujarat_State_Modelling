@@ -6,10 +6,10 @@
 # Column types: ccciinin
 # ----------
 supplysector,subsector,technology,lifetime,half_life_stock,steepness_stock,half_life_new,steepness_new
-resid rural cooling,electricity,air conditioner (hi-eff),10,7,0.2598,7,0.2598
-resid rural cooling,electricity,air conditioner (lo-eff),10,7,0.2598,7,0.2598
-resid urban cooling,electricity,air conditioner (hi-eff),10,7,0.2598,7,0.2598
-resid urban cooling,electricity,air conditioner (lo-eff),10,7,0.2598,7,0.2598
+resid rural cooling,electricity,air conditioner (hi-eff),15,7,0.2598,10,0.2598
+resid rural cooling,electricity,air conditioner (lo-eff),15,7,0.2598,10,0.2598
+resid urban cooling,electricity,air conditioner (hi-eff),15,7,0.2598,10,0.2598
+resid urban cooling,electricity,air conditioner (lo-eff),15,7,0.2598,10,0.2598
 resid rural coolers,electricity,desert coolers,10,7,0.162,7,0.162
 resid urban coolers,electricity,desert coolers,10,7,0.162,7,0.162
 resid rural lighting,electricity,hi-eff,7,3,0.162,3,0.162
