@@ -96,11 +96,16 @@
               
 		<!--Value name = "ind_india">../input/gcamdata/xml/India/industry_india.xml</Value-->
 		<Value name = "ind_india">../input/gcamdata/xml/India/cement_India.xml</Value>
-		<Value name = "ind_india_HE">../input/gcamdata/xml/India/cement_India_HE.xml</Value>
+
+<!--Net Zero XML for Cement-->
+		<!--Value name = "ind_india_HE">../input/gcamdata/xml/India/cement_India_HE.xml</Value-->
 
 		<!--Value name = "bld">../input/gcamdata/xml/India/building_india_NewPD.xml</Value-->
 		<Value name = "bld">../input/gcamdata/xml/India/building_india.xml</Value>
-		
+
+<!--Net Zero XML for LIFE-->
+		<!--Value name = "bld">../input/gcamdata/xml/India/building_india_LIFE.xml</Value-->
+
         <!--Value name = "trn_India">../input/gcamdata/xml/India/RJNZ2070/HH/transportation_India.xml</Value-->
         <Value name = "trn_India">../input/gcamdata/xml/India/transportation_India.xml</Value>		
 
@@ -114,6 +119,10 @@
 		<Value name = "ind_india">../input/gcamdata/xml/India/industry_india.xml</Value>
         <Value name = "Indus_FuelAdders">../input/gcamdata/xml/India/Exogenous/Industry/India_states_Fuel_adders.xml</Value>
         <Value name = "Indus_incomeelas">../input/gcamdata/xml/India/Exogenous/Industry/India_states_Industry_incomeelas_PD.xml</Value>
+
+<!--Net Zero XML for LIFE-->
+		<!--Value name = "Indus_incomeelas">../input/gcamdata/xml/India/Exogenous/Industry/India_states_Industry_incomeelas_PD_LIFE.xml</Value-->
+
         <Value name = "Indus_fs_stubtech_coeff">../input/gcamdata/xml/India/Exogenous/Industry/India_states_FS_Stubtech_Coeff.xml</Value>
 		<Value name = "Indus_shareweights">../input/gcamdata/xml/India/Exogenous/Industry/India_states_industry_share-weights.xml</Value>
 		<!--Value name = "Indus_shareweights_BAU">../input/gcamdata/xml/India/Exogenous/Industry/India_states_industry_share-weights_BAUforRJ.xml</Value-->
@@ -124,7 +133,11 @@
 		<!--Value name = "Indus_shareweights">../input/gcamdata/xml/India/Exogenous/Industry/India_states_Enuse_FSuse_Coeff.xml</Value-->
 
 		<Value name = "Trn_fueladders">../input/gcamdata/xml/India/Exogenous/Transportation/India_states_trn_Fuel_adders.xml</Value>
-		<Value name = "Trn_incomeelas">../input/gcamdata/xml/India/Exogenous/Transportation/India_states_transport_subsector_share-weights_GJ.xml</Value>       
+		<Value name = "Trn_incomeelas">../input/gcamdata/xml/India/Exogenous/Transportation/India_states_transport_subsector_share-weights_GJ.xml</Value> 
+
+<!--Net Zero XML for LIFE-->      
+		<!--Value name = "Trn_incomeelas">../input/gcamdata/xml/India/Exogenous/Transportation/India_states_transport_subsector_share-weights_GJ_LIFE.xml</Value--> 
+
 		<Value name = "Trn_shareweights">../input/gcamdata/xml/India/Exogenous/Transportation/India_states_transport_share-weights.xml</Value>
         <Value name = "Trn_incomeelas">../input/gcamdata/xml/India/Exogenous/Transportation/India_states_transport_incomeelas.xml</Value>
         
@@ -187,26 +200,26 @@
 		<!--Value name = "Exo Flrspc">../input/gcamdata/xml/India/Exogenous/Building/Bld_exo_flrspc.xml</Value-->
 
 <!--Net-Zero Policies for GJ-->
-		<Value name = "No Fossils Policy">../input/gcamdata/xml/India/India_state_level_tech_shrwt_NoNewFossils_GJ.xml</Value>
-		<Value name = "ind_india_HE">../input/gcamdata/xml/India/Exogenous/Industry/industry_india_HE.xml</Value>
+		<!--Value name = "No Fossils Policy">../input/gcamdata/xml/India/India_state_level_tech_shrwt_NoNewFossils_GJ.xml</Value-->
+		<!--Value name = "ind_india_HE">../input/gcamdata/xml/India/Exogenous/Industry/industry_india_HE.xml</Value-->
 		<!--Value name = "ind_india_ME">../input/gcamdata/xml/India/Exogenous/Industry/industry_india_ME.xml</Value-->
 		<!--Value name = "ind_india_HE">../input/gcamdata/xml/India/cement_India_HE.xml</Value-->
 
 <!--Net-zero constraints for GJ-->
 		<!--Value name = "GHG_market_constraints_2035_2060_GJ">../input/gcamdata/xml/India/GJNZ/GHG_market_constraints_2030_2050_GJ.xml</Value-->		
-  		<Value name = "India All States Curved without Land Use ">../input/gcamdata/xml/India/GJNZ/GHG_market_constraints_2040_2070_state_AllIndia_Curved_withoutland.xml</Value>
+  		<!--Value name = "India All States Curved without Land Use ">../input/gcamdata/xml/India/GJNZ/GHG_market_constraints_2040_2070_state_AllIndia_Curved_withoutland.xml</Value-->
 		<!--Value name = "India All States Curved without Land Use except GJ">../input/gcamdata/xml/India/GJNZ/GHG_market_constraints_2040_2070_state_AllIndia_except_GJ_Curved_withoutland.xml</Value-->
-        <Value name = "India Land Use -85">../input/gcamdata/xml/India/GJNZ/GHG_market_constraints_India_Landusesystem85.xml</Value>
-        <Value name = "ROW">../input/gcamdata/xml/India/GJNZ/GHG_market_constraints_2040_2080_row_Puneet.xml</Value>
+        <!--Value name = "India Land Use -85">../input/gcamdata/xml/India/GJNZ/GHG_market_constraints_India_Landusesystem85.xml</Value-->
+        <!--Value name = "ROW">../input/gcamdata/xml/India/GJNZ/GHG_market_constraints_2040_2080_row_Puneet.xml</Value-->
 
 		<!--Value name = "GHG_market_constraints_2040_2070_GJ">../input/gcamdata/xml/India/GJNZ/GHG_market_constraints_2040_2070_GJ.xml</Value-->		
- q
+ 
 		<Value name = "solver">../input/solution/cal_broyden_config.xml</Value>
 
 
 	</ScenarioComponents>
 	<Strings>
-		<Value name="scenarioName">Trn_incelas_NZ70</Value>
+		<Value name="scenarioName">Reference_LIFE</Value>
 		<Value name="debug-region">GJ</Value>
 		<Value name="MAGICC-input-dir">../input/magicc/inputs</Value>
 		<Value name="MAGICC-output-dir">../output</Value>
