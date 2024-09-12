@@ -146,56 +146,56 @@
                     </interpolation-rule>
 				<interpolation-rule apply-to="share-weight"
                         from-year="2025" to-year="2030">
-                        <from-value>0.0035</from-value>
-                        <to-value>0.0035</to-value>
-                        <interpolation-function name="fixed"/>
-                    </interpolation-rule>
-				<interpolation-rule apply-to="share-weight"
-                        from-year="2030" to-year="2035">
                         <from-value>0.004</from-value>
                         <to-value>0.004</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
+				<interpolation-rule apply-to="share-weight"
+                        from-year="2030" to-year="2035">
+                        <from-value>0.0045</from-value>
+                        <to-value>0.0045</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
 			<interpolation-rule apply-to="share-weight"
                         from-year="2035" to-year="2040">
-                        <from-value>0.006</from-value>
-                        <to-value>0.006</to-value>
+                        <from-value>0.007</from-value>
+                        <to-value>0.007</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
 			<interpolation-rule apply-to="share-weight"
                         from-year="2040" to-year="2045">
-                        <from-value>0.01</from-value>
-                        <to-value>0.01</to-value>
+                        <from-value>0.012</from-value>
+                        <to-value>0.012</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
 				<interpolation-rule apply-to="share-weight"
                         from-year="2045" to-year="2050">
-                        <from-value>0.022</from-value>
-                        <to-value>0.022</to-value>
+                        <from-value>0.025</from-value>
+                        <to-value>0.025</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
 				<interpolation-rule apply-to="share-weight"
                         from-year="2050" to-year="2055">
-                        <from-value>0.04</from-value>
-                        <to-value>0.04</to-value>
-                        <interpolation-function name="fixed"/>
-                    </interpolation-rule>
-				<interpolation-rule apply-to="share-weight"
-                        from-year="2055" to-year="2060">
-                        <from-value>0.0405</from-value>
-                        <to-value>0.0405</to-value>
-                        <interpolation-function name="fixed"/>
-                    </interpolation-rule>
-				<interpolation-rule apply-to="share-weight"
-                        from-year="2060" to-year="2065">
                         <from-value>0.045</from-value>
                         <to-value>0.045</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
+				<interpolation-rule apply-to="share-weight"
+                        from-year="2055" to-year="2060">
+                        <from-value>0.07</from-value>
+                        <to-value>0.07</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+				<interpolation-rule apply-to="share-weight"
+                        from-year="2060" to-year="2065">
+                        <from-value>0.09</from-value>
+                        <to-value>0.09</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
 			<interpolation-rule apply-to="share-weight"
                         from-year="2065" to-year="2070">
-                        <from-value>0.05</from-value>
-                        <to-value>0.05</to-value>
+                        <from-value>0.1</from-value>
+                        <to-value>0.1</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                 </tranSubsector>
