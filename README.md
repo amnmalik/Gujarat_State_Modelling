@@ -1,2 +1,1 @@
-# Gujarat_State_Modelling
- Gujarat_State_Modelling
+Version controlled model for GJ NZ project.
